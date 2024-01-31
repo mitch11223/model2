@@ -1,0 +1,21 @@
+Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300134,Franz Wagner,Forward,1630532,Alex Fudge,Forward,1641788,0.23,1.2,2,8.7,1.67,2,8.7,1.67,0,0,0,0,1,1,1.0,0,0,208.28,220.0,203.2,200.0,5.08,20.0,33.0,1.2
+0022300134,Paolo Banchero,Forward,1631094,Alex Fudge,Forward,1641788,0.03,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,250.0,203.2,200.0,5.08,50.0,34.85,
+0022300134,Caleb Houstan,Guard,1631216,Alex Fudge,Forward,1641788,0.05,0.1,0,0.0,0.0,2,40.0,20.0,0,0,0,0,0,0,0.0,0,0,203.2,205.0,203.2,200.0,0.0,5.0,15.64,
+0022300134,Chuma Okeke,Forward,1629643,Alex Fudge,Forward,1641788,1.1,4.0,0,0.0,0.0,3,2.73,0.75,0,1,0,0,0,1,0.0,0,0,200.66,229.0,203.2,200.0,-2.54,29.0,12.66,4.0
+0022300134,Admiral Schofield,Forward,1629678,Alex Fudge,Forward,1641788,0.22,0.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,241.0,203.2,200.0,-7.62,41.0,3.83,
+0022300255,Paul Reed,Forward,1630194,Alex Fudge,Forward,1641788,0.87,4.0,0,0.0,0.0,7,8.05,1.75,0,0,0,0,0,0,0.0,0,0,205.74,210.0,203.2,200.0,2.54,10.0,16.22,
+0022300255,Mo Bamba,Center,1628964,Alex Fudge,Forward,1641788,0.15,0.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,213.36,231.0,203.2,200.0,10.16,31.0,9.32,
+0022300255,Furkan Korkmaz,Guard-Forward,1627788,Alex Fudge,Forward,1641788,0.18,1.4,0,0.0,0.0,2,11.11,1.43,1,0,0,0,0,0,0.0,0,0,200.66,202.0,203.2,200.0,-2.54,2.0,7.2,
+0022300255,KJ Martin,Forward,1630231,Alex Fudge,Forward,1641788,0.03,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,215.0,203.2,200.0,-5.08,15.0,8.52,
+0022300258,Marcus Sasser,Guard,1631204,Alex Fudge,Forward,1641788,0.17,1.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,1,0.0,0,0,187.96,195.0,203.2,200.0,-15.24,-5.0,15.49,1.3
+0022300258,James Wiseman,Center,1630164,Alex Fudge,Forward,1641788,0.12,1.5,2,16.67,1.33,2,16.67,1.33,0,0,0,0,1,1,1.0,0,0,210.82,240.0,203.2,200.0,7.62,40.0,14.59,1.5
+0022300258,Killian Hayes,Guard,1630165,Alex Fudge,Forward,1641788,0.15,1.0,0,0.0,0.0,0,0.0,0.0,0,1,0,0,0,1,0.0,0,0,195.58,195.0,203.2,200.0,-7.62,-5.0,23.9,1.0
+0022300258,Stanley Umude,Guard,1630649,Alex Fudge,Forward,1641788,0.13,1.4,3,23.08,2.14,3,23.08,2.14,0,1,1,0,1,1,1.0,0,0,198.12,210.0,203.2,200.0,-5.08,10.0,10.27,1.4
+0022300258,Kevin Knox II,Forward,1628995,Alex Fudge,Forward,1641788,0.52,3.8,3,5.77,0.79,5,9.62,1.32,0,1,1,0,1,1,1.0,0,0,200.66,215.0,203.2,200.0,-2.54,15.0,18.21,3.8
+0022300271,Jalen Williams,Guard-Forward,1631114,Alex Fudge,Forward,1641788,0.23,0.8,2,8.7,2.5,2,8.7,2.5,0,0,0,0,1,1,1.0,0,0,195.58,211.0,203.2,200.0,-7.62,11.0,31.98,0.8
+0022300271,Josh Giddey,Guard,1630581,Alex Fudge,Forward,1641788,0.1,0.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,216.0,203.2,200.0,0.0,16.0,24.76,
+0022300271,Jaylin Williams,Forward,1631119,Alex Fudge,Forward,1641788,1.0,4.0,3,3.0,0.75,5,5.0,1.25,0,1,1,0,1,1,1.0,0,0,205.74,240.0,203.2,200.0,2.54,40.0,11.97,4.0
+0022300271,Lindy Waters III,Forward,1630322,Alex Fudge,Forward,1641788,0.28,1.2,3,10.71,2.5,3,10.71,2.5,0,1,1,0,1,1,1.0,0,0,198.12,210.0,203.2,200.0,-5.08,10.0,7.41,1.2
+0022300271,Aleksej Pokusevski,Forward,1630197,Alex Fudge,Forward,1641788,0.08,0.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,213.36,210.0,203.2,200.0,10.16,10.0,6.12,
+0022300271,Tre Mann,Guard,1630544,Alex Fudge,Forward,1641788,0.1,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,190.5,178.0,203.2,200.0,-12.7,-22.0,9.23,

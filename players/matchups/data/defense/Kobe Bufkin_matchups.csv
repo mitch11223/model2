@@ -1,0 +1,6 @@
+Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300097,Andre Jackson Jr,Guard,1641748,Kobe Bufkin,Guard,1641723,0.05,0.4,0,0.0,0.0,0,0.0,0.0,1,0,0,0,0,0,0.0,0,0,198.12,209.0,195.58,195.0,2.54,14.0,11.59,
+0022300097,Thanasis Antetokounmpo,Forward,203648,Kobe Bufkin,Guard,1641723,0.07,0.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,219.0,195.58,195.0,5.08,24.0,4.05,
+0022300097,Robin Lopez,Center,201577,Kobe Bufkin,Guard,1641723,0.08,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,215.9,281.0,195.58,195.0,20.32,86.0,2.85,
+0022300097,TyTy Washington Jr,Guard,1631102,Kobe Bufkin,Guard,1641723,0.9,5.9,3,3.33,0.51,10,11.11,1.69,0,1,1,0,1,2,0.5,0,0,190.5,195.0,195.58,195.0,-5.08,0.0,2.5,2.95
+0022300104,Jordan McLaughlin,Guard,1629162,Kobe Bufkin,Guard,1641723,0.42,3.0,0,0.0,0.0,2,4.76,0.67,0,0,0,0,0,0,0.0,0,0,182.88,185.0,195.58,195.0,-12.7,-10.0,9.04,

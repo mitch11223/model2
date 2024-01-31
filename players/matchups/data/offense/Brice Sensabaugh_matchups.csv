@@ -1,0 +1,23 @@
+Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300072,Brice Sensabaugh,Forward,1641729,Harrison Barnes,Forward,203084,0.08,0.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,235.0,203.2,225.0,-7.62,10.0,29.59,
+0022300072,Brice Sensabaugh,Forward,1641729,Kessler Edwards,Forward,1630556,0.07,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,235.0,200.66,203.0,-5.08,32.0,4.77,
+0022300072,Brice Sensabaugh,Forward,1641729,Jordan Ford,Guard,1630259,0.05,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,235.0,185.42,175.0,10.16,60.0,3.33,
+0022300072,Brice Sensabaugh,Forward,1641729,De'Aaron Fox,Guard,1628368,0.2,1.3,0,0.0,0.0,3,15.0,2.31,0,0,0,0,0,0,0.0,0,0,195.58,235.0,190.5,185.0,5.08,50.0,35.63,
+0022300072,Brice Sensabaugh,Forward,1641729,Kevin Huerter,Guard-Forward,1628989,0.07,0.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,235.0,200.66,198.0,-5.08,37.0,24.31,
+0022300072,Brice Sensabaugh,Forward,1641729,Colby Jones,Guard,1641732,0.32,1.7,0,0.0,0.0,2,6.25,1.18,0,0,0,0,0,1,0.0,0,0,195.58,235.0,198.12,207.0,-2.54,28.0,7.27,1.7
+0022300072,Brice Sensabaugh,Forward,1641729,Alex Len,Center,203458,0.08,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,1,0.0,0,0,195.58,235.0,213.36,250.0,-17.78,-15.0,8.82,0.4
+0022300072,Brice Sensabaugh,Forward,1641729,Keegan Murray,Forward,1631099,0.02,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,235.0,203.2,225.0,-7.62,10.0,33.08,
+0022300412,Brice Sensabaugh,Forward,1641729,Malaki Branham,Forward,1631103,1.0,3.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,235.0,193.04,180.0,2.54,55.0,20.9,
+0022300412,Brice Sensabaugh,Forward,1641729,Julian Champagnie,Forward,1630577,0.03,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,235.0,200.66,217.0,-5.08,18.0,15.82,
+0022300412,Brice Sensabaugh,Forward,1641729,Sandro Mamukelashvili,Forward-Center,1630572,0.12,0.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,235.0,205.74,240.0,-10.16,-5.0,6.92,
+0022300412,Brice Sensabaugh,Forward,1641729,Blake Wesley,Guard,1631104,0.07,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,235.0,190.5,185.0,5.08,50.0,11.72,
+0022300524,Brice Sensabaugh,Forward,1641729,Collin Gillespie,Guard,1631221,0.35,2.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,235.0,185.42,195.0,10.16,40.0,7.0,
+0022300524,Brice Sensabaugh,Forward,1641729,Justin Holiday,Forward-Guard,203200,1.1,5.3,0,0.0,0.0,3,2.73,0.57,0,0,0,0,0,0,0.0,0,0,195.58,235.0,198.12,180.0,-2.54,55.0,12.96,
+0022300524,Brice Sensabaugh,Forward,1641729,Jay Huff,Center,1630643,0.02,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,235.0,215.9,240.0,-20.32,-5.0,2.83,
+0022300524,Brice Sensabaugh,Forward,1641729,Braxton Key,Forward,1630296,0.02,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,235.0,203.2,225.0,-7.62,10.0,3.38,
+0022300524,Brice Sensabaugh,Forward,1641729,Zeke Nnaji,Forward-Center,1630192,0.1,0.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,235.0,205.74,240.0,-10.16,-5.0,9.39,
+0022300540,Brice Sensabaugh,Forward,1641729,Chris Boucher,Forward,1628449,0.1,0.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,235.0,205.74,200.0,-10.16,35.0,14.21,
+0022300540,Brice Sensabaugh,Forward,1641729,Gradey Dick,Guard-Forward,1641711,0.4,3.8,0,0.0,0.0,6,15.0,1.58,1,0,0,0,0,0,0.0,0,0,195.58,235.0,198.12,200.0,-2.54,35.0,13.44,
+0022300540,Brice Sensabaugh,Forward,1641729,Jalen McDaniels,Forward,1629667,0.15,0.9,0,0.0,0.0,3,20.0,3.33,1,0,0,0,0,0,0.0,0,0,195.58,235.0,205.74,190.0,-10.16,45.0,8.82,
+0022300540,Brice Sensabaugh,Forward,1641729,Jontay Porter,Center-Forward,1629007,0.08,0.4,3,37.5,7.5,3,37.5,7.5,0,2,1,0,1,2,0.5,0,0,195.58,235.0,208.28,240.0,-12.7,-5.0,14.92,0.2
+0022300540,Brice Sensabaugh,Forward,1641729,Garrett Temple,Guard-Forward,202066,0.55,3.6,2,3.64,0.56,8,14.55,2.22,1,0,0,0,1,2,0.5,0,0,195.58,235.0,195.58,195.0,0.0,40.0,4.0,1.8

@@ -1,0 +1,10 @@
+Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300195,Markquis Nowell,Guard,1641806,Thanasis Antetokounmpo,Forward,203648,0.03,0.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,170.18,160.0,200.66,219.0,-30.48,-59.0,4.05,
+0022300195,Markquis Nowell,Guard,1641806,Malik Beasley,Guard,1627736,0.35,1.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,170.18,160.0,193.04,187.0,-22.86,-27.0,29.39,
+0022300195,Markquis Nowell,Guard,1641806,AJ Green,Guard,1631260,0.12,0.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,170.18,160.0,193.04,190.0,-22.86,-30.0,7.5,
+0022300195,Markquis Nowell,Guard,1641806,Brook Lopez,Center,201572,0.1,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,1,0.0,0,0,170.18,160.0,215.9,282.0,-45.72,-122.0,31.76,0.2
+0022300195,Markquis Nowell,Guard,1641806,Robin Lopez,Center,201577,0.08,1.6,0,0.0,0.0,5,62.5,3.12,1,0,0,0,0,0,0.0,0,0,170.18,160.0,215.9,281.0,-45.72,-121.0,2.85,
+0022300195,Markquis Nowell,Guard,1641806,Cameron Payne,Guard,1626166,0.13,0.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,170.18,160.0,190.5,183.0,-20.32,-23.0,15.19,
+0022300195,Markquis Nowell,Guard,1641806,Bobby Portis,Forward,1626171,0.02,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,170.18,160.0,208.28,250.0,-38.1,-90.0,23.37,
+0022300195,Markquis Nowell,Guard,1641806,TyTy Washington Jr,Guard,1631102,0.2,2.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,170.18,160.0,190.5,195.0,-20.32,-35.0,2.5,
+0022300195,Markquis Nowell,Guard,1641806,Lindell Wigginton,Guard,1629623,0.2,0.6,2,10.0,3.33,2,10.0,3.33,0,0,0,2,0,0,0.0,2,1,170.18,160.0,185.42,189.0,-15.24,-29.0,2.33,

@@ -1,0 +1,39 @@
+Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300028,DaQuan Jeffries,Guard-Forward,1629610,Bilal Coulibaly,Guard,1641731,0.73,2.4,0,0.0,0.0,3,4.11,1.25,0,0,0,0,0,0,0.0,0,0,195.58,222.0,203.2,195.0,-7.62,27.0,26.41,
+0022300028,DaQuan Jeffries,Guard-Forward,1629610,Johnny Davis,Guard,1631098,0.02,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,222.0,193.04,195.0,2.54,27.0,7.45,
+0022300028,DaQuan Jeffries,Guard-Forward,1629610,Eugene Omoruyi,Forward,1630647,0.27,1.4,0,0.0,0.0,3,11.11,2.14,0,0,0,0,0,0,0.0,0,0,195.58,222.0,198.12,235.0,-2.54,-13.0,5.79,
+0022300057,DaQuan Jeffries,Guard-Forward,1629610,Leaky Black,Forward,1641778,0.27,1.4,0,0.0,0.0,3,11.11,2.14,0,0,0,0,0,0,0.0,0,0,195.58,222.0,198.12,209.0,-2.54,13.0,5.8,
+0022300057,DaQuan Jeffries,Guard-Forward,1629610,James Bouknight,Guard,1630547,0.03,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,222.0,193.04,190.0,2.54,32.0,6.45,
+0022300057,DaQuan Jeffries,Guard-Forward,1629610,Theo Maledon,Guard,1630177,0.03,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,222.0,193.04,175.0,2.54,47.0,15.46,
+0022300090,DaQuan Jeffries,Guard-Forward,1629610,Kira Lewis Jr,Guard,1630184,0.15,0.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,222.0,185.42,170.0,10.16,52.0,9.06,
+0022300090,DaQuan Jeffries,Guard-Forward,1629610,EJ Liddell,Forward,1630604,0.43,3.2,3,6.98,0.94,3,6.98,0.94,0,1,1,0,1,1,1.0,0,0,195.58,222.0,198.12,240.0,-2.54,-18.0,2.88,3.2
+0022300090,DaQuan Jeffries,Guard-Forward,1629610,Matt Ryan,Forward,1630346,0.35,3.0,0,0.0,0.0,3,8.57,1.0,0,0,0,0,0,0,0.0,0,0,195.58,222.0,198.12,215.0,-2.54,7.0,23.0,
+0022300090,DaQuan Jeffries,Guard-Forward,1629610,Cody Zeller,Forward-Center,203469,0.05,0.7,2,40.0,2.86,2,40.0,2.86,0,0,0,0,1,1,1.0,0,0,195.58,222.0,210.82,240.0,-15.24,-18.0,8.27,0.7
+0022300112,DaQuan Jeffries,Guard-Forward,1629610,Emoni Bates,Forward,1641734,0.47,2.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,222.0,203.2,170.0,-7.62,52.0,7.8,
+0022300112,DaQuan Jeffries,Guard-Forward,1629610,Damian Jones,Center,1627745,0.85,3.4,0,0.0,0.0,0,0.0,0.0,0,1,0,0,0,1,0.0,0,0,195.58,222.0,208.28,245.0,-12.7,-23.0,6.3,3.4
+0022300112,DaQuan Jeffries,Guard-Forward,1629610,Sam Merrill,Guard,1630241,0.22,0.5,0,0.0,0.0,3,13.64,6.0,0,0,0,0,0,0,0.0,0,0,195.58,222.0,193.04,205.0,2.54,17.0,16.68,
+0022300112,DaQuan Jeffries,Guard-Forward,1629610,Craig Porter Jr,Guard,1641854,0.08,0.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,222.0,185.42,180.0,10.16,42.0,16.0,
+0022300161,DaQuan Jeffries,Guard-Forward,1629610,Dominick Barlow,Forward,1631230,0.23,0.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,222.0,205.74,215.0,-10.16,7.0,13.15,
+0022300161,DaQuan Jeffries,Guard-Forward,1629610,Charles Bassey,Center-Forward,1629646,0.07,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,222.0,208.28,230.0,-12.7,-8.0,10.68,
+0022300161,DaQuan Jeffries,Guard-Forward,1629610,Sandro Mamukelashvili,Forward-Center,1630572,0.42,1.9,0,0.0,0.0,0,0.0,0.0,0,1,0,0,0,1,0.0,0,0,195.58,222.0,205.74,240.0,-10.16,-18.0,6.92,1.9
+0022300177,DaQuan Jeffries,Guard-Forward,1629610,Leaky Black,Forward,1641778,0.9,4.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,222.0,198.12,209.0,-2.54,13.0,5.8,
+0022300177,DaQuan Jeffries,Guard-Forward,1629610,Nick Richards,Center,1630208,0.07,0.3,2,28.57,6.67,2,28.57,6.67,0,0,0,0,1,1,1.0,0,0,195.58,222.0,213.36,245.0,-17.78,-23.0,24.8,0.3
+0022300177,DaQuan Jeffries,Guard-Forward,1629610,Nick Smith Jr,Guard,1641733,0.35,2.0,0,0.0,0.0,3,8.57,1.5,1,0,0,0,0,0,0.0,0,0,195.58,222.0,187.96,185.0,7.62,37.0,15.24,
+0022300221,DaQuan Jeffries,Guard-Forward,1629610,Nickeil Alexander-Walker,Guard,1629638,0.12,1.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,222.0,195.58,205.0,0.0,17.0,22.8,
+0022300221,DaQuan Jeffries,Guard-Forward,1629610,Kyle Anderson,Forward-Guard,203937,0.17,1.1,0,0.0,0.0,2,11.76,1.82,0,0,0,0,0,1,0.0,0,0,195.58,222.0,205.74,230.0,-10.16,-8.0,22.37,1.1
+0022300221,DaQuan Jeffries,Guard-Forward,1629610,Troy Brown Jr,Guard-Forward,1628972,0.05,0.2,0,0.0,0.0,0,0.0,0.0,0,1,0,0,0,1,0.0,0,0,195.58,222.0,200.66,215.0,-5.08,7.0,11.56,0.2
+0022300221,DaQuan Jeffries,Guard-Forward,1629610,Anthony Edwards,Guard,1630162,0.05,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,222.0,193.04,225.0,2.54,-3.0,34.93,
+0022300221,DaQuan Jeffries,Guard-Forward,1629610,Josh Minott,Forward,1631169,0.35,2.0,0,0.0,0.0,0,0.0,0.0,0,0,0,2,0,1,0.0,0,0,195.58,222.0,203.2,205.0,-7.62,17.0,3.2,2.0
+0022300221,DaQuan Jeffries,Guard-Forward,1629610,Naz Reid,Center-Forward,1629675,0.03,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,222.0,205.74,264.0,-10.16,-42.0,22.37,
+0022300333,DaQuan Jeffries,Guard-Forward,1629610,Keita Bates-Diop,Forward,1628966,0.38,2.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,222.0,203.2,229.0,-7.62,-7.0,16.0,
+0022300333,DaQuan Jeffries,Guard-Forward,1629610,Yuta Watanabe,Guard-Forward,1629139,0.13,0.7,0,0.0,0.0,3,23.08,4.29,0,0,0,0,0,0,0.0,0,0,195.58,222.0,205.74,215.0,-10.16,7.0,14.38,
+0022300343,DaQuan Jeffries,Guard-Forward,1629610,Brandon Boston Jr,Guard,1630527,0.17,1.1,0,0.0,0.0,0,0.0,0.0,1,1,0,0,0,1,0.0,0,0,195.58,222.0,198.12,188.0,-2.54,34.0,7.0,1.1
+0022300343,DaQuan Jeffries,Guard-Forward,1629610,Kobe Brown,Forward,1641738,0.12,0.6,0,0.0,0.0,4,33.33,6.67,0,0,0,0,0,0,0.0,0,0,195.58,222.0,200.66,250.0,-5.08,-28.0,9.59,
+0022300343,DaQuan Jeffries,Guard-Forward,1629610,James Harden,Guard,201935,0.22,0.8,0,0.0,0.0,3,13.64,3.75,0,0,0,0,0,0,0.0,0,0,195.58,222.0,195.58,220.0,0.0,2.0,34.05,
+0022300343,DaQuan Jeffries,Guard-Forward,1629610,Jordan Miller,Guard,1641757,0.62,6.2,0,0.0,0.0,7,11.29,1.13,0,1,0,0,0,1,0.0,0,0,195.58,222.0,195.58,194.0,0.0,28.0,4.0,6.2
+0022300343,DaQuan Jeffries,Guard-Forward,1629610,Norman Powell,Guard,1626181,0.37,2.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,222.0,193.04,215.0,2.54,7.0,25.32,
+0022300343,DaQuan Jeffries,Guard-Forward,1629610,Joshua Primo,Guard,1630563,0.57,3.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,222.0,193.04,189.0,2.54,33.0,5.0,
+0022300368,DaQuan Jeffries,Guard-Forward,1629610,Harry Giles III,Forward-Center,1628385,1.0,4.8,2,2.0,0.42,2,2.0,0.42,0,0,0,0,1,2,0.5,0,0,195.58,222.0,208.28,240.0,-12.7,-18.0,5.15,2.4
+0022300368,DaQuan Jeffries,Guard-Forward,1629610,Royce O'Neale,Forward,1626220,0.18,0.9,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,1,0.0,0,0,195.58,222.0,198.12,226.0,-2.54,-4.0,24.48,0.9
+0022300368,DaQuan Jeffries,Guard-Forward,1629610,Day'Ron Sharpe,Center,1630549,0.05,0.2,2,40.0,10.0,2,40.0,10.0,0,0,0,0,1,1,1.0,0,0,195.58,222.0,205.74,265.0,-10.16,-43.0,16.03,0.2
+0022300368,DaQuan Jeffries,Guard-Forward,1629610,Trendon Watford,Forward,1630570,0.18,0.7,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,222.0,203.2,237.0,-7.62,-15.0,12.19,

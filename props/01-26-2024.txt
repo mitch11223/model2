@@ -1,0 +1,3357 @@
+[
+    {
+        "market_key": "player_points_over_under",
+        "outcomes": [
+            {
+                "timestamp": "2024-01-26T13:12:02",
+                "handicap": 10.5,
+                "odds": -175,
+                "participant": 16143,
+                "participant_name": "Clint Capela",
+                "name": "Over - Clint Capela",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T16:48:09",
+                "handicap": 12.5,
+                "odds": 100,
+                "participant": 16143,
+                "participant_name": "Clint Capela",
+                "name": "Over - Clint Capela",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 13.5,
+                "odds": 135,
+                "participant": 16143,
+                "participant_name": "Clint Capela",
+                "name": "Over - Clint Capela",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 11.5,
+                "odds": -130,
+                "participant": 16143,
+                "participant_name": "Clint Capela",
+                "name": "Over - Clint Capela",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 6.5,
+                "odds": -215,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Dereck Lively II",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 8.5,
+                "odds": -145,
+                "participant": 17182,
+                "participant_name": "Dereck Lively Ii",
+                "name": "Over - Dereck Lively II",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 10.5,
+                "odds": 125,
+                "participant": 17182,
+                "participant_name": "Dereck Lively Ii",
+                "name": "Over - Dereck Lively II",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 8.5,
+                "odds": -105,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Dereck Lively II",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 9.5,
+                "odds": -105,
+                "participant": 17182,
+                "participant_name": "Dereck Lively Ii",
+                "name": "Over - Dereck Lively II",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T21:00:09",
+                "handicap": 8.5,
+                "odds": -190,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Derrick Jones Jr.",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:00:09",
+                "handicap": 12.5,
+                "odds": 175,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Derrick Jones Jr.",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:16:04",
+                "handicap": 10.5,
+                "odds": -140,
+                "participant": 17206,
+                "participant_name": "Derrick Jones Jr.",
+                "name": "Over - Derrick Jones Jr.",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T18:52:11",
+                "handicap": 8.5,
+                "odds": -150,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Grant Williams",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:52:11",
+                "handicap": 10.5,
+                "odds": 120,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Grant Williams",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:52:11",
+                "handicap": 9.5,
+                "odds": -110,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Grant Williams",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 8.5,
+                "odds": -210,
+                "participant": 17150,
+                "participant_name": "Josh Green",
+                "name": "Over - Josh Green",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 12.5,
+                "odds": 150,
+                "participant": 17150,
+                "participant_name": "Josh Green",
+                "name": "Over - Josh Green",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 10.5,
+                "odds": -115,
+                "participant": 17150,
+                "participant_name": "Josh Green",
+                "name": "Over - Josh Green",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 25.5,
+                "odds": -145,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Kyrie Irving",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 27.5,
+                "odds": -105,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Kyrie Irving",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 28.5,
+                "odds": 115,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Kyrie Irving",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 26.5,
+                "odds": -125,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Kyrie Irving",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T17:12:04",
+                "handicap": 32.5,
+                "odds": -170,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Luka Doncic",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 33.5,
+                "odds": -170,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Luka Doncic",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:48:03",
+                "handicap": 35.5,
+                "odds": -160,
+                "participant": 17124,
+                "participant_name": "Luka Doncic",
+                "name": "Over - Luka Doncic",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:48:03",
+                "handicap": 36.5,
+                "odds": -140,
+                "participant": 17124,
+                "participant_name": "Luka Doncic",
+                "name": "Over - Luka Doncic",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 37.5,
+                "odds": 105,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Luka Doncic",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:48:03",
+                "handicap": 38.5,
+                "odds": -105,
+                "participant": 17124,
+                "participant_name": "Luka Doncic",
+                "name": "Over - Luka Doncic",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T17:12:04",
+                "handicap": 34.5,
+                "odds": -135,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Luka Doncic",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 35.5,
+                "odds": -120,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Luka Doncic",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T20:12:02",
+                "handicap": 37.5,
+                "odds": 100,
+                "participant": 17124,
+                "participant_name": "Luka Doncic",
+                "name": "Over - Luka Doncic",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T21:04:06",
+                "handicap": 18.5,
+                "odds": -135,
+                "participant": 17129,
+                "participant_name": "Tim Hardaway Jr.",
+                "name": "Over - Tim Hardaway Jr.",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 20.5,
+                "odds": 115,
+                "participant": 17129,
+                "participant_name": "Tim Hardaway Jr.",
+                "name": "Over - Tim Hardaway Jr.",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:04:06",
+                "handicap": 21.5,
+                "odds": 135,
+                "participant": 17129,
+                "participant_name": "Tim Hardaway Jr.",
+                "name": "Over - Tim Hardaway Jr.",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:04:06",
+                "handicap": 19.5,
+                "odds": -110,
+                "participant": 17129,
+                "participant_name": "Tim Hardaway Jr.",
+                "name": "Over - Tim Hardaway Jr.",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T13:56:09",
+                "handicap": 23.5,
+                "odds": -195,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Trae Young",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 25.5,
+                "odds": -145,
+                "participant": 16141,
+                "participant_name": "Trae Young",
+                "name": "Over - Trae Young",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T13:56:09",
+                "handicap": 26.5,
+                "odds": -115,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Trae Young",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:04:06",
+                "handicap": 27.5,
+                "odds": -110,
+                "participant": 16141,
+                "participant_name": "Trae Young",
+                "name": "Over - Trae Young",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 28.5,
+                "odds": 115,
+                "participant": 16141,
+                "participant_name": "Trae Young",
+                "name": "Over - Trae Young",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T13:56:09",
+                "handicap": 25.5,
+                "odds": -140,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Trae Young",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T21:04:06",
+                "handicap": 26.5,
+                "odds": -130,
+                "participant": 16141,
+                "participant_name": "Trae Young",
+                "name": "Over - Trae Young",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T06:44:09",
+                "handicap": 10.5,
+                "odds": 125,
+                "participant": 16143,
+                "participant_name": "Clint Capela",
+                "name": "Under - Clint Capela",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 12.5,
+                "odds": -140,
+                "participant": 16143,
+                "participant_name": "Clint Capela",
+                "name": "Under - Clint Capela",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 13.5,
+                "odds": -185,
+                "participant": 16143,
+                "participant_name": "Clint Capela",
+                "name": "Under - Clint Capela",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 11.5,
+                "odds": 100,
+                "participant": 16143,
+                "participant_name": "Clint Capela",
+                "name": "Under - Clint Capela",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 6.5,
+                "odds": 155,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Dereck Lively II",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 8.5,
+                "odds": 105,
+                "participant": 17182,
+                "participant_name": "Dereck Lively Ii",
+                "name": "Under - Dereck Lively II",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 10.5,
+                "odds": -175,
+                "participant": 17182,
+                "participant_name": "Dereck Lively Ii",
+                "name": "Under - Dereck Lively II",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 8.5,
+                "odds": -125,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Dereck Lively II",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 9.5,
+                "odds": -125,
+                "participant": 17182,
+                "participant_name": "Dereck Lively Ii",
+                "name": "Under - Dereck Lively II",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T21:00:09",
+                "handicap": 8.5,
+                "odds": 135,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Derrick Jones Jr.",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:00:09",
+                "handicap": 12.5,
+                "odds": -245,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Derrick Jones Jr.",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:16:04",
+                "handicap": 10.5,
+                "odds": 110,
+                "participant": 17206,
+                "participant_name": "Derrick Jones Jr.",
+                "name": "Under - Derrick Jones Jr.",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T18:52:11",
+                "handicap": 8.5,
+                "odds": 110,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Grant Williams",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:52:11",
+                "handicap": 10.5,
+                "odds": -165,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Grant Williams",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:52:11",
+                "handicap": 9.5,
+                "odds": -120,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Grant Williams",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 8.5,
+                "odds": 150,
+                "participant": 17150,
+                "participant_name": "Josh Green",
+                "name": "Under - Josh Green",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 12.5,
+                "odds": -210,
+                "participant": 17150,
+                "participant_name": "Josh Green",
+                "name": "Under - Josh Green",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 10.5,
+                "odds": -115,
+                "participant": 17150,
+                "participant_name": "Josh Green",
+                "name": "Under - Josh Green",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 25.5,
+                "odds": 105,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Kyrie Irving",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 27.5,
+                "odds": -135,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Kyrie Irving",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 28.5,
+                "odds": -160,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Kyrie Irving",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 26.5,
+                "odds": -105,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Kyrie Irving",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T17:12:04",
+                "handicap": 32.5,
+                "odds": 120,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Luka Doncic",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 33.5,
+                "odds": 125,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Luka Doncic",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:48:03",
+                "handicap": 35.5,
+                "odds": 115,
+                "participant": 17124,
+                "participant_name": "Luka Doncic",
+                "name": "Under - Luka Doncic",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:48:03",
+                "handicap": 36.5,
+                "odds": 100,
+                "participant": 17124,
+                "participant_name": "Luka Doncic",
+                "name": "Under - Luka Doncic",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 37.5,
+                "odds": -145,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Luka Doncic",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 38.5,
+                "odds": -130,
+                "participant": 17124,
+                "participant_name": "Luka Doncic",
+                "name": "Under - Luka Doncic",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T17:12:04",
+                "handicap": 34.5,
+                "odds": 105,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Luka Doncic",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 35.5,
+                "odds": -110,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Luka Doncic",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T20:12:02",
+                "handicap": 37.5,
+                "odds": -130,
+                "participant": 17124,
+                "participant_name": "Luka Doncic",
+                "name": "Under - Luka Doncic",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T21:04:06",
+                "handicap": 18.5,
+                "odds": 100,
+                "participant": 17129,
+                "participant_name": "Tim Hardaway Jr.",
+                "name": "Under - Tim Hardaway Jr.",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:04:06",
+                "handicap": 20.5,
+                "odds": -155,
+                "participant": 17129,
+                "participant_name": "Tim Hardaway Jr.",
+                "name": "Under - Tim Hardaway Jr.",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:04:06",
+                "handicap": 21.5,
+                "odds": -190,
+                "participant": 17129,
+                "participant_name": "Tim Hardaway Jr.",
+                "name": "Under - Tim Hardaway Jr.",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:04:06",
+                "handicap": 19.5,
+                "odds": -120,
+                "participant": 17129,
+                "participant_name": "Tim Hardaway Jr.",
+                "name": "Under - Tim Hardaway Jr.",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T13:56:09",
+                "handicap": 23.5,
+                "odds": 140,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Trae Young",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 25.5,
+                "odds": 105,
+                "participant": 16141,
+                "participant_name": "Trae Young",
+                "name": "Under - Trae Young",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T13:56:09",
+                "handicap": 26.5,
+                "odds": -120,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Trae Young",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:04:06",
+                "handicap": 27.5,
+                "odds": -125,
+                "participant": 16141,
+                "participant_name": "Trae Young",
+                "name": "Under - Trae Young",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:04:06",
+                "handicap": 28.5,
+                "odds": -155,
+                "participant": 16141,
+                "participant_name": "Trae Young",
+                "name": "Under - Trae Young",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T13:56:09",
+                "handicap": 25.5,
+                "odds": 110,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Trae Young",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T21:04:06",
+                "handicap": 26.5,
+                "odds": 100,
+                "participant": 16141,
+                "participant_name": "Trae Young",
+                "name": "Under - Trae Young",
+                "description": " Points"
+            }
+        ]
+    },
+    {
+        "market_key": "player_rebounds_over_under",
+        "outcomes": [
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 8.5,
+                "odds": -290,
+                "participant": 16143,
+                "participant_name": "Clint Capela",
+                "name": "Over - Clint Capela",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T17:12:04",
+                "handicap": 10.5,
+                "odds": -105,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Clint Capela",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 12.5,
+                "odds": 215,
+                "participant": 16143,
+                "participant_name": "Clint Capela",
+                "name": "Over - Clint Capela",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T17:12:04",
+                "handicap": 9.5,
+                "odds": -150,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Clint Capela",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 10.5,
+                "odds": 100,
+                "participant": 16143,
+                "participant_name": "Clint Capela",
+                "name": "Over - Clint Capela",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T17:12:04",
+                "handicap": 5.5,
+                "odds": -450,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Dereck Lively II",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:04:06",
+                "handicap": 6.5,
+                "odds": -425,
+                "participant": 17182,
+                "participant_name": "Dereck Lively Ii",
+                "name": "Over - Dereck Lively II",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:04:06",
+                "handicap": 8.5,
+                "odds": -135,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Dereck Lively II",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:04:06",
+                "handicap": 10.5,
+                "odds": 195,
+                "participant": 17182,
+                "participant_name": "Dereck Lively Ii",
+                "name": "Over - Dereck Lively II",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T17:12:04",
+                "handicap": 7.5,
+                "odds": -135,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Dereck Lively II",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T21:04:06",
+                "handicap": 8.5,
+                "odds": -140,
+                "participant": 17182,
+                "participant_name": "Dereck Lively Ii",
+                "name": "Over - Dereck Lively II",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T21:04:06",
+                "handicap": 9.5,
+                "odds": 110,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Dereck Lively II",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T21:16:04",
+                "handicap": 2.5,
+                "odds": -500,
+                "participant": 17206,
+                "participant_name": "Derrick Jones Jr.",
+                "name": "Over - Derrick Jones Jr.",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:16:04",
+                "handicap": 3.5,
+                "odds": -210,
+                "participant": 17206,
+                "participant_name": "Derrick Jones Jr.",
+                "name": "Over - Derrick Jones Jr.",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:16:04",
+                "handicap": 5.5,
+                "odds": 195,
+                "participant": 17206,
+                "participant_name": "Derrick Jones Jr.",
+                "name": "Over - Derrick Jones Jr.",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:16:04",
+                "handicap": 6.5,
+                "odds": 380,
+                "participant": 17206,
+                "participant_name": "Derrick Jones Jr.",
+                "name": "Over - Derrick Jones Jr.",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:16:04",
+                "handicap": 4.5,
+                "odds": 100,
+                "participant": 17206,
+                "participant_name": "Derrick Jones Jr.",
+                "name": "Over - Derrick Jones Jr.",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T18:52:11",
+                "handicap": 1.5,
+                "odds": -1200,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Grant Williams",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:52:11",
+                "handicap": 2.5,
+                "odds": -380,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Grant Williams",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:52:11",
+                "handicap": 5.5,
+                "odds": 265,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Grant Williams",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:52:11",
+                "handicap": 3.5,
+                "odds": -150,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Grant Williams",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T18:44:10",
+                "handicap": 2.5,
+                "odds": -450,
+                "participant": 17150,
+                "participant_name": "Josh Green",
+                "name": "Over - Josh Green",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:44:10",
+                "handicap": 3.5,
+                "odds": -185,
+                "participant": 17150,
+                "participant_name": "Josh Green",
+                "name": "Over - Josh Green",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 5.5,
+                "odds": 220,
+                "participant": 17150,
+                "participant_name": "Josh Green",
+                "name": "Over - Josh Green",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:44:10",
+                "handicap": 6.5,
+                "odds": 425,
+                "participant": 17150,
+                "participant_name": "Josh Green",
+                "name": "Over - Josh Green",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 4.5,
+                "odds": 120,
+                "participant": 17150,
+                "participant_name": "Josh Green",
+                "name": "Over - Josh Green",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 2.5,
+                "odds": -900,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Kyrie Irving",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 3.5,
+                "odds": -350,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Kyrie Irving",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 5.5,
+                "odds": 115,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Kyrie Irving",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 6.5,
+                "odds": 220,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Kyrie Irving",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 4.5,
+                "odds": -160,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Kyrie Irving",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T13:56:09",
+                "handicap": 5.5,
+                "odds": 120,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Kyrie Irving",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 8.5,
+                "odds": -180,
+                "participant": 17124,
+                "participant_name": "Luka Doncic",
+                "name": "Over - Luka Doncic",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 10.5,
+                "odds": 135,
+                "participant": 17124,
+                "participant_name": "Luka Doncic",
+                "name": "Over - Luka Doncic",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 9.5,
+                "odds": 100,
+                "participant": 17124,
+                "participant_name": "Luka Doncic",
+                "name": "Over - Luka Doncic",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T18:48:03",
+                "handicap": 1.5,
+                "odds": -1400,
+                "participant": 17129,
+                "participant_name": "Tim Hardaway Jr.",
+                "name": "Over - Tim Hardaway Jr.",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 2.5,
+                "odds": -400,
+                "participant": 17129,
+                "participant_name": "Tim Hardaway Jr.",
+                "name": "Over - Tim Hardaway Jr.",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 5.5,
+                "odds": 245,
+                "participant": 17129,
+                "participant_name": "Tim Hardaway Jr.",
+                "name": "Over - Tim Hardaway Jr.",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 3.5,
+                "odds": -160,
+                "participant": 17129,
+                "participant_name": "Tim Hardaway Jr.",
+                "name": "Over - Tim Hardaway Jr.",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T21:04:06",
+                "handicap": 1.5,
+                "odds": -575,
+                "participant": 16141,
+                "participant_name": "Trae Young",
+                "name": "Over - Trae Young",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 2.5,
+                "odds": -190,
+                "participant": 16141,
+                "participant_name": "Trae Young",
+                "name": "Over - Trae Young",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 3.5,
+                "odds": 125,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Trae Young",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 5.5,
+                "odds": 550,
+                "participant": 16141,
+                "participant_name": "Trae Young",
+                "name": "Over - Trae Young",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 2.5,
+                "odds": -180,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Trae Young",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 3.5,
+                "odds": 124,
+                "participant": 16141,
+                "participant_name": "Trae Young",
+                "name": "Over - Trae Young",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 8.5,
+                "odds": 200,
+                "participant": 16143,
+                "participant_name": "Clint Capela",
+                "name": "Under - Clint Capela",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T17:12:04",
+                "handicap": 10.5,
+                "odds": -130,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Clint Capela",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 12.5,
+                "odds": -310,
+                "participant": 16143,
+                "participant_name": "Clint Capela",
+                "name": "Under - Clint Capela",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T17:12:04",
+                "handicap": 9.5,
+                "odds": 120,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Clint Capela",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 10.5,
+                "odds": -130,
+                "participant": 16143,
+                "participant_name": "Clint Capela",
+                "name": "Under - Clint Capela",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T17:12:04",
+                "handicap": 5.5,
+                "odds": 300,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Dereck Lively II",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 6.5,
+                "odds": 285,
+                "participant": 17182,
+                "participant_name": "Dereck Lively Ii",
+                "name": "Under - Dereck Lively II",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:04:06",
+                "handicap": 8.5,
+                "odds": 100,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Dereck Lively II",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:04:06",
+                "handicap": 10.5,
+                "odds": -285,
+                "participant": 17182,
+                "participant_name": "Dereck Lively Ii",
+                "name": "Under - Dereck Lively II",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T17:12:04",
+                "handicap": 7.5,
+                "odds": 105,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Dereck Lively II",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T21:04:06",
+                "handicap": 8.5,
+                "odds": 110,
+                "participant": 17182,
+                "participant_name": "Dereck Lively Ii",
+                "name": "Under - Dereck Lively II",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T21:04:06",
+                "handicap": 9.5,
+                "odds": -140,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Dereck Lively II",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T21:16:04",
+                "handicap": 2.5,
+                "odds": 340,
+                "participant": 17206,
+                "participant_name": "Derrick Jones Jr.",
+                "name": "Under - Derrick Jones Jr.",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:16:04",
+                "handicap": 3.5,
+                "odds": 150,
+                "participant": 17206,
+                "participant_name": "Derrick Jones Jr.",
+                "name": "Under - Derrick Jones Jr.",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:16:04",
+                "handicap": 5.5,
+                "odds": -275,
+                "participant": 17206,
+                "participant_name": "Derrick Jones Jr.",
+                "name": "Under - Derrick Jones Jr.",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:16:04",
+                "handicap": 6.5,
+                "odds": -575,
+                "participant": 17206,
+                "participant_name": "Derrick Jones Jr.",
+                "name": "Under - Derrick Jones Jr.",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:16:04",
+                "handicap": 4.5,
+                "odds": -130,
+                "participant": 17206,
+                "participant_name": "Derrick Jones Jr.",
+                "name": "Under - Derrick Jones Jr.",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T18:52:11",
+                "handicap": 1.5,
+                "odds": 700,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Grant Williams",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:52:11",
+                "handicap": 2.5,
+                "odds": 260,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Grant Williams",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:52:11",
+                "handicap": 5.5,
+                "odds": -390,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Grant Williams",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:52:11",
+                "handicap": 3.5,
+                "odds": 120,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Grant Williams",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T18:44:10",
+                "handicap": 2.5,
+                "odds": 300,
+                "participant": 17150,
+                "participant_name": "Josh Green",
+                "name": "Under - Josh Green",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 3.5,
+                "odds": 130,
+                "participant": 17150,
+                "participant_name": "Josh Green",
+                "name": "Under - Josh Green",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 5.5,
+                "odds": -320,
+                "participant": 17150,
+                "participant_name": "Josh Green",
+                "name": "Under - Josh Green",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 6.5,
+                "odds": -700,
+                "participant": 17150,
+                "participant_name": "Josh Green",
+                "name": "Under - Josh Green",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 4.5,
+                "odds": -150,
+                "participant": 17150,
+                "participant_name": "Josh Green",
+                "name": "Under - Josh Green",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 2.5,
+                "odds": 550,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Kyrie Irving",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 3.5,
+                "odds": 245,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Kyrie Irving",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 5.5,
+                "odds": -160,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Kyrie Irving",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 6.5,
+                "odds": -310,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Kyrie Irving",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 4.5,
+                "odds": 124,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Kyrie Irving",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T13:56:09",
+                "handicap": 5.5,
+                "odds": -150,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Kyrie Irving",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 8.5,
+                "odds": 130,
+                "participant": 17124,
+                "participant_name": "Luka Doncic",
+                "name": "Under - Luka Doncic",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 10.5,
+                "odds": -190,
+                "participant": 17124,
+                "participant_name": "Luka Doncic",
+                "name": "Under - Luka Doncic",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 9.5,
+                "odds": -130,
+                "participant": 17124,
+                "participant_name": "Luka Doncic",
+                "name": "Under - Luka Doncic",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T18:48:03",
+                "handicap": 1.5,
+                "odds": 750,
+                "participant": 17129,
+                "participant_name": "Tim Hardaway Jr.",
+                "name": "Under - Tim Hardaway Jr.",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 2.5,
+                "odds": 270,
+                "participant": 17129,
+                "participant_name": "Tim Hardaway Jr.",
+                "name": "Under - Tim Hardaway Jr.",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 5.5,
+                "odds": -360,
+                "participant": 17129,
+                "participant_name": "Tim Hardaway Jr.",
+                "name": "Under - Tim Hardaway Jr.",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 3.5,
+                "odds": 124,
+                "participant": 17129,
+                "participant_name": "Tim Hardaway Jr.",
+                "name": "Under - Tim Hardaway Jr.",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 1.5,
+                "odds": 380,
+                "participant": 16141,
+                "participant_name": "Trae Young",
+                "name": "Under - Trae Young",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 2.5,
+                "odds": 140,
+                "participant": 16141,
+                "participant_name": "Trae Young",
+                "name": "Under - Trae Young",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 3.5,
+                "odds": -175,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Trae Young",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:44:10",
+                "handicap": 5.5,
+                "odds": -900,
+                "participant": 16141,
+                "participant_name": "Trae Young",
+                "name": "Under - Trae Young",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 2.5,
+                "odds": 140,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Trae Young",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 3.5,
+                "odds": -160,
+                "participant": 16141,
+                "participant_name": "Trae Young",
+                "name": "Under - Trae Young",
+                "description": " Rebounds"
+            }
+        ]
+    },
+    {
+        "market_key": "player_assists_over_under",
+        "outcomes": [
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 1.5,
+                "odds": -370,
+                "participant": 17150,
+                "participant_name": "Josh Green",
+                "name": "Over - Josh Green",
+                "description": " Alt Assists O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 3.5,
+                "odds": 190,
+                "participant": 17150,
+                "participant_name": "Josh Green",
+                "name": "Over - Josh Green",
+                "description": " Alt Assists O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 5.5,
+                "odds": 950,
+                "participant": 17150,
+                "participant_name": "Josh Green",
+                "name": "Over - Josh Green",
+                "description": " Alt Assists O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 2.5,
+                "odds": -125,
+                "participant": 17150,
+                "participant_name": "Josh Green",
+                "name": "Over - Josh Green",
+                "description": " Assists"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 3.5,
+                "odds": -450,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Kyrie Irving",
+                "description": " Alt Assists O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 6.5,
+                "odds": 175,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Kyrie Irving",
+                "description": " Alt Assists O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 5.5,
+                "odds": -115,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Kyrie Irving",
+                "description": " Assists"
+            },
+            {
+                "timestamp": "2024-01-26T21:04:06",
+                "handicap": 8.5,
+                "odds": -340,
+                "participant": 17124,
+                "participant_name": "Luka Doncic",
+                "name": "Over - Luka Doncic",
+                "description": " Alt Assists O/U"
+            },
+            {
+                "timestamp": "2024-01-26T17:12:04",
+                "handicap": 10.5,
+                "odds": 100,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Luka Doncic",
+                "description": " Alt Assists O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:04:06",
+                "handicap": 12.5,
+                "odds": 195,
+                "participant": 17124,
+                "participant_name": "Luka Doncic",
+                "name": "Over - Luka Doncic",
+                "description": " Alt Assists O/U"
+            },
+            {
+                "timestamp": "2024-01-26T17:12:04",
+                "handicap": 9.5,
+                "odds": -150,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Luka Doncic",
+                "description": " Assists"
+            },
+            {
+                "timestamp": "2024-01-26T21:04:06",
+                "handicap": 10.5,
+                "odds": -115,
+                "participant": 17124,
+                "participant_name": "Luka Doncic",
+                "name": "Over - Luka Doncic",
+                "description": " Assists"
+            },
+            {
+                "timestamp": "2024-01-26T21:04:06",
+                "handicap": 8.5,
+                "odds": -285,
+                "participant": 16141,
+                "participant_name": "Trae Young",
+                "name": "Over - Trae Young",
+                "description": " Alt Assists O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:04:06",
+                "handicap": 12.5,
+                "odds": 195,
+                "participant": 16141,
+                "participant_name": "Trae Young",
+                "name": "Over - Trae Young",
+                "description": " Alt Assists O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:04:06",
+                "handicap": 10.5,
+                "odds": -125,
+                "participant": 16141,
+                "participant_name": "Trae Young",
+                "name": "Over - Trae Young",
+                "description": " Assists"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 1.5,
+                "odds": 255,
+                "participant": 17150,
+                "participant_name": "Josh Green",
+                "name": "Under - Josh Green",
+                "description": " Alt Assists O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 3.5,
+                "odds": -270,
+                "participant": 17150,
+                "participant_name": "Josh Green",
+                "name": "Under - Josh Green",
+                "description": " Alt Assists O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:44:10",
+                "handicap": 5.5,
+                "odds": -2000,
+                "participant": 17150,
+                "participant_name": "Josh Green",
+                "name": "Under - Josh Green",
+                "description": " Alt Assists O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:08:04",
+                "handicap": 2.5,
+                "odds": -105,
+                "participant": 17150,
+                "participant_name": "Josh Green",
+                "name": "Under - Josh Green",
+                "description": " Assists"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 3.5,
+                "odds": 295,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Kyrie Irving",
+                "description": " Alt Assists O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 6.5,
+                "odds": -250,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Kyrie Irving",
+                "description": " Alt Assists O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:36:10",
+                "handicap": 5.5,
+                "odds": -115,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Kyrie Irving",
+                "description": " Assists"
+            },
+            {
+                "timestamp": "2024-01-26T21:04:06",
+                "handicap": 8.5,
+                "odds": 230,
+                "participant": 17124,
+                "participant_name": "Luka Doncic",
+                "name": "Under - Luka Doncic",
+                "description": " Alt Assists O/U"
+            },
+            {
+                "timestamp": "2024-01-26T17:12:04",
+                "handicap": 10.5,
+                "odds": -135,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Luka Doncic",
+                "description": " Alt Assists O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:04:06",
+                "handicap": 12.5,
+                "odds": -280,
+                "participant": 17124,
+                "participant_name": "Luka Doncic",
+                "name": "Under - Luka Doncic",
+                "description": " Alt Assists O/U"
+            },
+            {
+                "timestamp": "2024-01-26T17:12:04",
+                "handicap": 9.5,
+                "odds": 120,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Luka Doncic",
+                "description": " Assists"
+            },
+            {
+                "timestamp": "2024-01-26T21:04:06",
+                "handicap": 10.5,
+                "odds": -115,
+                "participant": 17124,
+                "participant_name": "Luka Doncic",
+                "name": "Under - Luka Doncic",
+                "description": " Assists"
+            },
+            {
+                "timestamp": "2024-01-26T21:04:06",
+                "handicap": 8.5,
+                "odds": 200,
+                "participant": 16141,
+                "participant_name": "Trae Young",
+                "name": "Under - Trae Young",
+                "description": " Alt Assists O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:04:06",
+                "handicap": 12.5,
+                "odds": -270,
+                "participant": 16141,
+                "participant_name": "Trae Young",
+                "name": "Under - Trae Young",
+                "description": " Alt Assists O/U"
+            },
+            {
+                "timestamp": "2024-01-26T21:04:06",
+                "handicap": 10.5,
+                "odds": -105,
+                "participant": 16141,
+                "participant_name": "Trae Young",
+                "name": "Under - Trae Young",
+                "description": " Assists"
+            }
+        ]
+    },
+    {
+        "market_key": "player_points_over_under",
+        "outcomes": [
+            {
+                "timestamp": "2024-01-26T17:52:04",
+                "handicap": 21.5,
+                "odds": -195,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Alperen Sengun",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 22.5,
+                "odds": -190,
+                "participant": 16148,
+                "participant_name": "Alperen Sengun",
+                "name": "Over - Alperen Sengun",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 23.5,
+                "odds": -155,
+                "participant": 16148,
+                "participant_name": "Alperen Sengun",
+                "name": "Over - Alperen Sengun",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 25.5,
+                "odds": -105,
+                "participant": 16148,
+                "participant_name": "Alperen Sengun",
+                "name": "Over - Alperen Sengun",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 26.5,
+                "odds": 115,
+                "participant": 16148,
+                "participant_name": "Alperen Sengun",
+                "name": "Over - Alperen Sengun",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T17:52:04",
+                "handicap": 23.5,
+                "odds": -140,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Alperen Sengun",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 24.5,
+                "odds": -125,
+                "participant": 16148,
+                "participant_name": "Alperen Sengun",
+                "name": "Over - Alperen Sengun",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T17:52:04",
+                "handicap": 15.5,
+                "odds": -205,
+                "participant": 16492,
+                "participant_name": "Brandon Miller",
+                "name": "Over - Brandon Miller",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T09:16:09",
+                "handicap": 16.5,
+                "odds": -160,
+                "participant": 16492,
+                "participant_name": "Brandon Miller",
+                "name": "Over - Brandon Miller",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T09:12:03",
+                "handicap": 18.5,
+                "odds": -105,
+                "participant": 16492,
+                "participant_name": "Brandon Miller",
+                "name": "Over - Brandon Miller",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T09:12:03",
+                "handicap": 20.5,
+                "odds": 140,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Brandon Miller",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T19:28:04",
+                "handicap": 17.5,
+                "odds": -145,
+                "participant": 16492,
+                "participant_name": "Brandon Miller",
+                "name": "Over - Brandon Miller",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T09:12:03",
+                "handicap": 18.5,
+                "odds": -105,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Brandon Miller",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 12.5,
+                "odds": -175,
+                "participant": 412,
+                "participant_name": "Dillon Brooks",
+                "name": "Over - Dillon Brooks",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 13.5,
+                "odds": -135,
+                "participant": 412,
+                "participant_name": "Dillon Brooks",
+                "name": "Over - Dillon Brooks",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 15.5,
+                "odds": 120,
+                "participant": 412,
+                "participant_name": "Dillon Brooks",
+                "name": "Over - Dillon Brooks",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 16.5,
+                "odds": 155,
+                "participant": 412,
+                "participant_name": "Dillon Brooks",
+                "name": "Over - Dillon Brooks",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:32:08",
+                "handicap": 13.5,
+                "odds": -125,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Dillon Brooks",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 14.5,
+                "odds": -105,
+                "participant": 412,
+                "participant_name": "Dillon Brooks",
+                "name": "Over - Dillon Brooks",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 15.5,
+                "odds": -155,
+                "participant": 16145,
+                "participant_name": "Fred Vanvleet",
+                "name": "Over - Fred VanVleet",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 18.5,
+                "odds": 125,
+                "participant": 16145,
+                "participant_name": "Fred Vanvleet",
+                "name": "Over - Fred VanVleet",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T20:52:07",
+                "handicap": 16.5,
+                "odds": -130,
+                "participant": 16145,
+                "participant_name": "Fred Vanvleet",
+                "name": "Over - Fred VanVleet",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 12.5,
+                "odds": -160,
+                "participant": 16147,
+                "participant_name": "Jabari Smith Jr.",
+                "name": "Over - Jabari Smith Jr.",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:32:08",
+                "handicap": 13.5,
+                "odds": -140,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Jabari Smith Jr.",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 15.5,
+                "odds": 135,
+                "participant": 16147,
+                "participant_name": "Jabari Smith Jr.",
+                "name": "Over - Jabari Smith Jr.",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:32:08",
+                "handicap": 16.5,
+                "odds": 155,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Jabari Smith Jr.",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 13.5,
+                "odds": -125,
+                "participant": 16147,
+                "participant_name": "Jabari Smith Jr.",
+                "name": "Over - Jabari Smith Jr.",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T18:32:08",
+                "handicap": 14.5,
+                "odds": -105,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Jabari Smith Jr.",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T18:32:08",
+                "handicap": 15.5,
+                "odds": -190,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Jalen Green",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 16.5,
+                "odds": -175,
+                "participant": 16146,
+                "participant_name": "Jalen Green",
+                "name": "Over - Jalen Green",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:32:08",
+                "handicap": 18.5,
+                "odds": 105,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Jalen Green",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 20.5,
+                "odds": 140,
+                "participant": 16146,
+                "participant_name": "Jalen Green",
+                "name": "Over - Jalen Green",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:32:08",
+                "handicap": 17.5,
+                "odds": -120,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Jalen Green",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 18.5,
+                "odds": -110,
+                "participant": 16146,
+                "participant_name": "Jalen Green",
+                "name": "Over - Jalen Green",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T19:16:02",
+                "handicap": 25.5,
+                "odds": -135,
+                "participant": 16163,
+                "participant_name": "Lamelo Ball",
+                "name": "Over - LaMelo Ball",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T19:16:02",
+                "handicap": 27.5,
+                "odds": 100,
+                "participant": 16163,
+                "participant_name": "Lamelo Ball",
+                "name": "Over - LaMelo Ball",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T19:16:02",
+                "handicap": 28.5,
+                "odds": 120,
+                "participant": 16163,
+                "participant_name": "Lamelo Ball",
+                "name": "Over - LaMelo Ball",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:24:14",
+                "handicap": 26.5,
+                "odds": -110,
+                "participant": 16163,
+                "participant_name": "Lamelo Ball",
+                "name": "Over - LaMelo Ball",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T09:12:03",
+                "handicap": 21.5,
+                "odds": -165,
+                "participant": 18795,
+                "participant_name": "Miles Bridges",
+                "name": "Over - Miles Bridges",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T09:12:03",
+                "handicap": 22.5,
+                "odds": -135,
+                "participant": 18795,
+                "participant_name": "Miles Bridges",
+                "name": "Over - Miles Bridges",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T09:12:03",
+                "handicap": 25.5,
+                "odds": 125,
+                "participant": 18795,
+                "participant_name": "Miles Bridges",
+                "name": "Over - Miles Bridges",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T20:52:07",
+                "handicap": 23.5,
+                "odds": 100,
+                "participant": 18795,
+                "participant_name": "Miles Bridges",
+                "name": "Over - Miles Bridges",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T18:32:08",
+                "handicap": 8.5,
+                "odds": -185,
+                "participant": 17119,
+                "participant_name": "Nick Richards",
+                "name": "Over - Nick Richards",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:32:08",
+                "handicap": 10.5,
+                "odds": 100,
+                "participant": 17119,
+                "participant_name": "Nick Richards",
+                "name": "Over - Nick Richards",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:32:08",
+                "handicap": 12.5,
+                "odds": 185,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Nick Richards",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:32:08",
+                "handicap": 9.5,
+                "odds": -135,
+                "participant": 17119,
+                "participant_name": "Nick Richards",
+                "name": "Over - Nick Richards",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T18:32:08",
+                "handicap": 10.5,
+                "odds": 105,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Nick Richards",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T17:52:04",
+                "handicap": 21.5,
+                "odds": 140,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Alperen Sengun",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 22.5,
+                "odds": 140,
+                "participant": 16148,
+                "participant_name": "Alperen Sengun",
+                "name": "Under - Alperen Sengun",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 23.5,
+                "odds": 115,
+                "participant": 16148,
+                "participant_name": "Alperen Sengun",
+                "name": "Under - Alperen Sengun",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 25.5,
+                "odds": -130,
+                "participant": 16148,
+                "participant_name": "Alperen Sengun",
+                "name": "Under - Alperen Sengun",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 26.5,
+                "odds": -160,
+                "participant": 16148,
+                "participant_name": "Alperen Sengun",
+                "name": "Under - Alperen Sengun",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T17:52:04",
+                "handicap": 23.5,
+                "odds": 110,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Alperen Sengun",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 24.5,
+                "odds": -105,
+                "participant": 16148,
+                "participant_name": "Alperen Sengun",
+                "name": "Under - Alperen Sengun",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T20:56:06",
+                "handicap": 15.5,
+                "odds": 145,
+                "participant": 16492,
+                "participant_name": "Brandon Miller",
+                "name": "Under - Brandon Miller",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T09:36:13",
+                "handicap": 16.5,
+                "odds": 115,
+                "participant": 16492,
+                "participant_name": "Brandon Miller",
+                "name": "Under - Brandon Miller",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T09:12:03",
+                "handicap": 18.5,
+                "odds": -130,
+                "participant": 16492,
+                "participant_name": "Brandon Miller",
+                "name": "Under - Brandon Miller",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T09:12:03",
+                "handicap": 20.5,
+                "odds": -195,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Brandon Miller",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T19:28:04",
+                "handicap": 17.5,
+                "odds": 114,
+                "participant": 16492,
+                "participant_name": "Brandon Miller",
+                "name": "Under - Brandon Miller",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T09:12:03",
+                "handicap": 18.5,
+                "odds": -125,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Brandon Miller",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 12.5,
+                "odds": 125,
+                "participant": 412,
+                "participant_name": "Dillon Brooks",
+                "name": "Under - Dillon Brooks",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 13.5,
+                "odds": -105,
+                "participant": 412,
+                "participant_name": "Dillon Brooks",
+                "name": "Under - Dillon Brooks",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 15.5,
+                "odds": -170,
+                "participant": 412,
+                "participant_name": "Dillon Brooks",
+                "name": "Under - Dillon Brooks",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 16.5,
+                "odds": -215,
+                "participant": 412,
+                "participant_name": "Dillon Brooks",
+                "name": "Under - Dillon Brooks",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:32:08",
+                "handicap": 13.5,
+                "odds": -105,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Dillon Brooks",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 14.5,
+                "odds": -125,
+                "participant": 412,
+                "participant_name": "Dillon Brooks",
+                "name": "Under - Dillon Brooks",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 15.5,
+                "odds": 115,
+                "participant": 16145,
+                "participant_name": "Fred Vanvleet",
+                "name": "Under - Fred VanVleet",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 18.5,
+                "odds": -170,
+                "participant": 16145,
+                "participant_name": "Fred Vanvleet",
+                "name": "Under - Fred VanVleet",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T20:52:07",
+                "handicap": 16.5,
+                "odds": 100,
+                "participant": 16145,
+                "participant_name": "Fred Vanvleet",
+                "name": "Under - Fred VanVleet",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 12.5,
+                "odds": 115,
+                "participant": 16147,
+                "participant_name": "Jabari Smith Jr.",
+                "name": "Under - Jabari Smith Jr.",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:32:08",
+                "handicap": 13.5,
+                "odds": 100,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Jabari Smith Jr.",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 15.5,
+                "odds": -185,
+                "participant": 16147,
+                "participant_name": "Jabari Smith Jr.",
+                "name": "Under - Jabari Smith Jr.",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:32:08",
+                "handicap": 16.5,
+                "odds": -215,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Jabari Smith Jr.",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 13.5,
+                "odds": -105,
+                "participant": 16147,
+                "participant_name": "Jabari Smith Jr.",
+                "name": "Under - Jabari Smith Jr.",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T18:32:08",
+                "handicap": 14.5,
+                "odds": -125,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Jabari Smith Jr.",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T18:32:08",
+                "handicap": 15.5,
+                "odds": 135,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Jalen Green",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 16.5,
+                "odds": 125,
+                "participant": 16146,
+                "participant_name": "Jalen Green",
+                "name": "Under - Jalen Green",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:32:08",
+                "handicap": 18.5,
+                "odds": -145,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Jalen Green",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 20.5,
+                "odds": -195,
+                "participant": 16146,
+                "participant_name": "Jalen Green",
+                "name": "Under - Jalen Green",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:32:08",
+                "handicap": 17.5,
+                "odds": -110,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Jalen Green",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 18.5,
+                "odds": -120,
+                "participant": 16146,
+                "participant_name": "Jalen Green",
+                "name": "Under - Jalen Green",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T19:16:02",
+                "handicap": 25.5,
+                "odds": 100,
+                "participant": 16163,
+                "participant_name": "Lamelo Ball",
+                "name": "Under - LaMelo Ball",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T19:16:02",
+                "handicap": 27.5,
+                "odds": -140,
+                "participant": 16163,
+                "participant_name": "Lamelo Ball",
+                "name": "Under - LaMelo Ball",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T19:16:02",
+                "handicap": 28.5,
+                "odds": -165,
+                "participant": 16163,
+                "participant_name": "Lamelo Ball",
+                "name": "Under - LaMelo Ball",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:24:14",
+                "handicap": 26.5,
+                "odds": -120,
+                "participant": 16163,
+                "participant_name": "Lamelo Ball",
+                "name": "Under - LaMelo Ball",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T09:12:03",
+                "handicap": 21.5,
+                "odds": 120,
+                "participant": 18795,
+                "participant_name": "Miles Bridges",
+                "name": "Under - Miles Bridges",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T09:12:03",
+                "handicap": 22.5,
+                "odds": 100,
+                "participant": 18795,
+                "participant_name": "Miles Bridges",
+                "name": "Under - Miles Bridges",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T09:12:03",
+                "handicap": 25.5,
+                "odds": -175,
+                "participant": 18795,
+                "participant_name": "Miles Bridges",
+                "name": "Under - Miles Bridges",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T20:52:07",
+                "handicap": 23.5,
+                "odds": -130,
+                "participant": 18795,
+                "participant_name": "Miles Bridges",
+                "name": "Under - Miles Bridges",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T18:32:08",
+                "handicap": 8.5,
+                "odds": 135,
+                "participant": 17119,
+                "participant_name": "Nick Richards",
+                "name": "Under - Nick Richards",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:32:08",
+                "handicap": 10.5,
+                "odds": -140,
+                "participant": 17119,
+                "participant_name": "Nick Richards",
+                "name": "Under - Nick Richards",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:32:08",
+                "handicap": 12.5,
+                "odds": -260,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Nick Richards",
+                "description": " Alt Points O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:32:08",
+                "handicap": 9.5,
+                "odds": 105,
+                "participant": 17119,
+                "participant_name": "Nick Richards",
+                "name": "Under - Nick Richards",
+                "description": " Points"
+            },
+            {
+                "timestamp": "2024-01-26T18:32:08",
+                "handicap": 10.5,
+                "odds": -135,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Nick Richards",
+                "description": " Points"
+            }
+        ]
+    },
+    {
+        "market_key": "player_rebounds_over_under",
+        "outcomes": [
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 8.5,
+                "odds": -275,
+                "participant": 16148,
+                "participant_name": "Alperen Sengun",
+                "name": "Over - Alperen Sengun",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:32:08",
+                "handicap": 10.5,
+                "odds": 105,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Alperen Sengun",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 12.5,
+                "odds": 210,
+                "participant": 16148,
+                "participant_name": "Alperen Sengun",
+                "name": "Over - Alperen Sengun",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:32:08",
+                "handicap": 9.5,
+                "odds": -140,
+                "participant": null,
+                "participant_name": null,
+                "name": "Over - Alperen Sengun",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 10.5,
+                "odds": -105,
+                "participant": 16148,
+                "participant_name": "Alperen Sengun",
+                "name": "Over - Alperen Sengun",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 2.5,
+                "odds": -575,
+                "participant": 16492,
+                "participant_name": "Brandon Miller",
+                "name": "Over - Brandon Miller",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T07:20:02",
+                "handicap": 3.5,
+                "odds": -230,
+                "participant": 16492,
+                "participant_name": "Brandon Miller",
+                "name": "Over - Brandon Miller",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T07:20:02",
+                "handicap": 5.5,
+                "odds": 170,
+                "participant": 16492,
+                "participant_name": "Brandon Miller",
+                "name": "Over - Brandon Miller",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T15:44:06",
+                "handicap": 6.5,
+                "odds": 320,
+                "participant": 16492,
+                "participant_name": "Brandon Miller",
+                "name": "Over - Brandon Miller",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T07:20:02",
+                "handicap": 4.5,
+                "odds": -110,
+                "participant": 16492,
+                "participant_name": "Brandon Miller",
+                "name": "Over - Brandon Miller",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 1.5,
+                "odds": -900,
+                "participant": 412,
+                "participant_name": "Dillon Brooks",
+                "name": "Over - Dillon Brooks",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 2.5,
+                "odds": -300,
+                "participant": 412,
+                "participant_name": "Dillon Brooks",
+                "name": "Over - Dillon Brooks",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 5.5,
+                "odds": 360,
+                "participant": 412,
+                "participant_name": "Dillon Brooks",
+                "name": "Over - Dillon Brooks",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 3.5,
+                "odds": -120,
+                "participant": 412,
+                "participant_name": "Dillon Brooks",
+                "name": "Over - Dillon Brooks",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 1.5,
+                "odds": -1000,
+                "participant": 16145,
+                "participant_name": "Fred Vanvleet",
+                "name": "Over - Fred VanVleet",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 2.5,
+                "odds": -320,
+                "participant": 16145,
+                "participant_name": "Fred Vanvleet",
+                "name": "Over - Fred VanVleet",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 5.5,
+                "odds": 320,
+                "participant": 16145,
+                "participant_name": "Fred Vanvleet",
+                "name": "Over - Fred VanVleet",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 3.5,
+                "odds": -130,
+                "participant": 16145,
+                "participant_name": "Fred Vanvleet",
+                "name": "Over - Fred VanVleet",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 6.5,
+                "odds": -370,
+                "participant": 16147,
+                "participant_name": "Jabari Smith Jr.",
+                "name": "Over - Jabari Smith Jr.",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 10.5,
+                "odds": 195,
+                "participant": 16147,
+                "participant_name": "Jabari Smith Jr.",
+                "name": "Over - Jabari Smith Jr.",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 8.5,
+                "odds": -120,
+                "participant": 16147,
+                "participant_name": "Jabari Smith Jr.",
+                "name": "Over - Jabari Smith Jr.",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 2.5,
+                "odds": -575,
+                "participant": 16146,
+                "participant_name": "Jalen Green",
+                "name": "Over - Jalen Green",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 3.5,
+                "odds": -235,
+                "participant": 16146,
+                "participant_name": "Jalen Green",
+                "name": "Over - Jalen Green",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 5.5,
+                "odds": 170,
+                "participant": 16146,
+                "participant_name": "Jalen Green",
+                "name": "Over - Jalen Green",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 6.5,
+                "odds": 330,
+                "participant": 16146,
+                "participant_name": "Jalen Green",
+                "name": "Over - Jalen Green",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 4.5,
+                "odds": -110,
+                "participant": 16146,
+                "participant_name": "Jalen Green",
+                "name": "Over - Jalen Green",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T14:48:19",
+                "handicap": 3.5,
+                "odds": -500,
+                "participant": 16163,
+                "participant_name": "Lamelo Ball",
+                "name": "Over - LaMelo Ball",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T15:44:06",
+                "handicap": 6.5,
+                "odds": 150,
+                "participant": 16163,
+                "participant_name": "Lamelo Ball",
+                "name": "Over - LaMelo Ball",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T06:40:15",
+                "handicap": 5.5,
+                "odds": -120,
+                "participant": 16163,
+                "participant_name": "Lamelo Ball",
+                "name": "Over - LaMelo Ball",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T17:52:04",
+                "handicap": 5.5,
+                "odds": -450,
+                "participant": 18795,
+                "participant_name": "Miles Bridges",
+                "name": "Over - Miles Bridges",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:32:08",
+                "handicap": 6.5,
+                "odds": -245,
+                "participant": 18795,
+                "participant_name": "Miles Bridges",
+                "name": "Over - Miles Bridges",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T17:52:04",
+                "handicap": 8.5,
+                "odds": 115,
+                "participant": 18795,
+                "participant_name": "Miles Bridges",
+                "name": "Over - Miles Bridges",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T17:52:04",
+                "handicap": 7.5,
+                "odds": -140,
+                "participant": 18795,
+                "participant_name": "Miles Bridges",
+                "name": "Over - Miles Bridges",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T17:52:04",
+                "handicap": 6.5,
+                "odds": -380,
+                "participant": 17119,
+                "participant_name": "Nick Richards",
+                "name": "Over - Nick Richards",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T15:52:09",
+                "handicap": 10.5,
+                "odds": 175,
+                "participant": 17119,
+                "participant_name": "Nick Richards",
+                "name": "Over - Nick Richards",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T09:40:02",
+                "handicap": 8.5,
+                "odds": -135,
+                "participant": 17119,
+                "participant_name": "Nick Richards",
+                "name": "Over - Nick Richards",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 8.5,
+                "odds": 195,
+                "participant": 16148,
+                "participant_name": "Alperen Sengun",
+                "name": "Under - Alperen Sengun",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:32:08",
+                "handicap": 10.5,
+                "odds": -150,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Alperen Sengun",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 12.5,
+                "odds": -300,
+                "participant": 16148,
+                "participant_name": "Alperen Sengun",
+                "name": "Under - Alperen Sengun",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:32:08",
+                "handicap": 9.5,
+                "odds": 110,
+                "participant": null,
+                "participant_name": null,
+                "name": "Under - Alperen Sengun",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 10.5,
+                "odds": -125,
+                "participant": 16148,
+                "participant_name": "Alperen Sengun",
+                "name": "Under - Alperen Sengun",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 2.5,
+                "odds": 370,
+                "participant": 16492,
+                "participant_name": "Brandon Miller",
+                "name": "Under - Brandon Miller",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T07:20:02",
+                "handicap": 3.5,
+                "odds": 165,
+                "participant": 16492,
+                "participant_name": "Brandon Miller",
+                "name": "Under - Brandon Miller",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T07:20:02",
+                "handicap": 5.5,
+                "odds": -240,
+                "participant": 16492,
+                "participant_name": "Brandon Miller",
+                "name": "Under - Brandon Miller",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T15:44:06",
+                "handicap": 6.5,
+                "odds": -475,
+                "participant": 16492,
+                "participant_name": "Brandon Miller",
+                "name": "Under - Brandon Miller",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T07:20:02",
+                "handicap": 4.5,
+                "odds": -120,
+                "participant": 16492,
+                "participant_name": "Brandon Miller",
+                "name": "Under - Brandon Miller",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 1.5,
+                "odds": 550,
+                "participant": 412,
+                "participant_name": "Dillon Brooks",
+                "name": "Under - Dillon Brooks",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 2.5,
+                "odds": 210,
+                "participant": 412,
+                "participant_name": "Dillon Brooks",
+                "name": "Under - Dillon Brooks",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 5.5,
+                "odds": -550,
+                "participant": 412,
+                "participant_name": "Dillon Brooks",
+                "name": "Under - Dillon Brooks",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 3.5,
+                "odds": -110,
+                "participant": 412,
+                "participant_name": "Dillon Brooks",
+                "name": "Under - Dillon Brooks",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 1.5,
+                "odds": 600,
+                "participant": 16145,
+                "participant_name": "Fred Vanvleet",
+                "name": "Under - Fred VanVleet",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 2.5,
+                "odds": 220,
+                "participant": 16145,
+                "participant_name": "Fred Vanvleet",
+                "name": "Under - Fred VanVleet",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 5.5,
+                "odds": -475,
+                "participant": 16145,
+                "participant_name": "Fred Vanvleet",
+                "name": "Under - Fred VanVleet",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 3.5,
+                "odds": 100,
+                "participant": 16145,
+                "participant_name": "Fred Vanvleet",
+                "name": "Under - Fred VanVleet",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 6.5,
+                "odds": 255,
+                "participant": 16147,
+                "participant_name": "Jabari Smith Jr.",
+                "name": "Under - Jabari Smith Jr.",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 10.5,
+                "odds": -280,
+                "participant": 16147,
+                "participant_name": "Jabari Smith Jr.",
+                "name": "Under - Jabari Smith Jr.",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 8.5,
+                "odds": -110,
+                "participant": 16147,
+                "participant_name": "Jabari Smith Jr.",
+                "name": "Under - Jabari Smith Jr.",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 2.5,
+                "odds": 370,
+                "participant": 16146,
+                "participant_name": "Jalen Green",
+                "name": "Under - Jalen Green",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 3.5,
+                "odds": 170,
+                "participant": 16146,
+                "participant_name": "Jalen Green",
+                "name": "Under - Jalen Green",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 5.5,
+                "odds": -240,
+                "participant": 16146,
+                "participant_name": "Jalen Green",
+                "name": "Under - Jalen Green",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 6.5,
+                "odds": -500,
+                "participant": 16146,
+                "participant_name": "Jalen Green",
+                "name": "Under - Jalen Green",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:40:09",
+                "handicap": 4.5,
+                "odds": -120,
+                "participant": 16146,
+                "participant_name": "Jalen Green",
+                "name": "Under - Jalen Green",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T14:48:19",
+                "handicap": 3.5,
+                "odds": 330,
+                "participant": 16163,
+                "participant_name": "Lamelo Ball",
+                "name": "Under - LaMelo Ball",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T15:44:06",
+                "handicap": 6.5,
+                "odds": -205,
+                "participant": 16163,
+                "participant_name": "Lamelo Ball",
+                "name": "Under - LaMelo Ball",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T06:40:15",
+                "handicap": 5.5,
+                "odds": -110,
+                "participant": 16163,
+                "participant_name": "Lamelo Ball",
+                "name": "Under - LaMelo Ball",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T17:52:04",
+                "handicap": 5.5,
+                "odds": 300,
+                "participant": 18795,
+                "participant_name": "Miles Bridges",
+                "name": "Under - Miles Bridges",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T18:32:08",
+                "handicap": 6.5,
+                "odds": 175,
+                "participant": 18795,
+                "participant_name": "Miles Bridges",
+                "name": "Under - Miles Bridges",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T17:52:04",
+                "handicap": 8.5,
+                "odds": -155,
+                "participant": 18795,
+                "participant_name": "Miles Bridges",
+                "name": "Under - Miles Bridges",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T19:04:12",
+                "handicap": 7.5,
+                "odds": 110,
+                "participant": 18795,
+                "participant_name": "Miles Bridges",
+                "name": "Under - Miles Bridges",
+                "description": " Rebounds"
+            },
+            {
+                "timestamp": "2024-01-26T17:52:04",
+                "handicap": 6.5,
+                "odds": 260,
+                "participant": 17119,
+                "participant_name": "Nick Richards",
+                "name": "Under - Nick Richards",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T15:52:09",
+                "handicap": 10.5,
+                "odds": -245,
+                "participant": 17119,
+                "participant_name": "Nick Richards",
+                "name": "Under - Nick Richards",
+                "description": " Alt Rebounds O/U"
+            },
+            {
+                "timestamp": "2024-01-26T09:12:03",
+                "handicap": 8.5,
+                "odds": 105,
+                "participant": 17119,
+                "participant_name": "Nick Richards",
+                "name": "Under - Nick Richards",
+                "description": " Rebounds"
+            }
+        ]
+    }
+]

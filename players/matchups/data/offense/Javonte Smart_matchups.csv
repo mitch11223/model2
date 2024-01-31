@@ -1,0 +1,4 @@
+Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300382,Javonte Smart,Guard,1630606,Precious Achiuwa,Forward,1630173,0.18,0.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,193.04,205.0,203.2,243.0,-10.16,-38.0,16.79,
+0022300382,Javonte Smart,Guard,1630606,Malachi Flynn,Guard,1630201,0.05,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,193.04,205.0,185.42,185.0,7.62,20.0,12.8,
+0022300382,Javonte Smart,Guard,1630606,Otto Porter Jr,Forward,203490,0.08,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,193.04,205.0,203.2,230.0,-10.16,-25.0,11.53,

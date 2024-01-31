@@ -1,0 +1,17 @@
+Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300240,Noah Clowney,Forward,1641730,Jamal Cain,Forward,1631288,0.7,2.9,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,210.0,198.12,191.0,7.62,19.0,14.86,
+0022300240,Noah Clowney,Forward,1641730,Nikola Jovic,Forward,1631107,0.15,1.1,0,0.0,0.0,1,6.67,0.91,0,0,0,0,0,0,0.0,0,0,205.74,210.0,208.28,205.0,-2.54,5.0,16.74,
+0022300240,Noah Clowney,Forward,1641730,Josh Richardson,Guard,1626196,0.02,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,210.0,195.58,200.0,10.16,10.0,25.97,
+0022300240,Noah Clowney,Forward,1641730,Cole Swider,Forward,1631306,0.37,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,210.0,203.2,220.0,2.54,-10.0,4.89,
+0022300417,Noah Clowney,Forward,1641730,Giannis Antetokounmpo,Forward,203507,2.83,14.8,2,0.71,0.14,10,3.53,0.68,1,0,0,2,0,0,0.0,2,0,205.74,210.0,210.82,243.0,-5.08,-33.0,35.16,
+0022300417,Noah Clowney,Forward,1641730,Thanasis Antetokounmpo,Forward,203648,0.02,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,210.0,200.66,219.0,5.08,-9.0,4.05,
+0022300417,Noah Clowney,Forward,1641730,Malik Beasley,Guard,1627736,0.1,0.4,0,0.0,0.0,1,10.0,2.5,0,0,0,0,0,0,0.0,0,0,205.74,210.0,193.04,187.0,12.7,23.0,29.39,
+0022300417,Noah Clowney,Forward,1641730,MarJon Beauchamp,Forward,1630699,0.5,2.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,210.0,200.66,199.0,5.08,11.0,15.4,
+0022300417,Noah Clowney,Forward,1641730,Pat Connaughton,Guard,1626192,0.78,3.3,0,0.0,0.0,6,7.69,1.82,0,0,0,0,0,0,0.0,0,0,205.74,210.0,195.58,209.0,10.16,1.0,21.08,
+0022300417,Noah Clowney,Forward,1641730,Damian Lillard,Guard,203081,0.15,0.7,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,210.0,187.96,195.0,17.78,15.0,35.21,
+0022300417,Noah Clowney,Forward,1641730,Chris Livingston,Forward,1641753,0.03,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,210.0,198.12,220.0,7.62,-10.0,4.62,
+0022300417,Noah Clowney,Forward,1641730,Brook Lopez,Center,201572,2.45,13.5,6,2.45,0.44,14,5.71,1.04,1,1,0,0,3,6,0.5,0,0,205.74,210.0,215.9,282.0,-10.16,-72.0,31.76,2.25
+0022300417,Noah Clowney,Forward,1641730,Robin Lopez,Center,201577,0.53,2.8,0,0.0,0.0,2,3.77,0.71,0,0,0,0,0,0,0.0,0,0,205.74,210.0,215.9,281.0,-10.16,-71.0,2.85,
+0022300417,Noah Clowney,Forward,1641730,Khris Middleton,Forward,203114,0.6,3.9,2,3.33,0.51,7,11.67,1.79,0,0,0,0,1,1,1.0,0,0,205.74,210.0,200.66,222.0,5.08,-12.0,26.13,3.9
+0022300417,Noah Clowney,Forward,1641730,Cameron Payne,Guard,1626166,0.68,3.4,2,2.94,0.59,6,8.82,1.76,1,0,0,0,1,1,1.0,0,0,205.74,210.0,190.5,183.0,15.24,27.0,15.19,3.4
+0022300417,Noah Clowney,Forward,1641730,Bobby Portis,Forward,1626171,2.05,9.9,4,1.95,0.4,14,6.83,1.41,0,0,0,0,2,2,1.0,0,0,205.74,210.0,208.28,250.0,-2.54,-40.0,23.37,4.95

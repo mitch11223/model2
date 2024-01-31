@@ -1,0 +1,9 @@
+Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300388,Dmytro Skapintsev,Center,1631376,Malik Beasley,Guard,1627736,0.02,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,215.9,215.0,193.04,187.0,22.86,28.0,29.39,
+0022300388,Dmytro Skapintsev,Center,1631376,MarJon Beauchamp,Forward,1630699,0.12,0.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,1,0.0,0,0,215.9,215.0,200.66,199.0,15.24,16.0,15.4,0.8
+0022300388,Dmytro Skapintsev,Center,1631376,Andre Jackson Jr,Guard,1641748,0.05,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,215.9,215.0,198.12,209.0,17.78,6.0,11.59,
+0022300388,Dmytro Skapintsev,Center,1631376,Khris Middleton,Forward,203114,0.08,0.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,215.9,215.0,200.66,222.0,15.24,-7.0,26.13,
+0022300388,Dmytro Skapintsev,Center,1631376,Cameron Payne,Guard,1626166,0.03,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,215.9,215.0,190.5,183.0,25.4,32.0,15.19,
+0022300441,Dmytro Skapintsev,Center,1631376,Isaiah Jackson,Forward,1630543,0.2,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,215.9,215.0,205.74,205.0,10.16,10.0,13.36,
+0022300441,Dmytro Skapintsev,Center,1631376,TJ McConnell,Guard,204456,0.12,0.6,0,0.0,0.0,3,25.0,5.0,0,0,0,0,0,0,0.0,0,0,215.9,215.0,185.42,190.0,30.48,25.0,17.05,
+0022300441,Dmytro Skapintsev,Center,1631376,Jarace Walker,Forward,1641716,0.1,0.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,215.9,215.0,200.66,235.0,15.24,-20.0,10.93,

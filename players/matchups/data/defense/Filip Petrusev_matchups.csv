@@ -1,0 +1,11 @@
+Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300098,Toumani Camara,Forward,1641739,Filip Petrusev,Center,1630196,0.7,4.8,0,0.0,0.0,3,4.29,0.62,0,1,0,0,0,2,0.0,0,0,200.66,226.0,210.82,225.0,-10.16,1.0,23.7,2.4
+0022300098,Kris Murray,Forward,1631200,Filip Petrusev,Center,1630196,0.25,1.0,0,0.0,0.0,2,8.0,2.0,0,0,0,0,0,0,0.0,0,0,203.2,210.0,210.82,225.0,-7.62,-15.0,12.32,
+0022300098,Skylar Mays,Guard,1630219,Filip Petrusev,Center,1630196,0.07,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,190.5,205.0,210.82,225.0,-20.32,-20.0,16.0,
+0022300198,Jaxson Hayes,Center-Forward,1629637,Filip Petrusev,Center,1630196,0.2,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,213.36,220.0,210.82,225.0,2.54,-5.0,9.62,
+0022300222,Jordan Hawkins,Guard,1641722,Filip Petrusev,Center,1630196,0.02,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,190.0,210.82,225.0,-15.24,-35.0,21.6,
+0022300222,Naji Marshall,Forward,1630230,Filip Petrusev,Center,1630196,0.27,0.8,0,0.0,0.0,2,7.41,2.5,1,0,0,0,0,1,0.0,0,0,198.12,220.0,210.82,225.0,-12.7,-5.0,18.26,0.8
+0022300222,Jose Alvarado,Guard,1630631,Filip Petrusev,Center,1630196,0.15,0.5,0,0.0,0.0,2,13.33,4.0,0,1,0,0,0,1,0.0,0,0,182.88,179.0,210.82,225.0,-27.94,-46.0,16.1,0.5
+0022300222,Jeremiah Robinson-Earl,Forward,1630526,Filip Petrusev,Center,1630196,0.15,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,240.0,210.82,225.0,-7.62,15.0,10.74,
+0022300222,Cody Zeller,Forward-Center,203469,Filip Petrusev,Center,1630196,1.83,9.3,0,0.0,0.0,5,2.73,0.54,0,1,0,0,0,2,0.0,0,0,210.82,240.0,210.82,225.0,0.0,15.0,8.27,4.65
+0022300222,Kira Lewis Jr,Guard,1630184,Filip Petrusev,Center,1630196,0.48,1.8,0,0.0,0.0,2,4.17,1.11,2,0,0,0,0,0,0.0,0,0,185.42,170.0,210.82,225.0,-25.4,-55.0,9.06,

@@ -1,0 +1,7 @@
+Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022301201,Jacob Toppin,Forward,1631210,Thanasis Antetokounmpo,Forward,203648,0.38,2.6,0,0.0,0.0,3,7.89,1.15,0,0,0,0,0,0,0.0,0,0,203.2,200.0,200.66,219.0,2.54,-19.0,4.05,
+0022301201,Jacob Toppin,Forward,1631210,AJ Green,Guard,1631260,0.23,1.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,200.0,193.04,190.0,10.16,10.0,7.5,
+0022301201,Jacob Toppin,Forward,1631210,Chris Livingston,Forward,1641753,0.05,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,200.0,198.12,220.0,5.08,-20.0,4.62,
+0022300388,Jacob Toppin,Forward,1631210,Cameron Payne,Guard,1626166,0.12,0.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,200.0,190.5,183.0,12.7,17.0,15.19,
+0022300441,Jacob Toppin,Forward,1631210,Obi Toppin,Forward,1630167,0.2,1.0,0,0.0,0.0,3,15.0,3.0,1,0,0,0,0,0,0.0,0,0,203.2,200.0,205.74,220.0,-2.54,-20.0,23.17,
+0022300441,Jacob Toppin,Forward,1631210,Jarace Walker,Forward,1641716,0.2,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,200.0,200.66,235.0,2.54,-35.0,10.93,

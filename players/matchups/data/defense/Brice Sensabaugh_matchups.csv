@@ -1,0 +1,18 @@
+Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300072,Harrison Barnes,Forward,203084,Brice Sensabaugh,Forward,1641729,0.28,1.4,0,0.0,0.0,3,10.71,2.14,0,0,0,0,0,1,0.0,0,0,203.2,225.0,195.58,235.0,7.62,-10.0,29.71,1.4
+0022300072,Kevin Huerter,Guard-Forward,1628989,Brice Sensabaugh,Forward,1641729,0.03,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,198.0,195.58,235.0,5.08,-37.0,24.6,
+0022300072,De'Aaron Fox,Guard,1628368,Brice Sensabaugh,Forward,1641729,0.13,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,190.5,185.0,195.58,235.0,-5.08,-50.0,35.59,
+0022300072,Alex Len,Center,203458,Brice Sensabaugh,Forward,1641729,0.05,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,213.36,250.0,195.58,235.0,17.78,15.0,8.82,
+0022300072,Jordan Ford,Guard,1630259,Brice Sensabaugh,Forward,1641729,0.43,2.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,185.42,175.0,195.58,235.0,-10.16,-60.0,3.33,
+0022300072,Colby Jones,Guard,1641732,Brice Sensabaugh,Forward,1641729,0.2,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,207.0,195.58,235.0,2.54,-28.0,7.27,
+0022300412,Julian Champagnie,Forward,1630577,Brice Sensabaugh,Forward,1641729,0.22,1.0,0,0.0,0.0,2,9.09,2.0,0,0,0,0,0,0,0.0,0,0,200.66,217.0,195.58,235.0,5.08,-18.0,15.92,
+0022300412,Malaki Branham,Forward,1631103,Brice Sensabaugh,Forward,1641729,0.13,2.0,0,0.0,0.0,5,38.46,2.5,0,0,0,0,0,0,0.0,0,0,193.04,180.0,195.58,235.0,-2.54,-55.0,20.9,
+0022300412,Blake Wesley,Guard,1631104,Brice Sensabaugh,Forward,1641729,0.08,1.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,190.5,185.0,195.58,235.0,-5.08,-50.0,11.73,
+0022300412,Sidy Cissoko,Guard,1631321,Brice Sensabaugh,Forward,1641729,0.12,0.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,200.0,195.58,235.0,2.54,-35.0,6.2,
+0022300524,Justin Holiday,Forward-Guard,203200,Brice Sensabaugh,Forward,1641729,0.62,4.2,0,0.0,0.0,4,6.45,0.95,0,0,0,0,0,0,0.0,0,0,198.12,180.0,195.58,235.0,2.54,-55.0,12.96,
+0022300524,Collin Gillespie,Guard,1631221,Brice Sensabaugh,Forward,1641729,0.37,2.3,0,0.0,0.0,2,5.41,0.87,1,0,0,0,0,0,0.0,0,0,185.42,195.0,195.58,235.0,-10.16,-40.0,7.0,
+0022300524,Jay Huff,Center,1630643,Brice Sensabaugh,Forward,1641729,0.1,0.5,2,20.0,4.0,2,20.0,4.0,0,0,0,0,1,1,1.0,0,0,215.9,240.0,195.58,235.0,20.32,5.0,2.83,0.5
+0022300540,Jontay Porter,Center-Forward,1629007,Brice Sensabaugh,Forward,1641729,0.32,2.7,0,0.0,0.0,3,9.38,1.11,0,0,0,0,0,0,0.0,0,0,208.28,240.0,195.58,235.0,12.7,5.0,14.92,
+0022300540,Gradey Dick,Guard-Forward,1641711,Brice Sensabaugh,Forward,1641729,0.97,4.2,0,0.0,0.0,7,7.22,1.67,0,0,0,0,0,0,0.0,0,0,198.12,200.0,195.58,235.0,2.54,-35.0,13.44,
+0022300540,Jalen McDaniels,Forward,1629667,Brice Sensabaugh,Forward,1641729,0.12,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,190.0,195.58,235.0,10.16,-45.0,8.82,
+0022300540,Garrett Temple,Guard-Forward,202066,Brice Sensabaugh,Forward,1641729,0.2,1.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,195.0,195.58,235.0,0.0,-40.0,4.0,

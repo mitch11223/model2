@@ -1,0 +1,5 @@
+Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300140,Malcolm Cazalon,Guard,1630608,Grayson Allen,Guard,1628960,0.22,1.0,0,0.0,0.0,2,9.09,2.0,0,0,0,0,0,0,0.0,0,0,198.12,185.0,193.04,198.0,5.08,-13.0,33.51,
+0022300140,Malcolm Cazalon,Guard,1630608,Bol Bol,Center-Forward,1629626,0.67,3.6,0,0.0,0.0,4,5.97,1.11,0,0,0,0,0,0,0.0,0,0,198.12,185.0,220.98,220.0,-22.86,-35.0,7.17,
+0022300140,Malcolm Cazalon,Guard,1630608,Saben Lee,Guard,1630240,0.02,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,185.0,187.96,183.0,10.16,2.0,6.82,
+0022300140,Malcolm Cazalon,Guard,1630608,Josh Okogie,Guard,1629006,0.1,1.0,0,0.0,0.0,3,30.0,3.0,0,0,0,0,0,0,0.0,0,0,198.12,185.0,193.04,213.0,5.08,-28.0,18.12,

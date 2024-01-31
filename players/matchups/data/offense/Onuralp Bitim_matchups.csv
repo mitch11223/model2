@@ -1,0 +1,7 @@
+Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300139,Onuralp Bitim,Forward,1641931,Kentavious Caldwell-Pope,Guard,203484,0.25,1.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,215.0,195.58,204.0,2.54,11.0,32.27,
+0022300139,Onuralp Bitim,Forward,1641931,Collin Gillespie,Guard,1631221,0.03,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,215.0,185.42,195.0,12.7,20.0,7.0,
+0022300139,Onuralp Bitim,Forward,1641931,Jalen Pickett,Guard,1629618,0.03,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,215.0,187.96,202.0,10.16,13.0,6.06,
+0022300139,Onuralp Bitim,Forward,1641931,Julian Strawther,Guard,1631124,0.45,2.6,0,0.0,0.0,2,4.44,0.77,0,0,0,0,0,0,0.0,0,0,198.12,215.0,198.12,205.0,0.0,10.0,13.91,
+0022300139,Onuralp Bitim,Forward,1641931,Hunter Tyson,Forward,1641816,0.1,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,215.0,203.2,215.0,-5.08,0.0,2.78,
+0022300139,Onuralp Bitim,Forward,1641931,Peyton Watson,Guard,1631212,0.1,1.4,0,0.0,0.0,3,30.0,2.14,0,0,0,0,0,0,0.0,0,0,198.12,215.0,200.66,200.0,-2.54,15.0,17.64,

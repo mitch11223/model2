@@ -1,0 +1,6 @@
+Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022301201,Charlie Brown Jr,Guard,1629718,AJ Green,Guard,1631260,0.1,2.0,0,0.0,0.0,0,0.0,0.0,0,1,0,0,0,1,0.0,0,0,198.12,199.0,193.04,190.0,5.08,9.0,7.5,2.0
+0022301201,Charlie Brown Jr,Guard,1629718,Chris Livingston,Forward,1641753,0.52,2.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,199.0,198.12,220.0,0.0,-21.0,4.62,
+0022300388,Charlie Brown Jr,Guard,1629718,AJ Green,Guard,1631260,0.15,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,199.0,193.04,190.0,5.08,9.0,7.5,
+0022300388,Charlie Brown Jr,Guard,1629718,Brook Lopez,Center,201572,0.1,1.0,0,0.0,0.0,0,0.0,0.0,0,1,0,0,0,1,0.0,0,0,198.12,199.0,215.9,282.0,-17.78,-83.0,31.76,1.0
+0022300441,Charlie Brown Jr,Guard,1629718,Ben Sheppard,Guard,1641767,0.4,2.0,3,7.5,1.5,3,7.5,1.5,0,1,1,0,1,2,0.5,0,0,198.12,199.0,198.12,190.0,0.0,9.0,10.32,1.0

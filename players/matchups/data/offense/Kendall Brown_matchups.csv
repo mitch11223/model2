@@ -1,0 +1,18 @@
+Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300493,Kendall Brown,Guard,1631112,Dalano Banton,Forward,1630625,0.25,2.0,0,0.0,0.0,2,8.0,1.0,0,0,0,0,0,0,0.0,0,0,200.66,205.0,203.2,204.0,-2.54,1.0,7.41,
+0022300533,Kendall Brown,Guard,1631112,Trent Forrest,Guard,1630235,0.32,1.7,0,0.0,0.0,2,6.25,1.18,0,0,0,0,0,0,0.0,0,0,200.66,205.0,193.04,210.0,7.62,-5.0,10.63,
+0022300533,Kendall Brown,Guard,1631112,AJ Griffin,Forward,1631100,0.58,2.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,205.0,198.12,220.0,2.54,-15.0,7.65,
+0022300533,Kendall Brown,Guard,1631112,Seth Lundy,Guard-Forward,1641754,0.65,2.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,205.0,193.04,220.0,7.62,-15.0,5.78,
+0022300533,Kendall Brown,Guard,1631112,Patty Mills,Guard,201988,0.13,0.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,205.0,187.96,180.0,12.7,25.0,11.6,
+0022300564,Kendall Brown,Guard,1631112,Ochai Agbaji,Guard,1630534,0.33,3.0,0,0.0,0.0,2,6.06,0.67,0,0,0,0,0,1,0.0,0,0,200.66,205.0,195.58,215.0,5.08,-10.0,19.96,3.0
+0022300564,Kendall Brown,Guard,1631112,Jordan Clarkson,Guard,203903,0.83,4.9,2,2.41,0.41,6,7.23,1.22,0,1,0,0,1,2,0.5,0,0,200.66,205.0,190.5,194.0,10.16,11.0,30.19,2.45
+0022300564,Kendall Brown,Guard,1631112,Kris Dunn,Guard,1627739,0.17,0.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,205.0,190.5,205.0,10.16,0.0,17.59,
+0022300564,Kendall Brown,Guard,1631112,Keyonte George,Guard,1641718,0.35,2.6,0,0.0,0.0,2,5.71,0.77,0,0,0,0,0,0,0.0,0,0,200.66,205.0,193.04,185.0,7.62,20.0,24.22,
+0022300564,Kendall Brown,Guard,1631112,Walker Kessler,Center,1631117,0.4,2.1,0,0.0,0.0,2,5.0,0.95,0,0,0,0,0,2,0.0,0,0,200.66,205.0,213.36,245.0,-12.7,-40.0,23.49,1.05
+0022300564,Kendall Brown,Guard,1631112,Kelly Olynyk,Forward-Center,203482,1.78,7.1,4,2.25,0.56,8,4.49,1.13,0,0,0,4,1,1,1.0,2,2,200.66,205.0,210.82,240.0,-10.16,-35.0,20.62,7.1
+0022300564,Kendall Brown,Guard,1631112,Luka Samanic,Forward,1629677,0.53,3.9,2,3.77,0.51,4,7.55,1.03,0,0,0,2,0,0,0.0,2,1,200.66,205.0,208.28,227.0,-7.62,-22.0,6.1,
+0022300564,Kendall Brown,Guard,1631112,Collin Sexton,Guard,1629012,0.05,0.6,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,205.0,190.5,190.0,10.16,15.0,24.23,
+0022300627,Kendall Brown,Guard,1631112,Furkan Korkmaz,Guard-Forward,1627788,0.23,0.6,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,205.0,200.66,202.0,0.0,3.0,7.1,
+0022300627,Kendall Brown,Guard,1631112,KJ Martin,Forward,1630231,0.5,1.8,0,0.0,0.0,2,4.0,1.11,0,0,0,0,0,0,0.0,0,0,200.66,205.0,198.12,215.0,2.54,-10.0,8.2,
+0022300627,Kendall Brown,Guard,1631112,Paul Reed,Forward,1630194,0.03,0.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,205.0,205.74,210.0,-5.08,-5.0,16.05,
+0022300627,Kendall Brown,Guard,1631112,Terquavion Smith,Guard,1631173,0.03,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,205.0,193.04,160.0,7.62,45.0,3.75,

@@ -1,0 +1,6 @@
+Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300027,Marques Bolden,Center,1629716,Theo Maledon,Guard,1630177,0.05,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,249.0,193.04,175.0,15.24,74.0,15.46,
+0022300027,Marques Bolden,Center,1629716,Bryce McGowens,Guard,1631121,0.05,1.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,249.0,198.12,175.0,10.16,74.0,16.51,
+0022300027,Marques Bolden,Center,1629716,Nick Smith Jr,Guard,1641733,0.08,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,249.0,187.96,185.0,20.32,64.0,15.24,
+0022300027,Marques Bolden,Center,1629716,Ish Smith,Guard,202397,0.2,1.8,0,0.0,0.0,7,35.0,3.89,0,0,0,0,0,0,0.0,0,0,208.28,249.0,182.88,175.0,25.4,74.0,16.78,
+0022300027,Marques Bolden,Center,1629716,JT Thor,Forward,1630550,0.7,3.9,0,0.0,0.0,9,12.86,2.31,0,0,0,0,0,0,0.0,0,0,208.28,249.0,205.74,203.0,2.54,46.0,14.38,

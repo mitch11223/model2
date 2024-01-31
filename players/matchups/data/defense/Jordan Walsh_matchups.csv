@@ -1,0 +1,11 @@
+Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300571,Dominick Barlow,Forward,1631230,Jordan Walsh,Guard,1641775,0.1,0.5,0,0.0,0.0,2,20.0,4.0,0,0,0,0,0,0,0.0,0,0,205.74,215.0,198.12,205.0,7.62,10.0,13.19,
+0022300571,Blake Wesley,Guard,1631104,Jordan Walsh,Guard,1641775,0.25,1.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,190.5,185.0,198.12,205.0,-7.62,-20.0,11.73,
+0022300571,Devonte' Graham,Guard,1628984,Jordan Walsh,Guard,1641775,0.32,1.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,185.42,195.0,198.12,205.0,-12.7,-10.0,8.9,
+0022300571,Mamadi Diakite,Forward,1629603,Jordan Walsh,Guard,1641775,0.27,2.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,228.0,198.12,205.0,7.62,23.0,5.67,
+0022300571,Sandro Mamukelashvili,Forward-Center,1630572,Jordan Walsh,Guard,1641775,0.12,0.9,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,240.0,198.12,205.0,7.62,35.0,6.92,
+0022300630,Haywood Highsmith,Forward,1629312,Jordan Walsh,Guard,1641775,0.57,3.3,0,0.0,0.0,5,8.77,1.52,0,0,0,0,0,0,0.0,0,0,195.58,220.0,198.12,205.0,-2.54,15.0,21.33,
+0022300630,Josh Richardson,Guard,1626196,Jordan Walsh,Guard,1641775,0.55,1.9,0,0.0,0.0,0,0.0,0.0,0,1,0,0,0,1,0.0,0,0,195.58,200.0,198.12,205.0,-2.54,-5.0,25.92,1.9
+0022300630,Cole Swider,Forward,1631306,Jordan Walsh,Guard,1641775,0.22,0.6,0,0.0,0.0,1,4.55,1.67,0,0,0,0,0,0,0.0,0,0,203.2,220.0,198.12,205.0,5.08,15.0,4.89,
+0022300630,Orlando Robinson,Center,1631115,Jordan Walsh,Guard,1641775,0.05,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,235.0,198.12,205.0,10.16,30.0,11.4,
+0022300630,Nikola Jovic,Forward,1631107,Jordan Walsh,Guard,1641775,0.02,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,205.0,198.12,205.0,10.16,0.0,16.74,

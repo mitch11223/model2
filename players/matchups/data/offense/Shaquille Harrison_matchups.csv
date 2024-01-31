@@ -1,0 +1,11 @@
+Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300044,Shaquille Harrison,Guard,1627885,Grayson Allen,Guard,1628960,0.03,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,193.04,195.0,193.04,198.0,0.0,-3.0,33.51,
+0022300044,Shaquille Harrison,Guard,1627885,Devin Booker,Guard,1626164,0.28,1.7,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,193.04,195.0,198.12,206.0,-5.08,-11.0,36.11,
+0022300044,Shaquille Harrison,Guard,1627885,Jusuf Nurkic,Center,203994,0.02,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,193.04,195.0,213.36,290.0,-20.32,-95.0,27.4,
+0022300044,Shaquille Harrison,Guard,1627885,Josh Okogie,Guard,1629006,0.37,2.4,0,0.0,0.0,2,5.41,0.83,0,0,0,0,0,0,0.0,0,0,193.04,195.0,193.04,213.0,0.0,-18.0,18.12,
+0022300249,Shaquille Harrison,Guard,1627885,Leonard Miller,Forward,1631159,0.33,1.1,2,6.06,1.82,2,6.06,1.82,0,0,0,0,1,2,0.5,0,0,193.04,195.0,208.28,210.0,-15.24,-15.0,3.8,0.55
+0022300249,Shaquille Harrison,Guard,1627885,Shake Milton,Guard-Forward,1629003,0.35,2.0,0,0.0,0.0,2,5.71,1.0,0,0,0,0,0,0,0.0,0,0,193.04,195.0,195.58,205.0,-2.54,-10.0,13.36,
+0022300249,Shaquille Harrison,Guard,1627885,Daishen Nix,Guard,1630227,0.12,0.7,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,193.04,195.0,190.5,226.0,2.54,-31.0,3.5,
+0022300277,Shaquille Harrison,Guard,1627885,Jaden Hardy,Guard,1630702,0.32,1.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,193.04,195.0,190.5,198.0,2.54,-3.0,15.51,
+0022300277,Shaquille Harrison,Guard,1627885,AJ Lawson,Guard,1630639,0.35,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,193.04,195.0,198.12,179.0,-5.08,16.0,9.57,
+0022300277,Shaquille Harrison,Guard,1627885,Olivier-Maxence Prosper,Forward,1641765,0.32,1.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,193.04,195.0,200.66,230.0,-7.62,-35.0,9.04,

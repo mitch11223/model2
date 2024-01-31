@@ -1,0 +1,17 @@
+Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300240,Dariq Whitehead,Forward,1641727,Jamal Cain,Forward,1631288,0.08,0.6,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,220.0,198.12,191.0,0.0,29.0,14.86,
+0022300240,Dariq Whitehead,Forward,1641727,Nikola Jovic,Forward,1631107,0.07,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,220.0,208.28,205.0,-10.16,15.0,16.74,
+0022300240,Dariq Whitehead,Forward,1641727,Caleb Martin,Forward,1628997,0.25,0.9,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,220.0,195.58,205.0,2.54,15.0,26.31,
+0022300240,Dariq Whitehead,Forward,1641727,Josh Richardson,Guard,1626196,0.77,3.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,220.0,195.58,200.0,2.54,20.0,25.97,
+0022300240,Dariq Whitehead,Forward,1641727,Cole Swider,Forward,1631306,0.05,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,220.0,203.2,220.0,-5.08,0.0,4.89,
+0022300417,Dariq Whitehead,Forward,1641727,Giannis Antetokounmpo,Forward,203507,0.38,2.5,0,0.0,0.0,2,5.26,0.8,1,1,0,0,0,1,0.0,0,0,198.12,220.0,210.82,243.0,-12.7,-23.0,35.16,2.5
+0022300417,Dariq Whitehead,Forward,1641727,Thanasis Antetokounmpo,Forward,203648,0.07,1.0,0,0.0,0.0,2,28.57,2.0,0,0,0,0,0,0,0.0,0,0,198.12,220.0,200.66,219.0,-2.54,1.0,4.05,
+0022300417,Dariq Whitehead,Forward,1641727,Malik Beasley,Guard,1627736,0.98,6.3,0,0.0,0.0,7,7.14,1.11,0,0,0,0,0,0,0.0,0,0,198.12,220.0,193.04,187.0,5.08,33.0,29.39,
+0022300417,Dariq Whitehead,Forward,1641727,MarJon Beauchamp,Forward,1630699,1.47,5.9,0,0.0,0.0,4,2.72,0.68,0,0,0,0,0,0,0.0,0,0,198.12,220.0,200.66,199.0,-2.54,21.0,15.4,
+0022300417,Dariq Whitehead,Forward,1641727,Pat Connaughton,Guard,1626192,0.28,2.0,0,0.0,0.0,0,0.0,0.0,1,0,0,0,0,1,0.0,0,0,198.12,220.0,195.58,209.0,2.54,11.0,21.08,2.0
+0022300417,Dariq Whitehead,Forward,1641727,AJ Green,Guard,1631260,0.48,2.0,0,0.0,0.0,0,0.0,0.0,0,1,0,0,0,1,0.0,0,0,198.12,220.0,193.04,190.0,5.08,30.0,7.5,2.0
+0022300417,Dariq Whitehead,Forward,1641727,Damian Lillard,Guard,203081,1.5,7.6,0,0.0,0.0,15,10.0,1.97,0,0,0,0,0,1,0.0,0,0,198.12,220.0,187.96,195.0,10.16,25.0,35.21,7.6
+0022300417,Dariq Whitehead,Forward,1641727,Brook Lopez,Center,201572,0.27,1.4,0,0.0,0.0,2,7.41,1.43,0,0,0,0,0,0,0.0,0,0,198.12,220.0,215.9,282.0,-17.78,-62.0,31.76,
+0022300417,Dariq Whitehead,Forward,1641727,Khris Middleton,Forward,203114,1.78,9.8,2,1.12,0.2,13,7.3,1.33,0,1,0,0,1,2,0.5,0,0,198.12,220.0,200.66,222.0,-2.54,-2.0,26.13,4.9
+0022300417,Dariq Whitehead,Forward,1641727,Cameron Payne,Guard,1626166,0.83,4.4,0,0.0,0.0,7,8.43,1.59,1,0,0,0,0,0,0.0,0,0,198.12,220.0,190.5,183.0,7.62,37.0,15.19,
+0022300417,Dariq Whitehead,Forward,1641727,Bobby Portis,Forward,1626171,0.48,2.7,0,0.0,0.0,2,4.17,0.74,0,0,0,0,0,0,0.0,0,0,198.12,220.0,208.28,250.0,-10.16,-30.0,23.37,

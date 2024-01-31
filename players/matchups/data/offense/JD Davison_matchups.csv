@@ -1,0 +1,8 @@
+Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300389,JD Davison,Guard,1631120,Brandon Boston Jr,Guard,1630527,0.35,1.3,0,0.0,0.0,0,0.0,0.0,0,1,0,0,0,1,0.0,0,0,185.42,195.0,198.12,188.0,-12.7,7.0,7.0,1.3
+0022300389,JD Davison,Guard,1631120,Kobe Brown,Forward,1641738,0.02,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,185.42,195.0,200.66,250.0,-15.24,-55.0,9.59,
+0022300389,JD Davison,Guard,1631120,Bones Hyland,Guard,1630538,0.55,2.9,0,0.0,0.0,8,14.55,2.76,0,0,0,0,0,0,0.0,0,0,185.42,195.0,187.96,169.0,-2.54,26.0,13.67,
+0022300571,JD Davison,Guard,1631120,Dominick Barlow,Forward,1631230,0.02,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,185.42,195.0,205.74,215.0,-20.32,-20.0,13.15,
+0022300571,JD Davison,Guard,1631120,Devonte' Graham,Guard,1628984,0.12,0.7,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,185.42,195.0,185.42,195.0,0.0,0.0,8.9,
+0022300571,JD Davison,Guard,1631120,Sandro Mamukelashvili,Forward-Center,1630572,0.22,1.2,0,0.0,0.0,1,4.55,0.83,0,0,0,0,0,0,0.0,0,0,185.42,195.0,205.74,240.0,-20.32,-45.0,6.92,
+0022300571,JD Davison,Guard,1631120,Blake Wesley,Guard,1631104,0.83,4.6,2,2.41,0.43,2,2.41,0.43,0,0,0,2,0,0,0.0,2,1,185.42,195.0,190.5,185.0,-5.08,10.0,11.72,

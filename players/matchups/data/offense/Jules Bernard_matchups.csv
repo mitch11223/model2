@@ -1,0 +1,19 @@
+Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022301219,Jules Bernard,Guard,1631262,Dorian Finney-Smith,Forward,1627827,0.12,1.0,0,0.0,0.0,0,0.0,0.0,0,1,0,0,0,1,0.0,0,0,198.12,210.0,200.66,220.0,-2.54,-10.0,28.79,1.0
+0022301219,Jules Bernard,Guard,1631262,Royce O'Neale,Forward,1626220,0.25,2.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,210.0,198.12,226.0,0.0,-16.0,24.48,
+0022301219,Jules Bernard,Guard,1631262,Day'Ron Sharpe,Center,1630549,0.07,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,210.0,205.74,265.0,-7.62,-55.0,16.03,
+0022301219,Jules Bernard,Guard,1631262,Cam Thomas,Guard,1630560,0.65,4.2,0,0.0,0.0,4,6.15,0.95,1,0,0,0,0,0,0.0,0,0,198.12,210.0,190.5,210.0,7.62,0.0,28.75,
+0022301219,Jules Bernard,Guard,1631262,Trendon Watford,Forward,1630570,0.2,1.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,210.0,203.2,237.0,-5.08,-27.0,12.19,
+0022300295,Jules Bernard,Guard,1631262,Mo Bamba,Center,1628964,0.35,2.4,2,5.71,0.83,2,5.71,0.83,0,0,0,0,1,2,0.5,0,0,198.12,210.0,213.36,231.0,-15.24,-21.0,8.92,1.2
+0022300295,Jules Bernard,Guard,1631262,Danuel House Jr,Forward-Guard,1627863,0.5,2.3,0,0.0,0.0,1,2.0,0.43,0,0,0,0,0,0,0.0,0,0,198.12,210.0,198.12,220.0,0.0,-10.0,14.17,
+0022300295,Jules Bernard,Guard,1631262,Furkan Korkmaz,Guard-Forward,1627788,0.25,1.2,0,0.0,0.0,0,0.0,0.0,0,1,0,0,0,1,0.0,0,0,198.12,210.0,200.66,202.0,-2.54,8.0,7.1,1.2
+0022300295,Jules Bernard,Guard,1631262,KJ Martin,Forward,1630231,0.93,5.2,0,0.0,0.0,5,5.38,0.96,0,1,0,0,0,1,0.0,0,0,198.12,210.0,198.12,215.0,0.0,-5.0,8.2,5.2
+0022300295,Jules Bernard,Guard,1631262,Paul Reed,Forward,1630194,0.1,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,210.0,205.74,210.0,-7.62,0.0,16.05,
+0022300295,Jules Bernard,Guard,1631262,Jaden Springer,Guard,1630531,0.52,3.2,2,3.85,0.62,8,15.38,2.5,0,0,0,0,1,1,1.0,0,0,198.12,210.0,193.04,202.0,5.08,8.0,10.0,3.2
+0022300543,Jules Bernard,Guard,1631262,Bruno Fernando,Forward-Center,1628981,0.02,0.2,0,0.0,0.0,0,0.0,0.0,0,1,0,0,0,1,0.0,0,0,198.12,210.0,205.74,240.0,-7.62,-30.0,6.46,0.2
+0022300543,Jules Bernard,Guard,1631262,Trent Forrest,Guard,1630235,0.25,1.8,0,0.0,0.0,0,0.0,0.0,0,1,0,0,0,1,0.0,0,0,198.12,210.0,193.04,210.0,5.08,0.0,10.63,1.8
+0022300543,Jules Bernard,Guard,1631262,AJ Griffin,Forward,1631100,0.35,2.6,0,0.0,0.0,2,5.71,0.77,0,1,0,0,0,1,0.0,0,0,198.12,210.0,198.12,220.0,0.0,-10.0,7.65,2.6
+0022300543,Jules Bernard,Guard,1631262,Seth Lundy,Guard-Forward,1641754,0.37,1.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,210.0,193.04,220.0,5.08,-10.0,5.78,
+0022300543,Jules Bernard,Guard,1631262,Garrison Mathews,Guard,1629726,0.78,4.7,0,0.0,0.0,6,7.69,1.28,0,1,0,0,0,1,0.0,0,0,198.12,210.0,198.12,215.0,0.0,-5.0,12.81,4.7
+0022300628,Jules Bernard,Guard,1631262,John Collins,Forward-Center,1628381,0.08,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,210.0,205.74,226.0,-7.62,-16.0,27.67,
+0022300628,Jules Bernard,Guard,1631262,Keyonte George,Guard,1641718,0.15,1.0,0,0.0,0.0,0,0.0,0.0,0,1,0,0,0,1,0.0,0,0,198.12,210.0,193.04,185.0,5.08,25.0,24.22,1.0

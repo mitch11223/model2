@@ -1,0 +1,22 @@
+Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300575,Frank Ntilikina,Guard,1628373,Jose Alvarado,Guard,1630631,0.37,1.4,0,0.0,0.0,3,8.11,2.14,0,0,0,0,0,0,0.0,0,0,193.04,200.0,182.88,179.0,10.16,21.0,16.1,
+0022300575,Frank Ntilikina,Guard,1628373,Dyson Daniels,Guard,1630700,0.25,0.8,0,0.0,0.0,3,12.0,3.75,1,0,0,0,0,0,0.0,0,0,193.04,200.0,200.66,199.0,-7.62,1.0,22.02,
+0022300575,Frank Ntilikina,Guard,1628373,Jordan Hawkins,Guard,1641722,0.17,1.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,193.04,200.0,195.58,190.0,-2.54,10.0,21.9,
+0022300575,Frank Ntilikina,Guard,1628373,Brandon Ingram,Forward,1627742,0.18,0.9,0,0.0,0.0,0,0.0,0.0,0,1,0,0,0,1,0.0,0,0,193.04,200.0,203.2,190.0,-10.16,10.0,33.02,0.9
+0022300575,Frank Ntilikina,Guard,1628373,Naji Marshall,Forward,1630230,0.27,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,193.04,200.0,198.12,220.0,-5.08,-20.0,18.24,
+0022300575,Frank Ntilikina,Guard,1628373,Trey Murphy III,Forward,1630530,0.12,1.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,193.04,200.0,203.2,206.0,-10.16,-6.0,25.67,
+0022300575,Frank Ntilikina,Guard,1628373,Cody Zeller,Forward-Center,203469,0.05,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,193.04,200.0,210.82,240.0,-17.78,-40.0,8.27,
+0022300619,Frank Ntilikina,Guard,1628373,Bojan Bogdanovic,Forward,202711,0.4,2.0,0,0.0,0.0,6,15.0,3.0,0,0,0,0,0,0,0.0,0,0,193.04,200.0,200.66,226.0,-7.62,-26.0,33.28,
+0022300619,Frank Ntilikina,Guard,1628373,Alec Burks,Guard,202692,1.83,8.8,0,0.0,0.0,8,4.37,0.91,0,1,0,0,0,1,0.0,0,0,193.04,200.0,195.58,214.0,-2.54,-14.0,20.59,8.8
+0022300619,Frank Ntilikina,Guard,1628373,Kevin Knox II,Forward,1628995,0.37,2.0,0,0.0,0.0,2,5.41,1.0,0,0,0,0,0,0,0.0,0,0,193.04,200.0,200.66,215.0,-7.62,-15.0,18.21,
+0022300619,Frank Ntilikina,Guard,1628373,Monte Morris,,1628420,0.35,1.9,0,0.0,0.0,5,14.29,2.63,0,0,0,0,0,0,0.0,0,0,193.04,200.0,,,,,,
+0022300619,Frank Ntilikina,Guard,1628373,Mike Muscala,Forward-Center,203488,0.18,1.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,193.04,200.0,208.28,240.0,-15.24,-40.0,13.9,
+0022300619,Frank Ntilikina,Guard,1628373,Ausar Thompson,Guard-Forward,1641709,0.3,1.8,0,0.0,0.0,5,16.67,2.78,0,0,0,0,0,0,0.0,0,0,193.04,200.0,198.12,205.0,-5.08,-5.0,23.63,
+0022300635,Frank Ntilikina,Guard,1628373,Dillon Brooks,Guard-Forward,1628415,0.17,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,193.04,200.0,198.12,225.0,-5.08,-25.0,31.53,
+0022300635,Frank Ntilikina,Guard,1628373,Jalen Green,Guard,1630224,1.28,6.8,0,0.0,0.0,4,3.12,0.59,0,0,0,0,0,0,0.0,0,0,193.04,200.0,193.04,186.0,0.0,14.0,30.4,
+0022300635,Frank Ntilikina,Guard,1628373,Jock Landale,Center,1629111,0.22,2.2,2,9.09,0.91,2,9.09,0.91,0,0,0,2,0,0,0.0,2,1,193.04,200.0,210.82,255.0,-17.78,-55.0,9.22,
+0022300635,Frank Ntilikina,Guard,1628373,Alperen Sengun,Center,1630578,1.08,4.5,0,0.0,0.0,4,3.7,0.89,0,1,0,0,0,1,0.0,0,0,193.04,200.0,210.82,243.0,-17.78,-43.0,32.56,4.5
+0022300635,Frank Ntilikina,Guard,1628373,Jae'Sean Tate,Forward,1630256,0.43,2.4,3,6.98,1.25,3,6.98,1.25,0,1,1,0,1,1,1.0,0,0,193.04,200.0,193.04,230.0,0.0,-30.0,18.4,2.4
+0022300635,Frank Ntilikina,Guard,1628373,Amen Thompson,Guard-Forward,1641708,0.02,0.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,193.04,200.0,200.66,200.0,-7.62,0.0,16.46,
+0022300635,Frank Ntilikina,Guard,1628373,Fred VanVleet,Guard,1627832,0.07,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,193.04,200.0,182.88,197.0,10.16,3.0,37.16,
+0022300635,Frank Ntilikina,Guard,1628373,Cam Whitmore,Forward,1641715,0.22,2.8,0,0.0,0.0,4,18.18,1.43,0,0,0,0,0,0,0.0,0,0,193.04,200.0,200.66,230.0,-7.62,-30.0,16.32,

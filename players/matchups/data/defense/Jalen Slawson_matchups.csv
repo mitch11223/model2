@@ -1,0 +1,22 @@
+Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300198,Rui Hachimura,Forward,1629060,Jalen Slawson,Forward,1641771,0.2,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,230.0,200.66,215.0,2.54,15.0,22.79,
+0022300212,Dante Exum,Guard,203957,Jalen Slawson,Forward,1641771,0.18,0.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,214.0,200.66,215.0,-5.08,-1.0,19.75,
+0022300212,Jaden Hardy,Guard,1630702,Jalen Slawson,Forward,1641771,0.47,2.0,0,0.0,0.0,4,8.51,2.0,0,0,0,0,0,1,0.0,0,0,190.5,198.0,200.66,215.0,-10.16,-17.0,15.79,2.0
+0022300212,Richaun Holmes,Forward,1626158,Jalen Slawson,Forward,1641771,0.53,3.1,0,0.0,0.0,4,7.55,1.29,0,0,0,0,0,0,0.0,0,0,205.74,235.0,200.66,215.0,5.08,20.0,9.67,
+0022300212,Markieff Morris,Forward,202693,Jalen Slawson,Forward,1641771,0.1,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,245.0,200.66,215.0,5.08,30.0,9.44,
+0022300212,Olivier-Maxence Prosper,Forward,1641765,Jalen Slawson,Forward,1641771,0.17,0.7,0,0.0,0.0,2,11.76,2.86,0,0,0,0,0,0,0.0,0,0,200.66,230.0,200.66,215.0,0.0,15.0,9.04,
+0022300222,Zion Williamson,Forward,1629627,Jalen Slawson,Forward,1641771,1.25,5.5,0,0.0,0.0,5,4.0,0.91,0,0,0,0,0,1,0.0,0,0,198.12,284.0,200.66,215.0,-2.54,69.0,30.34,5.5
+0022300222,Herbert Jones,Forward,1630529,Jalen Slawson,Forward,1641771,0.08,0.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,206.0,200.66,215.0,0.0,-9.0,28.48,
+0022300222,Dyson Daniels,Guard,1630700,Jalen Slawson,Forward,1641771,0.17,1.4,0,0.0,0.0,4,23.53,2.86,1,0,0,0,0,0,0.0,0,0,200.66,199.0,200.66,215.0,0.0,-16.0,21.85,
+0022300222,Jordan Hawkins,Guard,1641722,Jalen Slawson,Forward,1641771,0.25,1.0,0,0.0,0.0,4,16.0,4.0,0,0,0,0,0,0,0.0,0,0,195.58,190.0,200.66,215.0,-5.08,-25.0,21.6,
+0022300222,Naji Marshall,Forward,1630230,Jalen Slawson,Forward,1641771,0.8,4.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,220.0,200.66,215.0,-2.54,5.0,18.26,
+0022300222,Jose Alvarado,Guard,1630631,Jalen Slawson,Forward,1641771,0.25,1.0,0,0.0,0.0,2,8.0,2.0,0,0,0,0,0,0,0.0,0,0,182.88,179.0,200.66,215.0,-17.78,-36.0,16.1,
+0022300222,Jeremiah Robinson-Earl,Forward,1630526,Jalen Slawson,Forward,1641771,1.67,6.5,0,0.0,0.0,5,2.99,0.77,1,1,0,0,0,1,0.0,0,0,203.2,240.0,200.66,215.0,2.54,25.0,10.74,6.5
+0022300222,Cody Zeller,Forward-Center,203469,Jalen Slawson,Forward,1641771,0.57,2.5,0,0.0,0.0,7,12.28,2.8,0,0,0,0,0,0,0.0,0,0,210.82,240.0,200.66,215.0,10.16,25.0,8.27,
+0022300222,Kira Lewis Jr,Guard,1630184,Jalen Slawson,Forward,1641771,0.32,2.6,0,0.0,0.0,0,0.0,0.0,0,1,0,0,0,2,0.0,0,0,185.42,170.0,200.66,215.0,-15.24,-45.0,9.06,1.3
+0022300264,Terance Mann,Guard-Forward,1629611,Jalen Slawson,Forward,1641771,0.03,0.6,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,1,0.0,0,0,195.58,215.0,200.66,215.0,-5.08,0.0,25.03,0.6
+0022300264,Daniel Theis,Forward-Center,1628464,Jalen Slawson,Forward,1641771,0.52,1.7,0,0.0,0.0,2,3.85,1.18,0,0,0,0,0,0,0.0,0,0,203.2,245.0,200.66,215.0,2.54,30.0,17.17,
+0022300264,Kobe Brown,Forward,1641738,Jalen Slawson,Forward,1641771,0.02,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,250.0,200.66,215.0,0.0,35.0,9.29,
+0022300264,Amir Coffey,Guard-Forward,1629599,Jalen Slawson,Forward,1641771,0.07,0.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,210.0,200.66,215.0,0.0,-5.0,16.45,
+0022300303,Cam Thomas,Guard,1630560,Jalen Slawson,Forward,1641771,0.08,0.4,3,37.5,7.5,3,37.5,7.5,0,0,0,1,1,1,1.0,1,1,190.5,210.0,200.66,215.0,-10.16,-5.0,28.81,0.4
+0022300303,Harry Giles III,Forward-Center,1628385,Jalen Slawson,Forward,1641771,0.37,1.6,2,5.41,1.25,2,5.41,1.25,0,0,0,0,1,1,1.0,0,0,208.28,240.0,200.66,215.0,7.62,25.0,5.0,1.6

@@ -1,0 +1,16 @@
+Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300067,Ty Jerome,Guard-Forward,1629660,Mikal Bridges,Guard-Forward,1628969,0.23,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,195.0,198.12,209.0,-2.54,-14.0,35.04,
+0022300067,Ty Jerome,Guard-Forward,1629660,Spencer Dinwiddie,Guard,203915,0.17,0.6,2,11.76,3.33,2,11.76,3.33,0,0,0,0,1,1,1.0,0,0,195.58,195.0,195.58,215.0,0.0,-20.0,30.65,0.6
+0022300067,Ty Jerome,Guard-Forward,1629660,Dorian Finney-Smith,Forward,1627827,0.68,4.0,0,0.0,0.0,2,2.94,0.5,0,0,0,0,0,0,0.0,0,0,195.58,195.0,200.66,220.0,-5.08,-25.0,28.79,
+0022300067,Ty Jerome,Guard-Forward,1629660,Royce O'Neale,Forward,1626220,0.15,0.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,195.0,198.12,226.0,-2.54,-31.0,24.48,
+0022300067,Ty Jerome,Guard-Forward,1629660,Day'Ron Sharpe,Center,1630549,0.13,0.9,2,15.38,2.22,2,15.38,2.22,0,0,0,0,1,1,1.0,0,0,195.58,195.0,205.74,265.0,-10.16,-70.0,16.03,0.9
+0022300067,Ty Jerome,Guard-Forward,1629660,Cam Thomas,Guard,1630560,0.83,3.1,0,0.0,0.0,7,8.43,2.26,0,0,0,0,0,0,0.0,0,0,195.58,195.0,190.5,210.0,5.08,-15.0,28.75,
+0022300081,Ty Jerome,Guard-Forward,1629660,Ousmane Dieng,Forward,1631172,0.22,0.7,2,9.09,2.86,4,18.18,5.71,0,0,0,0,1,1,1.0,0,0,195.58,195.0,205.74,185.0,-10.16,10.0,11.32,0.7
+0022300081,Ty Jerome,Guard-Forward,1629660,Luguentz Dort,Guard,1629652,0.3,2.2,0,0.0,0.0,2,6.67,0.91,0,1,0,0,0,1,0.0,0,0,195.58,195.0,193.04,220.0,2.54,-25.0,28.36,2.2
+0022300081,Ty Jerome,Guard-Forward,1629660,Josh Giddey,Guard,1630581,0.2,0.6,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,195.0,203.2,216.0,-7.62,-21.0,24.89,
+0022300081,Ty Jerome,Guard-Forward,1629660,Shai Gilgeous-Alexander,Guard,1628983,0.58,2.7,0,0.0,0.0,3,5.17,1.11,0,0,0,0,0,0,0.0,0,0,195.58,195.0,198.12,195.0,-2.54,0.0,34.22,
+0022300081,Ty Jerome,Guard-Forward,1629660,Chet Holmgren,Center-Forward,1631096,0.05,0.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,195.0,215.9,208.0,-20.32,-13.0,30.0,
+0022300081,Ty Jerome,Guard-Forward,1629660,Isaiah Joe,Guard,1630198,0.27,2.1,0,0.0,0.0,6,22.22,2.86,2,0,0,0,0,0,0.0,0,0,195.58,195.0,190.5,165.0,5.08,30.0,18.85,
+0022300081,Ty Jerome,Guard-Forward,1629660,Vasilije Micic,Guard,203995,0.17,1.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,195.0,190.5,188.0,5.08,7.0,12.04,
+0022300081,Ty Jerome,Guard-Forward,1629660,Cason Wallace,Guard,1641717,1.52,6.6,0,0.0,0.0,6,3.95,0.91,1,0,0,0,0,0,0.0,0,0,195.58,195.0,190.5,195.0,5.08,0.0,21.15,
+0022300081,Ty Jerome,Guard-Forward,1629660,Aaron Wiggins,Guard,1630598,0.27,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,1,0.0,0,0,195.58,195.0,195.58,190.0,0.0,5.0,13.07,1.0

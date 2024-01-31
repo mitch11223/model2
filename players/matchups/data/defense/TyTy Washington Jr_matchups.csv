@@ -1,0 +1,10 @@
+Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300097,AJ Griffin,Forward,1631100,TyTy Washington Jr,Guard,1631102,0.03,0.5,0,0.0,0.0,1,33.33,2.0,0,0,0,0,0,0,0.0,0,0,198.12,220.0,190.5,195.0,7.62,25.0,7.65,
+0022300097,Bruno Fernando,Forward-Center,1628981,TyTy Washington Jr,Guard,1631102,0.18,0.6,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,240.0,190.5,195.0,15.24,45.0,6.46,
+0022300097,Kobe Bufkin,Guard,1641723,TyTy Washington Jr,Guard,1631102,1.25,5.4,0,0.0,0.0,0,0.0,0.0,0,1,0,0,0,1,0.0,0,0,195.58,195.0,190.5,195.0,5.08,0.0,2.0,5.4
+0022300097,Mouhamed Gueye,Forward,1631243,TyTy Washington Jr,Guard,1631102,0.05,0.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,210.0,190.5,195.0,17.78,15.0,2.0,
+0022300195,Gradey Dick,Guard-Forward,1641711,TyTy Washington Jr,Guard,1631102,0.18,0.5,0,0.0,0.0,2,11.11,4.0,0,0,0,0,0,0,0.0,0,0,198.12,200.0,190.5,195.0,7.62,5.0,13.44,
+0022300195,Jalen McDaniels,Forward,1629667,TyTy Washington Jr,Guard,1631102,0.2,1.4,2,10.0,1.43,2,10.0,1.43,0,0,0,0,1,1,1.0,0,0,205.74,190.0,190.5,195.0,15.24,-5.0,8.82,1.4
+0022300195,Thaddeus Young,Forward,201152,TyTy Washington Jr,Guard,1631102,0.05,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,225.0,190.5,195.0,12.7,30.0,13.61,
+0022300195,Markquis Nowell,Guard,1641806,TyTy Washington Jr,Guard,1631102,0.2,2.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,170.18,160.0,190.5,195.0,-20.32,-35.0,4.0,
+0022300195,Garrett Temple,Guard-Forward,202066,TyTy Washington Jr,Guard,1631102,0.05,0.7,3,60.0,4.29,3,60.0,4.29,0,1,1,0,1,1,1.0,0,0,195.58,195.0,190.5,195.0,5.08,0.0,4.0,0.7

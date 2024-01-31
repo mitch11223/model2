@@ -1,0 +1,20 @@
+Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300074,Scoot Henderson,Guard,1630703,Jordan Miller,Guard,1641757,0.55,4.7,2,3.64,0.43,5,9.09,1.06,1,0,0,0,1,1,1.0,0,0,190.5,202.0,195.58,194.0,-5.08,8.0,26.39,4.7
+0022300074,Shaedon Sharpe,Guard,1631101,Jordan Miller,Guard,1641757,0.1,0.7,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,1,0.0,0,0,195.58,205.0,195.58,194.0,0.0,11.0,33.06,0.7
+0022300074,Toumani Camara,Forward,1641739,Jordan Miller,Guard,1641757,0.18,1.0,0,0.0,0.0,1,5.56,1.0,0,0,0,0,0,0,0.0,0,0,200.66,226.0,195.58,194.0,5.08,32.0,23.7,
+0022300074,Jabari Walker,Forward,1631133,Jordan Miller,Guard,1641757,0.27,1.6,3,11.11,1.88,7,25.93,4.38,0,0,0,1,1,1,1.0,1,1,200.66,227.0,195.58,194.0,5.08,33.0,21.56,1.6
+0022300085,Keyonte George,Guard,1641718,Jordan Miller,Guard,1641757,0.02,0.0,0,0.0,,0,0.0,,0,0,0,0,0,0,0.0,0,0,193.04,185.0,195.58,194.0,-2.54,-9.0,24.29,
+0022300114,Anthony Black,Guard,1641710,Jordan Miller,Guard,1641757,0.28,1.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,200.0,195.58,194.0,5.08,6.0,19.45,
+0022300114,Caleb Houstan,Guard,1631216,Jordan Miller,Guard,1641757,0.03,0.1,3,100.0,30.0,3,100.0,30.0,0,0,0,1,1,1,1.0,1,1,203.2,205.0,195.58,194.0,7.62,11.0,15.64,0.1
+0022300114,Chuma Okeke,Forward,1629643,Jordan Miller,Guard,1641757,0.45,2.0,0,0.0,0.0,1,2.22,0.5,0,0,0,0,0,0,0.0,0,0,200.66,229.0,195.58,194.0,5.08,35.0,12.66,
+0022300114,Goga Bitadze,Center-Forward,1629048,Jordan Miller,Guard,1641757,0.1,0.7,0,0.0,0.0,3,30.0,4.29,0,0,0,0,0,0,0.0,0,0,208.28,250.0,195.58,194.0,12.7,56.0,19.73,
+0022300114,Jett Howard,Guard,1641724,Jordan Miller,Guard,1641757,0.42,1.8,2,4.76,1.11,2,4.76,1.11,0,0,0,0,1,1,1.0,0,0,198.12,215.0,195.58,194.0,2.54,21.0,3.64,1.8
+0022300343,Jericho Sims,Center,1630579,Jordan Miller,Guard,1641757,0.08,1.0,2,25.0,2.0,2,25.0,2.0,0,0,0,0,1,1,1.0,0,0,208.28,250.0,195.58,194.0,12.7,56.0,8.52,1.0
+0022300343,Miles McBride,Guard,1630540,Jordan Miller,Guard,1641757,0.13,1.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,185.42,195.0,195.58,194.0,-10.16,1.0,9.97,
+0022300343,Taj Gibson,Forward,201959,Jordan Miller,Guard,1641757,0.35,2.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,232.0,195.58,194.0,10.16,38.0,9.5,
+0022300343,DaQuan Jeffries,Guard-Forward,1629610,Jordan Miller,Guard,1641757,0.62,6.2,0,0.0,0.0,7,11.29,1.13,0,1,0,0,0,1,0.0,0,0,195.58,222.0,195.58,194.0,0.0,28.0,2.8,6.2
+0022300343,Ryan Arcidiacono,Guard,1627853,Jordan Miller,Guard,1641757,0.38,1.4,0,0.0,0.0,4,10.53,2.86,0,0,0,0,0,0,0.0,0,0,190.5,195.0,195.58,194.0,-5.08,1.0,2.32,
+0022300537,David Roddy,Forward,1631223,Jordan Miller,Guard,1641757,0.2,0.6,0,0.0,0.0,2,10.0,3.33,0,0,0,0,0,0,0.0,0,0,193.04,255.0,195.58,194.0,-2.54,61.0,23.02,
+0022300537,Jacob Gilyard,Guard,1631367,Jordan Miller,Guard,1641757,0.38,1.3,0,0.0,0.0,0,0.0,0.0,1,0,0,0,0,0,0.0,0,0,172.72,160.0,195.58,194.0,-22.86,-34.0,16.03,
+0022300537,Jake LaRavia,Forward,1631222,Jordan Miller,Guard,1641757,0.52,3.3,2,3.85,0.61,8,15.38,2.42,0,0,0,0,1,1,1.0,0,0,200.66,235.0,195.58,194.0,5.08,41.0,11.09,3.3
+0022300537,GG Jackson,Forward,1641713,Jordan Miller,Guard,1641757,0.23,1.7,0,0.0,0.0,5,21.74,2.94,1,0,0,0,0,0,0.0,0,0,205.74,210.0,195.58,194.0,10.16,16.0,15.4,

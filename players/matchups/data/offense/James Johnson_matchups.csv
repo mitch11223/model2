@@ -1,0 +1,28 @@
+Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300338,James Johnson,Forward,201949,Nickeil Alexander-Walker,Guard,1629638,0.42,3.0,0,0.0,0.0,5,11.9,1.67,0,0,0,0,0,0,0.0,0,0,200.66,240.0,195.58,205.0,5.08,35.0,22.8,
+0022300338,James Johnson,Forward,201949,Troy Brown Jr,Guard-Forward,1628972,0.28,1.7,0,0.0,0.0,2,7.14,1.18,0,0,0,0,0,0,0.0,0,0,200.66,240.0,200.66,215.0,0.0,25.0,11.56,
+0022300338,James Johnson,Forward,201949,Shake Milton,Guard-Forward,1629003,0.02,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,240.0,195.58,205.0,5.08,35.0,13.36,
+0022300338,James Johnson,Forward,201949,Wendell Moore Jr,Guard,1631111,0.23,1.7,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,240.0,195.58,215.0,5.08,25.0,2.91,
+0022300350,James Johnson,Forward,201949,Brandon Boston Jr,Guard,1630527,0.15,2.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,240.0,198.12,188.0,2.54,52.0,7.0,
+0022300350,James Johnson,Forward,201949,Kobe Brown,Forward,1641738,0.18,2.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,240.0,200.66,250.0,0.0,-10.0,9.59,
+0022300350,James Johnson,Forward,201949,Terance Mann,Guard-Forward,1629611,0.03,0.2,0,0.0,0.0,3,100.0,15.0,0,0,0,0,0,0,0.0,0,0,200.66,240.0,195.58,215.0,5.08,25.0,25.18,
+0022300350,James Johnson,Forward,201949,Norman Powell,Guard,1626181,0.07,0.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,240.0,193.04,215.0,7.62,25.0,25.32,
+0022300350,James Johnson,Forward,201949,Daniel Theis,Forward-Center,1628464,1.47,8.6,0,0.0,0.0,8,5.44,0.93,2,0,0,0,0,1,0.0,0,0,200.66,240.0,203.2,245.0,-2.54,-5.0,17.18,8.6
+0022300365,James Johnson,Forward,201949,Leaky Black,Forward,1641778,0.05,0.5,0,0.0,0.0,2,40.0,4.0,0,0,0,0,0,0,0.0,0,0,200.66,240.0,198.12,209.0,2.54,31.0,5.8,
+0022300365,James Johnson,Forward,201949,James Bouknight,Guard,1630547,0.13,1.4,0,0.0,0.0,2,15.38,1.43,0,0,0,0,0,0,0.0,0,0,200.66,240.0,193.04,190.0,7.62,50.0,6.45,
+0022300365,James Johnson,Forward,201949,Bryce McGowens,Guard,1631121,0.32,1.7,0,0.0,0.0,4,12.5,2.35,0,0,0,0,0,0,0.0,0,0,200.66,240.0,198.12,175.0,2.54,65.0,16.51,
+0022300365,James Johnson,Forward,201949,Nathan Mensah,Center,1641877,0.22,1.1,2,9.09,1.82,2,9.09,1.82,1,0,0,0,1,1,1.0,0,0,200.66,240.0,205.74,230.0,-5.08,10.0,13.74,1.1
+0022300365,James Johnson,Forward,201949,Nick Smith Jr,Guard,1641733,0.12,0.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,240.0,187.96,185.0,12.7,55.0,15.24,
+0022300365,James Johnson,Forward,201949,JT Thor,Forward,1630550,1.4,6.1,0,0.0,0.0,4,2.86,0.66,1,0,0,0,0,0,0.0,0,0,200.66,240.0,205.74,203.0,-5.08,37.0,14.38,
+0022300480,James Johnson,Forward,201949,Saddiq Bey,Guard-Forward,1630180,0.03,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,240.0,200.66,215.0,0.0,25.0,32.57,
+0022300480,James Johnson,Forward,201949,Bruno Fernando,Forward-Center,1628981,1.37,7.9,0,0.0,0.0,10,7.3,1.27,0,1,0,0,0,2,0.0,0,0,200.66,240.0,205.74,240.0,-5.08,0.0,6.46,3.95
+0022300480,James Johnson,Forward,201949,Trent Forrest,Guard,1630235,0.23,0.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,240.0,193.04,210.0,7.62,30.0,10.63,
+0022300480,James Johnson,Forward,201949,AJ Griffin,Forward,1631100,0.73,3.2,0,0.0,0.0,6,8.22,1.88,1,0,0,0,0,0,0.0,0,0,200.66,240.0,198.12,220.0,2.54,20.0,7.65,
+0022300480,James Johnson,Forward,201949,Jalen Johnson,Forward,1630552,0.08,0.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,240.0,203.2,219.0,-2.54,21.0,32.94,
+0022300480,James Johnson,Forward,201949,Seth Lundy,Guard-Forward,1641754,0.35,2.2,0,0.0,0.0,2,5.71,0.91,0,0,0,0,0,0,0.0,0,0,200.66,240.0,193.04,220.0,7.62,20.0,5.78,
+0022300480,James Johnson,Forward,201949,Garrison Mathews,Guard,1629726,0.05,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,240.0,198.12,215.0,2.54,25.0,12.81,
+0022300480,James Johnson,Forward,201949,Dejounte Murray,Guard,1627749,0.13,0.9,2,15.38,2.22,2,15.38,2.22,0,0,0,0,1,1,1.0,0,0,200.66,240.0,195.58,180.0,5.08,60.0,34.76,0.9
+0022300480,James Johnson,Forward,201949,Onyeka Okongwu,Forward-Center,1630168,0.13,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,240.0,208.28,240.0,-7.62,0.0,24.64,
+0022300564,James Johnson,Forward,201949,Ochai Agbaji,Guard,1630534,0.13,0.6,0,0.0,0.0,2,15.38,3.33,0,0,0,0,0,0,0.0,0,0,200.66,240.0,195.58,215.0,5.08,25.0,19.96,
+0022300564,James Johnson,Forward,201949,Walker Kessler,Center,1631117,0.03,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,240.0,213.36,245.0,-12.7,-5.0,23.49,
+0022300564,James Johnson,Forward,201949,Lauri Markkanen,Forward-Center,1628374,0.05,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,240.0,213.36,240.0,-12.7,0.0,32.65,

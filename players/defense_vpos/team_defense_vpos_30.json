@@ -1,0 +1,2377 @@
+{
+    "season": "2023",
+    "range": "30",
+    "avg_games_played": 47,
+    "teams": {
+        "ATL": {
+            "ALL": {
+                "three_points_made": 2.75,
+                "rebounds": 8.87,
+                "assists": 5.76,
+                "turnovers": 2.6,
+                "steals": 1.58,
+                "blocks": 1.09,
+                "points": 24.68,
+                "free_throw_perc": 78.21,
+                "field_goals_perc": 50.78
+            },
+            "C": {
+                "three_points_made": 0.69,
+                "rebounds": 15.44,
+                "assists": 5,
+                "turnovers": 2.92,
+                "steals": 1.94,
+                "blocks": 2.64,
+                "points": 24.2,
+                "free_throw_perc": 73.8,
+                "field_goals_perc": 62.02
+            },
+            "PF": {
+                "three_points_made": 2.89,
+                "rebounds": 10.64,
+                "assists": 4.1,
+                "turnovers": 2.06,
+                "steals": 1.71,
+                "blocks": 1.3,
+                "points": 26.57,
+                "free_throw_perc": 74.21,
+                "field_goals_perc": 53.62
+            },
+            "PG": {
+                "three_points_made": 2.94,
+                "rebounds": 6.35,
+                "assists": 9.27,
+                "turnovers": 3.25,
+                "steals": 1.82,
+                "blocks": 0.54,
+                "points": 25.72,
+                "free_throw_perc": 83.13,
+                "field_goals_perc": 48.88
+            },
+            "SF": {
+                "three_points_made": 3.2,
+                "rebounds": 7.88,
+                "assists": 4.4,
+                "turnovers": 2.07,
+                "steals": 1.37,
+                "blocks": 0.56,
+                "points": 23.02,
+                "free_throw_perc": 76.75,
+                "field_goals_perc": 47.79
+            },
+            "SG": {
+                "three_points_made": 3.34,
+                "rebounds": 6.25,
+                "assists": 5.64,
+                "turnovers": 2.76,
+                "steals": 1.16,
+                "blocks": 0.87,
+                "points": 23.49,
+                "free_throw_perc": 83.38,
+                "field_goals_perc": 46.14
+            },
+            "TM": {
+                "three_points_made": 13.87,
+                "rebounds": 44.7,
+                "assists": 29.03,
+                "turnovers": 13.13,
+                "steals": 7.97,
+                "blocks": 5.5,
+                "points": 124.27,
+                "free_throw_perc": 78.25,
+                "field_goals_perc": 50.77
+            }
+        },
+        "BKN": {
+            "ALL": {
+                "three_points_made": 2.64,
+                "rebounds": 8.9,
+                "assists": 5.19,
+                "turnovers": 2.37,
+                "steals": 1.21,
+                "blocks": 1.02,
+                "points": 22.84,
+                "free_throw_perc": 80.3,
+                "field_goals_perc": 46.98
+            },
+            "C": {
+                "three_points_made": 1.03,
+                "rebounds": 15.09,
+                "assists": 4.51,
+                "turnovers": 1.7,
+                "steals": 1.2,
+                "blocks": 2.44,
+                "points": 19.61,
+                "free_throw_perc": 74.72,
+                "field_goals_perc": 53.14
+            },
+            "PF": {
+                "three_points_made": 2.32,
+                "rebounds": 10.71,
+                "assists": 4.14,
+                "turnovers": 2.73,
+                "steals": 0.92,
+                "blocks": 0.75,
+                "points": 23.25,
+                "free_throw_perc": 79.05,
+                "field_goals_perc": 47.82
+            },
+            "PG": {
+                "three_points_made": 3.41,
+                "rebounds": 6.08,
+                "assists": 8.63,
+                "turnovers": 3.07,
+                "steals": 1.27,
+                "blocks": 0.73,
+                "points": 28,
+                "free_throw_perc": 83.78,
+                "field_goals_perc": 49.26
+            },
+            "SF": {
+                "three_points_made": 2.45,
+                "rebounds": 7.86,
+                "assists": 4.01,
+                "turnovers": 2.02,
+                "steals": 1.26,
+                "blocks": 0.89,
+                "points": 21.22,
+                "free_throw_perc": 83.37,
+                "field_goals_perc": 45.52
+            },
+            "SG": {
+                "three_points_made": 3.47,
+                "rebounds": 6.6,
+                "assists": 4.64,
+                "turnovers": 2.25,
+                "steals": 1.37,
+                "blocks": 0.66,
+                "points": 21.81,
+                "free_throw_perc": 79.15,
+                "field_goals_perc": 42.13
+            },
+            "TM": {
+                "three_points_made": 13.33,
+                "rebounds": 44.83,
+                "assists": 26.13,
+                "turnovers": 11.97,
+                "steals": 6.13,
+                "blocks": 5.17,
+                "points": 115.03,
+                "free_throw_perc": 80.37,
+                "field_goals_perc": 46.98
+            }
+        },
+        "BOS": {
+            "ALL": {
+                "three_points_made": 2.59,
+                "rebounds": 8.8,
+                "assists": 5.06,
+                "turnovers": 2.15,
+                "steals": 1.28,
+                "blocks": 0.79,
+                "points": 22.47,
+                "free_throw_perc": 76.53,
+                "field_goals_perc": 45.95
+            },
+            "C": {
+                "three_points_made": 1.35,
+                "rebounds": 14.06,
+                "assists": 4.58,
+                "turnovers": 2.63,
+                "steals": 0.8,
+                "blocks": 1.69,
+                "points": 24.46,
+                "free_throw_perc": 67.68,
+                "field_goals_perc": 55.57
+            },
+            "PF": {
+                "three_points_made": 2.63,
+                "rebounds": 9.55,
+                "assists": 3.68,
+                "turnovers": 1.87,
+                "steals": 1.08,
+                "blocks": 0.98,
+                "points": 21.77,
+                "free_throw_perc": 78.36,
+                "field_goals_perc": 45.39
+            },
+            "PG": {
+                "three_points_made": 3.07,
+                "rebounds": 7.01,
+                "assists": 8.92,
+                "turnovers": 2.83,
+                "steals": 1.57,
+                "blocks": 0.51,
+                "points": 26.19,
+                "free_throw_perc": 77.19,
+                "field_goals_perc": 45.78
+            },
+            "SF": {
+                "three_points_made": 2.5,
+                "rebounds": 7.64,
+                "assists": 3.75,
+                "turnovers": 1.64,
+                "steals": 1.51,
+                "blocks": 0.62,
+                "points": 19.4,
+                "free_throw_perc": 76.43,
+                "field_goals_perc": 43.05
+            },
+            "SG": {
+                "three_points_made": 3.04,
+                "rebounds": 7.27,
+                "assists": 4.51,
+                "turnovers": 1.94,
+                "steals": 1.33,
+                "blocks": 0.42,
+                "points": 21.4,
+                "free_throw_perc": 82.81,
+                "field_goals_perc": 42.94
+            },
+            "TM": {
+                "three_points_made": 13.13,
+                "rebounds": 44.5,
+                "assists": 25.57,
+                "turnovers": 10.87,
+                "steals": 6.5,
+                "blocks": 4,
+                "points": 113.57,
+                "free_throw_perc": 76.45,
+                "field_goals_perc": 45.95
+            }
+        },
+        "CHA": {
+            "ALL": {
+                "three_points_made": 2.69,
+                "rebounds": 9.12,
+                "assists": 5.72,
+                "turnovers": 2.6,
+                "steals": 1.38,
+                "blocks": 1.07,
+                "points": 23.79,
+                "free_throw_perc": 81.26,
+                "field_goals_perc": 50.73
+            },
+            "C": {
+                "three_points_made": 0.89,
+                "rebounds": 16.9,
+                "assists": 4.5,
+                "turnovers": 3.81,
+                "steals": 0.97,
+                "blocks": 2.02,
+                "points": 28.9,
+                "free_throw_perc": 76.8,
+                "field_goals_perc": 63.72
+            },
+            "PF": {
+                "three_points_made": 2.53,
+                "rebounds": 9.95,
+                "assists": 4.77,
+                "turnovers": 2.75,
+                "steals": 1.28,
+                "blocks": 1.13,
+                "points": 23.94,
+                "free_throw_perc": 73.97,
+                "field_goals_perc": 53.06
+            },
+            "PG": {
+                "three_points_made": 3.61,
+                "rebounds": 6.54,
+                "assists": 8.89,
+                "turnovers": 2.45,
+                "steals": 1.51,
+                "blocks": 0.75,
+                "points": 24.32,
+                "free_throw_perc": 81.61,
+                "field_goals_perc": 46.99
+            },
+            "SF": {
+                "three_points_made": 2.98,
+                "rebounds": 7.86,
+                "assists": 5.36,
+                "turnovers": 2.22,
+                "steals": 1.46,
+                "blocks": 0.82,
+                "points": 23.79,
+                "free_throw_perc": 88.74,
+                "field_goals_perc": 48.45
+            },
+            "SG": {
+                "three_points_made": 3.06,
+                "rebounds": 6.44,
+                "assists": 5.21,
+                "turnovers": 2.14,
+                "steals": 1.54,
+                "blocks": 0.86,
+                "points": 20.01,
+                "free_throw_perc": 81.19,
+                "field_goals_perc": 44.37
+            },
+            "TM": {
+                "three_points_made": 13.53,
+                "rebounds": 45.77,
+                "assists": 28.73,
+                "turnovers": 13.07,
+                "steals": 6.93,
+                "blocks": 5.4,
+                "points": 119.4,
+                "free_throw_perc": 81.14,
+                "field_goals_perc": 50.77
+            }
+        },
+        "CHI": {
+            "ALL": {
+                "three_points_made": 2.72,
+                "rebounds": 8.4,
+                "assists": 5.55,
+                "turnovers": 2.49,
+                "steals": 1.36,
+                "blocks": 0.99,
+                "points": 22.21,
+                "free_throw_perc": 78.76,
+                "field_goals_perc": 46.89
+            },
+            "C": {
+                "three_points_made": 1.14,
+                "rebounds": 14.41,
+                "assists": 4.7,
+                "turnovers": 2.1,
+                "steals": 1.14,
+                "blocks": 2.28,
+                "points": 22.58,
+                "free_throw_perc": 73.53,
+                "field_goals_perc": 54.34
+            },
+            "PF": {
+                "three_points_made": 2.58,
+                "rebounds": 11.21,
+                "assists": 4.5,
+                "turnovers": 2.67,
+                "steals": 1.41,
+                "blocks": 1.27,
+                "points": 24.08,
+                "free_throw_perc": 72.99,
+                "field_goals_perc": 50.88
+            },
+            "PG": {
+                "three_points_made": 3.23,
+                "rebounds": 5.12,
+                "assists": 8.65,
+                "turnovers": 3.07,
+                "steals": 1.15,
+                "blocks": 0.66,
+                "points": 22.14,
+                "free_throw_perc": 86.85,
+                "field_goals_perc": 44.3
+            },
+            "SF": {
+                "three_points_made": 2.43,
+                "rebounds": 6.7,
+                "assists": 4.37,
+                "turnovers": 2.2,
+                "steals": 1.53,
+                "blocks": 0.56,
+                "points": 20.61,
+                "free_throw_perc": 80.67,
+                "field_goals_perc": 43.43
+            },
+            "SG": {
+                "three_points_made": 3.77,
+                "rebounds": 5.76,
+                "assists": 5.52,
+                "turnovers": 2.29,
+                "steals": 1.5,
+                "blocks": 0.48,
+                "points": 21.42,
+                "free_throw_perc": 82.86,
+                "field_goals_perc": 43.35
+            },
+            "TM": {
+                "three_points_made": 13.83,
+                "rebounds": 42.6,
+                "assists": 28.17,
+                "turnovers": 12.63,
+                "steals": 6.93,
+                "blocks": 5.03,
+                "points": 112.6,
+                "free_throw_perc": 78.84,
+                "field_goals_perc": 46.93
+            }
+        },
+        "CLE": {
+            "ALL": {
+                "three_points_made": 2.28,
+                "rebounds": 8.21,
+                "assists": 4.76,
+                "turnovers": 2.65,
+                "steals": 1.54,
+                "blocks": 1.02,
+                "points": 21.71,
+                "free_throw_perc": 79.21,
+                "field_goals_perc": 45.88
+            },
+            "C": {
+                "three_points_made": 0.91,
+                "rebounds": 13.28,
+                "assists": 3.51,
+                "turnovers": 2.71,
+                "steals": 1.29,
+                "blocks": 2.25,
+                "points": 20.81,
+                "free_throw_perc": 72.28,
+                "field_goals_perc": 55.9
+            },
+            "PF": {
+                "three_points_made": 2.42,
+                "rebounds": 10.03,
+                "assists": 4.18,
+                "turnovers": 2.88,
+                "steals": 1.37,
+                "blocks": 1.09,
+                "points": 25.3,
+                "free_throw_perc": 74.85,
+                "field_goals_perc": 48.99
+            },
+            "PG": {
+                "three_points_made": 2.95,
+                "rebounds": 5.32,
+                "assists": 7.37,
+                "turnovers": 3.41,
+                "steals": 1.87,
+                "blocks": 0.68,
+                "points": 23.82,
+                "free_throw_perc": 85.13,
+                "field_goals_perc": 44.57
+            },
+            "SF": {
+                "three_points_made": 1.86,
+                "rebounds": 7.95,
+                "assists": 4.55,
+                "turnovers": 2.72,
+                "steals": 1.77,
+                "blocks": 0.7,
+                "points": 20.04,
+                "free_throw_perc": 80.87,
+                "field_goals_perc": 40.03
+            },
+            "SG": {
+                "three_points_made": 3.04,
+                "rebounds": 5.49,
+                "assists": 4.28,
+                "turnovers": 1.77,
+                "steals": 1.41,
+                "blocks": 0.62,
+                "points": 19.4,
+                "free_throw_perc": 82.95,
+                "field_goals_perc": 43.09
+            },
+            "TM": {
+                "three_points_made": 11.47,
+                "rebounds": 41.2,
+                "assists": 23.9,
+                "turnovers": 13.33,
+                "steals": 7.77,
+                "blocks": 5.13,
+                "points": 108.97,
+                "free_throw_perc": 79.22,
+                "field_goals_perc": 45.91
+            }
+        },
+        "DAL": {
+            "ALL": {
+                "three_points_made": 2.76,
+                "rebounds": 9.09,
+                "assists": 5.42,
+                "turnovers": 2.68,
+                "steals": 1.46,
+                "blocks": 0.81,
+                "points": 23.76,
+                "free_throw_perc": 77.33,
+                "field_goals_perc": 48.17
+            },
+            "C": {
+                "three_points_made": 1.42,
+                "rebounds": 14.95,
+                "assists": 4.43,
+                "turnovers": 3.2,
+                "steals": 1.46,
+                "blocks": 1.22,
+                "points": 22.35,
+                "free_throw_perc": 74.95,
+                "field_goals_perc": 57.39
+            },
+            "PF": {
+                "three_points_made": 2.5,
+                "rebounds": 10.71,
+                "assists": 4.44,
+                "turnovers": 2.7,
+                "steals": 1.68,
+                "blocks": 0.98,
+                "points": 26,
+                "free_throw_perc": 73.63,
+                "field_goals_perc": 49.3
+            },
+            "PG": {
+                "three_points_made": 2.87,
+                "rebounds": 6.08,
+                "assists": 8.12,
+                "turnovers": 3.13,
+                "steals": 1.49,
+                "blocks": 0.54,
+                "points": 25.14,
+                "free_throw_perc": 84.7,
+                "field_goals_perc": 45.3
+            },
+            "SF": {
+                "three_points_made": 2.35,
+                "rebounds": 7.28,
+                "assists": 3.72,
+                "turnovers": 2,
+                "steals": 1.44,
+                "blocks": 0.8,
+                "points": 19.27,
+                "free_throw_perc": 74.93,
+                "field_goals_perc": 44.21
+            },
+            "SG": {
+                "three_points_made": 4.07,
+                "rebounds": 7.45,
+                "assists": 6.15,
+                "turnovers": 2.51,
+                "steals": 1.29,
+                "blocks": 0.59,
+                "points": 25.26,
+                "free_throw_perc": 78.68,
+                "field_goals_perc": 46.97
+            },
+            "TM": {
+                "three_points_made": 13.83,
+                "rebounds": 45.47,
+                "assists": 27.1,
+                "turnovers": 13.43,
+                "steals": 7.33,
+                "blocks": 4.07,
+                "points": 118.83,
+                "free_throw_perc": 77.4,
+                "field_goals_perc": 48.17
+            }
+        },
+        "DEN": {
+            "ALL": {
+                "three_points_made": 2.38,
+                "rebounds": 8.21,
+                "assists": 5.21,
+                "turnovers": 2.19,
+                "steals": 1.24,
+                "blocks": 1.01,
+                "points": 22.42,
+                "free_throw_perc": 77.21,
+                "field_goals_perc": 47.2
+            },
+            "C": {
+                "three_points_made": 1.39,
+                "rebounds": 13.8,
+                "assists": 4.35,
+                "turnovers": 2.09,
+                "steals": 1.1,
+                "blocks": 1.97,
+                "points": 24.41,
+                "free_throw_perc": 70.8,
+                "field_goals_perc": 55.7
+            },
+            "PF": {
+                "three_points_made": 1.96,
+                "rebounds": 9.76,
+                "assists": 4.35,
+                "turnovers": 1.59,
+                "steals": 0.99,
+                "blocks": 0.91,
+                "points": 22.58,
+                "free_throw_perc": 75.45,
+                "field_goals_perc": 46.3
+            },
+            "PG": {
+                "three_points_made": 3.1,
+                "rebounds": 5.62,
+                "assists": 8.98,
+                "turnovers": 2.59,
+                "steals": 1.53,
+                "blocks": 0.58,
+                "points": 23.45,
+                "free_throw_perc": 80.13,
+                "field_goals_perc": 45.08
+            },
+            "SF": {
+                "three_points_made": 2,
+                "rebounds": 6.67,
+                "assists": 3.87,
+                "turnovers": 2.35,
+                "steals": 1.41,
+                "blocks": 1.07,
+                "points": 18.02,
+                "free_throw_perc": 74.34,
+                "field_goals_perc": 41.73
+            },
+            "SG": {
+                "three_points_made": 3.23,
+                "rebounds": 6,
+                "assists": 4.81,
+                "turnovers": 2.42,
+                "steals": 1.19,
+                "blocks": 0.72,
+                "points": 23.71,
+                "free_throw_perc": 84.71,
+                "field_goals_perc": 48
+            },
+            "TM": {
+                "three_points_made": 11.9,
+                "rebounds": 41.07,
+                "assists": 26.07,
+                "turnovers": 10.97,
+                "steals": 6.2,
+                "blocks": 5.07,
+                "points": 112.1,
+                "free_throw_perc": 77.29,
+                "field_goals_perc": 47.2
+            }
+        },
+        "DET": {
+            "ALL": {
+                "three_points_made": 2.46,
+                "rebounds": 8.73,
+                "assists": 5.48,
+                "turnovers": 2.23,
+                "steals": 1.62,
+                "blocks": 1.13,
+                "points": 24.78,
+                "free_throw_perc": 80.61,
+                "field_goals_perc": 50.33
+            },
+            "C": {
+                "three_points_made": 0.61,
+                "rebounds": 14.68,
+                "assists": 5,
+                "turnovers": 2.58,
+                "steals": 1.55,
+                "blocks": 3.07,
+                "points": 24.97,
+                "free_throw_perc": 78.25,
+                "field_goals_perc": 61.24
+            },
+            "PF": {
+                "three_points_made": 2.54,
+                "rebounds": 10.48,
+                "assists": 3.85,
+                "turnovers": 2.25,
+                "steals": 1.44,
+                "blocks": 0.83,
+                "points": 26.62,
+                "free_throw_perc": 75.67,
+                "field_goals_perc": 51.52
+            },
+            "PG": {
+                "three_points_made": 2.87,
+                "rebounds": 5.71,
+                "assists": 10.36,
+                "turnovers": 2.64,
+                "steals": 1.57,
+                "blocks": 0.7,
+                "points": 27.62,
+                "free_throw_perc": 82.54,
+                "field_goals_perc": 46.52
+            },
+            "SF": {
+                "three_points_made": 2.9,
+                "rebounds": 7.66,
+                "assists": 4.64,
+                "turnovers": 1.77,
+                "steals": 1.51,
+                "blocks": 0.6,
+                "points": 22.39,
+                "free_throw_perc": 83.06,
+                "field_goals_perc": 49.61
+            },
+            "SG": {
+                "three_points_made": 2.93,
+                "rebounds": 6.32,
+                "assists": 4.58,
+                "turnovers": 2.15,
+                "steals": 1.95,
+                "blocks": 0.89,
+                "points": 23.32,
+                "free_throw_perc": 85.31,
+                "field_goals_perc": 46.59
+            },
+            "TM": {
+                "three_points_made": 12.4,
+                "rebounds": 43.97,
+                "assists": 27.63,
+                "turnovers": 11.27,
+                "steals": 8.17,
+                "blocks": 5.73,
+                "points": 124.77,
+                "free_throw_perc": 80.58,
+                "field_goals_perc": 50.37
+            }
+        },
+        "GSW": {
+            "ALL": {
+                "three_points_made": 2.72,
+                "rebounds": 8.34,
+                "assists": 5.27,
+                "turnovers": 2.26,
+                "steals": 1.57,
+                "blocks": 0.96,
+                "points": 23.92,
+                "free_throw_perc": 80.54,
+                "field_goals_perc": 48.03
+            },
+            "C": {
+                "three_points_made": 0.87,
+                "rebounds": 13.68,
+                "assists": 4.91,
+                "turnovers": 2.49,
+                "steals": 0.87,
+                "blocks": 2.06,
+                "points": 21.9,
+                "free_throw_perc": 80.58,
+                "field_goals_perc": 51.36
+            },
+            "PF": {
+                "three_points_made": 2.56,
+                "rebounds": 10.23,
+                "assists": 5.1,
+                "turnovers": 2.4,
+                "steals": 1.45,
+                "blocks": 1.01,
+                "points": 24.9,
+                "free_throw_perc": 80.46,
+                "field_goals_perc": 48.87
+            },
+            "PG": {
+                "three_points_made": 2.93,
+                "rebounds": 6.38,
+                "assists": 8.8,
+                "turnovers": 2.2,
+                "steals": 2.07,
+                "blocks": 0.63,
+                "points": 25.74,
+                "free_throw_perc": 82.51,
+                "field_goals_perc": 46.11
+            },
+            "SF": {
+                "three_points_made": 3.16,
+                "rebounds": 7.54,
+                "assists": 3.97,
+                "turnovers": 1.92,
+                "steals": 1.71,
+                "blocks": 0.74,
+                "points": 24.05,
+                "free_throw_perc": 80.47,
+                "field_goals_perc": 49.69
+            },
+            "SG": {
+                "three_points_made": 3.64,
+                "rebounds": 5.16,
+                "assists": 3.58,
+                "turnovers": 2.33,
+                "steals": 1.63,
+                "blocks": 0.61,
+                "points": 22.72,
+                "free_throw_perc": 76.42,
+                "field_goals_perc": 45.55
+            },
+            "TM": {
+                "three_points_made": 13.8,
+                "rebounds": 42.3,
+                "assists": 26.73,
+                "turnovers": 11.5,
+                "steals": 8,
+                "blocks": 4.9,
+                "points": 121.27,
+                "free_throw_perc": 80.43,
+                "field_goals_perc": 48.05
+            }
+        },
+        "HOU": {
+            "ALL": {
+                "three_points_made": 2.54,
+                "rebounds": 8.75,
+                "assists": 5.03,
+                "turnovers": 2.59,
+                "steals": 1.47,
+                "blocks": 1.19,
+                "points": 22.75,
+                "free_throw_perc": 74.67,
+                "field_goals_perc": 46.45
+            },
+            "C": {
+                "three_points_made": 1.13,
+                "rebounds": 14.75,
+                "assists": 3.35,
+                "turnovers": 2.54,
+                "steals": 1.25,
+                "blocks": 2.82,
+                "points": 22.75,
+                "free_throw_perc": 68.27,
+                "field_goals_perc": 54.31
+            },
+            "PF": {
+                "three_points_made": 2.15,
+                "rebounds": 9.89,
+                "assists": 4.38,
+                "turnovers": 2.92,
+                "steals": 1.63,
+                "blocks": 1.37,
+                "points": 24.05,
+                "free_throw_perc": 70.98,
+                "field_goals_perc": 45.38
+            },
+            "PG": {
+                "three_points_made": 2.95,
+                "rebounds": 5.28,
+                "assists": 8.75,
+                "turnovers": 2.69,
+                "steals": 1.58,
+                "blocks": 0.55,
+                "points": 23.9,
+                "free_throw_perc": 79.12,
+                "field_goals_perc": 43.51
+            },
+            "SF": {
+                "three_points_made": 2.6,
+                "rebounds": 7.82,
+                "assists": 3.75,
+                "turnovers": 2.14,
+                "steals": 1.14,
+                "blocks": 0.96,
+                "points": 18.65,
+                "free_throw_perc": 75.19,
+                "field_goals_perc": 45.14
+            },
+            "SG": {
+                "three_points_made": 3.5,
+                "rebounds": 6.92,
+                "assists": 4.99,
+                "turnovers": 2.56,
+                "steals": 1.63,
+                "blocks": 0.56,
+                "points": 23.76,
+                "free_throw_perc": 81.5,
+                "field_goals_perc": 45.84
+            },
+            "TM": {
+                "three_points_made": 12.9,
+                "rebounds": 44.37,
+                "assists": 25.5,
+                "turnovers": 13.13,
+                "steals": 7.47,
+                "blocks": 6.03,
+                "points": 115.33,
+                "free_throw_perc": 74.57,
+                "field_goals_perc": 46.48
+            }
+        },
+        "IND": {
+            "ALL": {
+                "three_points_made": 2.21,
+                "rebounds": 8.42,
+                "assists": 5,
+                "turnovers": 2.7,
+                "steals": 1.46,
+                "blocks": 1.2,
+                "points": 24.29,
+                "free_throw_perc": 76.42,
+                "field_goals_perc": 50.77
+            },
+            "C": {
+                "three_points_made": 0.81,
+                "rebounds": 13.47,
+                "assists": 5.08,
+                "turnovers": 3.14,
+                "steals": 1.08,
+                "blocks": 2.71,
+                "points": 20.58,
+                "free_throw_perc": 68.48,
+                "field_goals_perc": 54.43
+            },
+            "PF": {
+                "three_points_made": 2.11,
+                "rebounds": 10.69,
+                "assists": 4,
+                "turnovers": 2.64,
+                "steals": 1.52,
+                "blocks": 1.12,
+                "points": 29,
+                "free_throw_perc": 76.12,
+                "field_goals_perc": 55.82
+            },
+            "PG": {
+                "three_points_made": 2.41,
+                "rebounds": 5.86,
+                "assists": 8.39,
+                "turnovers": 3.23,
+                "steals": 1.52,
+                "blocks": 0.85,
+                "points": 25.28,
+                "free_throw_perc": 82.6,
+                "field_goals_perc": 43.71
+            },
+            "SF": {
+                "three_points_made": 2.46,
+                "rebounds": 7.46,
+                "assists": 3.69,
+                "turnovers": 2.56,
+                "steals": 1.43,
+                "blocks": 0.89,
+                "points": 23.17,
+                "free_throw_perc": 72.76,
+                "field_goals_perc": 52.08
+            },
+            "SG": {
+                "three_points_made": 2.91,
+                "rebounds": 5.71,
+                "assists": 4.19,
+                "turnovers": 2.15,
+                "steals": 1.63,
+                "blocks": 0.7,
+                "points": 23.15,
+                "free_throw_perc": 82.29,
+                "field_goals_perc": 49.43
+            },
+            "TM": {
+                "three_points_made": 11.07,
+                "rebounds": 42.1,
+                "assists": 25,
+                "turnovers": 13.53,
+                "steals": 7.3,
+                "blocks": 6,
+                "points": 121.47,
+                "free_throw_perc": 76.49,
+                "field_goals_perc": 50.79
+            }
+        },
+        "LAC": {
+            "ALL": {
+                "three_points_made": 2.6,
+                "rebounds": 8.12,
+                "assists": 5.34,
+                "turnovers": 2.4,
+                "steals": 1.32,
+                "blocks": 0.91,
+                "points": 22.72,
+                "free_throw_perc": 77.39,
+                "field_goals_perc": 46.99
+            },
+            "C": {
+                "three_points_made": 0.79,
+                "rebounds": 14,
+                "assists": 4.76,
+                "turnovers": 2.24,
+                "steals": 1.26,
+                "blocks": 1.63,
+                "points": 21.7,
+                "free_throw_perc": 64.16,
+                "field_goals_perc": 52.75
+            },
+            "PF": {
+                "three_points_made": 2.24,
+                "rebounds": 10.91,
+                "assists": 4.77,
+                "turnovers": 2.47,
+                "steals": 1.42,
+                "blocks": 1.07,
+                "points": 22.14,
+                "free_throw_perc": 73.81,
+                "field_goals_perc": 49.88
+            },
+            "PG": {
+                "three_points_made": 2.83,
+                "rebounds": 4.95,
+                "assists": 8.62,
+                "turnovers": 3.13,
+                "steals": 1.04,
+                "blocks": 0.53,
+                "points": 26.04,
+                "free_throw_perc": 81.47,
+                "field_goals_perc": 44.21
+            },
+            "SF": {
+                "three_points_made": 3.19,
+                "rebounds": 5.97,
+                "assists": 3.56,
+                "turnovers": 2.07,
+                "steals": 1.41,
+                "blocks": 0.77,
+                "points": 20.87,
+                "free_throw_perc": 77.75,
+                "field_goals_perc": 45.2
+            },
+            "SG": {
+                "three_points_made": 3.35,
+                "rebounds": 6.25,
+                "assists": 4.89,
+                "turnovers": 2.1,
+                "steals": 1.4,
+                "blocks": 0.74,
+                "points": 22.55,
+                "free_throw_perc": 88.31,
+                "field_goals_perc": 45.09
+            },
+            "TM": {
+                "three_points_made": 13,
+                "rebounds": 40.6,
+                "assists": 26.73,
+                "turnovers": 12.03,
+                "steals": 6.6,
+                "blocks": 4.57,
+                "points": 113.63,
+                "free_throw_perc": 77.54,
+                "field_goals_perc": 46.99
+            }
+        },
+        "LAL": {
+            "ALL": {
+                "three_points_made": 2.87,
+                "rebounds": 8.63,
+                "assists": 5.6,
+                "turnovers": 2.61,
+                "steals": 1.65,
+                "blocks": 1.01,
+                "points": 23.73,
+                "free_throw_perc": 81.25,
+                "field_goals_perc": 48.07
+            },
+            "C": {
+                "three_points_made": 1.27,
+                "rebounds": 14.72,
+                "assists": 3.62,
+                "turnovers": 2.42,
+                "steals": 2,
+                "blocks": 2.08,
+                "points": 20.66,
+                "free_throw_perc": 66.91,
+                "field_goals_perc": 54.38
+            },
+            "PF": {
+                "three_points_made": 2.58,
+                "rebounds": 9.4,
+                "assists": 4.53,
+                "turnovers": 2.48,
+                "steals": 1.22,
+                "blocks": 1.06,
+                "points": 23.32,
+                "free_throw_perc": 79.44,
+                "field_goals_perc": 50
+            },
+            "PG": {
+                "three_points_made": 3.77,
+                "rebounds": 6.6,
+                "assists": 9.22,
+                "turnovers": 3.33,
+                "steals": 1.73,
+                "blocks": 0.47,
+                "points": 26.04,
+                "free_throw_perc": 87.38,
+                "field_goals_perc": 44.82
+            },
+            "SF": {
+                "three_points_made": 2.76,
+                "rebounds": 7.54,
+                "assists": 5.14,
+                "turnovers": 2.33,
+                "steals": 1.64,
+                "blocks": 0.62,
+                "points": 22.47,
+                "free_throw_perc": 79.51,
+                "field_goals_perc": 47.41
+            },
+            "SG": {
+                "three_points_made": 3.63,
+                "rebounds": 6.1,
+                "assists": 5.34,
+                "turnovers": 2.5,
+                "steals": 1.7,
+                "blocks": 0.99,
+                "points": 25.51,
+                "free_throw_perc": 90.19,
+                "field_goals_perc": 46.55
+            },
+            "TM": {
+                "three_points_made": 14.47,
+                "rebounds": 43.47,
+                "assists": 28.2,
+                "turnovers": 13.17,
+                "steals": 8.33,
+                "blocks": 5.13,
+                "points": 119.5,
+                "free_throw_perc": 81.24,
+                "field_goals_perc": 48.12
+            }
+        },
+        "MEM": {
+            "ALL": {
+                "three_points_made": 2.4,
+                "rebounds": 9.18,
+                "assists": 5.26,
+                "turnovers": 2.79,
+                "steals": 1.57,
+                "blocks": 1.25,
+                "points": 22.43,
+                "free_throw_perc": 79.42,
+                "field_goals_perc": 46.95
+            },
+            "C": {
+                "three_points_made": 0.75,
+                "rebounds": 17.47,
+                "assists": 3.99,
+                "turnovers": 3.07,
+                "steals": 1.31,
+                "blocks": 3.43,
+                "points": 22.82,
+                "free_throw_perc": 75.38,
+                "field_goals_perc": 57.08
+            },
+            "PF": {
+                "three_points_made": 2.67,
+                "rebounds": 10.39,
+                "assists": 4.15,
+                "turnovers": 3.12,
+                "steals": 1.47,
+                "blocks": 1.2,
+                "points": 24.69,
+                "free_throw_perc": 84.13,
+                "field_goals_perc": 47.52
+            },
+            "PG": {
+                "three_points_made": 2.77,
+                "rebounds": 6.45,
+                "assists": 9.19,
+                "turnovers": 2.96,
+                "steals": 1.76,
+                "blocks": 0.65,
+                "points": 24.36,
+                "free_throw_perc": 78.88,
+                "field_goals_perc": 45.15
+            },
+            "SF": {
+                "three_points_made": 2.96,
+                "rebounds": 7.67,
+                "assists": 3.83,
+                "turnovers": 2.73,
+                "steals": 1.59,
+                "blocks": 1,
+                "points": 21.07,
+                "free_throw_perc": 75.74,
+                "field_goals_perc": 44.73
+            },
+            "SG": {
+                "three_points_made": 2.54,
+                "rebounds": 5.98,
+                "assists": 4.89,
+                "turnovers": 2.23,
+                "steals": 1.65,
+                "blocks": 0.48,
+                "points": 19.77,
+                "free_throw_perc": 80,
+                "field_goals_perc": 43.38
+            },
+            "TM": {
+                "three_points_made": 12.07,
+                "rebounds": 46.1,
+                "assists": 26.4,
+                "turnovers": 14.03,
+                "steals": 7.9,
+                "blocks": 6.3,
+                "points": 112.57,
+                "free_throw_perc": 79.38,
+                "field_goals_perc": 46.99
+            }
+        },
+        "MIA": {
+            "ALL": {
+                "three_points_made": 2.72,
+                "rebounds": 8.47,
+                "assists": 5.5,
+                "turnovers": 2.33,
+                "steals": 1.47,
+                "blocks": 0.98,
+                "points": 22.7,
+                "free_throw_perc": 77.83,
+                "field_goals_perc": 47.98
+            },
+            "C": {
+                "three_points_made": 0.95,
+                "rebounds": 14.02,
+                "assists": 3.18,
+                "turnovers": 1.91,
+                "steals": 1.07,
+                "blocks": 1.75,
+                "points": 19.88,
+                "free_throw_perc": 72.69,
+                "field_goals_perc": 54.77
+            },
+            "PF": {
+                "three_points_made": 2.2,
+                "rebounds": 9.43,
+                "assists": 4.74,
+                "turnovers": 2.57,
+                "steals": 1.35,
+                "blocks": 0.97,
+                "points": 22.29,
+                "free_throw_perc": 81.99,
+                "field_goals_perc": 47.53
+            },
+            "PG": {
+                "three_points_made": 3.41,
+                "rebounds": 5.64,
+                "assists": 9.45,
+                "turnovers": 2.79,
+                "steals": 2,
+                "blocks": 0.75,
+                "points": 24.46,
+                "free_throw_perc": 79.03,
+                "field_goals_perc": 45.75
+            },
+            "SF": {
+                "three_points_made": 2.98,
+                "rebounds": 6.94,
+                "assists": 4.67,
+                "turnovers": 2.18,
+                "steals": 1.65,
+                "blocks": 0.9,
+                "points": 22.37,
+                "free_throw_perc": 73.88,
+                "field_goals_perc": 46.79
+            },
+            "SG": {
+                "three_points_made": 3.62,
+                "rebounds": 7.3,
+                "assists": 5.04,
+                "turnovers": 2.15,
+                "steals": 1.28,
+                "blocks": 0.7,
+                "points": 23.75,
+                "free_throw_perc": 79.94,
+                "field_goals_perc": 47.5
+            },
+            "TM": {
+                "three_points_made": 13.67,
+                "rebounds": 42.53,
+                "assists": 27.6,
+                "turnovers": 11.73,
+                "steals": 7.4,
+                "blocks": 4.93,
+                "points": 113.9,
+                "free_throw_perc": 77.78,
+                "field_goals_perc": 48.01
+            }
+        },
+        "MIL": {
+            "ALL": {
+                "three_points_made": 2.21,
+                "rebounds": 8.61,
+                "assists": 5.35,
+                "turnovers": 2.05,
+                "steals": 1.35,
+                "blocks": 0.93,
+                "points": 24.02,
+                "free_throw_perc": 80.32,
+                "field_goals_perc": 47.52
+            },
+            "C": {
+                "three_points_made": 1.24,
+                "rebounds": 14.83,
+                "assists": 5.37,
+                "turnovers": 2.25,
+                "steals": 1.05,
+                "blocks": 2.14,
+                "points": 25.51,
+                "free_throw_perc": 77.56,
+                "field_goals_perc": 53.04
+            },
+            "PF": {
+                "three_points_made": 2.3,
+                "rebounds": 10.26,
+                "assists": 3.67,
+                "turnovers": 2.2,
+                "steals": 1.07,
+                "blocks": 0.93,
+                "points": 24.78,
+                "free_throw_perc": 84.96,
+                "field_goals_perc": 49.59
+            },
+            "PG": {
+                "three_points_made": 2.83,
+                "rebounds": 5.87,
+                "assists": 8.64,
+                "turnovers": 2.77,
+                "steals": 2.02,
+                "blocks": 0.64,
+                "points": 28.48,
+                "free_throw_perc": 83,
+                "field_goals_perc": 48.84
+            },
+            "SF": {
+                "three_points_made": 1.71,
+                "rebounds": 7.28,
+                "assists": 4.12,
+                "turnovers": 1.24,
+                "steals": 1.41,
+                "blocks": 0.7,
+                "points": 19.9,
+                "free_throw_perc": 71.79,
+                "field_goals_perc": 44.28
+            },
+            "SG": {
+                "three_points_made": 2.73,
+                "rebounds": 6.2,
+                "assists": 5.05,
+                "turnovers": 1.85,
+                "steals": 1.2,
+                "blocks": 0.49,
+                "points": 22.1,
+                "free_throw_perc": 81.66,
+                "field_goals_perc": 43.09
+            },
+            "TM": {
+                "three_points_made": 11.2,
+                "rebounds": 43.53,
+                "assists": 27.07,
+                "turnovers": 10.37,
+                "steals": 6.83,
+                "blocks": 4.7,
+                "points": 121.37,
+                "free_throw_perc": 80.35,
+                "field_goals_perc": 47.52
+            }
+        },
+        "MIN": {
+            "ALL": {
+                "three_points_made": 2.32,
+                "rebounds": 7.87,
+                "assists": 4.9,
+                "turnovers": 2.56,
+                "steals": 1.53,
+                "blocks": 0.9,
+                "points": 21.55,
+                "free_throw_perc": 79.08,
+                "field_goals_perc": 46.09
+            },
+            "C": {
+                "three_points_made": 0.9,
+                "rebounds": 12.37,
+                "assists": 4.82,
+                "turnovers": 2.45,
+                "steals": 1.5,
+                "blocks": 1.85,
+                "points": 21.77,
+                "free_throw_perc": 75.44,
+                "field_goals_perc": 53.84
+            },
+            "PF": {
+                "three_points_made": 2.57,
+                "rebounds": 8.72,
+                "assists": 3.19,
+                "turnovers": 2.39,
+                "steals": 1.52,
+                "blocks": 1.11,
+                "points": 23.45,
+                "free_throw_perc": 72.33,
+                "field_goals_perc": 46.24
+            },
+            "PG": {
+                "three_points_made": 2.58,
+                "rebounds": 5.17,
+                "assists": 8.67,
+                "turnovers": 2.83,
+                "steals": 1.78,
+                "blocks": 0.69,
+                "points": 23.76,
+                "free_throw_perc": 86.45,
+                "field_goals_perc": 43.2
+            },
+            "SF": {
+                "three_points_made": 2.32,
+                "rebounds": 7.85,
+                "assists": 3.72,
+                "turnovers": 2.28,
+                "steals": 1.63,
+                "blocks": 0.68,
+                "points": 19.86,
+                "free_throw_perc": 82.57,
+                "field_goals_perc": 46.6
+            },
+            "SG": {
+                "three_points_made": 2.79,
+                "rebounds": 6.44,
+                "assists": 4.48,
+                "turnovers": 2.79,
+                "steals": 1.28,
+                "blocks": 0.45,
+                "points": 19.43,
+                "free_throw_perc": 80.56,
+                "field_goals_perc": 43.58
+            },
+            "TM": {
+                "three_points_made": 11.67,
+                "rebounds": 39.53,
+                "assists": 24.63,
+                "turnovers": 12.87,
+                "steals": 7.7,
+                "blocks": 4.53,
+                "points": 108.17,
+                "free_throw_perc": 79.24,
+                "field_goals_perc": 46.1
+            }
+        },
+        "NOR": {
+            "ALL": {
+                "three_points_made": 2.81,
+                "rebounds": 8.14,
+                "assists": 5.36,
+                "turnovers": 2.55,
+                "steals": 1.33,
+                "blocks": 1.02,
+                "points": 22.58,
+                "free_throw_perc": 79.82,
+                "field_goals_perc": 46.72
+            },
+            "C": {
+                "three_points_made": 0.95,
+                "rebounds": 14.04,
+                "assists": 4.88,
+                "turnovers": 2.21,
+                "steals": 0.95,
+                "blocks": 2.59,
+                "points": 20.65,
+                "free_throw_perc": 77.66,
+                "field_goals_perc": 56.85
+            },
+            "PF": {
+                "three_points_made": 2.23,
+                "rebounds": 9.77,
+                "assists": 3.99,
+                "turnovers": 2.32,
+                "steals": 1.22,
+                "blocks": 1.1,
+                "points": 22.63,
+                "free_throw_perc": 77.83,
+                "field_goals_perc": 48.31
+            },
+            "PG": {
+                "three_points_made": 3.55,
+                "rebounds": 5.11,
+                "assists": 8.59,
+                "turnovers": 3.39,
+                "steals": 1.45,
+                "blocks": 0.42,
+                "points": 28.59,
+                "free_throw_perc": 82.28,
+                "field_goals_perc": 45.75
+            },
+            "SF": {
+                "three_points_made": 3.47,
+                "rebounds": 7.47,
+                "assists": 4.51,
+                "turnovers": 2.1,
+                "steals": 1.4,
+                "blocks": 0.74,
+                "points": 20.46,
+                "free_throw_perc": 75.89,
+                "field_goals_perc": 47.4
+            },
+            "SG": {
+                "three_points_made": 3.56,
+                "rebounds": 5.36,
+                "assists": 5.21,
+                "turnovers": 2.72,
+                "steals": 1.55,
+                "blocks": 0.5,
+                "points": 21.27,
+                "free_throw_perc": 82.89,
+                "field_goals_perc": 40.6
+            },
+            "TM": {
+                "three_points_made": 14.1,
+                "rebounds": 40.87,
+                "assists": 26.9,
+                "turnovers": 12.83,
+                "steals": 6.7,
+                "blocks": 5.13,
+                "points": 113.3,
+                "free_throw_perc": 79.82,
+                "field_goals_perc": 46.75
+            }
+        },
+        "NYK": {
+            "ALL": {
+                "three_points_made": 2.5,
+                "rebounds": 8.11,
+                "assists": 5.38,
+                "turnovers": 2.38,
+                "steals": 1.39,
+                "blocks": 1,
+                "points": 22.32,
+                "free_throw_perc": 75.6,
+                "field_goals_perc": 46.56
+            },
+            "C": {
+                "three_points_made": 1.05,
+                "rebounds": 14.64,
+                "assists": 3.03,
+                "turnovers": 2.45,
+                "steals": 1.4,
+                "blocks": 2.1,
+                "points": 20.02,
+                "free_throw_perc": 67,
+                "field_goals_perc": 50.65
+            },
+            "PF": {
+                "three_points_made": 2.56,
+                "rebounds": 8.3,
+                "assists": 4.31,
+                "turnovers": 2.09,
+                "steals": 1.29,
+                "blocks": 0.79,
+                "points": 24.27,
+                "free_throw_perc": 69.09,
+                "field_goals_perc": 47.86
+            },
+            "PG": {
+                "three_points_made": 2.71,
+                "rebounds": 5.43,
+                "assists": 9.92,
+                "turnovers": 2.85,
+                "steals": 1.53,
+                "blocks": 0.59,
+                "points": 23.09,
+                "free_throw_perc": 83.82,
+                "field_goals_perc": 42.67
+            },
+            "SF": {
+                "three_points_made": 2.53,
+                "rebounds": 7.61,
+                "assists": 4.6,
+                "turnovers": 2.5,
+                "steals": 1.79,
+                "blocks": 0.94,
+                "points": 22.5,
+                "free_throw_perc": 77.88,
+                "field_goals_perc": 47.5
+            },
+            "SG": {
+                "three_points_made": 3.3,
+                "rebounds": 5.73,
+                "assists": 4.98,
+                "turnovers": 2.08,
+                "steals": 1.01,
+                "blocks": 0.78,
+                "points": 21.43,
+                "free_throw_perc": 81.12,
+                "field_goals_perc": 45.35
+            },
+            "TM": {
+                "three_points_made": 12.5,
+                "rebounds": 40.57,
+                "assists": 26.9,
+                "turnovers": 11.9,
+                "steals": 6.97,
+                "blocks": 5.03,
+                "points": 111.6,
+                "free_throw_perc": 75.64,
+                "field_goals_perc": 46.59
+            }
+        },
+        "OKC": {
+            "ALL": {
+                "three_points_made": 2.74,
+                "rebounds": 8.83,
+                "assists": 5.4,
+                "turnovers": 2.99,
+                "steals": 1.3,
+                "blocks": 1.04,
+                "points": 22.72,
+                "free_throw_perc": 79.06,
+                "field_goals_perc": 45.77
+            },
+            "C": {
+                "three_points_made": 0.84,
+                "rebounds": 15.5,
+                "assists": 4.59,
+                "turnovers": 3.13,
+                "steals": 1.03,
+                "blocks": 2.29,
+                "points": 22.43,
+                "free_throw_perc": 74.01,
+                "field_goals_perc": 55.8
+            },
+            "PF": {
+                "three_points_made": 2.26,
+                "rebounds": 11.03,
+                "assists": 4.31,
+                "turnovers": 2.47,
+                "steals": 1.14,
+                "blocks": 1,
+                "points": 22.97,
+                "free_throw_perc": 81.88,
+                "field_goals_perc": 47
+            },
+            "PG": {
+                "three_points_made": 3.52,
+                "rebounds": 6.6,
+                "assists": 8.94,
+                "turnovers": 3.76,
+                "steals": 1.89,
+                "blocks": 0.64,
+                "points": 25.23,
+                "free_throw_perc": 81.55,
+                "field_goals_perc": 45.09
+            },
+            "SF": {
+                "three_points_made": 2.91,
+                "rebounds": 6.73,
+                "assists": 3.78,
+                "turnovers": 2.8,
+                "steals": 1.27,
+                "blocks": 0.72,
+                "points": 19.16,
+                "free_throw_perc": 81.36,
+                "field_goals_perc": 40.42
+            },
+            "SG": {
+                "three_points_made": 3.66,
+                "rebounds": 5.89,
+                "assists": 5.21,
+                "turnovers": 2.84,
+                "steals": 1.18,
+                "blocks": 0.74,
+                "points": 23.35,
+                "free_throw_perc": 77.87,
+                "field_goals_perc": 43.43
+            },
+            "TM": {
+                "three_points_made": 13.77,
+                "rebounds": 44.33,
+                "assists": 27.13,
+                "turnovers": 15.03,
+                "steals": 6.57,
+                "blocks": 5.23,
+                "points": 114.03,
+                "free_throw_perc": 79.02,
+                "field_goals_perc": 45.79
+            }
+        },
+        "ORL": {
+            "ALL": {
+                "three_points_made": 2.34,
+                "rebounds": 8.39,
+                "assists": 4.84,
+                "turnovers": 2.65,
+                "steals": 1.55,
+                "blocks": 0.89,
+                "points": 22.44,
+                "free_throw_perc": 75.99,
+                "field_goals_perc": 48.27
+            },
+            "C": {
+                "three_points_made": 0.69,
+                "rebounds": 13.98,
+                "assists": 3.85,
+                "turnovers": 3.32,
+                "steals": 1.72,
+                "blocks": 2,
+                "points": 21.93,
+                "free_throw_perc": 68.75,
+                "field_goals_perc": 59
+            },
+            "PF": {
+                "three_points_made": 1.9,
+                "rebounds": 10.03,
+                "assists": 3.7,
+                "turnovers": 2.64,
+                "steals": 0.96,
+                "blocks": 0.87,
+                "points": 21.13,
+                "free_throw_perc": 71.5,
+                "field_goals_perc": 46.32
+            },
+            "PG": {
+                "three_points_made": 2.65,
+                "rebounds": 6.07,
+                "assists": 8.46,
+                "turnovers": 2.94,
+                "steals": 2.06,
+                "blocks": 0.73,
+                "points": 28.05,
+                "free_throw_perc": 85.53,
+                "field_goals_perc": 46.07
+            },
+            "SF": {
+                "three_points_made": 2.74,
+                "rebounds": 6.6,
+                "assists": 3.92,
+                "turnovers": 2.04,
+                "steals": 1.56,
+                "blocks": 0.6,
+                "points": 19.89,
+                "free_throw_perc": 76.25,
+                "field_goals_perc": 47.86
+            },
+            "SG": {
+                "three_points_made": 3.25,
+                "rebounds": 6.48,
+                "assists": 4.62,
+                "turnovers": 2.51,
+                "steals": 1.55,
+                "blocks": 0.54,
+                "points": 21.95,
+                "free_throw_perc": 75.49,
+                "field_goals_perc": 46.09
+            },
+            "TM": {
+                "three_points_made": 11.83,
+                "rebounds": 42.4,
+                "assists": 24.5,
+                "turnovers": 13.4,
+                "steals": 7.83,
+                "blocks": 4.53,
+                "points": 113.4,
+                "free_throw_perc": 76.17,
+                "field_goals_perc": 48.3
+            }
+        },
+        "PHI": {
+            "ALL": {
+                "three_points_made": 2.11,
+                "rebounds": 8.9,
+                "assists": 5.02,
+                "turnovers": 2.96,
+                "steals": 1.12,
+                "blocks": 1.1,
+                "points": 22.4,
+                "free_throw_perc": 78.69,
+                "field_goals_perc": 47.19
+            },
+            "C": {
+                "three_points_made": 0.77,
+                "rebounds": 14.11,
+                "assists": 3.81,
+                "turnovers": 3.2,
+                "steals": 1,
+                "blocks": 2.12,
+                "points": 24.26,
+                "free_throw_perc": 69.88,
+                "field_goals_perc": 59.21
+            },
+            "PF": {
+                "three_points_made": 2.05,
+                "rebounds": 11.06,
+                "assists": 4.22,
+                "turnovers": 2.82,
+                "steals": 0.83,
+                "blocks": 1.22,
+                "points": 22.57,
+                "free_throw_perc": 73.8,
+                "field_goals_perc": 46.54
+            },
+            "PG": {
+                "three_points_made": 2.72,
+                "rebounds": 5.85,
+                "assists": 7.81,
+                "turnovers": 3.39,
+                "steals": 1.49,
+                "blocks": 1.03,
+                "points": 22.19,
+                "free_throw_perc": 81.9,
+                "field_goals_perc": 44.94
+            },
+            "SF": {
+                "three_points_made": 2.42,
+                "rebounds": 8.25,
+                "assists": 3.37,
+                "turnovers": 2.39,
+                "steals": 1.31,
+                "blocks": 0.88,
+                "points": 21.66,
+                "free_throw_perc": 83.19,
+                "field_goals_perc": 47.95
+            },
+            "SG": {
+                "three_points_made": 2.34,
+                "rebounds": 6.5,
+                "assists": 5.62,
+                "turnovers": 3.02,
+                "steals": 0.98,
+                "blocks": 0.53,
+                "points": 21.71,
+                "free_throw_perc": 85.04,
+                "field_goals_perc": 41.12
+            },
+            "TM": {
+                "three_points_made": 10.6,
+                "rebounds": 44.7,
+                "assists": 25.23,
+                "turnovers": 14.87,
+                "steals": 5.67,
+                "blocks": 5.57,
+                "points": 112.4,
+                "free_throw_perc": 78.84,
+                "field_goals_perc": 47.21
+            }
+        },
+        "PHO": {
+            "ALL": {
+                "three_points_made": 2.78,
+                "rebounds": 8.12,
+                "assists": 5.31,
+                "turnovers": 2.4,
+                "steals": 1.5,
+                "blocks": 0.86,
+                "points": 22.96,
+                "free_throw_perc": 77.05,
+                "field_goals_perc": 47.12
+            },
+            "C": {
+                "three_points_made": 0.65,
+                "rebounds": 12.99,
+                "assists": 4.63,
+                "turnovers": 2.54,
+                "steals": 0.73,
+                "blocks": 1.72,
+                "points": 22.1,
+                "free_throw_perc": 72.22,
+                "field_goals_perc": 55.91
+            },
+            "PF": {
+                "three_points_made": 2.43,
+                "rebounds": 9.32,
+                "assists": 4.2,
+                "turnovers": 2.87,
+                "steals": 1.67,
+                "blocks": 0.91,
+                "points": 24.39,
+                "free_throw_perc": 71.59,
+                "field_goals_perc": 48.85
+            },
+            "PG": {
+                "three_points_made": 3.95,
+                "rebounds": 6.02,
+                "assists": 9.58,
+                "turnovers": 2.92,
+                "steals": 2.24,
+                "blocks": 0.53,
+                "points": 27.87,
+                "free_throw_perc": 79.73,
+                "field_goals_perc": 47.43
+            },
+            "SF": {
+                "three_points_made": 2.71,
+                "rebounds": 6.43,
+                "assists": 3.71,
+                "turnovers": 1.68,
+                "steals": 1.61,
+                "blocks": 0.65,
+                "points": 18.64,
+                "free_throw_perc": 79.35,
+                "field_goals_perc": 43.62
+            },
+            "SG": {
+                "three_points_made": 3.66,
+                "rebounds": 6.78,
+                "assists": 4.72,
+                "turnovers": 2.06,
+                "steals": 1.22,
+                "blocks": 0.67,
+                "points": 21.96,
+                "free_throw_perc": 83.56,
+                "field_goals_perc": 42.47
+            },
+            "TM": {
+                "three_points_made": 13.93,
+                "rebounds": 40.6,
+                "assists": 26.57,
+                "turnovers": 12,
+                "steals": 7.53,
+                "blocks": 4.33,
+                "points": 114.8,
+                "free_throw_perc": 77.07,
+                "field_goals_perc": 47.12
+            }
+        },
+        "POR": {
+            "ALL": {
+                "three_points_made": 2.31,
+                "rebounds": 8.73,
+                "assists": 5.6,
+                "turnovers": 2.56,
+                "steals": 1.66,
+                "blocks": 1.18,
+                "points": 23.56,
+                "free_throw_perc": 79.5,
+                "field_goals_perc": 49.97
+            },
+            "C": {
+                "three_points_made": 0.86,
+                "rebounds": 14.91,
+                "assists": 4.4,
+                "turnovers": 2.37,
+                "steals": 1.94,
+                "blocks": 3.45,
+                "points": 23.38,
+                "free_throw_perc": 68.35,
+                "field_goals_perc": 61.81
+            },
+            "PF": {
+                "three_points_made": 2,
+                "rebounds": 10.02,
+                "assists": 4.56,
+                "turnovers": 2.87,
+                "steals": 1.68,
+                "blocks": 1.19,
+                "points": 21.99,
+                "free_throw_perc": 81.17,
+                "field_goals_perc": 49.06
+            },
+            "PG": {
+                "three_points_made": 2.85,
+                "rebounds": 6.89,
+                "assists": 9.25,
+                "turnovers": 3.37,
+                "steals": 1.72,
+                "blocks": 0.59,
+                "points": 27.44,
+                "free_throw_perc": 82.53,
+                "field_goals_perc": 47.85
+            },
+            "SF": {
+                "three_points_made": 2.8,
+                "rebounds": 7.19,
+                "assists": 4.34,
+                "turnovers": 2.12,
+                "steals": 1.43,
+                "blocks": 0.61,
+                "points": 21.78,
+                "free_throw_perc": 81.57,
+                "field_goals_perc": 51.22
+            },
+            "SG": {
+                "three_points_made": 2.65,
+                "rebounds": 6.59,
+                "assists": 5.43,
+                "turnovers": 2.18,
+                "steals": 1.62,
+                "blocks": 0.67,
+                "points": 23.41,
+                "free_throw_perc": 82.93,
+                "field_goals_perc": 46.03
+            },
+            "TM": {
+                "three_points_made": 11.7,
+                "rebounds": 44.13,
+                "assists": 28.33,
+                "turnovers": 12.97,
+                "steals": 8.43,
+                "blocks": 5.97,
+                "points": 119.03,
+                "free_throw_perc": 79.45,
+                "field_goals_perc": 49.98
+            }
+        },
+        "SAC": {
+            "ALL": {
+                "three_points_made": 2.86,
+                "rebounds": 8.33,
+                "assists": 5.41,
+                "turnovers": 2.5,
+                "steals": 1.37,
+                "blocks": 1.06,
+                "points": 23.46,
+                "free_throw_perc": 81.24,
+                "field_goals_perc": 48.15
+            },
+            "C": {
+                "three_points_made": 0.83,
+                "rebounds": 14.32,
+                "assists": 3.51,
+                "turnovers": 2.04,
+                "steals": 1.17,
+                "blocks": 2.45,
+                "points": 19.57,
+                "free_throw_perc": 73.75,
+                "field_goals_perc": 55.34
+            },
+            "PF": {
+                "three_points_made": 2.97,
+                "rebounds": 9.1,
+                "assists": 4.9,
+                "turnovers": 2.97,
+                "steals": 1.25,
+                "blocks": 0.92,
+                "points": 26.13,
+                "free_throw_perc": 81.51,
+                "field_goals_perc": 49.34
+            },
+            "PG": {
+                "three_points_made": 3.19,
+                "rebounds": 6.78,
+                "assists": 9.27,
+                "turnovers": 3.26,
+                "steals": 1.79,
+                "blocks": 0.73,
+                "points": 26.81,
+                "free_throw_perc": 86.19,
+                "field_goals_perc": 46.21
+            },
+            "SF": {
+                "three_points_made": 3.14,
+                "rebounds": 7.24,
+                "assists": 4.41,
+                "turnovers": 1.71,
+                "steals": 1.27,
+                "blocks": 0.63,
+                "points": 20.78,
+                "free_throw_perc": 80.65,
+                "field_goals_perc": 47.07
+            },
+            "SG": {
+                "three_points_made": 3.76,
+                "rebounds": 5.34,
+                "assists": 4.62,
+                "turnovers": 2.32,
+                "steals": 1.32,
+                "blocks": 0.74,
+                "points": 22.87,
+                "free_throw_perc": 79.6,
+                "field_goals_perc": 45.56
+            },
+            "TM": {
+                "three_points_made": 14.47,
+                "rebounds": 42.1,
+                "assists": 27.37,
+                "turnovers": 12.67,
+                "steals": 6.93,
+                "blocks": 5.37,
+                "points": 118.53,
+                "free_throw_perc": 81.1,
+                "field_goals_perc": 48.2
+            }
+        },
+        "SAS": {
+            "ALL": {
+                "three_points_made": 2.67,
+                "rebounds": 9.37,
+                "assists": 5.47,
+                "turnovers": 2.5,
+                "steals": 1.58,
+                "blocks": 1.02,
+                "points": 24.04,
+                "free_throw_perc": 78,
+                "field_goals_perc": 48.43
+            },
+            "C": {
+                "three_points_made": 0.99,
+                "rebounds": 16.27,
+                "assists": 3.06,
+                "turnovers": 2.18,
+                "steals": 1.23,
+                "blocks": 2.66,
+                "points": 26.66,
+                "free_throw_perc": 77.82,
+                "field_goals_perc": 53.92
+            },
+            "PF": {
+                "three_points_made": 2.2,
+                "rebounds": 11.04,
+                "assists": 5.05,
+                "turnovers": 2.51,
+                "steals": 1.48,
+                "blocks": 1.03,
+                "points": 23.68,
+                "free_throw_perc": 72.26,
+                "field_goals_perc": 51.67
+            },
+            "PG": {
+                "three_points_made": 3.67,
+                "rebounds": 5.64,
+                "assists": 9.64,
+                "turnovers": 3.15,
+                "steals": 1.74,
+                "blocks": 0.4,
+                "points": 29.05,
+                "free_throw_perc": 87.52,
+                "field_goals_perc": 47.52
+            },
+            "SF": {
+                "three_points_made": 2.74,
+                "rebounds": 8.81,
+                "assists": 4.22,
+                "turnovers": 2.22,
+                "steals": 1.71,
+                "blocks": 0.87,
+                "points": 19.87,
+                "free_throw_perc": 71.39,
+                "field_goals_perc": 43.29
+            },
+            "SG": {
+                "three_points_made": 3.37,
+                "rebounds": 6.62,
+                "assists": 5.43,
+                "turnovers": 2.45,
+                "steals": 1.68,
+                "blocks": 0.5,
+                "points": 22.43,
+                "free_throw_perc": 77,
+                "field_goals_perc": 46.67
+            },
+            "TM": {
+                "three_points_made": 13.37,
+                "rebounds": 46.87,
+                "assists": 27.37,
+                "turnovers": 12.5,
+                "steals": 7.93,
+                "blocks": 5.13,
+                "points": 120.23,
+                "free_throw_perc": 77.95,
+                "field_goals_perc": 48.45
+            }
+        },
+        "TOR": {
+            "ALL": {
+                "three_points_made": 2.64,
+                "rebounds": 8.84,
+                "assists": 5.8,
+                "turnovers": 2.46,
+                "steals": 1.26,
+                "blocks": 1.06,
+                "points": 23.79,
+                "free_throw_perc": 82.27,
+                "field_goals_perc": 49.28
+            },
+            "C": {
+                "three_points_made": 0.81,
+                "rebounds": 14.89,
+                "assists": 4.13,
+                "turnovers": 2.01,
+                "steals": 1.22,
+                "blocks": 2.08,
+                "points": 23.27,
+                "free_throw_perc": 77.7,
+                "field_goals_perc": 62.61
+            },
+            "PF": {
+                "three_points_made": 2.85,
+                "rebounds": 11.08,
+                "assists": 5.27,
+                "turnovers": 2.63,
+                "steals": 1.33,
+                "blocks": 0.95,
+                "points": 23.65,
+                "free_throw_perc": 79.89,
+                "field_goals_perc": 48.49
+            },
+            "PG": {
+                "three_points_made": 2.49,
+                "rebounds": 5.93,
+                "assists": 10.24,
+                "turnovers": 2.87,
+                "steals": 1.39,
+                "blocks": 0.86,
+                "points": 23.81,
+                "free_throw_perc": 88.91,
+                "field_goals_perc": 42.35
+            },
+            "SF": {
+                "three_points_made": 2.63,
+                "rebounds": 7.78,
+                "assists": 4.39,
+                "turnovers": 2.41,
+                "steals": 1.36,
+                "blocks": 0.93,
+                "points": 24.22,
+                "free_throw_perc": 80.04,
+                "field_goals_perc": 49.07
+            },
+            "SG": {
+                "three_points_made": 3.82,
+                "rebounds": 5.89,
+                "assists": 5.32,
+                "turnovers": 2.41,
+                "steals": 1.06,
+                "blocks": 0.66,
+                "points": 23.93,
+                "free_throw_perc": 85.31,
+                "field_goals_perc": 47.61
+            },
+            "TM": {
+                "three_points_made": 13.23,
+                "rebounds": 44.23,
+                "assists": 29,
+                "turnovers": 12.33,
+                "steals": 6.3,
+                "blocks": 5.3,
+                "points": 118.97,
+                "free_throw_perc": 82.43,
+                "field_goals_perc": 49.26
+            }
+        },
+        "UTH": {
+            "ALL": {
+                "three_points_made": 2.88,
+                "rebounds": 8.38,
+                "assists": 5.91,
+                "turnovers": 2.28,
+                "steals": 1.62,
+                "blocks": 1.25,
+                "points": 23.85,
+                "free_throw_perc": 77.68,
+                "field_goals_perc": 47.35
+            },
+            "C": {
+                "three_points_made": 0.8,
+                "rebounds": 14.04,
+                "assists": 3.91,
+                "turnovers": 3.11,
+                "steals": 1.11,
+                "blocks": 2.53,
+                "points": 23.82,
+                "free_throw_perc": 74.23,
+                "field_goals_perc": 56.44
+            },
+            "PF": {
+                "three_points_made": 3.1,
+                "rebounds": 9.86,
+                "assists": 5.05,
+                "turnovers": 2.06,
+                "steals": 1.88,
+                "blocks": 1.24,
+                "points": 24.95,
+                "free_throw_perc": 76.78,
+                "field_goals_perc": 51.88
+            },
+            "PG": {
+                "three_points_made": 3.33,
+                "rebounds": 6.63,
+                "assists": 10.27,
+                "turnovers": 3.16,
+                "steals": 1.94,
+                "blocks": 0.93,
+                "points": 25.94,
+                "free_throw_perc": 81.46,
+                "field_goals_perc": 45.67
+            },
+            "SF": {
+                "three_points_made": 2.74,
+                "rebounds": 7.13,
+                "assists": 4.86,
+                "turnovers": 1.8,
+                "steals": 1.71,
+                "blocks": 1.12,
+                "points": 21.19,
+                "free_throw_perc": 77.11,
+                "field_goals_perc": 43.3
+            },
+            "SG": {
+                "three_points_made": 3.79,
+                "rebounds": 5.97,
+                "assists": 5.37,
+                "turnovers": 1.67,
+                "steals": 1.38,
+                "blocks": 0.82,
+                "points": 23.57,
+                "free_throw_perc": 78.65,
+                "field_goals_perc": 43.36
+            },
+            "TM": {
+                "three_points_made": 14.6,
+                "rebounds": 42.37,
+                "assists": 29.87,
+                "turnovers": 11.53,
+                "steals": 8.23,
+                "blocks": 6.33,
+                "points": 120.53,
+                "free_throw_perc": 77.78,
+                "field_goals_perc": 47.38
+            }
+        },
+        "WAS": {
+            "ALL": {
+                "three_points_made": 2.54,
+                "rebounds": 9.73,
+                "assists": 6.11,
+                "turnovers": 2.75,
+                "steals": 1.51,
+                "blocks": 1.19,
+                "points": 24.68,
+                "free_throw_perc": 77.35,
+                "field_goals_perc": 49.25
+            },
+            "C": {
+                "three_points_made": 0.79,
+                "rebounds": 18.94,
+                "assists": 5.03,
+                "turnovers": 3.75,
+                "steals": 1.07,
+                "blocks": 2.79,
+                "points": 27.09,
+                "free_throw_perc": 73.06,
+                "field_goals_perc": 59.44
+            },
+            "PF": {
+                "three_points_made": 2.31,
+                "rebounds": 10.41,
+                "assists": 4.73,
+                "turnovers": 2.24,
+                "steals": 1,
+                "blocks": 0.76,
+                "points": 24.45,
+                "free_throw_perc": 73,
+                "field_goals_perc": 50.84
+            },
+            "PG": {
+                "three_points_made": 3.12,
+                "rebounds": 6.18,
+                "assists": 10.03,
+                "turnovers": 3.19,
+                "steals": 1.85,
+                "blocks": 0.72,
+                "points": 24.7,
+                "free_throw_perc": 79.1,
+                "field_goals_perc": 43.89
+            },
+            "SF": {
+                "three_points_made": 3.05,
+                "rebounds": 8.48,
+                "assists": 4.66,
+                "turnovers": 1.77,
+                "steals": 1.54,
+                "blocks": 0.9,
+                "points": 24.24,
+                "free_throw_perc": 79.82,
+                "field_goals_perc": 53.54
+            },
+            "SG": {
+                "three_points_made": 3.01,
+                "rebounds": 6.78,
+                "assists": 6,
+                "turnovers": 2.9,
+                "steals": 1.91,
+                "blocks": 1.05,
+                "points": 23.55,
+                "free_throw_perc": 80.88,
+                "field_goals_perc": 42.92
+            },
+            "TM": {
+                "three_points_made": 12.7,
+                "rebounds": 48.67,
+                "assists": 30.57,
+                "turnovers": 13.77,
+                "steals": 7.57,
+                "blocks": 5.97,
+                "points": 123.4,
+                "free_throw_perc": 77.41,
+                "field_goals_perc": 49.27
+            }
+        }
+    }
+}

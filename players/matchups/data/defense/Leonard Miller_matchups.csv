@@ -1,0 +1,25 @@
+Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300093,Nikola Jovic,Forward,1631107,Leonard Miller,Forward,1631159,0.38,1.5,0,0.0,0.0,2,5.26,1.33,1,0,0,0,0,0,0.0,0,0,208.28,205.0,208.28,210.0,0.0,-5.0,16.74,
+0022300093,Dru Smith,Guard,1630696,Leonard Miller,Forward,1631159,0.05,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,187.96,203.0,208.28,210.0,-20.32,-7.0,14.44,
+0022300093,Orlando Robinson,Center,1631115,Leonard Miller,Forward,1631159,0.15,1.4,0,0.0,0.0,3,20.0,2.14,0,0,0,0,0,0,0.0,0,0,208.28,235.0,208.28,210.0,0.0,25.0,11.4,
+0022300093,RJ Hampton,Guard,1630181,Leonard Miller,Forward,1631159,0.05,1.0,0,0.0,0.0,2,40.0,2.0,0,0,0,0,0,0,0.0,0,0,193.04,175.0,208.28,210.0,-15.24,-35.0,9.5,
+0022300232,Danuel House Jr,Forward-Guard,1627863,Leonard Miller,Forward,1631159,0.13,1.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,220.0,208.28,210.0,-10.16,10.0,14.23,
+0022300232,Jaden Springer,Guard,1630531,Leonard Miller,Forward,1631159,0.05,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,1,0.0,0,0,193.04,202.0,208.28,210.0,-15.24,-8.0,9.93,0.2
+0022300232,Mo Bamba,Center,1628964,Leonard Miller,Forward,1631159,0.05,1.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,213.36,231.0,208.28,210.0,5.08,21.0,9.32,
+0022300232,Furkan Korkmaz,Guard-Forward,1627788,Leonard Miller,Forward,1631159,0.13,1.0,0,0.0,0.0,1,7.69,1.0,0,0,0,0,0,0,0.0,0,0,200.66,202.0,208.28,210.0,-7.62,-8.0,7.2,
+0022300232,KJ Martin,Forward,1630231,Leonard Miller,Forward,1631159,0.22,1.5,1,4.55,0.67,1,4.55,0.67,0,0,0,2,0,0,0.0,1,1,198.12,215.0,208.28,210.0,-10.16,5.0,8.52,
+0022300249,Vince Williams Jr,Guard,1631246,Leonard Miller,Forward,1631159,0.15,0.9,0,0.0,0.0,2,13.33,2.22,0,0,0,0,0,0,0.0,0,0,193.04,205.0,208.28,210.0,-15.24,-5.0,24.97,
+0022300249,John Konchar,Guard,1629723,Leonard Miller,Forward,1631159,0.33,2.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,210.0,208.28,210.0,-12.7,0.0,18.08,
+0022300249,Kenneth Lofton Jr,Forward,1631254,Leonard Miller,Forward,1631159,0.02,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,275.0,208.28,210.0,-10.16,65.0,6.38,
+0022300249,Shaquille Harrison,Guard,1627885,Leonard Miller,Forward,1631159,0.33,1.1,2,6.06,1.82,2,6.06,1.82,0,0,0,0,1,2,0.5,0,0,193.04,195.0,208.28,210.0,-15.24,-15.0,2.0,0.55
+0022300411,Josh Giddey,Guard,1630581,Leonard Miller,Forward,1631159,0.62,2.0,0,0.0,0.0,3,4.84,1.5,1,0,0,0,0,0,0.0,0,0,203.2,216.0,208.28,210.0,-5.08,6.0,24.76,
+0022300411,Vasilije Micic,Guard,203995,Leonard Miller,Forward,1631159,0.05,0.3,0,0.0,0.0,3,60.0,10.0,0,0,0,0,0,0,0.0,0,0,190.5,188.0,208.28,210.0,-17.78,-22.0,11.73,
+0022300411,Aaron Wiggins,Guard,1630598,Leonard Miller,Forward,1631159,0.17,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,190.0,208.28,210.0,-12.7,-20.0,13.23,
+0022300411,Jaylin Williams,Forward,1631119,Leonard Miller,Forward,1631159,0.7,3.7,0,0.0,0.0,2,2.86,0.54,1,0,0,0,0,0,0.0,0,0,205.74,240.0,208.28,210.0,-2.54,30.0,11.97,
+0022300411,Tre Mann,Guard,1630544,Leonard Miller,Forward,1631159,0.4,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,190.5,178.0,208.28,210.0,-17.78,-32.0,9.23,
+0022300538,Toumani Camara,Forward,1641739,Leonard Miller,Forward,1631159,0.43,3.0,0,0.0,0.0,5,11.63,1.67,0,0,0,0,0,0,0.0,0,0,200.66,226.0,208.28,210.0,-7.62,16.0,23.7,
+0022300538,Duop Reath,Center,1641871,Leonard Miller,Forward,1631159,0.25,2.3,2,8.0,0.87,2,8.0,0.87,0,0,0,0,1,1,1.0,0,0,205.74,245.0,208.28,210.0,-2.54,35.0,17.74,2.3
+0022300538,Jabari Walker,Forward,1631133,Leonard Miller,Forward,1631159,0.78,4.5,4,5.13,0.89,10,12.82,2.22,0,0,0,2,1,1,1.0,2,0,200.66,227.0,208.28,210.0,-7.62,17.0,21.56,4.5
+0022300538,Kris Murray,Forward,1631200,Leonard Miller,Forward,1631159,0.65,2.8,0,0.0,0.0,5,7.69,1.79,1,0,0,0,0,1,0.0,0,0,203.2,210.0,208.28,210.0,-5.08,0.0,12.32,2.8
+0022300538,Justin Minaya,Forward,1631303,Leonard Miller,Forward,1631159,0.4,1.9,0,0.0,0.0,3,7.5,1.58,0,0,0,0,0,0,0.0,0,0,195.58,205.0,208.28,210.0,-12.7,-5.0,9.67,
+0022300538,Rayan Rupert,Guard-Forward,1641712,Leonard Miller,Forward,1631159,0.45,3.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,1,0.0,0,0,198.12,185.0,208.28,210.0,-10.16,-25.0,7.56,3.4
