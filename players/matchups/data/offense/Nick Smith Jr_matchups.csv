@@ -1,4 +1,12 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300674,Nick Smith Jr,Guard,1641733,Jevon Carter,Guard,1628975,0.77,3.4,0,0.0,0.0,5,6.49,1.47,0,0,0,0,0,0,0.0,0,0,187.96,185.0,185.42,200.0,2.54,-15.0,13.89,
+0022300674,Nick Smith Jr,Guard,1641733,Alex Caruso,Guard,1627936,0.13,1.3,0,0.0,0.0,2,15.38,1.54,0,0,0,0,0,0,0.0,0,0,187.96,185.0,195.58,186.0,-7.62,-1.0,26.05,
+0022300674,Nick Smith Jr,Guard,1641733,DeMar DeRozan,Guard-Forward,201942,0.65,5.2,2,3.08,0.38,2,3.08,0.38,0,0,0,0,1,1,1.0,0,0,187.96,185.0,198.12,220.0,-10.16,-35.0,37.31,5.2
+0022300674,Nick Smith Jr,Guard,1641733,Ayo Dosunmu,Guard,1630245,1.05,5.7,0,0.0,0.0,4,3.81,0.7,0,0,0,0,0,1,0.0,0,0,187.96,185.0,195.58,200.0,-7.62,-15.0,23.67,5.7
+0022300674,Nick Smith Jr,Guard,1641733,Andre Drummond,Center,203083,0.17,0.6,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,187.96,185.0,210.82,279.0,-22.86,-94.0,15.87,
+0022300674,Nick Smith Jr,Guard,1641733,Julian Phillips,Forward,1641763,0.55,3.0,0,0.0,0.0,5,9.09,1.67,0,0,0,0,0,0,0.0,0,0,187.96,185.0,203.2,198.0,-15.24,-13.0,5.3,
+0022300674,Nick Smith Jr,Guard,1641733,Terry Taylor,Forward,1630678,0.1,0.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,187.96,185.0,193.04,230.0,-5.08,-45.0,6.75,
+0022300674,Nick Smith Jr,Guard,1641733,Coby White,Guard,1629632,1.27,6.0,3,2.36,0.5,12,9.45,2.0,1,1,1,0,1,1,1.0,0,0,187.96,185.0,195.58,195.0,-7.62,-10.0,35.89,6.0
 0022300017,Nick Smith Jr,Guard,1641733,Bam Adebayo,Center-Forward,1628389,0.37,1.8,0,0.0,0.0,2,5.41,1.11,0,0,0,0,0,0,0.0,0,0,187.96,185.0,205.74,255.0,-17.78,-70.0,34.89,
 0022300017,Nick Smith Jr,Guard,1641733,Thomas Bryant,Center-Forward,1628418,0.13,1.5,0,0.0,0.0,2,15.38,1.33,0,0,0,0,0,1,0.0,0,0,187.96,185.0,208.28,248.0,-20.32,-63.0,10.75,1.5
 0022300017,Nick Smith Jr,Guard,1641733,Jimmy Butler,Forward,202710,0.48,1.5,3,6.25,2.0,6,12.5,4.0,0,1,1,0,1,1,1.0,0,0,187.96,185.0,200.66,230.0,-12.7,-45.0,33.61,1.5
@@ -244,3 +252,10 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300647,Nick Smith Jr,Guard,1641733,Lauri Markkanen,Forward-Center,1628374,0.87,4.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,187.96,185.0,213.36,240.0,-25.4,-55.0,32.65,
 0022300647,Nick Smith Jr,Guard,1641733,Kelly Olynyk,Forward-Center,203482,0.27,1.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,187.96,185.0,210.82,240.0,-22.86,-55.0,20.62,
 0022300647,Nick Smith Jr,Guard,1641733,Collin Sexton,Guard,1629012,0.83,4.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,187.96,185.0,190.5,190.0,-2.54,-5.0,24.23,
+0022300657,Nick Smith Jr,Guard,1641733,Ryan Arcidiacono,Guard,1627853,0.98,3.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,187.96,185.0,190.5,195.0,-2.54,-10.0,2.33,
+0022300657,Nick Smith Jr,Guard,1641733,Jalen Brunson,Guard,1628973,0.6,2.7,6,10.0,2.22,6,10.0,2.22,0,2,2,0,2,2,1.0,0,0,187.96,185.0,187.96,190.0,0.0,-5.0,35.73,1.35
+0022300657,Nick Smith Jr,Guard,1641733,Donte DiVincenzo,Guard,1628978,0.23,0.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,187.96,185.0,193.04,203.0,-5.08,-18.0,22.3,
+0022300657,Nick Smith Jr,Guard,1641733,Quentin Grimes,Guard,1629656,0.95,4.5,0,0.0,0.0,4,4.21,0.89,0,1,0,0,0,1,0.0,0,0,187.96,185.0,195.58,210.0,-7.62,-25.0,19.98,4.5
+0022300657,Nick Smith Jr,Guard,1641733,Josh Hart,Guard,1628404,0.12,0.4,0,0.0,0.0,2,16.67,5.0,0,0,0,0,0,0,0.0,0,0,187.96,185.0,193.04,215.0,-5.08,-30.0,28.18,
+0022300657,Nick Smith Jr,Guard,1641733,Miles McBride,Guard,1630540,1.63,7.9,0,0.0,0.0,4,2.45,0.51,0,1,0,0,0,2,0.0,0,0,187.96,185.0,185.42,195.0,2.54,-10.0,9.82,3.95
+0022300657,Nick Smith Jr,Guard,1641733,Jericho Sims,Center,1630579,0.17,0.7,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,187.96,185.0,208.28,250.0,-20.32,-65.0,7.82,

@@ -1,4 +1,14 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300681,Jonathan Isaac,Forward,1628371,Dominick Barlow,Forward,1631230,0.05,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,230.0,205.74,215.0,2.54,15.0,13.15,
+0022300681,Jonathan Isaac,Forward,1628371,Malaki Branham,Forward,1631103,0.23,2.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,230.0,193.04,180.0,15.24,50.0,20.9,
+0022300681,Jonathan Isaac,Forward,1628371,Julian Champagnie,Forward,1630577,0.22,1.3,0,0.0,0.0,3,13.64,2.31,0,0,0,0,0,0,0.0,0,0,208.28,230.0,200.66,217.0,7.62,13.0,15.82,
+0022300681,Jonathan Isaac,Forward,1628371,Tre Jones,Guard,1630200,0.37,1.8,0,0.0,0.0,2,5.41,1.11,0,0,0,0,0,0,0.0,0,0,208.28,230.0,185.42,185.0,22.86,45.0,25.29,
+0022300681,Jonathan Isaac,Forward,1628371,Doug McDermott,Forward,203926,0.5,3.2,2,4.0,0.62,2,4.0,0.62,0,0,0,0,1,1,1.0,0,0,208.28,230.0,198.12,225.0,10.16,5.0,15.56,3.2
+0022300681,Jonathan Isaac,Forward,1628371,Cedi Osman,Forward,1626224,2.3,12.6,2,0.87,0.16,10,4.35,0.79,0,0,0,0,1,3,0.333,0,0,208.28,230.0,200.66,230.0,7.62,0.0,17.78,4.2
+0022300681,Jonathan Isaac,Forward,1628371,Jeremy Sochan,Forward,1631110,0.23,0.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,230.0,203.2,230.0,5.08,0.0,29.48,
+0022300681,Jonathan Isaac,Forward,1628371,Devin Vassell,Guard-Forward,1630170,1.18,5.4,2,1.69,0.37,6,5.08,1.11,0,0,0,0,1,1,1.0,0,0,208.28,230.0,195.58,200.0,12.7,30.0,31.2,5.4
+0022300681,Jonathan Isaac,Forward,1628371,Victor Wembanyama,Forward-Center,1641705,2.38,11.1,4,1.68,0.36,9,3.78,0.81,0,0,0,0,2,3,0.667,0,0,208.28,230.0,223.52,210.0,-15.24,20.0,28.45,3.7
+0022300681,Jonathan Isaac,Forward,1628371,Blake Wesley,Guard,1631104,0.02,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,230.0,190.5,185.0,17.78,45.0,11.72,
 0022300020,Jonathan Isaac,Forward,1628371,Mikal Bridges,Guard-Forward,1628969,0.87,4.7,0,0.0,0.0,11,12.64,2.34,0,1,0,0,0,1,0.0,0,0,208.28,230.0,198.12,209.0,10.16,21.0,35.04,4.7
 0022300020,Jonathan Isaac,Forward,1628371,Nic Claxton,Center,1629651,0.12,0.6,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,230.0,210.82,215.0,-2.54,15.0,29.89,
 0022300020,Jonathan Isaac,Forward,1628371,Spencer Dinwiddie,Guard,203915,1.63,6.6,3,1.84,0.45,7,4.29,1.06,0,2,1,0,1,2,0.5,0,0,208.28,230.0,195.58,215.0,12.7,15.0,30.65,3.3
@@ -240,3 +250,19 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300638,Jonathan Isaac,Forward,1628371,Xavier Tillman,Forward,1630214,0.25,1.8,0,0.0,0.0,2,8.0,1.11,0,0,0,0,0,0,0.0,0,0,208.28,230.0,200.66,245.0,7.62,-15.0,20.18,
 0022300638,Jonathan Isaac,Forward,1628371,Vince Williams Jr,Guard,1631246,0.1,0.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,230.0,193.04,205.0,15.24,25.0,24.97,
 0022300638,Jonathan Isaac,Forward,1628371,Ziaire Williams,Forward,1630533,1.1,5.0,0,0.0,0.0,2,1.82,0.4,0,0,0,0,0,0,0.0,0,0,208.28,230.0,205.74,185.0,2.54,45.0,18.86,
+0022300655,Jonathan Isaac,Forward,1628371,Grayson Allen,Guard,1628960,0.3,1.4,0,0.0,0.0,2,6.67,1.43,0,1,0,0,0,1,0.0,0,0,208.28,230.0,193.04,198.0,15.24,32.0,33.51,1.4
+0022300655,Jonathan Isaac,Forward,1628371,Udoka Azubuike,Center-Forward,1628962,0.07,0.7,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,230.0,210.82,270.0,-2.54,-40.0,8.5,
+0022300655,Jonathan Isaac,Forward,1628371,Keita Bates-Diop,Forward,1628966,0.97,5.8,2,2.06,0.34,5,5.15,0.86,0,0,0,0,1,2,0.5,0,0,208.28,230.0,203.2,229.0,5.08,1.0,16.0,2.9
+0022300655,Jonathan Isaac,Forward,1628371,Bradley Beal,Guard,203078,1.0,5.3,7,7.0,1.32,15,15.0,2.83,0,1,1,4,2,2,1.0,2,2,208.28,230.0,193.04,207.0,15.24,23.0,32.73,2.65
+0022300655,Jonathan Isaac,Forward,1628371,Devin Booker,Guard,1626164,0.38,3.2,2,5.26,0.62,4,10.53,1.25,0,0,0,0,1,1,1.0,0,0,208.28,230.0,198.12,206.0,10.16,24.0,36.11,3.2
+0022300655,Jonathan Isaac,Forward,1628371,Kevin Durant,Forward,201142,2.22,10.0,0,0.0,0.0,11,4.95,1.1,0,0,0,0,0,0,0.0,0,0,208.28,230.0,210.82,240.0,-2.54,-10.0,37.15,
+0022300655,Jonathan Isaac,Forward,1628371,Drew Eubanks,Forward-Center,1629234,1.62,6.8,0,0.0,0.0,2,1.23,0.29,0,0,0,0,0,0,0.0,0,0,208.28,230.0,208.28,245.0,0.0,-15.0,15.92,
+0022300655,Jonathan Isaac,Forward,1628371,Eric Gordon,Guard,201569,1.52,6.5,0,0.0,0.0,9,5.92,1.38,0,0,0,0,0,2,0.0,0,0,208.28,230.0,190.5,215.0,17.78,15.0,30.21,3.25
+0022300655,Jonathan Isaac,Forward,1628371,Chimezie Metu,Forward-Center,1629002,1.48,5.9,0,0.0,0.0,5,3.38,0.85,1,0,0,0,0,0,0.0,0,0,208.28,230.0,208.28,225.0,0.0,5.0,12.54,
+0022300655,Jonathan Isaac,Forward,1628371,Josh Okogie,Guard,1629006,0.38,2.7,0,0.0,0.0,2,5.26,0.74,0,0,0,0,0,0,0.0,0,0,208.28,230.0,193.04,213.0,15.24,17.0,18.12,
+0022300666,Jonathan Isaac,Forward,1628371,Luka Doncic,Forward-Guard,1629029,1.53,9.2,2,1.31,0.22,14,9.15,1.52,0,1,0,0,1,2,0.5,0,0,208.28,230.0,200.66,230.0,7.62,0.0,37.33,4.6
+0022300666,Jonathan Isaac,Forward,1628371,Josh Green,Guard,1630182,0.08,0.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,230.0,195.58,200.0,12.7,30.0,26.61,
+0022300666,Jonathan Isaac,Forward,1628371,Tim Hardaway Jr,Guard-Forward,203501,0.62,3.9,0,0.0,0.0,7,11.29,1.79,0,0,0,0,0,0,0.0,0,0,208.28,230.0,195.58,205.0,12.7,25.0,30.02,
+0022300666,Jonathan Isaac,Forward,1628371,Jaden Hardy,Guard,1630702,0.37,1.6,0,0.0,0.0,2,5.41,1.25,0,0,0,0,0,0,0.0,0,0,208.28,230.0,190.5,198.0,17.78,32.0,15.51,
+0022300666,Jonathan Isaac,Forward,1628371,Dereck Lively II,Center,1641726,0.33,1.8,0,0.0,0.0,3,9.09,1.67,0,0,0,0,0,0,0.0,0,0,208.28,230.0,215.9,230.0,-7.62,0.0,25.6,
+0022300666,Jonathan Isaac,Forward,1628371,Grant Williams,Forward,1629684,0.12,0.5,0,0.0,0.0,6,50.0,12.0,0,0,0,0,0,0,0.0,0,0,208.28,230.0,198.12,236.0,10.16,-6.0,26.52,

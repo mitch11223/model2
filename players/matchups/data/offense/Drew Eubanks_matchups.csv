@@ -1,4 +1,15 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300677,Drew Eubanks,Forward-Center,1629234,Mikal Bridges,Guard-Forward,1628969,1.05,6.1,0,0.0,0.0,5,4.76,0.82,0,0,0,0,0,0,0.0,0,0,208.28,245.0,198.12,209.0,10.16,36.0,35.04,
+0022300677,Drew Eubanks,Forward-Center,1629234,Nic Claxton,Center,1629651,2.12,11.7,4,1.89,0.34,12,5.66,1.03,0,0,0,0,2,3,0.667,0,0,208.28,245.0,210.82,215.0,-2.54,30.0,29.89,3.9
+0022300677,Drew Eubanks,Forward-Center,1629234,Spencer Dinwiddie,Guard,203915,0.42,1.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,245.0,195.58,215.0,12.7,30.0,30.65,
+0022300677,Drew Eubanks,Forward-Center,1629234,Dorian Finney-Smith,Forward,1627827,0.28,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,245.0,200.66,220.0,7.62,25.0,28.79,
+0022300677,Drew Eubanks,Forward-Center,1629234,Harry Giles III,Forward-Center,1628385,0.88,3.2,0,0.0,0.0,4,4.55,1.25,0,0,0,0,0,0,0.0,0,0,208.28,245.0,208.28,240.0,0.0,5.0,5.15,
+0022300677,Drew Eubanks,Forward-Center,1629234,Cameron Johnson,Forward,1629661,0.12,0.8,0,0.0,0.0,2,16.67,2.5,0,0,0,0,0,0,0.0,0,0,208.28,245.0,203.2,210.0,5.08,35.0,28.31,
+0022300677,Drew Eubanks,Forward-Center,1629234,Royce O'Neale,Forward,1626220,0.78,4.4,2,2.56,0.45,7,8.97,1.59,0,0,0,0,1,1,1.0,0,0,208.28,245.0,198.12,226.0,10.16,19.0,24.48,4.4
+0022300677,Drew Eubanks,Forward-Center,1629234,Dennis Smith Jr,Guard,1628372,0.7,3.9,2,2.86,0.51,8,11.43,2.05,1,0,0,0,1,1,1.0,0,0,208.28,245.0,190.5,205.0,17.78,40.0,19.8,3.9
+0022300677,Drew Eubanks,Forward-Center,1629234,Cam Thomas,Guard,1630560,0.02,0.2,0,0.0,0.0,2,100.0,10.0,1,0,0,0,0,0,0.0,0,0,208.28,245.0,190.5,210.0,17.78,35.0,28.75,
+0022300677,Drew Eubanks,Forward-Center,1629234,Lonnie Walker IV,Guard-Forward,1629022,0.62,3.5,0,0.0,0.0,7,11.29,2.0,0,0,0,0,0,0,0.0,0,0,208.28,245.0,193.04,204.0,15.24,41.0,18.19,
+0022300677,Drew Eubanks,Forward-Center,1629234,Trendon Watford,Forward,1630570,0.25,1.4,0,0.0,0.0,0,0.0,0.0,0,0,0,2,0,0,0.0,0,0,208.28,245.0,203.2,237.0,5.08,8.0,12.19,
 0022301203,Drew Eubanks,Forward-Center,1629234,Max Christie,Guard,1631108,0.1,0.8,0,0.0,0.0,3,30.0,3.75,0,0,0,0,0,0,0.0,0,0,208.28,245.0,195.58,190.0,12.7,55.0,16.89,
 0022301203,Drew Eubanks,Forward-Center,1629234,Anthony Davis,Forward-Center,203076,2.48,12.2,2,0.81,0.16,10,4.03,0.82,0,0,0,0,1,1,1.0,0,0,208.28,245.0,208.28,253.0,0.0,-8.0,36.07,12.2
 0022301203,Drew Eubanks,Forward-Center,1629234,Rui Hachimura,Forward,1629060,0.53,2.0,0,0.0,0.0,5,9.43,2.5,0,0,0,0,0,0,0.0,0,0,208.28,245.0,203.2,230.0,5.08,15.0,22.82,
@@ -355,3 +366,23 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300636,Drew Eubanks,Forward-Center,1629234,Pascal Siakam,Forward,1627783,0.37,2.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,245.0,203.2,245.0,5.08,0.0,34.44,
 0022300636,Drew Eubanks,Forward-Center,1629234,Jalen Smith,Forward-Center,1630188,3.95,19.3,2,0.51,0.1,19,4.81,0.98,0,0,0,0,1,1,1.0,0,0,208.28,245.0,205.74,215.0,2.54,30.0,18.0,19.3
 0022300636,Drew Eubanks,Forward-Center,1629234,Obi Toppin,Forward,1630167,0.52,4.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,245.0,205.74,220.0,2.54,25.0,23.17,
+0022300655,Drew Eubanks,Forward-Center,1629234,Cole Anthony,Guard,1630175,0.18,0.8,0,0.0,0.0,4,22.22,5.0,0,0,0,0,0,0,0.0,0,0,208.28,245.0,187.96,185.0,20.32,60.0,23.93,
+0022300655,Drew Eubanks,Forward-Center,1629234,Paolo Banchero,Forward,1631094,0.78,4.9,0,0.0,0.0,3,3.85,0.61,0,0,0,0,0,0,0.0,0,0,208.28,245.0,208.28,250.0,0.0,-5.0,34.76,
+0022300655,Drew Eubanks,Forward-Center,1629234,Anthony Black,Guard,1641710,0.05,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,245.0,200.66,200.0,7.62,45.0,19.21,
+0022300655,Drew Eubanks,Forward-Center,1629234,Wendell Carter Jr,Center-Forward,1628976,6.2,29.9,4,0.65,0.13,31,5.0,1.04,1,0,0,0,2,2,1.0,0,0,208.28,245.0,208.28,270.0,0.0,-25.0,25.15,14.95
+0022300655,Drew Eubanks,Forward-Center,1629234,Markelle Fultz,Guard,1628365,0.63,3.6,0,0.0,0.0,6,9.52,1.67,0,0,0,0,0,0,0.0,0,0,208.28,245.0,193.04,209.0,15.24,36.0,24.36,
+0022300655,Drew Eubanks,Forward-Center,1629234,Joe Ingles,Forward-Guard,204060,0.25,1.8,0,0.0,0.0,3,12.0,1.67,0,0,0,0,0,0,0.0,0,0,208.28,245.0,205.74,220.0,2.54,25.0,18.19,
+0022300655,Drew Eubanks,Forward-Center,1629234,Jonathan Isaac,Forward,1628371,0.1,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,245.0,208.28,230.0,0.0,15.0,14.21,
+0022300655,Drew Eubanks,Forward-Center,1629234,Jalen Suggs,Guard,1630591,0.53,4.0,2,3.77,0.5,10,18.87,2.5,0,0,0,0,1,1,1.0,0,0,208.28,245.0,195.58,205.0,12.7,40.0,26.33,4.0
+0022300655,Drew Eubanks,Forward-Center,1629234,Franz Wagner,Forward,1630532,1.32,6.0,0,0.0,0.0,10,7.58,1.67,0,0,0,0,0,0,0.0,0,0,208.28,245.0,208.28,220.0,0.0,25.0,33.03,
+0022300655,Drew Eubanks,Forward-Center,1629234,Moritz Wagner,Forward-Center,1629021,1.68,7.9,0,0.0,0.0,4,2.38,0.51,0,0,0,0,0,0,0.0,0,0,208.28,245.0,210.82,245.0,-2.54,0.0,18.93,
+0022300661,Drew Eubanks,Forward-Center,1629234,Bam Adebayo,Center-Forward,1628389,2.47,13.4,2,0.81,0.15,10,4.05,0.75,0,0,0,0,1,1,1.0,0,0,208.28,245.0,205.74,255.0,2.54,-10.0,34.89,13.4
+0022300661,Drew Eubanks,Forward-Center,1629234,Jimmy Butler,Forward,202710,1.08,4.8,0,0.0,0.0,13,12.04,2.71,0,0,0,0,0,0,0.0,0,0,208.28,245.0,200.66,230.0,7.62,15.0,33.61,
+0022300661,Drew Eubanks,Forward-Center,1629234,Tyler Herro,Guard,1629639,0.4,1.7,4,10.0,2.35,4,10.0,2.35,0,0,0,0,2,2,1.0,0,0,208.28,245.0,195.58,195.0,12.7,50.0,34.04,0.85
+0022300661,Drew Eubanks,Forward-Center,1629234,Haywood Highsmith,Forward,1629312,0.17,0.8,0,0.0,0.0,2,11.76,2.5,0,0,0,0,0,0,0.0,0,0,208.28,245.0,195.58,220.0,12.7,25.0,21.53,
+0022300661,Drew Eubanks,Forward-Center,1629234,Jaime Jaquez Jr,Guard,1631170,0.35,1.5,0,0.0,0.0,0,0.0,0.0,1,0,0,0,0,0,0.0,0,0,208.28,245.0,198.12,225.0,10.16,20.0,30.02,
+0022300661,Drew Eubanks,Forward-Center,1629234,Kevin Love,Forward-Center,201567,4.0,15.0,4,1.0,0.27,22,5.5,1.47,0,0,0,0,2,2,1.0,0,0,208.28,245.0,203.2,251.0,5.08,-6.0,18.26,7.5
+0022300661,Drew Eubanks,Forward-Center,1629234,Caleb Martin,Forward,1628997,0.6,3.6,0,0.0,0.0,8,13.33,2.22,0,0,0,0,0,0,0.0,0,0,208.28,245.0,195.58,205.0,12.7,40.0,26.31,
+0022300661,Drew Eubanks,Forward-Center,1629234,Josh Richardson,Guard,1626196,0.25,0.9,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,245.0,195.58,200.0,12.7,45.0,25.97,
+0022300661,Drew Eubanks,Forward-Center,1629234,Duncan Robinson,Forward,1629130,0.12,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,245.0,200.66,215.0,7.62,30.0,28.0,
+0022300661,Drew Eubanks,Forward-Center,1629234,Terry Rozier,Guard,1626179,0.4,1.6,2,5.0,1.25,5,12.5,3.12,0,0,0,0,1,1,1.0,0,0,208.28,245.0,185.42,190.0,22.86,55.0,34.97,1.6

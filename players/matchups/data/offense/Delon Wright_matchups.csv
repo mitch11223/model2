@@ -1,4 +1,12 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300676,Delon Wright,Guard,1626153,Brandon Boston Jr,Guard,1630527,0.67,3.2,0,0.0,0.0,3,4.48,0.94,0,0,0,0,0,0,0.0,0,0,195.58,185.0,198.12,188.0,-2.54,-3.0,7.0,
+0022300676,Delon Wright,Guard,1626153,Kobe Brown,Forward,1641738,0.05,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,185.0,200.66,250.0,-5.08,-65.0,9.59,
+0022300676,Delon Wright,Guard,1626153,James Harden,Guard,201935,0.7,3.6,2,2.86,0.56,5,7.14,1.39,0,0,0,0,1,1,1.0,0,0,195.58,185.0,195.58,220.0,0.0,-35.0,34.05,3.6
+0022300676,Delon Wright,Guard,1626153,Kawhi Leonard,Forward,202695,0.02,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,185.0,200.66,225.0,-5.08,-40.0,34.5,
+0022300676,Delon Wright,Guard,1626153,Terance Mann,Guard-Forward,1629611,0.33,2.3,2,6.06,0.87,2,6.06,0.87,0,0,0,0,1,1,1.0,0,0,195.58,185.0,195.58,215.0,0.0,-30.0,25.18,2.3
+0022300676,Delon Wright,Guard,1626153,Norman Powell,Guard,1626181,0.82,4.1,0,0.0,0.0,2,2.44,0.49,0,0,0,0,0,1,0.0,0,0,195.58,185.0,193.04,215.0,2.54,-30.0,25.32,4.1
+0022300676,Delon Wright,Guard,1626153,Daniel Theis,Forward-Center,1628464,0.43,1.9,4,9.3,2.11,6,13.95,3.16,0,1,0,0,2,3,0.667,0,0,195.58,185.0,203.2,245.0,-7.62,-60.0,17.18,0.63
+0022300676,Delon Wright,Guard,1626153,Russell Westbrook,Guard,201566,2.07,10.0,0,0.0,0.0,6,2.9,0.6,0,1,0,0,0,1,0.0,0,0,195.58,185.0,193.04,200.0,2.54,-15.0,22.98,10.0
 0022300003,Delon Wright,Guard,1626153,Thomas Bryant,Center-Forward,1628418,0.23,1.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,1,0.0,0,0,195.58,185.0,208.28,248.0,-12.7,-63.0,10.75,1.8
 0022300003,Delon Wright,Guard,1626153,Jimmy Butler,Forward,202710,0.4,1.5,0,0.0,0.0,2,5.0,1.33,0,0,0,0,0,0,0.0,0,0,195.58,185.0,200.66,230.0,-5.08,-45.0,33.61,
 0022300003,Delon Wright,Guard,1626153,Tyler Herro,Guard,1629639,1.48,7.9,0,0.0,0.0,2,1.35,0.25,0,0,0,0,0,3,0.0,0,0,195.58,185.0,195.58,195.0,0.0,-10.0,34.04,2.63
@@ -201,3 +209,11 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300642,Delon Wright,Guard,1626153,Mike Muscala,Forward-Center,203488,0.2,1.6,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,185.0,208.28,240.0,-12.7,-55.0,13.9,
 0022300642,Delon Wright,Guard,1626153,Isaiah Stewart,Forward-Center,1630191,0.03,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,185.0,203.2,250.0,-7.62,-65.0,30.6,
 0022300642,Delon Wright,Guard,1626153,Ausar Thompson,Guard-Forward,1641709,0.38,2.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,185.0,198.12,205.0,-2.54,-20.0,23.63,
+0022300665,Delon Wright,Guard,1626153,Dominick Barlow,Forward,1631230,0.02,0.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,185.0,205.74,215.0,-10.16,-30.0,13.15,
+0022300665,Delon Wright,Guard,1626153,Julian Champagnie,Forward,1630577,0.1,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,185.0,200.66,217.0,-5.08,-32.0,15.82,
+0022300665,Delon Wright,Guard,1626153,Keldon Johnson,Forward-Guard,1629640,0.02,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,185.0,195.58,220.0,0.0,-35.0,30.64,
+0022300665,Delon Wright,Guard,1626153,Tre Jones,Guard,1630200,1.33,7.9,0,0.0,0.0,11,8.27,1.39,0,0,0,0,0,0,0.0,0,0,195.58,185.0,185.42,185.0,10.16,0.0,25.29,
+0022300665,Delon Wright,Guard,1626153,Doug McDermott,Forward,203926,0.32,1.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,1,0.0,0,0,195.58,185.0,198.12,225.0,-2.54,-40.0,15.56,1.2
+0022300665,Delon Wright,Guard,1626153,Cedi Osman,Forward,1626224,0.33,2.9,2,6.06,0.69,2,6.06,0.69,0,0,0,0,1,1,1.0,0,0,195.58,185.0,200.66,230.0,-5.08,-45.0,17.78,2.9
+0022300665,Delon Wright,Guard,1626153,Victor Wembanyama,Forward-Center,1641705,0.05,0.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,185.0,223.52,210.0,-27.94,-25.0,28.45,
+0022300665,Delon Wright,Guard,1626153,Blake Wesley,Guard,1631104,0.92,3.8,0,0.0,0.0,9,9.78,2.37,1,0,0,0,0,0,0.0,0,0,195.58,185.0,190.5,185.0,5.08,0.0,11.72,

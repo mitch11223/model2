@@ -1,4 +1,9 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300678,JaVale McGee,Center-Forward,201580,Bam Adebayo,Center-Forward,1628389,1.87,7.8,0,0.0,0.0,2,1.07,0.26,0,0,0,0,0,1,0.0,0,0,213.36,270.0,205.74,255.0,7.62,15.0,34.89,7.8
+0022300678,JaVale McGee,Center-Forward,201580,Tyler Herro,Guard,1629639,0.32,1.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,1,213.36,270.0,195.58,195.0,17.78,75.0,34.04,
+0022300678,JaVale McGee,Center-Forward,201580,Jaime Jaquez Jr,Guard,1631170,0.1,0.2,2,20.0,10.0,2,20.0,10.0,0,0,0,0,1,1,1.0,0,0,213.36,270.0,198.12,225.0,15.24,45.0,30.02,0.2
+0022300678,JaVale McGee,Center-Forward,201580,Caleb Martin,Forward,1628997,0.33,1.7,2,6.06,1.18,2,6.06,1.18,0,0,0,0,1,1,1.0,0,0,213.36,270.0,195.58,205.0,17.78,65.0,26.31,1.7
+0022300678,JaVale McGee,Center-Forward,201580,Josh Richardson,Guard,1626196,0.15,0.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,213.36,270.0,195.58,200.0,17.78,70.0,25.97,
 0022301204,JaVale McGee,Center-Forward,201580,Jose Alvarado,Guard,1630631,0.12,0.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,1,0.0,0,0,213.36,270.0,182.88,179.0,30.48,91.0,16.1,0.3
 0022301204,JaVale McGee,Center-Forward,201580,Brandon Ingram,Forward,1627742,0.3,1.2,0,0.0,0.0,3,10.0,2.5,0,0,0,0,0,1,0.0,0,0,213.36,270.0,203.2,190.0,10.16,80.0,33.02,1.2
 0022301204,JaVale McGee,Center-Forward,201580,Naji Marshall,Forward,1630230,0.57,2.6,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,213.36,270.0,198.12,220.0,15.24,50.0,18.24,
@@ -257,3 +262,11 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300651,JaVale McGee,Center-Forward,201580,Maxi Kleber,Forward,1628467,0.43,3.1,0,0.0,0.0,5,11.63,1.61,0,0,0,0,0,0,0.0,0,0,213.36,270.0,208.28,240.0,5.08,30.0,18.36,
 0022300651,JaVale McGee,Center-Forward,201580,Dereck Lively II,Center,1641726,1.75,7.7,4,2.29,0.52,8,4.57,1.04,0,0,0,0,2,2,1.0,0,0,213.36,270.0,215.9,230.0,-2.54,40.0,25.6,3.85
 0022300651,JaVale McGee,Center-Forward,201580,Grant Williams,Forward,1629684,0.42,1.9,2,4.76,1.05,4,9.52,2.11,0,0,0,0,1,1,1.0,0,0,213.36,270.0,198.12,236.0,15.24,34.0,26.52,1.9
+0022300663,JaVale McGee,Center-Forward,201580,Santi Aldama,Forward-Center,1630583,0.23,0.4,2,8.7,5.0,2,8.7,5.0,0,0,0,0,1,1,1.0,0,0,213.36,270.0,213.36,215.0,0.0,55.0,23.54,0.4
+0022300663,JaVale McGee,Center-Forward,201580,Jacob Gilyard,Guard,1631367,0.03,0.3,2,66.67,6.67,2,66.67,6.67,0,0,0,0,1,1,1.0,0,0,213.36,270.0,172.72,160.0,40.64,110.0,16.03,0.3
+0022300663,JaVale McGee,Center-Forward,201580,Matt Hurt,,1630562,0.92,4.0,2,2.17,0.5,2,2.17,0.5,0,0,0,0,1,1,1.0,0,0,213.36,270.0,,,,,,4.0
+0022300663,JaVale McGee,Center-Forward,201580,Jaren Jackson Jr,Forward-Center,1628991,2.68,11.3,2,0.75,0.18,12,4.48,1.06,0,0,0,0,1,1,1.0,0,0,213.36,270.0,208.28,242.0,5.08,28.0,31.75,11.3
+0022300663,JaVale McGee,Center-Forward,201580,GG Jackson,Forward,1641713,0.42,1.8,4,9.52,2.22,4,9.52,2.22,0,0,0,0,2,3,0.667,0,0,213.36,270.0,205.74,210.0,7.62,60.0,14.36,0.6
+0022300663,JaVale McGee,Center-Forward,201580,Scotty Pippen Jr,,1630590,0.25,1.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,1,0.0,0,0,213.36,270.0,,,,,,1.1
+0022300663,JaVale McGee,Center-Forward,201580,David Roddy,Forward,1631223,0.37,1.1,0,0.0,0.0,3,8.11,2.73,0,0,0,0,0,0,0.0,0,0,213.36,270.0,193.04,255.0,20.32,15.0,22.74,
+0022300663,JaVale McGee,Center-Forward,201580,Xavier Tillman,Forward,1630214,0.45,1.2,0,0.0,0.0,3,6.67,2.5,0,0,0,0,0,0,0.0,0,0,213.36,270.0,200.66,245.0,12.7,25.0,20.18,

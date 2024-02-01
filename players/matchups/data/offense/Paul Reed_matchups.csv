@@ -1,4 +1,10 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300673,Paul Reed,Forward,1630194,Draymond Green,Forward,203110,0.12,0.7,0,0.0,0.0,2,16.67,2.86,0,0,0,0,0,0,0.0,0,0,205.74,210.0,198.12,230.0,7.62,-20.0,26.42,
+0022300673,Paul Reed,Forward,1630194,Trayce Jackson-Davis,Forward,1631218,2.7,15.5,0,0.0,0.0,22,8.15,1.42,0,0,0,0,0,1,0.0,0,0,205.74,210.0,205.74,245.0,0.0,-35.0,14.28,15.5
+0022300673,Paul Reed,Forward,1630194,Cory Joseph,Guard,202709,0.13,0.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,210.0,187.96,200.0,17.78,10.0,11.62,
+0022300673,Paul Reed,Forward,1630194,Jonathan Kuminga,Forward,1630228,0.28,1.9,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,210.0,200.66,225.0,5.08,-15.0,24.0,
+0022300673,Paul Reed,Forward,1630194,Lester Quinones,Guard,1631311,0.02,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,210.0,193.04,208.0,12.7,2.0,6.44,
+0022300673,Paul Reed,Forward,1630194,Dario Saric,Forward-Center,203967,0.08,0.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,210.0,208.28,225.0,-2.54,-15.0,20.51,
 0022301208,Paul Reed,Forward,1630194,Deni Avdija,Forward,1630166,0.57,2.9,0,0.0,0.0,2,3.51,0.69,0,0,0,0,0,0,0.0,0,0,205.74,210.0,205.74,210.0,0.0,0.0,27.47,
 0022301208,Paul Reed,Forward,1630194,Jared Butler,Guard,1630215,0.18,0.9,0,0.0,0.0,2,11.11,2.22,0,0,0,0,0,0,0.0,0,0,205.74,210.0,190.5,193.0,15.24,17.0,7.47,
 0022301208,Paul Reed,Forward,1630194,Bilal Coulibaly,Guard,1641731,0.3,1.3,0,0.0,0.0,2,6.67,1.54,0,0,0,0,0,0,0.0,0,0,205.74,210.0,203.2,195.0,2.54,15.0,26.41,
@@ -412,3 +418,12 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300644,Paul Reed,Forward,1630194,Jamal Murray,Guard,1627750,1.17,5.2,0,0.0,0.0,9,7.69,1.73,0,0,0,0,0,0,0.0,0,0,205.74,210.0,193.04,215.0,12.7,-5.0,31.45,
 0022300644,Paul Reed,Forward,1630194,Michael Porter Jr,Forward,1629008,0.6,3.8,0,0.0,0.0,4,6.67,1.05,0,0,0,0,0,0,0.0,0,0,205.74,210.0,208.28,218.0,-2.54,-8.0,31.28,
 0022300644,Paul Reed,Forward,1630194,Peyton Watson,Guard,1631212,0.8,3.7,2,2.5,0.54,2,2.5,0.54,0,0,0,0,1,2,0.5,0,0,205.74,210.0,200.66,200.0,5.08,10.0,17.64,1.85
+0022300668,Paul Reed,Forward,1630194,Deandre Ayton,Center,1629028,5.98,27.9,5,0.84,0.18,13,2.17,0.47,3,1,1,0,2,5,0.4,0,0,205.74,210.0,213.36,247.0,-7.62,-37.0,31.67,5.58
+0022300668,Paul Reed,Forward,1630194,Malcolm Brogdon,Guard,1627763,0.42,1.9,0,0.0,0.0,2,4.76,1.05,0,0,0,0,0,0,0.0,0,0,205.74,210.0,193.04,229.0,12.7,-19.0,28.28,
+0022300668,Paul Reed,Forward,1630194,Toumani Camara,Forward,1641739,0.32,1.8,2,6.25,1.11,4,12.5,2.22,0,0,0,0,1,1,1.0,0,0,205.74,210.0,200.66,226.0,5.08,-16.0,23.87,1.8
+0022300668,Paul Reed,Forward,1630194,Jerami Grant,Forward,203924,0.5,2.6,2,4.0,0.77,6,12.0,2.31,0,0,0,1,1,2,0.5,0,1,205.74,210.0,200.66,210.0,5.08,0.0,33.56,1.3
+0022300668,Paul Reed,Forward,1630194,Scoot Henderson,Guard,1630703,0.23,0.8,2,8.7,2.5,2,8.7,2.5,0,0,0,0,1,1,1.0,0,0,205.74,210.0,190.5,202.0,15.24,8.0,26.51,0.8
+0022300668,Paul Reed,Forward,1630194,Duop Reath,Center,1641871,1.17,4.7,0,0.0,0.0,4,3.42,0.85,0,0,0,0,0,0,0.0,0,0,205.74,210.0,205.74,245.0,0.0,-35.0,17.91,
+0022300668,Paul Reed,Forward,1630194,Anfernee Simons,Guard,1629014,0.43,2.4,2,4.65,0.83,5,11.63,2.08,0,0,0,0,1,1,1.0,0,0,205.74,210.0,190.5,193.0,15.24,17.0,33.62,2.4
+0022300668,Paul Reed,Forward,1630194,Matisse Thybulle,Guard-Forward,1629680,0.37,1.3,0,0.0,0.0,2,5.41,1.54,0,0,0,0,0,0,0.0,0,0,205.74,210.0,195.58,201.0,10.16,9.0,22.86,
+0022300668,Paul Reed,Forward,1630194,Jabari Walker,Forward,1631133,0.85,4.2,0,0.0,0.0,7,8.24,1.67,0,0,0,0,0,0,0.0,0,0,205.74,210.0,200.66,227.0,5.08,-17.0,21.33,

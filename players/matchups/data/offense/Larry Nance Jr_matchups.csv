@@ -1,4 +1,15 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300679,Larry Nance Jr,Forward-Center,1626204,Dillon Brooks,Guard-Forward,1628415,0.5,1.9,0,0.0,0.0,2,4.0,1.05,0,0,0,0,0,0,0.0,0,0,203.2,245.0,198.12,225.0,5.08,20.0,31.53,
+0022300679,Larry Nance Jr,Forward-Center,1626204,Jalen Green,Guard,1630224,0.4,1.7,0,0.0,0.0,4,10.0,2.35,0,0,0,0,0,0,0.0,0,0,203.2,245.0,193.04,186.0,10.16,59.0,30.4,
+0022300679,Larry Nance Jr,Forward-Center,1626204,Jeff Green,Forward,201145,0.78,4.0,0,0.0,0.0,3,3.85,0.75,1,0,0,0,0,0,0.0,0,0,203.2,245.0,203.2,235.0,0.0,10.0,16.88,
+0022300679,Larry Nance Jr,Forward-Center,1626204,Nate Hinton,Guard-Forward,1630207,0.48,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,245.0,195.58,210.0,7.62,35.0,5.67,
+0022300679,Larry Nance Jr,Forward-Center,1626204,Aaron Holiday,Guard,1628988,0.18,0.7,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,245.0,182.88,185.0,20.32,60.0,17.16,
+0022300679,Larry Nance Jr,Forward-Center,1626204,Alperen Sengun,Center,1630578,2.73,12.0,0,0.0,0.0,5,1.83,0.42,1,0,0,0,0,0,0.0,0,0,203.2,245.0,210.82,243.0,-7.62,2.0,32.56,
+0022300679,Larry Nance Jr,Forward-Center,1626204,Jabari Smith Jr,Forward,1631095,0.33,0.9,0,0.0,0.0,2,6.06,2.22,0,0,0,0,0,0,0.0,0,0,203.2,245.0,210.82,220.0,-7.62,25.0,31.65,
+0022300679,Larry Nance Jr,Forward-Center,1626204,Jae'Sean Tate,Forward,1630256,0.32,3.0,0,0.0,0.0,2,6.25,0.67,0,0,0,0,0,0,0.0,0,0,203.2,245.0,193.04,230.0,10.16,15.0,18.4,
+0022300679,Larry Nance Jr,Forward-Center,1626204,Amen Thompson,Guard-Forward,1641708,0.65,3.4,0,0.0,0.0,2,3.08,0.59,1,0,0,0,0,1,0.0,0,0,203.2,245.0,200.66,200.0,2.54,45.0,16.46,3.4
+0022300679,Larry Nance Jr,Forward-Center,1626204,Fred VanVleet,Guard,1627832,0.27,0.8,0,0.0,0.0,1,3.7,1.25,0,0,0,0,0,0,0.0,0,0,203.2,245.0,182.88,197.0,20.32,48.0,37.16,
+0022300679,Larry Nance Jr,Forward-Center,1626204,Cam Whitmore,Forward,1641715,0.27,1.9,0,0.0,0.0,3,11.11,1.58,0,0,0,0,0,0,0.0,0,0,203.2,245.0,200.66,230.0,2.54,15.0,16.32,
 0022300011,Larry Nance Jr,Forward-Center,1626204,Dillon Brooks,Guard-Forward,1628415,0.15,0.6,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,245.0,198.12,225.0,5.08,20.0,31.53,
 0022300011,Larry Nance Jr,Forward-Center,1626204,Tari Eason,Forward,1631106,0.32,2.3,1,3.12,0.43,5,15.62,2.17,0,0,0,2,0,0,0.0,1,0,203.2,245.0,203.2,215.0,0.0,30.0,21.82,
 0022300011,Larry Nance Jr,Forward-Center,1626204,Jalen Green,Guard,1630224,0.2,1.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,245.0,193.04,186.0,10.16,59.0,30.4,
@@ -267,3 +278,12 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300648,Larry Nance Jr,Forward-Center,1626204,Brook Lopez,Center,201572,4.13,22.5,8,1.94,0.36,21,5.08,0.93,0,2,2,0,3,4,0.75,0,0,203.2,245.0,215.9,282.0,-12.7,-37.0,31.76,5.62
 0022300648,Larry Nance Jr,Forward-Center,1626204,Cameron Payne,Guard,1626166,0.02,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,245.0,190.5,183.0,12.7,62.0,15.19,
 0022300648,Larry Nance Jr,Forward-Center,1626204,Bobby Portis,Forward,1626171,1.18,5.4,0,0.0,0.0,6,5.08,1.11,0,0,0,0,0,0,0.0,0,0,203.2,245.0,208.28,250.0,-5.08,-5.0,23.37,
+0022300659,Larry Nance Jr,Forward-Center,1626204,Oshae Brissett,Forward-Guard,1629052,0.58,2.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,245.0,200.66,210.0,2.54,35.0,11.82,
+0022300659,Larry Nance Jr,Forward-Center,1626204,Jaylen Brown,Guard-Forward,1627759,1.0,4.7,0,0.0,0.0,6,6.0,1.28,1,0,0,0,0,1,0.0,0,0,203.2,245.0,198.12,223.0,5.08,22.0,33.16,4.7
+0022300659,Larry Nance Jr,Forward-Center,1626204,Sam Hauser,Forward,1630573,0.33,1.3,0,0.0,0.0,2,6.06,1.54,0,0,0,0,0,0,0.0,0,0,203.2,245.0,200.66,217.0,2.54,28.0,21.56,
+0022300659,Larry Nance Jr,Forward-Center,1626204,Jrue Holiday,Guard,201950,0.78,3.4,0,0.0,0.0,8,10.26,2.35,0,0,0,0,0,0,0.0,0,0,203.2,245.0,193.04,205.0,10.16,40.0,33.57,
+0022300659,Larry Nance Jr,Forward-Center,1626204,Al Horford,Center-Forward,201143,0.87,3.2,0,0.0,0.0,2,2.3,0.62,0,0,0,0,0,0,0.0,0,0,203.2,245.0,205.74,240.0,-2.54,5.0,26.84,
+0022300659,Larry Nance Jr,Forward-Center,1626204,Payton Pritchard,Guard,1630202,0.05,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,245.0,185.42,195.0,17.78,50.0,21.11,
+0022300659,Larry Nance Jr,Forward-Center,1626204,Neemias Queta,Center,1629674,1.1,5.7,0,0.0,0.0,4,3.64,0.7,0,0,0,0,0,0,0.0,0,0,203.2,245.0,213.36,248.0,-10.16,-3.0,12.28,
+0022300659,Larry Nance Jr,Forward-Center,1626204,Jayson Tatum,Forward-Guard,1628369,3.17,12.7,3,0.95,0.24,11,3.47,0.87,0,1,1,0,1,1,1.0,0,0,203.2,245.0,203.2,210.0,0.0,35.0,35.77,12.7
+0022300659,Larry Nance Jr,Forward-Center,1626204,Derrick White,Guard,1628401,1.17,5.5,0,0.0,0.0,5,4.27,0.91,0,1,0,0,0,1,0.0,0,0,203.2,245.0,193.04,190.0,10.16,55.0,31.95,5.5

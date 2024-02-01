@@ -1,4 +1,15 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300680,Nickeil Alexander-Walker,Guard,1629638,Seth Curry,Guard,203552,1.93,10.3,0,0.0,0.0,15,7.77,1.46,1,1,0,0,0,1,0.0,0,0,195.58,205.0,185.42,185.0,10.16,20.0,12.76,10.3
+0022300680,Nickeil Alexander-Walker,Guard,1629638,Josh Green,Guard,1630182,0.15,0.6,0,0.0,0.0,3,20.0,5.0,0,1,0,0,0,1,0.0,0,0,195.58,205.0,195.58,200.0,0.0,5.0,26.61,0.6
+0022300680,Nickeil Alexander-Walker,Guard,1629638,Tim Hardaway Jr,Guard-Forward,203501,0.25,1.7,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,205.0,195.58,205.0,0.0,0.0,30.02,
+0022300680,Nickeil Alexander-Walker,Guard,1629638,Jaden Hardy,Guard,1630702,2.65,12.9,0,0.0,0.0,16,6.04,1.24,1,1,0,0,0,1,0.0,0,0,195.58,205.0,190.5,198.0,5.08,7.0,15.51,12.9
+0022300680,Nickeil Alexander-Walker,Guard,1629638,Richaun Holmes,Forward,1626158,0.05,0.4,0,0.0,0.0,3,60.0,7.5,0,0,0,0,0,0,0.0,0,0,195.58,205.0,205.74,235.0,-10.16,-30.0,10.0,
+0022300680,Nickeil Alexander-Walker,Guard,1629638,Maxi Kleber,Forward,1628467,0.28,2.0,5,17.86,2.5,5,17.86,2.5,0,1,1,2,1,1,1.0,2,0,195.58,205.0,208.28,240.0,-12.7,-35.0,18.36,2.0
+0022300680,Nickeil Alexander-Walker,Guard,1629638,AJ Lawson,Guard,1630639,1.42,6.4,2,1.41,0.31,5,3.52,0.78,1,0,0,0,1,1,1.0,0,0,195.58,205.0,198.12,179.0,-2.54,26.0,9.57,6.4
+0022300680,Nickeil Alexander-Walker,Guard,1629638,Dwight Powell,Forward-Center,203939,0.37,2.1,0,0.0,0.0,2,5.41,0.95,0,0,0,0,0,0,0.0,0,0,195.58,205.0,208.28,240.0,-12.7,-35.0,15.95,
+0022300680,Nickeil Alexander-Walker,Guard,1629638,Olivier-Maxence Prosper,Forward,1641765,0.22,1.2,0,0.0,0.0,2,9.09,1.67,0,0,0,0,0,0,0.0,0,0,195.58,205.0,200.66,230.0,-5.08,-25.0,9.04,
+0022300680,Nickeil Alexander-Walker,Guard,1629638,Brandon Williams,Guard,1630314,0.15,0.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,205.0,185.42,190.0,10.16,15.0,6.0,
+0022300680,Nickeil Alexander-Walker,Guard,1629638,Grant Williams,Forward,1629684,0.57,2.2,2,3.51,0.91,3,5.26,1.36,0,0,0,0,1,1,1.0,0,0,195.58,205.0,198.12,236.0,-2.54,-31.0,26.52,2.2
 0022301210,Nickeil Alexander-Walker,Guard,1629638,Zach Collins,Forward-Center,1628380,0.25,1.5,0,0.0,0.0,0,0.0,0.0,0,1,0,0,0,1,0.0,0,0,195.58,205.0,210.82,250.0,-15.24,-45.0,25.36,1.5
 0022301210,Nickeil Alexander-Walker,Guard,1629638,Keldon Johnson,Forward-Guard,1629640,0.82,5.3,2,2.44,0.38,6,7.32,1.13,0,0,0,0,1,1,1.0,0,0,195.58,205.0,195.58,220.0,0.0,-15.0,30.64,5.3
 0022301210,Nickeil Alexander-Walker,Guard,1629638,Tre Jones,Guard,1630200,0.25,1.7,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,205.0,185.42,185.0,10.16,20.0,25.29,
@@ -439,3 +450,13 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300649,Nickeil Alexander-Walker,Guard,1629638,Devin Vassell,Guard-Forward,1630170,0.73,4.5,0,0.0,0.0,10,13.7,2.22,1,0,0,0,0,0,0.0,0,0,195.58,205.0,195.58,200.0,0.0,5.0,31.2,
 0022300649,Nickeil Alexander-Walker,Guard,1629638,Victor Wembanyama,Forward-Center,1641705,0.57,3.9,2,3.51,0.51,7,12.28,1.79,1,0,0,0,1,3,0.333,0,0,195.58,205.0,223.52,210.0,-27.94,-5.0,28.45,1.3
 0022300649,Nickeil Alexander-Walker,Guard,1629638,Blake Wesley,Guard,1631104,3.28,15.4,6,1.83,0.39,19,5.79,1.23,1,2,2,0,2,2,1.0,0,0,195.58,205.0,190.5,185.0,5.08,20.0,11.72,7.7
+0022300664,Nickeil Alexander-Walker,Guard,1629638,Luguentz Dort,Guard,1629652,0.32,2.4,2,6.25,0.83,4,12.5,1.67,0,0,0,0,1,1,1.0,0,0,195.58,205.0,193.04,220.0,2.54,-15.0,28.36,2.4
+0022300664,Nickeil Alexander-Walker,Guard,1629638,Josh Giddey,Guard,1630581,0.92,4.5,3,3.26,0.67,5,5.43,1.11,0,1,1,0,1,1,1.0,0,0,195.58,205.0,203.2,216.0,-7.62,-11.0,24.89,4.5
+0022300664,Nickeil Alexander-Walker,Guard,1629638,Shai Gilgeous-Alexander,Guard,1628983,5.32,24.9,5,0.94,0.2,34,6.39,1.37,1,3,1,0,2,4,0.5,0,0,195.58,205.0,198.12,195.0,-2.54,10.0,34.22,6.22
+0022300664,Nickeil Alexander-Walker,Guard,1629638,Chet Holmgren,Center-Forward,1631096,0.25,1.6,0,0.0,0.0,4,16.0,2.5,0,1,0,0,0,1,0.0,0,0,195.58,205.0,215.9,208.0,-20.32,-3.0,30.0,1.6
+0022300664,Nickeil Alexander-Walker,Guard,1629638,Isaiah Joe,Guard,1630198,1.25,5.4,0,0.0,0.0,3,2.4,0.56,0,0,0,0,0,1,0.0,0,0,195.58,205.0,190.5,165.0,5.08,40.0,18.85,5.4
+0022300664,Nickeil Alexander-Walker,Guard,1629638,Vasilije Micic,Guard,203995,0.1,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,205.0,190.5,188.0,5.08,17.0,12.04,
+0022300664,Nickeil Alexander-Walker,Guard,1629638,Cason Wallace,Guard,1641717,1.17,5.4,0,0.0,0.0,6,5.13,1.11,1,1,0,0,0,3,0.0,0,0,195.58,205.0,190.5,195.0,5.08,10.0,21.15,1.8
+0022300664,Nickeil Alexander-Walker,Guard,1629638,Aaron Wiggins,Guard,1630598,2.47,9.7,0,0.0,0.0,11,4.45,1.13,1,1,0,0,0,1,0.0,0,0,195.58,205.0,195.58,190.0,0.0,15.0,13.07,9.7
+0022300664,Nickeil Alexander-Walker,Guard,1629638,Jalen Williams,Guard-Forward,1631114,0.52,2.9,0,0.0,0.0,8,15.38,2.76,0,0,0,0,0,0,0.0,0,0,195.58,205.0,195.58,211.0,0.0,-6.0,31.95,
+0022300664,Nickeil Alexander-Walker,Guard,1629638,Jaylin Williams,Forward,1631119,0.12,0.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,205.0,205.74,240.0,-10.16,-35.0,11.87,

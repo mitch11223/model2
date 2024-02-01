@@ -1,4 +1,7 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300677,Jordan Goodwin,Guard,1630692,Harry Giles III,Forward-Center,1628385,0.02,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,193.04,200.0,208.28,240.0,-15.24,-40.0,5.15,
+0022300677,Jordan Goodwin,Guard,1630692,Dennis Smith Jr,Guard,1628372,0.57,1.7,2,3.51,1.18,2,3.51,1.18,0,0,0,0,1,1,1.0,0,0,193.04,200.0,190.5,205.0,2.54,-5.0,19.8,1.7
+0022300677,Jordan Goodwin,Guard,1630692,Lonnie Walker IV,Guard-Forward,1629022,0.08,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,193.04,200.0,193.04,204.0,0.0,-4.0,18.19,
 0022301203,Jordan Goodwin,Guard,1630692,Anthony Davis,Forward-Center,203076,0.33,1.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,193.04,200.0,208.28,253.0,-15.24,-53.0,36.07,
 0022301203,Jordan Goodwin,Guard,1630692,Rui Hachimura,Forward,1629060,0.1,0.5,0,0.0,0.0,0,0.0,0.0,0,1,0,0,0,1,0.0,0,0,193.04,200.0,203.2,230.0,-10.16,-30.0,22.82,0.5
 0022301203,Jordan Goodwin,Guard,1630692,Jaxson Hayes,Center-Forward,1629637,0.43,1.7,2,4.65,1.18,4,9.3,2.35,0,0,0,0,1,1,1.0,0,0,193.04,200.0,213.36,220.0,-20.32,-20.0,9.5,1.7
@@ -293,3 +296,10 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300625,Jordan Goodwin,Guard,1630692,AJ Lawson,Guard,1630639,0.03,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,193.04,200.0,198.12,179.0,-5.08,21.0,9.57,
 0022300625,Jordan Goodwin,Guard,1630692,Olivier-Maxence Prosper,Forward,1641765,0.25,1.6,2,8.0,1.25,2,8.0,1.25,0,1,0,0,1,2,0.5,0,0,193.04,200.0,200.66,230.0,-7.62,-30.0,9.04,0.8
 0022300625,Jordan Goodwin,Guard,1630692,Brandon Williams,Guard,1630314,0.73,2.9,2,2.74,0.69,2,2.74,0.69,1,0,0,0,1,1,1.0,0,0,193.04,200.0,185.42,190.0,7.62,10.0,6.0,2.9
+0022300655,Jordan Goodwin,Guard,1630692,Goga Bitadze,Center-Forward,1629048,0.13,0.9,2,15.38,2.22,2,15.38,2.22,0,0,0,0,1,2,0.5,0,0,193.04,200.0,208.28,250.0,-15.24,-50.0,20.23,0.45
+0022300655,Jordan Goodwin,Guard,1630692,Anthony Black,Guard,1641710,0.32,2.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,193.04,200.0,200.66,200.0,-7.62,0.0,19.21,
+0022300655,Jordan Goodwin,Guard,1630692,Wendell Carter Jr,Center-Forward,1628976,0.05,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,193.04,200.0,208.28,270.0,-15.24,-70.0,25.15,
+0022300655,Jordan Goodwin,Guard,1630692,Markelle Fultz,Guard,1628365,0.15,0.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,193.04,200.0,193.04,209.0,0.0,-9.0,24.36,
+0022300655,Jordan Goodwin,Guard,1630692,Caleb Houstan,Guard,1631216,0.03,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,193.04,200.0,203.2,205.0,-10.16,-5.0,15.64,
+0022300655,Jordan Goodwin,Guard,1630692,Trevelin Queen,Guard,1630243,0.08,1.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,1,0.0,0,0,193.04,200.0,195.58,190.0,-2.54,10.0,12.92,1.1
+0022300655,Jordan Goodwin,Guard,1630692,Franz Wagner,Forward,1630532,0.12,0.4,0,0.0,0.0,2,16.67,5.0,0,0,0,0,0,0,0.0,0,0,193.04,200.0,208.28,220.0,-15.24,-20.0,33.03,

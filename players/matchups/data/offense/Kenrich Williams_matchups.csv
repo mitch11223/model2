@@ -1,4 +1,12 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300682,Kenrich Williams,Guard-Forward,1629026,Christian Braun,Guard,1631128,0.35,1.1,0,0.0,0.0,2,5.71,1.82,0,0,0,0,0,0,0.0,0,0,198.12,210.0,198.12,220.0,0.0,-10.0,19.0,
+0022300682,Kenrich Williams,Guard-Forward,1629026,Kentavious Caldwell-Pope,Guard,203484,0.68,3.6,0,0.0,0.0,6,8.82,1.67,0,0,0,0,0,0,0.0,0,0,198.12,210.0,195.58,204.0,2.54,6.0,32.27,
+0022300682,Kenrich Williams,Guard-Forward,1629026,Aaron Gordon,Forward,203932,0.68,3.1,0,0.0,0.0,2,2.94,0.65,0,0,0,0,0,0,0.0,0,0,198.12,210.0,203.2,235.0,-5.08,-25.0,32.02,
+0022300682,Kenrich Williams,Guard-Forward,1629026,Reggie Jackson,Guard,202704,0.35,2.0,0,0.0,0.0,2,5.71,1.0,0,0,0,0,0,0,0.0,0,0,198.12,210.0,187.96,208.0,10.16,2.0,23.06,
+0022300682,Kenrich Williams,Guard-Forward,1629026,Jamal Murray,Guard,1627750,1.13,5.9,0,0.0,0.0,11,9.73,1.86,0,0,0,0,0,0,0.0,0,0,198.12,210.0,193.04,215.0,5.08,-5.0,31.45,
+0022300682,Kenrich Williams,Guard-Forward,1629026,Zeke Nnaji,Forward-Center,1630192,0.05,0.1,0,0.0,0.0,3,60.0,30.0,0,0,0,0,0,0,0.0,0,0,198.12,210.0,205.74,240.0,-7.62,-30.0,9.39,
+0022300682,Kenrich Williams,Guard-Forward,1629026,Michael Porter Jr,Forward,1629008,2.95,13.0,0,0.0,0.0,7,2.37,0.54,0,0,0,0,0,1,0.0,0,0,198.12,210.0,208.28,218.0,-10.16,-8.0,31.28,13.0
+0022300682,Kenrich Williams,Guard-Forward,1629026,Peyton Watson,Guard,1631212,0.73,3.4,0,0.0,0.0,1,1.37,0.29,0,0,0,0,0,0,0.0,0,0,198.12,210.0,200.66,200.0,-2.54,10.0,17.64,
 0022301212,Kenrich Williams,Guard-Forward,1629026,Dillon Brooks,Guard-Forward,1628415,0.43,2.8,2,4.65,0.71,2,4.65,0.71,0,0,0,0,1,1,1.0,0,0,198.12,210.0,198.12,225.0,0.0,-15.0,31.53,2.8
 0022301212,Kenrich Williams,Guard-Forward,1629026,Reggie Bullock Jr,Guard-Forward,203493,0.32,1.3,0,0.0,0.0,2,6.25,1.54,0,0,0,0,0,0,0.0,0,0,198.12,210.0,198.12,205.0,0.0,5.0,9.22,
 0022301212,Kenrich Williams,Guard-Forward,1629026,Tari Eason,Forward,1631106,0.83,5.8,0,0.0,0.0,4,4.82,0.69,0,0,0,0,0,0,0.0,0,0,198.12,210.0,203.2,215.0,-5.08,-5.0,21.82,
@@ -295,3 +303,21 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300640,Kenrich Williams,Guard-Forward,1629026,Trey Murphy III,Forward,1630530,0.4,2.0,0,0.0,0.0,3,7.5,1.5,0,1,0,0,0,1,0.0,0,0,198.12,210.0,203.2,206.0,-5.08,4.0,25.67,2.0
 0022300640,Kenrich Williams,Guard-Forward,1629026,Larry Nance Jr,Forward-Center,1626204,0.62,4.0,2,3.23,0.5,6,9.68,1.5,0,0,0,0,1,1,1.0,0,0,198.12,210.0,203.2,245.0,-5.08,-35.0,17.72,4.0
 0022300640,Kenrich Williams,Guard-Forward,1629026,Jonas Valanciunas,Center,202685,0.07,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,210.0,210.82,265.0,-12.7,-55.0,26.3,
+0022300654,Kenrich Williams,Guard-Forward,1629026,Bojan Bogdanovic,Forward,202711,0.4,1.4,0,0.0,0.0,5,12.5,3.57,0,0,0,0,0,0,0.0,0,0,198.12,210.0,200.66,226.0,-2.54,-16.0,33.28,
+0022300654,Kenrich Williams,Guard-Forward,1629026,Alec Burks,Guard,202692,0.45,2.5,0,0.0,0.0,2,4.44,0.8,0,0,0,0,0,1,0.0,0,0,198.12,210.0,195.58,214.0,2.54,-4.0,20.59,2.5
+0022300654,Kenrich Williams,Guard-Forward,1629026,Jalen Duren,Center,1631105,0.2,0.6,0,0.0,0.0,3,15.0,5.0,0,0,0,0,0,0,0.0,0,0,198.12,210.0,208.28,250.0,-10.16,-40.0,29.9,
+0022300654,Kenrich Williams,Guard-Forward,1629026,Killian Hayes,Guard,1630165,0.3,1.6,2,6.67,1.25,2,6.67,1.25,0,0,0,0,1,1,1.0,0,0,198.12,210.0,195.58,195.0,2.54,15.0,23.9,1.6
+0022300654,Kenrich Williams,Guard-Forward,1629026,Jaden Ivey,Guard,1631093,1.6,8.4,0,0.0,0.0,8,5.0,0.95,0,0,0,0,0,0,0.0,0,0,198.12,210.0,193.04,195.0,5.08,15.0,26.69,
+0022300654,Kenrich Williams,Guard-Forward,1629026,Kevin Knox II,Forward,1628995,0.2,0.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,210.0,200.66,215.0,-2.54,-5.0,18.21,
+0022300654,Kenrich Williams,Guard-Forward,1629026,Monte Morris,,1628420,0.5,1.5,0,0.0,0.0,2,4.0,1.33,0,0,0,0,0,0,0.0,0,0,198.12,210.0,,,,,,
+0022300654,Kenrich Williams,Guard-Forward,1629026,Mike Muscala,Forward-Center,203488,0.35,3.1,0,0.0,0.0,2,5.71,0.65,0,1,0,0,0,2,0.0,0,0,198.12,210.0,208.28,240.0,-10.16,-30.0,13.9,1.55
+0022300654,Kenrich Williams,Guard-Forward,1629026,Isaiah Stewart,Forward-Center,1630191,0.93,3.8,0,0.0,0.0,4,4.3,1.05,0,0,0,0,0,0,0.0,0,0,198.12,210.0,203.2,250.0,-5.08,-40.0,30.6,
+0022300654,Kenrich Williams,Guard-Forward,1629026,Ausar Thompson,Guard-Forward,1641709,0.38,3.0,0,0.0,0.0,0,0.0,0.0,0,1,0,0,0,1,0.0,0,0,198.12,210.0,198.12,205.0,0.0,5.0,23.63,3.0
+0022300664,Kenrich Williams,Guard-Forward,1629026,Nickeil Alexander-Walker,Guard,1629638,0.35,1.3,0,0.0,0.0,3,8.57,2.31,0,0,0,0,0,0,0.0,0,0,198.12,210.0,195.58,205.0,2.54,5.0,22.8,
+0022300664,Kenrich Williams,Guard-Forward,1629026,Kyle Anderson,Forward-Guard,203937,0.35,2.4,0,0.0,0.0,3,8.57,1.25,0,0,0,0,0,0,0.0,0,0,198.12,210.0,205.74,230.0,-7.62,-20.0,22.37,
+0022300664,Kenrich Williams,Guard-Forward,1629026,Anthony Edwards,Guard,1630162,0.53,2.7,3,5.66,1.11,7,13.21,2.59,0,2,1,0,1,2,0.5,0,0,198.12,210.0,193.04,225.0,5.08,-15.0,34.93,1.35
+0022300664,Kenrich Williams,Guard-Forward,1629026,Rudy Gobert,Center,203497,0.22,1.1,0,0.0,0.0,4,18.18,3.64,0,0,0,0,0,1,0.0,0,0,198.12,210.0,215.9,258.0,-17.78,-48.0,33.09,1.1
+0022300664,Kenrich Williams,Guard-Forward,1629026,Jaden McDaniels,Forward,1630183,0.25,2.0,0,0.0,0.0,2,8.0,1.0,0,0,0,0,0,0,0.0,0,0,198.12,210.0,205.74,185.0,-7.62,25.0,28.81,
+0022300664,Kenrich Williams,Guard-Forward,1629026,Jordan McLaughlin,Guard,1629162,0.33,1.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,210.0,182.88,185.0,15.24,25.0,8.84,
+0022300664,Kenrich Williams,Guard-Forward,1629026,Naz Reid,Center-Forward,1629675,1.67,8.0,3,1.8,0.38,5,2.99,0.62,0,1,1,0,1,1,1.0,0,0,198.12,210.0,205.74,264.0,-7.62,-54.0,22.37,8.0
+0022300664,Kenrich Williams,Guard-Forward,1629026,Karl-Anthony Towns,Center-Forward,1626157,2.52,12.4,0,0.0,0.0,6,2.38,0.48,0,2,0,0,0,3,0.0,0,0,198.12,210.0,213.36,248.0,-15.24,-38.0,33.13,4.13

@@ -1,4 +1,12 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300678,Kevin Love,Forward-Center,201567,Harrison Barnes,Forward,203084,0.05,1.0,0,0.0,0.0,2,40.0,2.0,0,0,0,0,0,0,0.0,0,0,203.2,251.0,203.2,225.0,0.0,26.0,29.59,
+0022300678,Kevin Love,Forward-Center,201567,De'Aaron Fox,Guard,1628368,0.1,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,251.0,190.5,185.0,12.7,66.0,35.63,
+0022300678,Kevin Love,Forward-Center,201567,Kevin Huerter,Guard-Forward,1628989,0.27,1.7,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,1,0.0,0,0,203.2,251.0,200.66,198.0,2.54,53.0,24.31,1.7
+0022300678,Kevin Love,Forward-Center,201567,Trey Lyles,Forward,1626168,0.88,4.0,2,2.27,0.5,2,2.27,0.5,0,0,0,2,0,0,0.0,2,1,203.2,251.0,205.74,234.0,-2.54,17.0,20.0,
+0022300678,Kevin Love,Forward-Center,201567,Davion Mitchell,Guard,1630558,0.08,0.3,0,0.0,0.0,2,25.0,6.67,0,0,0,0,0,0,0.0,0,0,203.2,251.0,182.88,202.0,20.32,49.0,12.44,
+0022300678,Kevin Love,Forward-Center,201567,Malik Monk,Guard,1628370,0.2,1.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,251.0,190.5,200.0,12.7,51.0,25.81,
+0022300678,Kevin Love,Forward-Center,201567,Keegan Murray,Forward,1631099,0.48,1.9,3,6.25,1.58,5,10.42,2.63,0,1,1,0,1,1,1.0,0,0,203.2,251.0,203.2,225.0,0.0,26.0,33.08,1.9
+0022300678,Kevin Love,Forward-Center,201567,Domantas Sabonis,Forward-Center,1627734,3.13,14.7,3,0.96,0.2,19,6.07,1.29,3,2,1,0,1,2,0.5,0,0,203.2,251.0,208.28,240.0,-5.08,11.0,35.32,7.35
 0022301207,Kevin Love,Forward-Center,201567,Precious Achiuwa,Forward,1630173,0.88,5.6,0,0.0,0.0,8,9.09,1.43,1,0,0,0,0,0,0.0,0,0,203.2,251.0,203.2,243.0,0.0,8.0,16.79,
 0022301207,Kevin Love,Forward-Center,201567,OG Anunoby,Forward-Guard,1628384,0.5,2.3,0,0.0,0.0,0,0.0,0.0,0,1,0,0,0,1,0.0,0,0,203.2,251.0,200.66,240.0,2.54,11.0,34.2,2.3
 0022301207,Kevin Love,Forward-Center,201567,Scottie Barnes,Forward-Guard,1630567,0.47,2.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,251.0,200.66,237.0,2.54,14.0,35.22,
@@ -309,3 +317,11 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300643,Kevin Love,Forward-Center,201567,Isaiah Hartenstein,Center-Forward,1628392,1.13,6.3,0,0.0,0.0,5,4.42,0.79,0,0,0,0,0,0,0.0,0,0,203.2,251.0,213.36,250.0,-10.16,1.0,25.39,
 0022300643,Kevin Love,Forward-Center,201567,Miles McBride,Guard,1630540,0.13,0.7,0,0.0,0.0,3,23.08,4.29,0,0,0,0,0,0,0.0,0,0,203.2,251.0,185.42,195.0,17.78,56.0,9.82,
 0022300643,Kevin Love,Forward-Center,201567,Julius Randle,Forward-Center,203944,0.22,1.3,0,0.0,0.0,2,9.09,1.54,0,0,0,0,0,0,0.0,0,0,203.2,251.0,203.2,250.0,0.0,1.0,35.39,
+0022300661,Kevin Love,Forward-Center,201567,Grayson Allen,Guard,1628960,0.1,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,251.0,193.04,198.0,10.16,53.0,33.51,
+0022300661,Kevin Love,Forward-Center,201567,Keita Bates-Diop,Forward,1628966,0.08,0.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,251.0,203.2,229.0,0.0,22.0,16.0,
+0022300661,Kevin Love,Forward-Center,201567,Bradley Beal,Guard,203078,0.12,0.7,2,16.67,2.86,2,16.67,2.86,0,0,0,2,0,0,0.0,2,1,203.2,251.0,193.04,207.0,10.16,44.0,32.73,
+0022300661,Kevin Love,Forward-Center,201567,Devin Booker,Guard,1626164,0.43,2.2,0,0.0,0.0,3,6.98,1.36,0,2,0,0,0,2,0.0,0,0,203.2,251.0,198.12,206.0,5.08,45.0,36.11,1.1
+0022300661,Kevin Love,Forward-Center,201567,Kevin Durant,Forward,201142,0.4,2.0,0,0.0,0.0,2,5.0,1.0,0,1,0,0,0,1,0.0,0,0,203.2,251.0,210.82,240.0,-7.62,11.0,37.15,2.0
+0022300661,Kevin Love,Forward-Center,201567,Drew Eubanks,Forward-Center,1629234,3.12,14.7,0,0.0,0.0,8,2.56,0.54,0,2,0,0,0,2,0.0,0,0,203.2,251.0,208.28,245.0,-5.08,6.0,15.92,7.35
+0022300661,Kevin Love,Forward-Center,201567,Eric Gordon,Guard,201569,0.07,0.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,251.0,190.5,215.0,12.7,36.0,30.21,
+0022300661,Kevin Love,Forward-Center,201567,Josh Okogie,Guard,1629006,0.55,2.7,0,0.0,0.0,6,10.91,2.22,0,0,0,0,0,0,0.0,0,0,203.2,251.0,193.04,213.0,10.16,38.0,18.12,

@@ -1,4 +1,14 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300675,Kevin Knox II,Forward,1628995,Jarrett Allen,Center,1628386,0.12,1.3,2,16.67,1.54,2,16.67,1.54,0,0,0,0,1,2,0.5,0,0,200.66,215.0,205.74,243.0,-5.08,-28.0,30.37,0.65
+0022300675,Kevin Knox II,Forward,1628995,Darius Garland,Guard,1629636,0.32,1.1,0,0.0,0.0,4,12.5,3.64,0,0,0,0,0,0,0.0,0,0,200.66,215.0,185.42,192.0,15.24,23.0,34.0,
+0022300675,Kevin Knox II,Forward,1628995,Caris LeVert,Guard,1627747,1.07,5.8,0,0.0,0.0,4,3.74,0.69,0,0,0,0,0,0,0.0,0,0,200.66,215.0,198.12,205.0,2.54,10.0,28.64,
+0022300675,Kevin Knox II,Forward,1628995,Sam Merrill,Guard,1630241,1.18,5.6,5,4.24,0.89,10,8.47,1.79,0,2,1,0,2,3,0.667,0,0,200.66,215.0,193.04,205.0,7.62,10.0,16.68,1.87
+0022300675,Kevin Knox II,Forward,1628995,Donovan Mitchell,Guard,1628378,1.6,6.8,2,1.25,0.29,9,5.62,1.32,0,0,0,0,1,2,0.5,0,0,200.66,215.0,190.5,215.0,10.16,0.0,35.62,3.4
+0022300675,Kevin Knox II,Forward,1628995,Evan Mobley,Center,1630596,0.27,3.1,0,0.0,0.0,2,7.41,0.65,0,0,0,0,0,0,0.0,0,0,200.66,215.0,210.82,215.0,-10.16,0.0,33.52,
+0022300675,Kevin Knox II,Forward,1628995,Georges Niang,Forward,1627777,0.58,5.0,2,3.45,0.4,4,6.9,0.8,0,0,0,0,1,1,1.0,0,0,200.66,215.0,200.66,230.0,0.0,-15.0,22.28,5.0
+0022300675,Kevin Knox II,Forward,1628995,Isaac Okoro,Forward-Guard,1630171,1.13,5.1,0,0.0,0.0,3,2.65,0.59,0,0,0,0,0,0,0.0,0,0,200.66,215.0,195.58,225.0,5.08,-10.0,26.32,
+0022300675,Kevin Knox II,Forward,1628995,Max Strus,Guard-Forward,1629622,1.45,5.8,0,0.0,0.0,2,1.38,0.34,0,0,0,0,0,0,0.0,0,0,200.66,215.0,195.58,215.0,5.08,0.0,33.09,
+0022300675,Kevin Knox II,Forward,1628995,Dean Wade,Forward-Center,1629731,0.28,2.5,0,0.0,0.0,2,7.14,0.8,0,1,0,0,0,1,0.0,0,0,200.66,215.0,205.74,228.0,-5.08,-13.0,22.17,2.5
 0022301217,Kevin Knox II,Forward,1628995,Anthony Black,Guard,1641710,0.08,0.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,215.0,200.66,200.0,0.0,15.0,19.21,
 0022301217,Kevin Knox II,Forward,1628995,Caleb Houstan,Guard,1631216,0.47,1.7,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,215.0,203.2,205.0,-2.54,10.0,15.64,
 0022301217,Kevin Knox II,Forward,1628995,Jett Howard,Guard,1641724,0.9,6.6,0,0.0,0.0,4,4.44,0.61,0,0,0,0,0,0,0.0,0,0,200.66,215.0,198.12,215.0,2.54,0.0,3.64,
@@ -221,3 +231,13 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300642,Kevin Knox II,Forward,1628995,Jordan Poole,Guard,1629673,1.52,6.0,0,0.0,0.0,5,3.29,0.83,0,0,0,0,0,0,0.0,0,0,200.66,215.0,193.04,194.0,7.62,21.0,29.11,
 0022300642,Kevin Knox II,Forward,1628995,Landry Shamet,Guard,1629013,0.72,3.3,0,0.0,0.0,3,4.17,0.91,0,0,0,0,0,0,0.0,0,0,200.66,215.0,193.04,190.0,7.62,25.0,15.17,
 0022300642,Kevin Knox II,Forward,1628995,Delon Wright,Guard,1626153,0.88,4.2,0,0.0,0.0,2,2.27,0.48,0,1,0,0,0,1,0.0,0,0,200.66,215.0,195.58,185.0,5.08,30.0,15.92,4.2
+0022300654,Kevin Knox II,Forward,1628995,Luguentz Dort,Guard,1629652,0.18,1.0,0,0.0,0.0,3,16.67,3.0,0,0,0,0,0,0,0.0,0,0,200.66,215.0,193.04,220.0,7.62,-5.0,28.36,
+0022300654,Kevin Knox II,Forward,1628995,Josh Giddey,Guard,1630581,1.55,7.4,4,2.58,0.54,10,6.45,1.35,0,0,0,0,2,2,1.0,0,0,200.66,215.0,203.2,216.0,-2.54,-1.0,24.89,3.7
+0022300654,Kevin Knox II,Forward,1628995,Shai Gilgeous-Alexander,Guard,1628983,0.65,2.9,0,0.0,0.0,2,3.08,0.69,0,0,0,0,0,0,0.0,0,0,200.66,215.0,198.12,195.0,2.54,20.0,34.22,
+0022300654,Kevin Knox II,Forward,1628995,Chet Holmgren,Center-Forward,1631096,0.05,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,215.0,215.9,208.0,-15.24,7.0,30.0,
+0022300654,Kevin Knox II,Forward,1628995,Isaiah Joe,Guard,1630198,0.83,5.1,0,0.0,0.0,2,2.41,0.39,0,0,0,0,0,2,0.0,0,0,200.66,215.0,190.5,165.0,10.16,50.0,18.85,2.55
+0022300654,Kevin Knox II,Forward,1628995,Cason Wallace,Guard,1641717,0.43,3.2,0,0.0,0.0,2,4.65,0.62,1,0,0,0,0,0,0.0,0,0,200.66,215.0,190.5,195.0,10.16,20.0,21.15,
+0022300654,Kevin Knox II,Forward,1628995,Lindy Waters III,Forward,1630322,0.6,3.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,215.0,198.12,210.0,2.54,5.0,7.41,
+0022300654,Kevin Knox II,Forward,1628995,Aaron Wiggins,Guard,1630598,0.62,3.8,0,0.0,0.0,8,12.9,2.11,1,0,0,0,0,1,0.0,0,0,200.66,215.0,195.58,190.0,5.08,25.0,13.07,3.8
+0022300654,Kevin Knox II,Forward,1628995,Jalen Williams,Guard-Forward,1631114,0.67,2.5,2,2.99,0.8,4,5.97,1.6,0,0,0,0,1,1,1.0,0,0,200.66,215.0,195.58,211.0,5.08,4.0,31.95,2.5
+0022300654,Kevin Knox II,Forward,1628995,Jaylin Williams,Forward,1631119,0.2,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,215.0,205.74,240.0,-5.08,-25.0,11.87,

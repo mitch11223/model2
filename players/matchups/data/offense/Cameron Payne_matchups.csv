@@ -1,4 +1,12 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300683,Cameron Payne,Guard,1626166,Deandre Ayton,Center,1629028,0.08,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,1,0.0,0,0,190.5,183.0,213.36,247.0,-22.86,-64.0,31.67,0.4
+0022300683,Cameron Payne,Guard,1626166,Malcolm Brogdon,Guard,1627763,0.18,0.9,0,0.0,0.0,2,11.11,2.22,0,1,0,0,0,1,0.0,0,0,190.5,183.0,193.04,229.0,-2.54,-46.0,28.28,0.9
+0022300683,Cameron Payne,Guard,1626166,Toumani Camara,Forward,1641739,0.13,0.5,0,0.0,0.0,2,15.38,4.0,0,0,0,0,0,0,0.0,0,0,190.5,183.0,200.66,226.0,-10.16,-43.0,23.87,
+0022300683,Cameron Payne,Guard,1626166,Jerami Grant,Forward,203924,0.07,0.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,190.5,183.0,200.66,210.0,-10.16,-27.0,33.56,
+0022300683,Cameron Payne,Guard,1626166,Scoot Henderson,Guard,1630703,2.18,11.1,0,0.0,0.0,17,7.8,1.53,2,0,0,0,0,2,0.0,0,0,190.5,183.0,190.5,202.0,0.0,-19.0,26.51,5.55
+0022300683,Cameron Payne,Guard,1626166,Duop Reath,Center,1641871,0.1,0.4,0,0.0,0.0,2,20.0,5.0,0,0,0,0,0,0,0.0,0,0,190.5,183.0,205.74,245.0,-15.24,-62.0,17.91,
+0022300683,Cameron Payne,Guard,1626166,Anfernee Simons,Guard,1629014,0.03,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,190.5,183.0,190.5,193.0,0.0,-10.0,33.62,
+0022300683,Cameron Payne,Guard,1626166,Matisse Thybulle,Guard-Forward,1629680,0.12,0.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,190.5,183.0,195.58,201.0,-5.08,-18.0,22.86,
 0022301201,Cameron Payne,Guard,1626166,Ryan Arcidiacono,Guard,1627853,0.15,0.6,2,13.33,3.33,2,13.33,3.33,0,0,0,0,1,1,1.0,0,0,190.5,183.0,190.5,195.0,0.0,-12.0,2.33,0.6
 0022301201,Cameron Payne,Guard,1626166,Charlie Brown Jr,Guard,1629718,0.1,0.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,190.5,183.0,198.12,199.0,-7.62,-16.0,1.33,
 0022301201,Cameron Payne,Guard,1626166,Jalen Brunson,Guard,1628973,0.35,1.4,3,8.57,2.14,5,14.29,3.57,0,2,1,0,1,2,0.5,0,0,190.5,183.0,187.96,190.0,2.54,-7.0,35.73,0.7
@@ -359,3 +367,11 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300648,Cameron Payne,Guard,1626166,Jonas Valanciunas,Center,202685,0.38,1.9,0,0.0,0.0,3,7.89,1.58,2,0,0,0,0,0,0.0,0,0,190.5,183.0,210.82,265.0,-20.32,-82.0,26.3,
 0022300648,Cameron Payne,Guard,1626166,Zion Williamson,Forward,1629627,0.47,2.0,0,0.0,0.0,2,4.26,1.0,2,0,0,0,0,0,0.0,0,0,190.5,183.0,198.12,284.0,-7.62,-101.0,30.32,
 0022300648,Cameron Payne,Guard,1626166,Cody Zeller,Forward-Center,203469,0.1,0.7,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,190.5,183.0,210.82,240.0,-20.32,-57.0,8.27,
+0022300667,Cameron Payne,Guard,1626166,Christian Braun,Guard,1631128,0.43,2.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,190.5,183.0,198.12,220.0,-7.62,-37.0,19.0,
+0022300667,Cameron Payne,Guard,1626166,Kentavious Caldwell-Pope,Guard,203484,0.95,5.0,0,0.0,0.0,2,2.11,0.4,0,0,0,0,0,0,0.0,0,0,190.5,183.0,195.58,204.0,-5.08,-21.0,32.27,
+0022300667,Cameron Payne,Guard,1626166,Aaron Gordon,Forward,203932,0.05,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,190.5,183.0,203.2,235.0,-12.7,-52.0,32.02,
+0022300667,Cameron Payne,Guard,1626166,Reggie Jackson,Guard,202704,1.35,9.2,3,2.22,0.33,5,3.7,0.54,0,2,1,0,1,2,0.5,0,0,190.5,183.0,187.96,208.0,2.54,-25.0,23.06,4.6
+0022300667,Cameron Payne,Guard,1626166,Nikola Jokic,Center,203999,0.07,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,190.5,183.0,210.82,284.0,-20.32,-101.0,33.52,
+0022300667,Cameron Payne,Guard,1626166,Jamal Murray,Guard,1627750,0.5,3.0,0,0.0,0.0,2,4.0,0.67,0,0,0,0,0,0,0.0,0,0,190.5,183.0,193.04,215.0,-2.54,-32.0,31.45,
+0022300667,Cameron Payne,Guard,1626166,Michael Porter Jr,Forward,1629008,0.28,2.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,190.5,183.0,208.28,218.0,-17.78,-35.0,31.28,
+0022300667,Cameron Payne,Guard,1626166,Peyton Watson,Guard,1631212,0.48,2.9,0,0.0,0.0,10,20.83,3.45,1,0,0,0,0,0,0.0,0,0,190.5,183.0,200.66,200.0,-10.16,-17.0,17.64,

@@ -1,4 +1,13 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300673,Trayce Jackson-Davis,Forward,1631218,Patrick Beverley,Guard,201976,0.25,1.1,2,8.0,1.82,5,20.0,4.55,0,0,0,0,1,2,0.5,0,0,205.74,245.0,187.96,180.0,17.78,65.0,19.05,0.55
+0022300673,Trayce Jackson-Davis,Forward,1631218,Joel Embiid,Center-Forward,203954,0.38,2.4,2,5.26,0.83,2,5.26,0.83,0,0,0,0,1,1,1.0,0,0,205.74,245.0,213.36,280.0,-7.62,-35.0,34.15,2.4
+0022300673,Trayce Jackson-Davis,Forward,1631218,Tobias Harris,Forward,202699,0.45,1.6,0,0.0,0.0,5,11.11,3.12,0,0,0,0,0,0,0.0,0,0,205.74,245.0,203.2,226.0,2.54,19.0,34.15,
+0022300673,Trayce Jackson-Davis,Forward,1631218,Danuel House Jr,Forward-Guard,1627863,0.07,0.5,0,0.0,0.0,3,42.86,6.0,0,0,0,0,0,0,0.0,0,0,205.74,245.0,198.12,220.0,7.62,25.0,14.17,
+0022300673,Trayce Jackson-Davis,Forward,1631218,Furkan Korkmaz,Guard-Forward,1627788,0.1,0.8,0,0.0,0.0,2,20.0,2.5,0,0,0,0,0,0,0.0,0,0,205.74,245.0,200.66,202.0,5.08,43.0,7.1,
+0022300673,Trayce Jackson-Davis,Forward,1631218,KJ Martin,Forward,1630231,0.17,1.4,2,11.76,1.43,2,11.76,1.43,0,0,0,0,1,1,1.0,0,0,205.74,245.0,198.12,215.0,7.62,30.0,8.2,1.4
+0022300673,Trayce Jackson-Davis,Forward,1631218,Kelly Oubre Jr,Forward-Guard,1626162,0.32,2.2,0,0.0,0.0,3,9.38,1.36,0,0,0,0,0,1,0.0,0,0,205.74,245.0,200.66,203.0,5.08,42.0,27.5,2.2
+0022300673,Trayce Jackson-Davis,Forward,1631218,Paul Reed,Forward,1630194,3.6,16.0,2,0.56,0.12,14,3.89,0.88,0,0,0,0,1,1,1.0,0,0,205.74,245.0,205.74,210.0,0.0,35.0,16.05,16.0
+0022300673,Trayce Jackson-Davis,Forward,1631218,Jaden Springer,Guard,1630531,0.38,2.4,0,0.0,0.0,2,5.26,0.83,0,0,0,0,0,1,0.0,0,0,205.74,245.0,193.04,202.0,12.7,43.0,10.0,2.4
 0022300025,Trayce Jackson-Davis,Forward,1631218,Kyle Anderson,Forward-Guard,203937,0.4,2.0,0,0.0,0.0,5,12.5,2.5,0,0,0,0,0,0,0.0,0,0,205.74,245.0,205.74,230.0,0.0,15.0,22.37,
 0022300025,Trayce Jackson-Davis,Forward,1631218,Troy Brown Jr,Guard-Forward,1628972,0.02,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,245.0,200.66,215.0,5.08,30.0,11.56,
 0022300025,Trayce Jackson-Davis,Forward,1631218,Mike Conley,Guard,201144,0.22,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,1,0.0,0,0,205.74,245.0,182.88,175.0,22.86,70.0,29.19,1.0

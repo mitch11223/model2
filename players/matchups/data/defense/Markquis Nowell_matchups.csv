@@ -1,8 +1,8 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
-0022300195,Brook Lopez,Center,201572,Markquis Nowell,Guard,1641806,0.07,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,215.9,282.0,170.18,160.0,45.72,122.0,31.81,
-0022300195,Malik Beasley,Guard,1627736,Markquis Nowell,Guard,1641806,0.12,0.7,0,0.0,0.0,2,16.67,2.86,0,0,0,0,0,0,0.0,0,0,193.04,187.0,170.18,160.0,22.86,27.0,29.42,
+0022300195,Brook Lopez,Center,201572,Markquis Nowell,Guard,1641806,0.07,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,215.9,282.0,170.18,160.0,45.72,122.0,31.9,
+0022300195,Malik Beasley,Guard,1627736,Markquis Nowell,Guard,1641806,0.12,0.7,0,0.0,0.0,2,16.67,2.86,0,0,0,0,0,0,0.0,0,0,193.04,187.0,170.18,160.0,22.86,27.0,29.41,
 0022300195,Thanasis Antetokounmpo,Forward,203648,Markquis Nowell,Guard,1641806,0.1,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,219.0,170.18,160.0,30.48,59.0,4.05,
-0022300195,Cameron Payne,Guard,1626166,Markquis Nowell,Guard,1641806,0.17,0.8,3,17.65,3.75,3,17.65,3.75,0,1,1,0,1,1,1.0,0,0,190.5,183.0,170.18,160.0,20.32,23.0,15.14,0.8
+0022300195,Cameron Payne,Guard,1626166,Markquis Nowell,Guard,1641806,0.17,0.8,3,17.65,3.75,3,17.65,3.75,0,1,1,0,1,1,1.0,0,0,190.5,183.0,170.18,160.0,20.32,23.0,14.98,0.8
 0022300195,AJ Green,Guard,1631260,Markquis Nowell,Guard,1641806,0.25,1.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,193.04,190.0,170.18,160.0,22.86,30.0,7.5,
 0022300195,Robin Lopez,Center,201577,Markquis Nowell,Guard,1641806,0.08,0.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,215.9,281.0,170.18,160.0,45.72,121.0,2.85,
 0022300195,Lindell Wigginton,Guard,1629623,Markquis Nowell,Guard,1641806,0.13,0.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,185.42,189.0,170.18,160.0,15.24,29.0,2.33,

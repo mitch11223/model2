@@ -1,4 +1,11 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300681,Julian Champagnie,Forward,1630577,Paolo Banchero,Forward,1631094,2.98,13.8,0,0.0,0.0,16,5.37,1.16,1,1,0,0,0,1,0.0,0,0,200.66,217.0,208.28,250.0,-7.62,-33.0,34.76,13.8
+0022300681,Julian Champagnie,Forward,1630577,Anthony Black,Guard,1641710,0.12,0.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,217.0,200.66,200.0,0.0,17.0,19.21,
+0022300681,Julian Champagnie,Forward,1630577,Wendell Carter Jr,Center-Forward,1628976,0.18,1.6,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,217.0,208.28,270.0,-7.62,-53.0,25.15,
+0022300681,Julian Champagnie,Forward,1630577,Markelle Fultz,Guard,1628365,0.57,3.2,0,0.0,0.0,4,7.02,1.25,0,1,0,0,0,1,0.0,0,0,200.66,217.0,193.04,209.0,7.62,8.0,24.36,3.2
+0022300681,Julian Champagnie,Forward,1630577,Joe Ingles,Forward-Guard,204060,1.27,6.0,0,0.0,0.0,2,1.57,0.33,0,0,0,0,0,0,0.0,0,0,200.66,217.0,205.74,220.0,-5.08,-3.0,18.19,
+0022300681,Julian Champagnie,Forward,1630577,Jalen Suggs,Guard,1630591,0.42,2.6,0,0.0,0.0,2,4.76,0.77,0,0,0,0,0,1,0.0,0,0,200.66,217.0,195.58,205.0,5.08,12.0,26.33,2.6
+0022300681,Julian Champagnie,Forward,1630577,Franz Wagner,Forward,1630532,2.18,12.7,0,0.0,0.0,6,2.75,0.47,0,0,0,0,0,1,0.0,0,0,200.66,217.0,208.28,220.0,-7.62,-3.0,33.03,12.7
 0022301210,Julian Champagnie,Forward,1630577,Kyle Anderson,Forward-Guard,203937,1.1,4.1,0,0.0,0.0,4,3.64,0.98,0,0,0,0,0,0,0.0,0,0,200.66,217.0,205.74,230.0,-5.08,-13.0,22.37,
 0022301210,Julian Champagnie,Forward,1630577,Troy Brown Jr,Guard-Forward,1628972,0.3,1.5,0,0.0,0.0,0,0.0,0.0,0,1,0,0,0,1,0.0,0,0,200.66,217.0,200.66,215.0,0.0,2.0,11.56,1.5
 0022301210,Julian Champagnie,Forward,1630577,Anthony Edwards,Guard,1630162,0.42,2.1,0,0.0,0.0,4,9.52,1.9,0,0,0,0,0,0,0.0,0,0,200.66,217.0,193.04,225.0,7.62,-8.0,34.93,
@@ -341,3 +348,13 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300649,Julian Champagnie,Forward,1630577,Shake Milton,Guard-Forward,1629003,0.9,3.8,1,1.11,0.26,3,3.33,0.79,0,0,0,2,0,0,0.0,1,1,200.66,217.0,195.58,205.0,5.08,12.0,13.36,
 0022300649,Julian Champagnie,Forward,1630577,Naz Reid,Center-Forward,1629675,0.5,4.9,0,0.0,0.0,4,8.0,0.82,0,1,0,0,0,1,0.0,0,0,200.66,217.0,205.74,264.0,-5.08,-47.0,22.37,4.9
 0022300649,Julian Champagnie,Forward,1630577,Karl-Anthony Towns,Center-Forward,1626157,0.97,4.4,0,0.0,0.0,5,5.15,1.14,0,1,0,0,0,1,0.0,0,0,200.66,217.0,213.36,248.0,-12.7,-31.0,33.13,4.4
+0022300665,Julian Champagnie,Forward,1630577,Deni Avdija,Forward,1630166,0.4,4.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,217.0,205.74,210.0,-5.08,7.0,27.47,
+0022300665,Julian Champagnie,Forward,1630577,Marvin Bagley III,Forward,1628963,0.18,2.0,0,0.0,0.0,5,27.78,2.5,1,0,0,0,0,0,0.0,0,0,200.66,217.0,208.28,235.0,-7.62,-18.0,19.72,
+0022300665,Julian Champagnie,Forward,1630577,Bilal Coulibaly,Guard,1641731,0.32,3.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,217.0,203.2,195.0,-2.54,22.0,26.41,
+0022300665,Julian Champagnie,Forward,1630577,Daniel Gafford,Forward-Center,1629655,0.23,1.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,217.0,208.28,234.0,-7.62,-17.0,26.2,
+0022300665,Julian Champagnie,Forward,1630577,Tyus Jones,Guard,1626145,0.85,3.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,217.0,185.42,196.0,15.24,21.0,28.56,
+0022300665,Julian Champagnie,Forward,1630577,Corey Kispert,Forward,1630557,1.62,9.5,0,0.0,0.0,15,9.26,1.58,0,0,0,0,0,0,0.0,0,0,200.66,217.0,198.12,224.0,2.54,-7.0,21.64,
+0022300665,Julian Champagnie,Forward,1630577,Kyle Kuzma,Forward,1628398,0.37,1.5,3,8.11,2.0,5,13.51,3.33,0,1,1,1,1,1,1.0,0,1,200.66,217.0,205.74,221.0,-5.08,-4.0,31.38,1.5
+0022300665,Julian Champagnie,Forward,1630577,Jordan Poole,Guard,1629673,3.53,17.3,0,0.0,0.0,20,5.67,1.16,0,0,0,0,0,1,0.0,0,0,200.66,217.0,193.04,194.0,7.62,23.0,29.11,17.3
+0022300665,Julian Champagnie,Forward,1630577,Landry Shamet,Guard,1629013,0.32,0.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,217.0,193.04,190.0,7.62,27.0,15.17,
+0022300665,Julian Champagnie,Forward,1630577,Delon Wright,Guard,1626153,0.02,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,217.0,195.58,185.0,5.08,32.0,15.92,

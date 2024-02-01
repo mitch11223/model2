@@ -1,4 +1,16 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300680,AJ Lawson,Guard,1630639,Nickeil Alexander-Walker,Guard,1629638,0.88,5.0,1,1.14,0.2,5,5.68,1.0,0,0,0,2,0,0,0.0,1,1,198.12,179.0,195.58,205.0,2.54,-26.0,22.8,
+0022300680,AJ Lawson,Guard,1630639,Kyle Anderson,Forward-Guard,203937,0.77,3.0,0,0.0,0.0,2,2.6,0.67,0,0,0,0,0,0,0.0,0,0,198.12,179.0,205.74,230.0,-7.62,-51.0,22.37,
+0022300680,AJ Lawson,Guard,1630639,Troy Brown Jr,Guard-Forward,1628972,0.57,4.2,0,0.0,0.0,3,5.26,0.71,0,0,0,0,0,0,0.0,0,0,198.12,179.0,200.66,215.0,-2.54,-36.0,11.56,
+0022300680,AJ Lawson,Guard,1630639,Anthony Edwards,Guard,1630162,0.63,2.2,0,0.0,0.0,0,0.0,0.0,0,1,0,0,0,1,0.0,0,0,198.12,179.0,193.04,225.0,5.08,-46.0,34.93,2.2
+0022300680,AJ Lawson,Guard,1630639,Luka Garza,Center,1630568,0.05,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,1,0.0,0,0,198.12,179.0,208.28,243.0,-10.16,-64.0,2.56,0.2
+0022300680,AJ Lawson,Guard,1630639,Rudy Gobert,Center,203497,0.05,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,179.0,215.9,258.0,-17.78,-79.0,33.09,
+0022300680,AJ Lawson,Guard,1630639,Jaden McDaniels,Forward,1630183,0.33,1.8,0,0.0,0.0,5,15.15,2.78,1,0,0,0,0,0,0.0,0,0,198.12,179.0,205.74,185.0,-7.62,-6.0,28.81,
+0022300680,AJ Lawson,Guard,1630639,Jordan McLaughlin,Guard,1629162,1.58,7.7,2,1.27,0.26,6,3.8,0.78,0,1,0,0,1,2,0.5,0,0,198.12,179.0,182.88,185.0,15.24,-6.0,8.84,3.85
+0022300680,AJ Lawson,Guard,1630639,Shake Milton,Guard-Forward,1629003,0.17,0.9,0,0.0,0.0,4,23.53,4.44,0,0,0,0,0,0,0.0,0,0,198.12,179.0,195.58,205.0,2.54,-26.0,13.36,
+0022300680,AJ Lawson,Guard,1630639,Wendell Moore Jr,Guard,1631111,0.42,3.6,0,0.0,0.0,4,9.52,1.11,0,0,0,0,0,0,0.0,0,0,198.12,179.0,195.58,215.0,2.54,-36.0,2.91,
+0022300680,AJ Lawson,Guard,1630639,Naz Reid,Center-Forward,1629675,0.38,2.1,0,0.0,0.0,2,5.26,0.95,0,0,0,0,0,1,0.0,0,0,198.12,179.0,205.74,264.0,-7.62,-85.0,22.37,2.1
+0022300680,AJ Lawson,Guard,1630639,Karl-Anthony Towns,Center-Forward,1626157,0.07,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,179.0,213.36,248.0,-15.24,-69.0,33.13,
 0022301213,AJ Lawson,Guard,1630639,Ochai Agbaji,Guard,1630534,0.48,3.0,0,0.0,0.0,6,12.5,2.0,0,0,0,0,0,0,0.0,0,0,198.12,179.0,195.58,215.0,2.54,-36.0,19.96,
 0022301213,AJ Lawson,Guard,1630639,Keyonte George,Guard,1641718,1.38,7.8,2,1.45,0.26,10,7.25,1.28,0,0,0,0,1,1,1.0,0,0,198.12,179.0,193.04,185.0,5.08,-6.0,24.22,7.8
 0022301213,AJ Lawson,Guard,1630639,Taylor Hendricks,Forward,1641707,0.48,1.6,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,179.0,205.74,215.0,-7.62,-36.0,13.92,

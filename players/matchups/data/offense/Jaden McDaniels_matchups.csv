@@ -1,4 +1,15 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300680,Jaden McDaniels,Forward,1630183,Seth Curry,Guard,203552,0.3,1.8,0,0.0,0.0,0,0.0,0.0,0,2,0,0,0,2,0.0,0,0,205.74,185.0,185.42,185.0,20.32,0.0,12.76,0.9
+0022300680,Jaden McDaniels,Forward,1630183,Josh Green,Guard,1630182,1.57,8.9,2,1.27,0.22,12,7.64,1.35,2,1,0,0,1,2,0.5,0,0,205.74,185.0,195.58,200.0,10.16,-15.0,26.61,4.45
+0022300680,Jaden McDaniels,Forward,1630183,Tim Hardaway Jr,Guard-Forward,203501,2.57,11.4,2,0.78,0.18,15,5.84,1.32,1,0,0,0,1,2,0.5,0,0,205.74,185.0,195.58,205.0,10.16,-20.0,30.02,5.7
+0022300680,Jaden McDaniels,Forward,1630183,Jaden Hardy,Guard,1630702,1.6,7.4,3,1.88,0.41,12,7.5,1.62,1,0,0,1,1,1,1.0,1,1,205.74,185.0,190.5,198.0,15.24,-13.0,15.51,7.4
+0022300680,Jaden McDaniels,Forward,1630183,Richaun Holmes,Forward,1626158,0.52,2.2,6,11.54,2.73,7,13.46,3.18,0,0,0,0,3,3,1.0,0,0,205.74,185.0,205.74,235.0,0.0,-50.0,10.0,0.73
+0022300680,Jaden McDaniels,Forward,1630183,Maxi Kleber,Forward,1628467,0.03,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,185.0,208.28,240.0,-2.54,-55.0,18.36,
+0022300680,Jaden McDaniels,Forward,1630183,AJ Lawson,Guard,1630639,0.8,3.6,2,2.5,0.56,5,6.25,1.39,0,0,0,0,1,1,1.0,0,0,205.74,185.0,198.12,179.0,7.62,6.0,9.57,3.6
+0022300680,Jaden McDaniels,Forward,1630183,Dwight Powell,Forward-Center,203939,0.02,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,185.0,208.28,240.0,-2.54,-55.0,15.95,
+0022300680,Jaden McDaniels,Forward,1630183,Olivier-Maxence Prosper,Forward,1641765,0.9,4.5,0,0.0,0.0,3,3.33,0.67,0,0,0,0,0,0,0.0,0,0,205.74,185.0,200.66,230.0,5.08,-45.0,9.04,
+0022300680,Jaden McDaniels,Forward,1630183,Brandon Williams,Guard,1630314,0.33,1.0,0,0.0,0.0,2,6.06,2.0,1,0,0,0,0,0,0.0,0,0,205.74,185.0,185.42,190.0,20.32,-5.0,6.0,
+0022300680,Jaden McDaniels,Forward,1630183,Grant Williams,Forward,1629684,0.88,5.2,0,0.0,0.0,8,9.09,1.54,1,1,0,0,0,1,0.0,0,0,205.74,185.0,198.12,236.0,7.62,-51.0,26.52,5.2
 0022300013,Jaden McDaniels,Forward,1630183,Charles Bassey,Center-Forward,1629646,0.15,1.5,0,0.0,0.0,2,13.33,1.33,0,0,0,0,0,1,0.0,0,0,205.74,185.0,208.28,230.0,-2.54,-45.0,10.68,1.5
 0022300013,Jaden McDaniels,Forward,1630183,Zach Collins,Forward-Center,1628380,0.57,3.8,0,0.0,0.0,2,3.51,0.53,0,0,0,0,0,2,0.0,0,0,205.74,185.0,210.82,250.0,-5.08,-65.0,25.36,1.9
 0022300013,Jaden McDaniels,Forward,1630183,Keldon Johnson,Forward-Guard,1629640,4.03,24.5,4,0.99,0.16,26,6.45,1.06,0,0,0,0,2,2,1.0,0,0,205.74,185.0,195.58,220.0,10.16,-35.0,30.64,12.25
@@ -315,3 +326,14 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300649,Jaden McDaniels,Forward,1630183,Devin Vassell,Guard-Forward,1630170,8.08,39.2,5,0.62,0.13,44,5.45,1.12,1,2,1,2,1,2,0.5,2,1,205.74,185.0,195.58,200.0,10.16,-15.0,31.2,19.6
 0022300649,Jaden McDaniels,Forward,1630183,Victor Wembanyama,Forward-Center,1641705,0.27,1.5,2,7.41,1.33,4,14.81,2.67,0,0,0,0,1,1,1.0,0,0,205.74,185.0,223.52,210.0,-17.78,-25.0,28.45,1.5
 0022300649,Jaden McDaniels,Forward,1630183,Blake Wesley,Guard,1631104,0.58,2.7,0,0.0,0.0,3,5.17,1.11,0,0,0,0,0,0,0.0,0,0,205.74,185.0,190.5,185.0,15.24,0.0,11.72,
+0022300664,Jaden McDaniels,Forward,1630183,Luguentz Dort,Guard,1629652,0.22,0.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,185.0,193.04,220.0,12.7,-35.0,28.36,
+0022300664,Jaden McDaniels,Forward,1630183,Josh Giddey,Guard,1630581,4.22,20.3,4,0.95,0.2,32,7.58,1.58,0,0,0,0,2,2,1.0,0,0,205.74,185.0,203.2,216.0,2.54,-31.0,24.89,10.15
+0022300664,Jaden McDaniels,Forward,1630183,Shai Gilgeous-Alexander,Guard,1628983,1.15,5.1,2,1.74,0.39,4,3.48,0.78,0,0,0,0,1,1,1.0,0,0,205.74,185.0,198.12,195.0,7.62,-10.0,34.22,5.1
+0022300664,Jaden McDaniels,Forward,1630183,Chet Holmgren,Center-Forward,1631096,0.45,2.7,5,11.11,1.85,5,11.11,1.85,0,1,1,0,2,2,1.0,0,0,205.74,185.0,215.9,208.0,-10.16,-23.0,30.0,1.35
+0022300664,Jaden McDaniels,Forward,1630183,Isaiah Joe,Guard,1630198,1.28,6.7,0,0.0,0.0,4,3.12,0.6,0,0,0,0,0,1,0.0,0,0,205.74,185.0,190.5,165.0,15.24,20.0,18.85,6.7
+0022300664,Jaden McDaniels,Forward,1630183,Vasilije Micic,Guard,203995,0.25,1.0,0,0.0,0.0,2,8.0,2.0,0,0,0,0,0,0,0.0,0,0,205.74,185.0,190.5,188.0,15.24,-3.0,12.04,
+0022300664,Jaden McDaniels,Forward,1630183,Cason Wallace,Guard,1641717,1.17,5.2,0,0.0,0.0,3,2.56,0.58,1,0,0,0,0,0,0.0,0,0,205.74,185.0,190.5,195.0,15.24,-10.0,21.15,
+0022300664,Jaden McDaniels,Forward,1630183,Aaron Wiggins,Guard,1630598,1.15,4.4,3,2.61,0.68,7,6.09,1.59,0,1,1,0,1,1,1.0,0,0,205.74,185.0,195.58,190.0,10.16,-5.0,13.07,4.4
+0022300664,Jaden McDaniels,Forward,1630183,Jalen Williams,Guard-Forward,1631114,0.78,4.8,2,2.56,0.42,7,8.97,1.46,0,1,0,0,1,2,0.5,0,0,205.74,185.0,195.58,211.0,10.16,-26.0,31.95,2.4
+0022300664,Jaden McDaniels,Forward,1630183,Jaylin Williams,Forward,1631119,0.25,2.8,0,0.0,0.0,0,0.0,0.0,0,1,0,0,0,2,0.0,0,0,205.74,185.0,205.74,240.0,0.0,-55.0,11.87,1.4
+0022300664,Jaden McDaniels,Forward,1630183,Kenrich Williams,Guard-Forward,1629026,0.23,1.9,0,0.0,0.0,2,8.7,1.05,0,0,0,0,0,1,0.0,0,0,205.74,185.0,198.12,210.0,7.62,-25.0,15.03,1.9

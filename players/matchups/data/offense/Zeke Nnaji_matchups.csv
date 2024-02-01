@@ -1,4 +1,12 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300682,Zeke Nnaji,Forward-Center,1630192,Ousmane Dieng,Forward,1631172,0.15,0.4,0,0.0,0.0,2,13.33,5.0,0,0,0,0,0,0,0.0,0,0,205.74,240.0,205.74,185.0,0.0,55.0,11.32,
+0022300682,Zeke Nnaji,Forward-Center,1630192,Shai Gilgeous-Alexander,Guard,1628983,0.15,0.7,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,1,0.0,0,0,205.74,240.0,198.12,195.0,7.62,45.0,34.22,0.7
+0022300682,Zeke Nnaji,Forward-Center,1630192,Chet Holmgren,Center-Forward,1631096,2.38,10.5,0,0.0,0.0,7,2.94,0.67,1,0,0,0,0,3,0.0,0,0,205.74,240.0,215.9,208.0,-10.16,32.0,30.0,3.5
+0022300682,Zeke Nnaji,Forward-Center,1630192,Vasilije Micic,Guard,203995,0.15,1.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,240.0,190.5,188.0,15.24,52.0,12.04,
+0022300682,Zeke Nnaji,Forward-Center,1630192,Cason Wallace,Guard,1641717,0.22,1.2,0,0.0,0.0,2,9.09,1.67,0,0,0,0,0,1,0.0,0,0,205.74,240.0,190.5,195.0,15.24,45.0,21.15,1.2
+0022300682,Zeke Nnaji,Forward-Center,1630192,Lindy Waters III,Forward,1630322,0.23,1.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,240.0,198.12,210.0,7.62,30.0,7.41,
+0022300682,Zeke Nnaji,Forward-Center,1630192,Aaron Wiggins,Guard,1630598,0.07,0.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,1,0.0,0,0,205.74,240.0,195.58,190.0,10.16,50.0,13.07,0.3
+0022300682,Zeke Nnaji,Forward-Center,1630192,Jaylin Williams,Forward,1631119,0.58,3.3,2,3.45,0.61,5,8.62,1.52,0,0,0,0,1,1,1.0,0,0,205.74,240.0,205.74,240.0,0.0,0.0,11.87,3.3
 0022300006,Zeke Nnaji,Forward-Center,1630192,Seth Curry,Guard,203552,0.05,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,240.0,185.42,185.0,20.32,55.0,12.76,
 0022300006,Zeke Nnaji,Forward-Center,1630192,Luka Doncic,Forward-Guard,1629029,0.58,2.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,240.0,200.66,230.0,5.08,10.0,37.33,
 0022300006,Zeke Nnaji,Forward-Center,1630192,Josh Green,Guard,1630182,0.57,3.8,0,0.0,0.0,6,10.53,1.58,0,0,0,0,0,0,0.0,0,0,205.74,240.0,195.58,200.0,10.16,40.0,26.61,

@@ -20,9 +20,9 @@ player_name = 'Damian Lillard'
 player_team = 'MIL'
 opposing_team = 'POR'
 offense_cols = ['Opponent Height','Opponent Weight','Avg Min'] #matchup mins here?
-
+defense_cols = ['Player Height','Player Weight','Avg Min']
 offense = pd.read_csv(f'players/matchups/data/offense/{player_name}_matchups.csv')
 defense = pd.read_csv(f'players/matchups/data/defense/{player_name}_matchups.csv')
-
-
-print(offense)
+offense = offense[offense_cols]
+defense = defense[defense_cols]
+print(defense)

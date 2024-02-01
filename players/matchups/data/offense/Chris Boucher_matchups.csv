@@ -1,4 +1,12 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300672,Chris Boucher,Forward,1628449,Jevon Carter,Guard,1628975,0.22,1.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,200.0,185.42,200.0,20.32,0.0,13.89,
+0022300672,Chris Boucher,Forward,1628449,Alex Caruso,Guard,1627936,0.1,0.4,0,0.0,0.0,2,20.0,5.0,0,0,0,0,0,0,0.0,0,0,205.74,200.0,195.58,186.0,10.16,14.0,26.05,
+0022300672,Chris Boucher,Forward,1628449,DeMar DeRozan,Guard-Forward,201942,0.97,4.7,0,0.0,0.0,7,7.22,1.49,0,0,0,0,0,0,0.0,0,0,205.74,200.0,198.12,220.0,7.62,-20.0,37.31,
+0022300672,Chris Boucher,Forward,1628449,Ayo Dosunmu,Guard,1630245,0.12,0.7,2,16.67,2.86,2,16.67,2.86,0,0,0,0,1,1,1.0,0,0,205.74,200.0,195.58,200.0,10.16,0.0,23.67,0.7
+0022300672,Chris Boucher,Forward,1628449,Andre Drummond,Center,203083,0.07,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,200.0,210.82,279.0,-5.08,-79.0,15.87,
+0022300672,Chris Boucher,Forward,1628449,Julian Phillips,Forward,1641763,0.63,3.7,3,4.76,0.81,3,4.76,0.81,0,1,1,0,1,1,1.0,0,0,205.74,200.0,203.2,198.0,2.54,2.0,5.3,3.7
+0022300672,Chris Boucher,Forward,1628449,Nikola Vucevic,Center,202696,0.67,2.6,0,0.0,0.0,4,5.97,1.54,0,0,0,0,0,0,0.0,0,0,205.74,200.0,208.28,260.0,-2.54,-60.0,33.88,
+0022300672,Chris Boucher,Forward,1628449,Coby White,Guard,1629632,0.25,1.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,200.0,195.58,195.0,10.16,5.0,35.89,
 0022301207,Chris Boucher,Forward,1628449,Jaime Jaquez Jr,Guard,1631170,0.3,1.5,0,0.0,0.0,2,6.67,1.33,0,0,0,0,0,1,0.0,0,0,205.74,200.0,198.12,225.0,7.62,-25.0,30.02,1.5
 0022301207,Chris Boucher,Forward,1628449,Nikola Jovic,Forward,1631107,0.92,4.7,0,0.0,0.0,7,7.61,1.49,0,0,0,0,0,0,0.0,0,0,205.74,200.0,208.28,205.0,-2.54,-5.0,16.74,
 0022301207,Chris Boucher,Forward,1628449,Caleb Martin,Forward,1628997,0.53,3.9,0,0.0,0.0,0,0.0,0.0,0,1,0,0,0,1,0.0,0,0,205.74,200.0,195.58,205.0,10.16,-5.0,26.31,3.9
@@ -364,3 +372,11 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300637,Chris Boucher,Forward,1628449,Norman Powell,Guard,1626181,0.67,3.1,0,0.0,0.0,5,7.46,1.61,0,0,0,0,0,0,0.0,0,0,205.74,200.0,193.04,215.0,12.7,-15.0,25.32,
 0022300637,Chris Boucher,Forward,1628449,Daniel Theis,Forward-Center,1628464,2.52,12.6,4,1.59,0.32,9,3.57,0.71,0,2,0,0,2,5,0.4,0,0,205.74,200.0,203.2,245.0,2.54,-45.0,17.18,2.52
 0022300637,Chris Boucher,Forward,1628449,Russell Westbrook,Guard,201566,0.62,3.7,0,0.0,0.0,6,9.68,1.62,0,0,0,0,0,1,0.0,0,0,205.74,200.0,193.04,200.0,12.7,0.0,22.98,3.7
+0022300653,Chris Boucher,Forward,1628449,Saddiq Bey,Guard-Forward,1630180,1.13,6.1,0,0.0,0.0,6,5.31,0.98,0,1,0,0,0,1,0.0,0,0,205.74,200.0,200.66,215.0,5.08,-15.0,32.57,6.1
+0022300653,Chris Boucher,Forward,1628449,Bogdan Bogdanovic,Guard,203992,0.22,1.5,0,0.0,0.0,3,13.64,2.0,0,0,0,0,0,0,0.0,0,0,205.74,200.0,195.58,225.0,10.16,-25.0,28.55,
+0022300653,Chris Boucher,Forward,1628449,Trent Forrest,Guard,1630235,0.22,1.3,0,0.0,0.0,6,27.27,4.62,0,0,0,0,0,0,0.0,0,0,205.74,200.0,193.04,210.0,12.7,-10.0,10.63,
+0022300653,Chris Boucher,Forward,1628449,Jalen Johnson,Forward,1630552,2.55,9.8,0,0.0,0.0,14,5.49,1.43,0,0,0,0,0,0,0.0,0,0,205.74,200.0,203.2,219.0,2.54,-19.0,32.94,
+0022300653,Chris Boucher,Forward,1628449,Garrison Mathews,Guard,1629726,0.23,1.8,0,0.0,0.0,4,17.39,2.22,0,0,0,0,0,0,0.0,0,0,205.74,200.0,198.12,215.0,7.62,-15.0,12.81,
+0022300653,Chris Boucher,Forward,1628449,Patty Mills,Guard,201988,0.33,2.2,0,0.0,0.0,5,15.15,2.27,0,0,0,0,0,0,0.0,0,0,205.74,200.0,187.96,180.0,17.78,20.0,11.6,
+0022300653,Chris Boucher,Forward,1628449,Onyeka Okongwu,Forward-Center,1630168,0.42,3.8,4,9.52,1.05,8,19.05,2.11,0,0,0,2,1,1,1.0,2,1,205.74,200.0,208.28,240.0,-2.54,-40.0,24.64,3.8
+0022300653,Chris Boucher,Forward,1628449,Trae Young,Guard,1629027,0.07,0.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,200.0,185.42,164.0,20.32,36.0,36.29,

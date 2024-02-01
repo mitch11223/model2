@@ -1,4 +1,13 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300681,Wendell Carter Jr,Center-Forward,1628976,Dominick Barlow,Forward,1631230,3.87,16.5,0,0.0,0.0,9,2.33,0.55,0,0,0,0,0,1,0.0,0,0,208.28,270.0,205.74,215.0,2.54,55.0,13.15,16.5
+0022300681,Wendell Carter Jr,Center-Forward,1628976,Malaki Branham,Forward,1631103,0.07,0.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,270.0,193.04,180.0,15.24,90.0,20.9,
+0022300681,Wendell Carter Jr,Center-Forward,1628976,Julian Champagnie,Forward,1630577,0.63,2.5,4,6.35,1.6,4,6.35,1.6,0,1,1,2,1,1,1.0,1,1,208.28,270.0,200.66,217.0,7.62,53.0,15.82,2.5
+0022300681,Wendell Carter Jr,Center-Forward,1628976,Tre Jones,Guard,1630200,1.03,5.0,0,0.0,0.0,3,2.91,0.6,0,1,0,0,0,1,0.0,0,0,208.28,270.0,185.42,185.0,22.86,85.0,25.29,5.0
+0022300681,Wendell Carter Jr,Center-Forward,1628976,Cedi Osman,Forward,1626224,0.37,2.5,2,5.41,0.8,4,10.81,1.6,0,0,0,0,1,1,1.0,0,0,208.28,270.0,200.66,230.0,7.62,40.0,17.78,2.5
+0022300681,Wendell Carter Jr,Center-Forward,1628976,Jeremy Sochan,Forward,1631110,1.6,7.6,4,2.5,0.53,14,8.75,1.84,0,1,0,4,0,1,0.0,4,1,208.28,270.0,203.2,230.0,5.08,40.0,29.48,7.6
+0022300681,Wendell Carter Jr,Center-Forward,1628976,Devin Vassell,Guard-Forward,1630170,0.6,3.4,0,0.0,0.0,6,10.0,1.76,1,0,0,0,0,0,0.0,0,0,208.28,270.0,195.58,200.0,12.7,70.0,31.2,
+0022300681,Wendell Carter Jr,Center-Forward,1628976,Victor Wembanyama,Forward-Center,1641705,2.97,14.7,2,0.67,0.14,10,3.37,0.68,1,0,0,0,1,2,0.5,0,0,208.28,270.0,223.52,210.0,-15.24,60.0,28.45,7.35
+0022300681,Wendell Carter Jr,Center-Forward,1628976,Blake Wesley,Guard,1631104,0.08,0.7,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,270.0,190.5,185.0,17.78,85.0,11.72,
 0022300066,Wendell Carter Jr,Center-Forward,1628976,Dillon Brooks,Guard-Forward,1628415,1.1,5.3,2,1.82,0.38,8,7.27,1.51,0,0,0,0,1,1,1.0,0,0,208.28,270.0,198.12,225.0,10.16,45.0,31.53,5.3
 0022300066,Wendell Carter Jr,Center-Forward,1628976,Reggie Bullock Jr,Guard-Forward,203493,0.1,1.1,0,0.0,0.0,4,40.0,3.64,0,0,0,0,0,0,0.0,0,0,208.28,270.0,198.12,205.0,10.16,65.0,9.22,
 0022300066,Wendell Carter Jr,Center-Forward,1628976,Jalen Green,Guard,1630224,0.48,2.4,0,0.0,0.0,2,4.17,0.83,0,0,0,0,0,0,0.0,0,0,208.28,270.0,193.04,186.0,15.24,84.0,30.4,
@@ -169,3 +178,18 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300638,Wendell Carter Jr,Center-Forward,1628976,David Roddy,Forward,1631223,0.2,0.8,2,10.0,2.5,2,10.0,2.5,0,0,0,0,1,1,1.0,0,0,208.28,270.0,193.04,255.0,15.24,15.0,22.74,0.8
 0022300638,Wendell Carter Jr,Center-Forward,1628976,Vince Williams Jr,Guard,1631246,0.83,4.3,2,2.41,0.47,5,6.02,1.16,1,0,0,0,1,1,1.0,0,0,208.28,270.0,193.04,205.0,15.24,65.0,24.97,4.3
 0022300638,Wendell Carter Jr,Center-Forward,1628976,Ziaire Williams,Forward,1630533,0.53,3.5,2,3.77,0.57,10,18.87,2.86,0,0,0,0,1,1,1.0,0,0,208.28,270.0,205.74,185.0,2.54,85.0,18.86,3.5
+0022300655,Wendell Carter Jr,Center-Forward,1628976,Grayson Allen,Guard,1628960,0.83,4.7,0,0.0,0.0,5,6.02,1.06,0,3,0,0,0,3,0.0,0,0,208.28,270.0,193.04,198.0,15.24,72.0,33.51,1.57
+0022300655,Wendell Carter Jr,Center-Forward,1628976,Keita Bates-Diop,Forward,1628966,0.27,1.6,0,0.0,0.0,2,7.41,1.25,0,0,0,0,0,0,0.0,0,0,208.28,270.0,203.2,229.0,5.08,41.0,16.0,
+0022300655,Wendell Carter Jr,Center-Forward,1628976,Bradley Beal,Guard,203078,0.37,2.0,0,0.0,0.0,2,5.41,1.0,0,0,0,0,0,0,0.0,0,0,208.28,270.0,193.04,207.0,15.24,63.0,32.73,
+0022300655,Wendell Carter Jr,Center-Forward,1628976,Devin Booker,Guard,1626164,0.97,5.6,0,0.0,0.0,3,3.09,0.54,0,0,0,0,0,0,0.0,0,0,208.28,270.0,198.12,206.0,10.16,64.0,36.11,
+0022300655,Wendell Carter Jr,Center-Forward,1628976,Kevin Durant,Forward,201142,0.93,4.7,2,2.15,0.43,6,6.45,1.28,0,0,0,0,1,1,1.0,0,0,208.28,270.0,210.82,240.0,-2.54,30.0,37.15,4.7
+0022300655,Wendell Carter Jr,Center-Forward,1628976,Drew Eubanks,Forward-Center,1629234,5.6,28.2,9,1.61,0.32,29,5.18,1.03,1,1,1,0,4,5,0.8,0,0,208.28,270.0,208.28,245.0,0.0,25.0,15.92,5.64
+0022300655,Wendell Carter Jr,Center-Forward,1628976,Eric Gordon,Guard,201569,0.3,0.7,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,270.0,190.5,215.0,17.78,55.0,30.21,
+0022300655,Wendell Carter Jr,Center-Forward,1628976,Josh Okogie,Guard,1629006,0.17,1.3,0,0.0,0.0,2,11.76,1.54,0,0,0,0,0,0,0.0,0,0,208.28,270.0,193.04,213.0,15.24,57.0,18.12,
+0022300666,Wendell Carter Jr,Center-Forward,1628976,Luka Doncic,Forward-Guard,1629029,1.32,5.8,0,0.0,0.0,8,6.06,1.38,0,0,0,0,0,2,0.0,0,0,208.28,270.0,200.66,230.0,7.62,40.0,37.33,2.9
+0022300666,Wendell Carter Jr,Center-Forward,1628976,Josh Green,Guard,1630182,0.83,3.1,4,4.82,1.29,7,8.43,2.26,0,0,0,2,1,1,1.0,2,0,208.28,270.0,195.58,200.0,12.7,70.0,26.61,3.1
+0022300666,Wendell Carter Jr,Center-Forward,1628976,Tim Hardaway Jr,Guard-Forward,203501,0.95,3.9,0,0.0,0.0,5,5.26,1.28,0,0,0,0,0,0,0.0,0,0,208.28,270.0,195.58,205.0,12.7,65.0,30.02,
+0022300666,Wendell Carter Jr,Center-Forward,1628976,Jaden Hardy,Guard,1630702,0.33,1.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,270.0,190.5,198.0,17.78,72.0,15.51,
+0022300666,Wendell Carter Jr,Center-Forward,1628976,Maxi Kleber,Forward,1628467,1.32,6.8,1,0.76,0.15,12,9.09,1.76,1,0,0,2,0,0,0.0,1,0,208.28,270.0,208.28,240.0,0.0,30.0,18.36,
+0022300666,Wendell Carter Jr,Center-Forward,1628976,Dereck Lively II,Center,1641726,7.82,33.9,4,0.51,0.12,33,4.22,0.97,1,4,1,1,1,6,0.167,1,1,208.28,270.0,215.9,230.0,-7.62,40.0,25.6,5.65
+0022300666,Wendell Carter Jr,Center-Forward,1628976,Grant Williams,Forward,1629684,1.18,4.9,0,0.0,0.0,12,10.17,2.45,0,0,0,0,0,0,0.0,0,0,208.28,270.0,198.12,236.0,10.16,34.0,26.52,

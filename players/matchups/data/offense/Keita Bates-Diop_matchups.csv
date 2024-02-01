@@ -1,4 +1,13 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300677,Keita Bates-Diop,Forward,1628966,Mikal Bridges,Guard-Forward,1628969,0.78,3.9,0,0.0,0.0,9,11.54,2.31,0,0,0,0,0,0,0.0,0,0,203.2,229.0,198.12,209.0,5.08,20.0,35.04,
+0022300677,Keita Bates-Diop,Forward,1628966,Nic Claxton,Center,1629651,0.53,3.3,2,3.77,0.61,15,28.3,4.55,0,0,0,0,1,1,1.0,0,0,203.2,229.0,210.82,215.0,-7.62,14.0,29.89,3.3
+0022300677,Keita Bates-Diop,Forward,1628966,Spencer Dinwiddie,Guard,203915,0.03,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,229.0,195.58,215.0,7.62,14.0,30.65,
+0022300677,Keita Bates-Diop,Forward,1628966,Dorian Finney-Smith,Forward,1627827,0.13,0.7,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,229.0,200.66,220.0,2.54,9.0,28.79,
+0022300677,Keita Bates-Diop,Forward,1628966,Cameron Johnson,Forward,1629661,0.35,2.0,2,5.71,1.0,2,5.71,1.0,0,0,0,0,1,1,1.0,0,0,203.2,229.0,203.2,210.0,0.0,19.0,28.31,2.0
+0022300677,Keita Bates-Diop,Forward,1628966,Royce O'Neale,Forward,1626220,0.15,1.5,0,0.0,0.0,1,6.67,0.67,0,0,0,0,0,0,0.0,0,0,203.2,229.0,198.12,226.0,5.08,3.0,24.48,
+0022300677,Keita Bates-Diop,Forward,1628966,Dennis Smith Jr,Guard,1628372,0.17,0.8,0,0.0,0.0,2,11.76,2.5,0,0,0,0,0,0,0.0,0,0,203.2,229.0,190.5,205.0,12.7,24.0,19.8,
+0022300677,Keita Bates-Diop,Forward,1628966,Cam Thomas,Guard,1630560,1.4,7.0,0,0.0,0.0,9,6.43,1.29,0,0,0,0,0,0,0.0,0,0,203.2,229.0,190.5,210.0,12.7,19.0,28.75,
+0022300677,Keita Bates-Diop,Forward,1628966,Lonnie Walker IV,Guard-Forward,1629022,3.37,16.3,3,0.89,0.18,16,4.75,0.98,0,1,1,0,1,1,1.0,0,0,203.2,229.0,193.04,204.0,10.16,25.0,18.19,16.3
 0022301203,Keita Bates-Diop,Forward,1628966,Rui Hachimura,Forward,1629060,0.08,0.7,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,229.0,203.2,230.0,0.0,-1.0,22.82,
 0022301203,Keita Bates-Diop,Forward,1628966,Jaxson Hayes,Center-Forward,1629637,0.32,1.4,2,6.25,1.43,4,12.5,2.86,1,0,0,0,1,1,1.0,0,0,203.2,229.0,213.36,220.0,-10.16,9.0,9.5,1.4
 0022301203,Keita Bates-Diop,Forward,1628966,LeBron James,Forward,2544,1.67,7.0,0,0.0,0.0,4,2.4,0.57,0,1,0,0,0,2,0.0,0,0,203.2,229.0,205.74,250.0,-2.54,-21.0,34.67,3.5
@@ -276,3 +285,23 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300636,Keita Bates-Diop,Forward,1628966,Pascal Siakam,Forward,1627783,1.18,6.8,0,0.0,0.0,6,5.08,0.88,0,0,0,0,0,0,0.0,0,0,203.2,229.0,203.2,245.0,0.0,-16.0,34.44,
 0022300636,Keita Bates-Diop,Forward,1628966,Jalen Smith,Forward-Center,1630188,0.28,1.5,0,0.0,0.0,2,7.14,1.33,1,0,0,0,0,0,0.0,0,0,203.2,229.0,205.74,215.0,-2.54,14.0,18.0,
 0022300636,Keita Bates-Diop,Forward,1628966,Obi Toppin,Forward,1630167,1.08,4.6,2,1.85,0.43,10,9.26,2.17,1,0,0,0,1,1,1.0,0,0,203.2,229.0,205.74,220.0,-2.54,9.0,23.17,4.6
+0022300655,Keita Bates-Diop,Forward,1628966,Cole Anthony,Guard,1630175,0.13,1.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,229.0,187.96,185.0,15.24,44.0,23.93,
+0022300655,Keita Bates-Diop,Forward,1628966,Paolo Banchero,Forward,1631094,1.67,9.5,0,0.0,0.0,15,8.98,1.58,0,0,0,0,0,0,0.0,0,0,203.2,229.0,208.28,250.0,-5.08,-21.0,34.76,
+0022300655,Keita Bates-Diop,Forward,1628966,Goga Bitadze,Center-Forward,1629048,0.12,1.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,229.0,208.28,250.0,-5.08,-21.0,20.23,
+0022300655,Keita Bates-Diop,Forward,1628966,Anthony Black,Guard,1641710,0.05,1.6,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,229.0,200.66,200.0,2.54,29.0,19.21,
+0022300655,Keita Bates-Diop,Forward,1628966,Wendell Carter Jr,Center-Forward,1628976,0.12,0.4,2,16.67,5.0,2,16.67,5.0,0,0,0,0,1,1,1.0,0,0,203.2,229.0,208.28,270.0,-5.08,-41.0,25.15,0.4
+0022300655,Keita Bates-Diop,Forward,1628966,Markelle Fultz,Guard,1628365,0.13,0.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,229.0,193.04,209.0,10.16,20.0,24.36,
+0022300655,Keita Bates-Diop,Forward,1628966,Caleb Houstan,Guard,1631216,0.22,1.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,229.0,203.2,205.0,0.0,24.0,15.64,
+0022300655,Keita Bates-Diop,Forward,1628966,Joe Ingles,Forward-Guard,204060,0.92,5.1,2,2.17,0.39,8,8.7,1.57,0,0,0,0,1,1,1.0,0,0,203.2,229.0,205.74,220.0,-2.54,9.0,18.19,5.1
+0022300655,Keita Bates-Diop,Forward,1628966,Jonathan Isaac,Forward,1628371,0.35,2.5,0,0.0,0.0,2,5.71,0.8,0,0,0,0,0,1,0.0,0,0,203.2,229.0,208.28,230.0,-5.08,-1.0,14.21,2.5
+0022300655,Keita Bates-Diop,Forward,1628966,Chuma Okeke,Forward,1629643,0.17,1.0,0,0.0,0.0,2,11.76,2.0,0,0,0,0,0,0,0.0,0,0,203.2,229.0,200.66,229.0,2.54,0.0,12.79,
+0022300655,Keita Bates-Diop,Forward,1628966,Jalen Suggs,Guard,1630591,0.4,2.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,2,0.0,0,0,203.2,229.0,195.58,205.0,7.62,24.0,26.33,1.4
+0022300655,Keita Bates-Diop,Forward,1628966,Franz Wagner,Forward,1630532,2.02,9.9,0,0.0,0.0,7,3.47,0.71,0,1,0,0,0,2,0.0,0,0,203.2,229.0,208.28,220.0,-5.08,9.0,33.03,4.95
+0022300655,Keita Bates-Diop,Forward,1628966,Moritz Wagner,Forward-Center,1629021,0.7,3.2,0,0.0,0.0,4,5.71,1.25,0,0,0,0,0,0,0.0,0,0,203.2,229.0,210.82,245.0,-7.62,-16.0,18.93,
+0022300661,Keita Bates-Diop,Forward,1628966,Bam Adebayo,Center-Forward,1628389,0.18,0.5,0,0.0,0.0,3,16.67,6.0,0,0,0,0,0,0,0.0,0,0,203.2,229.0,205.74,255.0,-2.54,-26.0,34.89,
+0022300661,Keita Bates-Diop,Forward,1628966,Jimmy Butler,Forward,202710,0.02,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,229.0,200.66,230.0,2.54,-1.0,33.61,
+0022300661,Keita Bates-Diop,Forward,1628966,Tyler Herro,Guard,1629639,0.03,1.0,0,0.0,0.0,2,66.67,2.0,0,0,0,0,0,0,0.0,0,0,203.2,229.0,195.58,195.0,7.62,34.0,34.04,
+0022300661,Keita Bates-Diop,Forward,1628966,Jaime Jaquez Jr,Guard,1631170,1.18,4.7,0,0.0,0.0,8,6.78,1.7,0,0,0,0,0,0,0.0,0,0,203.2,229.0,198.12,225.0,5.08,4.0,30.02,
+0022300661,Keita Bates-Diop,Forward,1628966,Kevin Love,Forward-Center,201567,0.22,1.1,3,13.64,2.73,3,13.64,2.73,0,1,1,0,1,1,1.0,0,0,203.2,229.0,203.2,251.0,0.0,-22.0,18.26,1.1
+0022300661,Keita Bates-Diop,Forward,1628966,Caleb Martin,Forward,1628997,0.35,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,229.0,195.58,205.0,7.62,24.0,26.31,
+0022300661,Keita Bates-Diop,Forward,1628966,Josh Richardson,Guard,1626196,0.27,0.9,0,0.0,0.0,2,7.41,2.22,0,0,0,0,0,0,0.0,0,0,203.2,229.0,195.58,200.0,7.62,29.0,25.97,

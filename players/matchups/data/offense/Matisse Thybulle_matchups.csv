@@ -1,4 +1,13 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300683,Matisse Thybulle,Guard-Forward,1629680,Giannis Antetokounmpo,Forward,203507,1.02,4.3,0,0.0,0.0,6,5.88,1.4,0,1,0,0,0,1,0.0,0,0,195.58,201.0,210.82,243.0,-15.24,-42.0,35.16,4.3
+0022300683,Matisse Thybulle,Guard-Forward,1629680,Malik Beasley,Guard,1627736,0.07,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,201.0,193.04,187.0,2.54,14.0,29.39,
+0022300683,Matisse Thybulle,Guard-Forward,1629680,Pat Connaughton,Guard,1626192,1.43,4.7,0,0.0,0.0,10,6.99,2.13,0,1,0,0,0,1,0.0,0,0,195.58,201.0,195.58,209.0,0.0,-8.0,21.08,4.7
+0022300683,Matisse Thybulle,Guard-Forward,1629680,Jae Crowder,Forward,203109,0.62,4.5,0,0.0,0.0,8,12.9,1.78,0,0,0,0,0,0,0.0,0,0,195.58,201.0,198.12,235.0,-2.54,-34.0,23.13,
+0022300683,Matisse Thybulle,Guard-Forward,1629680,Damian Lillard,Guard,203081,2.67,14.5,3,1.12,0.21,12,4.49,0.83,0,1,1,0,1,1,1.0,0,0,195.58,201.0,187.96,195.0,7.62,6.0,35.21,14.5
+0022300683,Matisse Thybulle,Guard-Forward,1629680,Brook Lopez,Center,201572,0.18,2.3,0,0.0,0.0,0,0.0,0.0,0,1,0,0,0,1,0.0,0,0,195.58,201.0,215.9,282.0,-20.32,-81.0,31.76,2.3
+0022300683,Matisse Thybulle,Guard-Forward,1629680,Khris Middleton,Forward,203114,0.48,1.7,0,0.0,0.0,2,4.17,1.18,0,0,0,0,0,0,0.0,0,0,195.58,201.0,200.66,222.0,-5.08,-21.0,26.13,
+0022300683,Matisse Thybulle,Guard-Forward,1629680,Cameron Payne,Guard,1626166,0.4,2.2,0,0.0,0.0,8,20.0,3.64,1,0,0,0,0,0,0.0,0,0,195.58,201.0,190.5,183.0,5.08,18.0,15.19,
+0022300683,Matisse Thybulle,Guard-Forward,1629680,Bobby Portis,Forward,1626171,0.28,1.8,0,0.0,0.0,3,10.71,1.67,0,0,0,0,0,0,0.0,0,0,195.58,201.0,208.28,250.0,-12.7,-49.0,23.37,
 0022301214,Matisse Thybulle,Guard-Forward,1629680,Stephen Curry,Guard,201939,4.15,18.7,3,0.72,0.16,21,5.06,1.12,1,2,1,0,1,2,0.5,0,0,195.58,201.0,187.96,185.0,7.62,16.0,33.45,9.35
 0022301214,Matisse Thybulle,Guard-Forward,1629680,Draymond Green,Forward,203110,1.38,6.2,0,0.0,0.0,2,1.45,0.32,0,0,0,0,0,0,0.0,0,0,195.58,201.0,198.12,230.0,-2.54,-29.0,26.42,
 0022301214,Matisse Thybulle,Guard-Forward,1629680,Jonathan Kuminga,Forward,1630228,0.18,1.9,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,201.0,200.66,225.0,-5.08,-24.0,24.0,
@@ -390,3 +399,24 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300641,Matisse Thybulle,Guard-Forward,1629680,Devin Vassell,Guard-Forward,1630170,3.6,17.6,0,0.0,0.0,16,4.44,0.91,1,0,0,0,0,0,0.0,0,0,195.58,201.0,195.58,200.0,0.0,1.0,31.2,
 0022300641,Matisse Thybulle,Guard-Forward,1629680,Victor Wembanyama,Forward-Center,1641705,0.03,0.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,201.0,223.52,210.0,-27.94,-9.0,28.45,
 0022300641,Matisse Thybulle,Guard-Forward,1629680,Blake Wesley,Guard,1631104,0.75,5.0,0,0.0,0.0,5,6.67,1.0,0,0,0,0,0,0,0.0,0,0,195.58,201.0,190.5,185.0,5.08,16.0,11.72,
+0022300656,Matisse Thybulle,Guard-Forward,1629680,Jevon Carter,Guard,1628975,0.45,2.4,0,0.0,0.0,3,6.67,1.25,0,0,0,0,0,0,0.0,0,0,195.58,201.0,185.42,200.0,10.16,1.0,13.89,
+0022300656,Matisse Thybulle,Guard-Forward,1629680,Alex Caruso,Guard,1627936,0.63,2.4,2,3.17,0.83,4,6.35,1.67,0,0,0,0,1,1,1.0,0,0,195.58,201.0,195.58,186.0,0.0,15.0,26.05,2.4
+0022300656,Matisse Thybulle,Guard-Forward,1629680,DeMar DeRozan,Guard-Forward,201942,4.8,25.5,2,0.42,0.08,27,5.62,1.06,0,1,0,0,1,2,0.5,0,0,195.58,201.0,198.12,220.0,-2.54,-19.0,37.31,12.75
+0022300656,Matisse Thybulle,Guard-Forward,1629680,Ayo Dosunmu,Guard,1630245,0.82,5.4,0,0.0,0.0,6,7.32,1.11,1,1,0,0,0,1,0.0,0,0,195.58,201.0,195.58,200.0,0.0,1.0,23.67,5.4
+0022300656,Matisse Thybulle,Guard-Forward,1629680,Andre Drummond,Center,203083,0.12,0.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,201.0,210.82,279.0,-15.24,-78.0,15.87,
+0022300656,Matisse Thybulle,Guard-Forward,1629680,Julian Phillips,Forward,1641763,2.22,9.2,0,0.0,0.0,5,2.25,0.54,0,0,0,0,0,0,0.0,0,0,195.58,201.0,203.2,198.0,-7.62,3.0,5.3,
+0022300656,Matisse Thybulle,Guard-Forward,1629680,Dalen Terry,Forward,1631207,1.27,6.0,0,0.0,0.0,2,1.57,0.33,0,0,0,0,0,0,0.0,0,0,195.58,201.0,200.66,195.0,-5.08,6.0,9.71,
+0022300656,Matisse Thybulle,Guard-Forward,1629680,Nikola Vucevic,Center,202696,0.08,0.3,2,25.0,6.67,2,25.0,6.67,0,0,0,0,1,1,1.0,0,0,195.58,201.0,208.28,260.0,-12.7,-59.0,33.88,0.3
+0022300656,Matisse Thybulle,Guard-Forward,1629680,Coby White,Guard,1629632,1.4,7.5,0,0.0,0.0,6,4.29,0.8,0,0,0,0,0,0,0.0,0,0,195.58,201.0,195.58,195.0,0.0,6.0,35.89,
+0022300668,Matisse Thybulle,Guard-Forward,1629680,Mo Bamba,Center,1628964,0.33,1.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,201.0,213.36,231.0,-17.78,-30.0,8.92,
+0022300668,Matisse Thybulle,Guard-Forward,1629680,Nicolas Batum,Guard-Forward,201587,0.2,0.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,201.0,203.2,230.0,-7.62,-29.0,24.85,
+0022300668,Matisse Thybulle,Guard-Forward,1629680,Patrick Beverley,Guard,201976,1.15,4.0,0,0.0,0.0,4,3.48,1.0,0,0,0,0,0,0,0.0,0,0,195.58,201.0,187.96,180.0,7.62,21.0,19.05,
+0022300668,Matisse Thybulle,Guard-Forward,1629680,Ricky Council IV,Guard,1641741,0.08,1.3,0,0.0,0.0,2,25.0,1.54,0,0,0,0,0,0,0.0,0,0,195.58,201.0,198.12,207.0,-2.54,-6.0,4.2,
+0022300668,Matisse Thybulle,Guard-Forward,1629680,Tobias Harris,Forward,202699,1.33,5.0,0,0.0,0.0,2,1.5,0.4,0,1,0,0,0,2,0.0,0,0,195.58,201.0,203.2,226.0,-7.62,-25.0,34.15,2.5
+0022300668,Matisse Thybulle,Guard-Forward,1629680,Danuel House Jr,Forward-Guard,1627863,0.53,4.1,0,0.0,0.0,1,1.89,0.24,0,0,0,0,0,0,0.0,0,0,195.58,201.0,198.12,220.0,-2.54,-19.0,14.17,
+0022300668,Matisse Thybulle,Guard-Forward,1629680,Furkan Korkmaz,Guard-Forward,1627788,0.5,2.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,201.0,200.66,202.0,-5.08,-1.0,7.1,
+0022300668,Matisse Thybulle,Guard-Forward,1629680,KJ Martin,Forward,1630231,1.5,5.4,3,2.0,0.56,8,5.33,1.48,0,1,1,0,1,1,1.0,0,0,195.58,201.0,198.12,215.0,-2.54,-14.0,8.2,5.4
+0022300668,Matisse Thybulle,Guard-Forward,1629680,Marcus Morris Sr,Forward,202694,0.7,3.1,0,0.0,0.0,3,4.29,0.97,0,0,0,0,0,0,0.0,0,0,195.58,201.0,203.2,218.0,-7.62,-17.0,16.82,
+0022300668,Matisse Thybulle,Guard-Forward,1629680,Kelly Oubre Jr,Forward-Guard,1626162,0.87,5.1,0,0.0,0.0,7,8.05,1.37,0,0,0,0,0,0,0.0,0,0,195.58,201.0,200.66,203.0,-5.08,-2.0,27.5,
+0022300668,Matisse Thybulle,Guard-Forward,1629680,Terquavion Smith,Guard,1631173,0.12,0.5,0,0.0,0.0,3,25.0,6.0,0,0,0,0,0,0,0.0,0,0,195.58,201.0,193.04,160.0,2.54,41.0,3.75,
+0022300668,Matisse Thybulle,Guard-Forward,1629680,Jaden Springer,Guard,1630531,0.22,1.5,0,0.0,0.0,0,0.0,0.0,0,1,0,0,0,1,0.0,0,0,195.58,201.0,193.04,202.0,2.54,-1.0,10.0,1.5

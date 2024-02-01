@@ -1,4 +1,15 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300675,Donovan Mitchell,Guard,1628378,Bojan Bogdanovic,Forward,202711,1.08,5.9,6,5.56,1.02,14,12.96,2.37,0,1,0,2,2,4,0.5,2,0,190.5,215.0,200.66,226.0,-10.16,-11.0,33.28,1.48
+0022300675,Donovan Mitchell,Guard,1628378,Alec Burks,Guard,202692,0.48,4.1,6,12.5,1.46,10,20.83,2.44,0,0,0,2,2,2,1.0,2,0,190.5,215.0,195.58,214.0,-5.08,1.0,20.59,2.05
+0022300675,Donovan Mitchell,Guard,1628378,Cade Cunningham,Guard,1630595,4.47,23.5,15,3.36,0.64,29,6.49,1.23,6,6,3,2,5,9,0.556,2,1,190.5,215.0,198.12,220.0,-7.62,-5.0,34.49,2.61
+0022300675,Donovan Mitchell,Guard,1628378,Jalen Duren,Center,1631105,0.78,4.2,5,6.41,1.19,7,8.97,1.67,3,2,1,0,2,3,0.667,0,0,190.5,215.0,208.28,250.0,-17.78,-35.0,29.9,1.4
+0022300675,Donovan Mitchell,Guard,1628378,Danilo Gallinari,Forward,201568,0.3,2.7,0,0.0,0.0,2,6.67,0.74,0,0,0,0,0,1,0.0,0,0,190.5,215.0,208.28,236.0,-17.78,-21.0,14.75,2.7
+0022300675,Donovan Mitchell,Guard,1628378,Jaden Ivey,Guard,1631093,3.75,16.2,7,1.87,0.43,19,5.07,1.17,1,4,1,2,2,6,0.333,2,1,190.5,215.0,193.04,195.0,-2.54,20.0,26.69,2.7
+0022300675,Donovan Mitchell,Guard,1628378,Kevin Knox II,Forward,1628995,0.3,1.5,4,13.33,2.67,4,13.33,2.67,0,1,1,2,1,1,1.0,1,1,190.5,215.0,200.66,215.0,-10.16,0.0,18.21,1.5
+0022300675,Donovan Mitchell,Guard,1628378,Monte Morris,,1628420,0.33,3.0,2,6.06,0.67,4,12.12,1.33,0,0,0,0,1,1,1.0,0,0,190.5,215.0,,,,,,3.0
+0022300675,Donovan Mitchell,Guard,1628378,Mike Muscala,Forward-Center,203488,0.02,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,190.5,215.0,208.28,240.0,-17.78,-25.0,13.9,
+0022300675,Donovan Mitchell,Guard,1628378,Marcus Sasser,Guard,1631204,0.38,3.0,0,0.0,0.0,4,10.53,1.33,0,0,0,0,0,0,0.0,0,0,190.5,215.0,187.96,195.0,2.54,20.0,15.49,
+0022300675,Donovan Mitchell,Guard,1628378,Ausar Thompson,Guard-Forward,1641709,1.43,6.6,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,1,0.0,0,0,190.5,215.0,198.12,205.0,-7.62,10.0,23.63,6.6
 0022301205,Donovan Mitchell,Guard,1628378,Cole Anthony,Guard,1630175,2.03,11.5,4,1.97,0.35,15,7.39,1.3,0,1,0,2,1,4,0.25,2,1,190.5,215.0,187.96,185.0,2.54,30.0,23.93,2.88
 0022301205,Donovan Mitchell,Guard,1628378,Paolo Banchero,Forward,1631094,1.17,6.5,2,1.71,0.31,9,7.69,1.38,2,1,0,1,1,5,0.2,0,1,190.5,215.0,208.28,250.0,-17.78,-35.0,34.76,1.3
 0022301205,Donovan Mitchell,Guard,1628378,Goga Bitadze,Center-Forward,1629048,0.57,2.5,3,5.26,1.2,5,8.77,2.0,0,1,1,0,1,3,0.333,0,0,190.5,215.0,208.28,250.0,-17.78,-35.0,20.23,0.83
@@ -323,3 +334,12 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300639,Donovan Mitchell,Guard,1628378,Brook Lopez,Center,201572,0.77,4.5,0,0.0,0.0,6,7.79,1.33,0,1,0,0,0,5,0.0,0,0,190.5,215.0,215.9,282.0,-25.4,-67.0,31.76,0.9
 0022300639,Donovan Mitchell,Guard,1628378,Khris Middleton,Forward,203114,1.57,8.2,8,5.1,0.98,14,8.92,1.71,0,2,2,0,3,3,1.0,0,0,190.5,215.0,200.66,222.0,-10.16,-7.0,26.13,2.73
 0022300639,Donovan Mitchell,Guard,1628378,Bobby Portis,Forward,1626171,0.28,2.0,0,0.0,0.0,2,7.14,1.0,0,0,0,0,0,1,0.0,0,0,190.5,215.0,208.28,250.0,-17.78,-35.0,23.37,2.0
+0022300658,Donovan Mitchell,Guard,1628378,Amir Coffey,Guard-Forward,1629599,3.18,14.5,4,1.26,0.28,16,5.03,1.1,1,1,0,0,2,3,0.667,0,0,190.5,215.0,200.66,210.0,-10.16,5.0,16.12,4.83
+0022300658,Donovan Mitchell,Guard,1628378,Paul George,Forward,202331,1.88,10.5,7,3.72,0.67,18,9.57,1.71,1,2,1,2,2,4,0.5,2,1,190.5,215.0,203.2,220.0,-12.7,-5.0,34.21,2.62
+0022300658,Donovan Mitchell,Guard,1628378,James Harden,Guard,201935,2.07,10.6,4,1.93,0.38,16,7.73,1.51,3,2,0,0,2,5,0.4,0,0,190.5,215.0,195.58,220.0,-5.08,-5.0,34.05,2.12
+0022300658,Donovan Mitchell,Guard,1628378,Kawhi Leonard,Forward,202695,1.92,7.6,2,1.04,0.26,7,3.65,0.92,2,1,0,0,1,2,0.5,0,0,190.5,215.0,200.66,225.0,-10.16,-10.0,34.5,3.8
+0022300658,Donovan Mitchell,Guard,1628378,Terance Mann,Guard-Forward,1629611,2.85,16.9,4,1.4,0.24,19,6.67,1.12,1,2,0,0,2,4,0.5,0,0,190.5,215.0,195.58,215.0,-5.08,0.0,25.18,4.22
+0022300658,Donovan Mitchell,Guard,1628378,Mason Plumlee,Forward-Center,203486,1.03,5.6,6,5.83,1.07,14,13.59,2.5,2,1,0,0,3,5,0.6,0,0,190.5,215.0,208.28,254.0,-17.78,-39.0,17.07,1.12
+0022300658,Donovan Mitchell,Guard,1628378,Norman Powell,Guard,1626181,0.58,2.9,0,0.0,0.0,10,17.24,3.45,0,0,0,0,0,0,0.0,0,0,190.5,215.0,193.04,215.0,-2.54,0.0,25.32,
+0022300658,Donovan Mitchell,Guard,1628378,Daniel Theis,Forward-Center,1628464,0.33,2.0,0,0.0,0.0,10,30.3,5.0,0,0,0,0,0,0,0.0,0,0,190.5,215.0,203.2,245.0,-12.7,-30.0,17.18,
+0022300658,Donovan Mitchell,Guard,1628378,Russell Westbrook,Guard,201566,1.9,8.2,6,3.16,0.73,11,5.79,1.34,2,1,1,1,2,2,1.0,1,1,190.5,215.0,193.04,200.0,-2.54,15.0,22.98,4.1

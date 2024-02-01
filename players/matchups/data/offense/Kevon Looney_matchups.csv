@@ -1,4 +1,11 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300673,Kevon Looney,Forward,1626172,Patrick Beverley,Guard,201976,0.43,3.5,0,0.0,0.0,4,9.3,1.14,0,0,0,0,0,1,0.0,0,0,205.74,222.0,187.96,180.0,17.78,42.0,19.05,3.5
+0022300673,Kevon Looney,Forward,1626172,Joel Embiid,Center-Forward,203954,1.55,9.1,0,0.0,0.0,4,2.58,0.44,0,0,0,0,0,1,0.0,0,0,205.74,222.0,213.36,280.0,-7.62,-58.0,34.15,9.1
+0022300673,Kevon Looney,Forward,1626172,Tobias Harris,Forward,202699,0.1,0.7,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,222.0,203.2,226.0,2.54,-4.0,34.15,
+0022300673,Kevon Looney,Forward,1626172,Danuel House Jr,Forward-Guard,1627863,0.1,0.5,0,0.0,0.0,2,20.0,4.0,0,0,0,0,0,0,0.0,0,0,205.74,222.0,198.12,220.0,7.62,2.0,14.17,
+0022300673,Kevon Looney,Forward,1626172,KJ Martin,Forward,1630231,0.05,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,222.0,198.12,215.0,7.62,7.0,8.2,
+0022300673,Kevon Looney,Forward,1626172,Kelly Oubre Jr,Forward-Guard,1626162,0.25,3.6,0,0.0,0.0,5,20.0,1.39,0,0,0,0,0,0,0.0,0,0,205.74,222.0,200.66,203.0,5.08,19.0,27.5,
+0022300673,Kevon Looney,Forward,1626172,Jaden Springer,Guard,1630531,0.05,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,222.0,193.04,202.0,12.7,20.0,10.0,
 0022301214,Kevon Looney,Forward,1626172,Malcolm Brogdon,Guard,1627763,0.5,3.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,222.0,193.04,229.0,12.7,-7.0,28.28,
 0022301214,Kevon Looney,Forward,1626172,Toumani Camara,Forward,1641739,0.52,3.0,2,3.85,0.67,7,13.46,2.33,0,0,0,0,1,1,1.0,0,0,205.74,222.0,200.66,226.0,5.08,-4.0,23.87,3.0
 0022301214,Kevon Looney,Forward,1626172,Kris Murray,Forward,1631200,0.03,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,222.0,203.2,210.0,2.54,12.0,12.48,

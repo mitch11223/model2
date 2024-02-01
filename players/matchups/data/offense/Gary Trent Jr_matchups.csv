@@ -1,4 +1,12 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300672,Gary Trent Jr,Guard,1629018,Jevon Carter,Guard,1628975,0.1,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,204.0,185.42,200.0,10.16,4.0,13.89,
+0022300672,Gary Trent Jr,Guard,1629018,Alex Caruso,Guard,1627936,0.68,2.8,2,2.94,0.71,5,7.35,1.79,0,0,0,0,1,2,0.5,0,0,195.58,204.0,195.58,186.0,0.0,18.0,26.05,1.4
+0022300672,Gary Trent Jr,Guard,1629018,DeMar DeRozan,Guard-Forward,201942,0.82,4.5,3,3.66,0.67,9,10.98,2.0,0,2,1,0,1,2,0.5,0,0,195.58,204.0,198.12,220.0,-2.54,-16.0,37.31,2.25
+0022300672,Gary Trent Jr,Guard,1629018,Ayo Dosunmu,Guard,1630245,1.73,8.2,0,0.0,0.0,11,6.36,1.34,0,1,0,0,0,1,0.0,0,0,195.58,204.0,195.58,200.0,0.0,4.0,23.67,8.2
+0022300672,Gary Trent Jr,Guard,1629018,Julian Phillips,Forward,1641763,1.45,7.0,3,2.07,0.43,6,4.14,0.86,0,1,1,0,1,1,1.0,0,0,195.58,204.0,203.2,198.0,-7.62,6.0,5.3,7.0
+0022300672,Gary Trent Jr,Guard,1629018,Dalen Terry,Forward,1631207,0.78,3.8,2,2.56,0.53,2,2.56,0.53,0,0,0,0,1,1,1.0,0,0,195.58,204.0,200.66,195.0,-5.08,9.0,9.71,3.8
+0022300672,Gary Trent Jr,Guard,1629018,Nikola Vucevic,Center,202696,0.53,3.2,3,5.66,0.94,8,15.09,2.5,0,3,1,0,1,3,0.333,0,0,195.58,204.0,208.28,260.0,-12.7,-56.0,33.88,1.07
+0022300672,Gary Trent Jr,Guard,1629018,Coby White,Guard,1629632,8.15,34.2,13,1.6,0.38,34,4.17,0.99,1,3,3,0,5,5,1.0,0,0,195.58,204.0,195.58,195.0,0.0,9.0,35.89,6.84
 0022301207,Gary Trent Jr,Guard,1629018,Jimmy Butler,Forward,202710,1.02,5.1,0,0.0,0.0,3,2.94,0.59,0,0,0,0,0,0,0.0,0,0,195.58,204.0,200.66,230.0,-5.08,-26.0,33.61,
 0022301207,Gary Trent Jr,Guard,1629018,Jaime Jaquez Jr,Guard,1631170,1.92,9.0,4,2.08,0.44,14,7.29,1.56,1,2,0,2,1,5,0.2,2,1,195.58,204.0,198.12,225.0,-2.54,-21.0,30.02,1.8
 0022301207,Gary Trent Jr,Guard,1629018,Kevin Love,Forward-Center,201567,0.13,1.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,204.0,203.2,251.0,-7.62,-47.0,18.26,
@@ -370,3 +378,10 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300637,Gary Trent Jr,Guard,1629018,Mason Plumlee,Forward-Center,203486,0.63,2.9,0,0.0,0.0,0,0.0,0.0,1,0,0,0,0,1,0.0,0,0,195.58,204.0,208.28,254.0,-12.7,-50.0,17.07,2.9
 0022300637,Gary Trent Jr,Guard,1629018,Norman Powell,Guard,1626181,0.88,7.4,0,0.0,0.0,11,12.5,1.49,0,0,0,0,0,0,0.0,0,0,195.58,204.0,193.04,215.0,2.54,-11.0,25.32,
 0022300637,Gary Trent Jr,Guard,1629018,Russell Westbrook,Guard,201566,0.57,2.5,0,0.0,0.0,4,7.02,1.6,1,0,0,0,0,0,0.0,0,0,195.58,204.0,193.04,200.0,2.54,4.0,22.98,
+0022300653,Gary Trent Jr,Guard,1629018,Saddiq Bey,Guard-Forward,1630180,1.17,5.4,0,0.0,0.0,3,2.56,0.56,0,0,0,0,0,0,0.0,0,0,195.58,204.0,200.66,215.0,-5.08,-11.0,32.57,
+0022300653,Gary Trent Jr,Guard,1629018,Bogdan Bogdanovic,Guard,203992,5.2,27.2,5,0.96,0.18,21,4.04,0.77,0,3,1,0,2,4,0.5,0,0,195.58,204.0,195.58,225.0,0.0,-21.0,28.55,6.8
+0022300653,Gary Trent Jr,Guard,1629018,Clint Capela,Center,203991,0.72,5.1,3,4.17,0.59,10,13.89,1.96,0,1,1,0,1,1,1.0,0,0,195.58,204.0,208.28,256.0,-12.7,-52.0,25.86,5.1
+0022300653,Gary Trent Jr,Guard,1629018,Trent Forrest,Guard,1630235,0.6,3.3,2,3.33,0.61,2,3.33,0.61,0,0,0,0,1,2,0.5,0,0,195.58,204.0,193.04,210.0,2.54,-6.0,10.63,1.65
+0022300653,Gary Trent Jr,Guard,1629018,Jalen Johnson,Forward,1630552,0.95,4.3,5,5.26,1.16,5,5.26,1.16,0,3,1,0,2,5,0.4,0,0,195.58,204.0,203.2,219.0,-7.62,-15.0,32.94,0.86
+0022300653,Gary Trent Jr,Guard,1629018,Patty Mills,Guard,201988,0.02,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,204.0,187.96,180.0,7.62,24.0,11.6,
+0022300653,Gary Trent Jr,Guard,1629018,Trae Young,Guard,1629027,0.88,4.2,3,3.41,0.71,7,7.95,1.67,0,1,1,0,1,1,1.0,0,0,195.58,204.0,185.42,164.0,10.16,40.0,36.29,4.2

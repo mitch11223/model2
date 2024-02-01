@@ -1,4 +1,13 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300673,Stephen Curry,Guard,201939,Patrick Beverley,Guard,201976,0.4,2.7,3,7.5,1.11,5,12.5,1.85,1,1,1,0,1,1,1.0,0,0,187.96,185.0,187.96,180.0,0.0,5.0,19.05,2.7
+0022300673,Stephen Curry,Guard,201939,Joel Embiid,Center-Forward,203954,1.22,7.8,12,9.84,1.54,16,13.11,2.05,0,3,2,0,5,6,0.833,0,0,187.96,185.0,213.36,280.0,-25.4,-95.0,34.15,1.3
+0022300673,Stephen Curry,Guard,201939,Tobias Harris,Forward,202699,0.75,4.5,3,4.0,0.67,8,10.67,1.78,0,1,1,0,1,1,1.0,0,0,187.96,185.0,203.2,226.0,-15.24,-41.0,34.15,4.5
+0022300673,Stephen Curry,Guard,201939,Danuel House Jr,Forward-Guard,1627863,6.13,41.9,14,2.28,0.33,40,6.53,0.95,3,7,4,2,4,7,0.571,2,1,187.96,185.0,198.12,220.0,-10.16,-35.0,14.17,5.99
+0022300673,Stephen Curry,Guard,201939,Furkan Korkmaz,Guard-Forward,1627788,0.58,2.0,0,0.0,0.0,2,3.45,1.0,0,0,0,0,0,0,0.0,0,0,187.96,185.0,200.66,202.0,-12.7,-17.0,7.1,
+0022300673,Stephen Curry,Guard,201939,KJ Martin,Forward,1630231,0.83,3.2,0,0.0,0.0,0,0.0,0.0,0,1,0,0,0,1,0.0,0,0,187.96,185.0,198.12,215.0,-10.16,-30.0,8.2,3.2
+0022300673,Stephen Curry,Guard,201939,Kelly Oubre Jr,Forward-Guard,1626162,0.88,6.3,9,10.23,1.43,11,12.5,1.75,0,2,2,1,3,3,1.0,1,1,187.96,185.0,200.66,203.0,-12.7,-18.0,27.5,2.1
+0022300673,Stephen Curry,Guard,201939,Paul Reed,Forward,1630194,0.02,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,187.96,185.0,205.74,210.0,-17.78,-25.0,16.05,
+0022300673,Stephen Curry,Guard,201939,Jaden Springer,Guard,1630531,2.47,11.3,2,0.81,0.18,19,7.69,1.68,1,1,0,2,0,1,0.0,2,0,187.96,185.0,193.04,202.0,-5.08,-17.0,10.0,11.3
 0022301214,Stephen Curry,Guard,201939,Malcolm Brogdon,Guard,1627763,0.62,3.6,0,0.0,0.0,2,3.23,0.56,0,1,0,0,0,1,0.0,0,0,187.96,185.0,193.04,229.0,-5.08,-44.0,28.28,3.6
 0022301214,Stephen Curry,Guard,201939,Toumani Camara,Forward,1641739,3.35,20.0,5,1.49,0.25,12,3.58,0.6,0,3,1,2,1,3,0.333,2,0,187.96,185.0,200.66,226.0,-12.7,-41.0,23.87,6.67
 0022301214,Stephen Curry,Guard,201939,Scoot Henderson,Guard,1630703,1.63,6.6,4,2.45,0.61,11,6.75,1.67,0,0,0,0,2,2,1.0,0,0,187.96,185.0,190.5,202.0,-2.54,-17.0,26.51,3.3

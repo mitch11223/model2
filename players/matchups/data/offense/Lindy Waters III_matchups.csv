@@ -1,4 +1,13 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300682,Lindy Waters III,Forward,1630322,Christian Braun,Guard,1631128,0.03,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,210.0,198.12,220.0,0.0,-10.0,19.0,
+0022300682,Lindy Waters III,Forward,1630322,Kentavious Caldwell-Pope,Guard,203484,0.45,2.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,210.0,195.58,204.0,2.54,6.0,32.27,
+0022300682,Lindy Waters III,Forward,1630322,Aaron Gordon,Forward,203932,0.05,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,210.0,203.2,235.0,-5.08,-25.0,32.02,
+0022300682,Lindy Waters III,Forward,1630322,Justin Holiday,Forward-Guard,203200,0.2,1.3,0,0.0,0.0,3,15.0,2.31,0,0,0,0,0,0,0.0,0,0,198.12,210.0,198.12,180.0,0.0,30.0,12.96,
+0022300682,Lindy Waters III,Forward,1630322,Reggie Jackson,Guard,202704,0.3,1.5,0,0.0,0.0,2,6.67,1.33,0,0,0,0,0,0,0.0,0,0,198.12,210.0,187.96,208.0,10.16,2.0,23.06,
+0022300682,Lindy Waters III,Forward,1630322,Jamal Murray,Guard,1627750,0.2,0.9,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,210.0,193.04,215.0,5.08,-5.0,31.45,
+0022300682,Lindy Waters III,Forward,1630322,Zeke Nnaji,Forward-Center,1630192,0.12,0.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,210.0,205.74,240.0,-7.62,-30.0,9.39,
+0022300682,Lindy Waters III,Forward,1630322,Michael Porter Jr,Forward,1629008,0.4,1.6,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,210.0,208.28,218.0,-10.16,-8.0,31.28,
+0022300682,Lindy Waters III,Forward,1630322,Peyton Watson,Guard,1631212,0.17,0.9,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,210.0,200.66,200.0,-2.54,10.0,17.64,
 0022300016,Lindy Waters III,Forward,1630322,Harrison Barnes,Forward,203084,0.22,1.7,0,0.0,0.0,6,27.27,3.53,0,0,0,0,0,0,0.0,0,0,198.12,210.0,203.2,225.0,-5.08,-15.0,29.59,
 0022300016,Lindy Waters III,Forward,1630322,Chris Duarte,Guard,1630537,0.1,0.6,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,210.0,195.58,190.0,2.54,20.0,13.23,
 0022300016,Lindy Waters III,Forward,1630322,Keon Ellis,Guard,1631165,0.32,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,210.0,190.5,175.0,7.62,35.0,12.14,
@@ -97,3 +106,9 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300640,Lindy Waters III,Forward,1630322,Jose Alvarado,Guard,1630631,0.58,1.9,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,210.0,182.88,179.0,15.24,31.0,16.1,
 0022300640,Lindy Waters III,Forward,1630322,Dyson Daniels,Guard,1630700,0.5,1.6,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,210.0,200.66,199.0,-2.54,11.0,22.02,
 0022300640,Lindy Waters III,Forward,1630322,Jeremiah Robinson-Earl,Forward,1630526,0.13,0.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,210.0,203.2,240.0,-5.08,-30.0,10.74,
+0022300654,Lindy Waters III,Forward,1630322,Bojan Bogdanovic,Forward,202711,0.62,3.8,0,0.0,0.0,2,3.23,0.53,0,0,0,0,0,0,0.0,0,0,198.12,210.0,200.66,226.0,-2.54,-16.0,33.28,
+0022300654,Lindy Waters III,Forward,1630322,Alec Burks,Guard,202692,0.72,3.4,2,2.78,0.59,7,9.72,2.06,0,0,0,0,1,1,1.0,0,0,198.12,210.0,195.58,214.0,2.54,-4.0,20.59,3.4
+0022300654,Lindy Waters III,Forward,1630322,Jalen Duren,Center,1631105,0.12,1.6,0,0.0,0.0,0,0.0,0.0,0,1,0,0,0,1,0.0,0,0,198.12,210.0,208.28,250.0,-10.16,-40.0,29.9,1.6
+0022300654,Lindy Waters III,Forward,1630322,Jaden Ivey,Guard,1631093,0.37,2.5,0,0.0,0.0,2,5.41,0.8,0,0,0,0,0,0,0.0,0,0,198.12,210.0,193.04,195.0,5.08,15.0,26.69,
+0022300654,Lindy Waters III,Forward,1630322,Marcus Sasser,Guard,1631204,1.03,5.2,0,0.0,0.0,3,2.91,0.58,0,0,0,0,0,0,0.0,0,0,198.12,210.0,187.96,195.0,10.16,15.0,15.49,
+0022300654,Lindy Waters III,Forward,1630322,Ausar Thompson,Guard-Forward,1641709,0.2,0.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,210.0,198.12,205.0,0.0,5.0,23.63,

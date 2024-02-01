@@ -1,4 +1,9 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300680,Luka Garza,Center,1630568,Jaden Hardy,Guard,1630702,0.23,1.5,0,0.0,0.0,2,8.7,1.33,0,0,0,0,0,0,0.0,0,0,208.28,243.0,190.5,198.0,17.78,45.0,15.51,
+0022300680,Luka Garza,Center,1630568,Richaun Holmes,Forward,1626158,1.27,6.2,6,4.72,0.97,8,6.3,1.29,0,1,1,2,2,3,0.667,1,1,208.28,243.0,205.74,235.0,2.54,8.0,10.0,2.07
+0022300680,Luka Garza,Center,1630568,AJ Lawson,Guard,1630639,0.68,4.1,0,0.0,0.0,5,7.35,1.22,0,0,0,0,0,2,0.0,0,0,208.28,243.0,198.12,179.0,10.16,64.0,9.57,2.05
+0022300680,Luka Garza,Center,1630568,Olivier-Maxence Prosper,Forward,1641765,0.52,2.7,2,3.85,0.74,4,7.69,1.48,0,0,0,0,1,2,0.5,0,0,208.28,243.0,200.66,230.0,7.62,13.0,9.04,1.35
+0022300680,Luka Garza,Center,1630568,Brandon Williams,Guard,1630314,0.1,0.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,243.0,185.42,190.0,22.86,53.0,6.0,
 0022301221,Luka Garza,Center,1630568,Jacob Gilyard,Guard,1631367,0.1,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,243.0,172.72,160.0,35.56,83.0,16.03,
 0022301221,Luka Garza,Center,1630568,John Konchar,Guard,1629723,0.18,1.0,0,0.0,0.0,4,22.22,4.0,0,0,0,0,0,0,0.0,0,0,208.28,243.0,195.58,210.0,12.7,33.0,18.08,
 0022301221,Luka Garza,Center,1630568,Kenneth Lofton Jr,Forward,1631254,0.97,6.2,0,0.0,0.0,4,4.12,0.65,1,0,0,0,0,1,0.0,0,0,208.28,243.0,198.12,275.0,10.16,-32.0,6.38,6.2

@@ -1,4 +1,13 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300674,Miles Bridges,Forward,1628970,Jevon Carter,Guard,1628975,0.07,0.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,225.0,185.42,200.0,15.24,25.0,13.89,
+0022300674,Miles Bridges,Forward,1628970,Alex Caruso,Guard,1627936,6.08,30.0,13,2.14,0.43,34,5.59,1.13,2,7,3,0,5,9,0.556,0,0,200.66,225.0,195.58,186.0,5.08,39.0,26.05,3.33
+0022300674,Miles Bridges,Forward,1628970,DeMar DeRozan,Guard-Forward,201942,1.18,5.9,3,2.54,0.51,8,6.78,1.36,1,2,1,0,1,2,0.5,0,0,200.66,225.0,198.12,220.0,2.54,5.0,37.31,2.95
+0022300674,Miles Bridges,Forward,1628970,Ayo Dosunmu,Guard,1630245,0.85,5.2,0,0.0,0.0,7,8.24,1.35,0,0,0,0,0,0,0.0,0,0,200.66,225.0,195.58,200.0,5.08,25.0,23.67,
+0022300674,Miles Bridges,Forward,1628970,Andre Drummond,Center,203083,0.33,2.2,0,0.0,0.0,2,6.06,0.91,0,0,0,0,0,0,0.0,0,0,200.66,225.0,210.82,279.0,-10.16,-54.0,15.87,
+0022300674,Miles Bridges,Forward,1628970,Julian Phillips,Forward,1641763,0.08,0.4,0,0.0,0.0,2,25.0,5.0,0,0,0,0,0,0,0.0,0,0,200.66,225.0,203.2,198.0,-2.54,27.0,5.3,
+0022300674,Miles Bridges,Forward,1628970,Terry Taylor,Forward,1630678,4.78,22.8,6,1.26,0.26,22,4.6,0.96,0,3,2,0,2,3,0.667,0,0,200.66,225.0,193.04,230.0,7.62,-5.0,6.75,7.6
+0022300674,Miles Bridges,Forward,1628970,Nikola Vucevic,Center,202696,0.6,4.0,7,11.67,1.75,10,16.67,2.5,0,1,1,0,3,4,0.75,0,0,200.66,225.0,208.28,260.0,-7.62,-35.0,33.88,1.0
+0022300674,Miles Bridges,Forward,1628970,Coby White,Guard,1629632,1.6,9.2,5,3.12,0.54,9,5.62,0.98,1,2,1,0,2,4,0.5,0,0,200.66,225.0,195.58,195.0,5.08,30.0,35.89,2.3
 0022301211,Miles Bridges,Forward,1628970,Jevon Carter,Guard,1628975,0.3,1.4,0,0.0,0.0,2,6.67,1.43,0,0,0,0,0,0,0.0,0,0,200.66,225.0,185.42,200.0,15.24,25.0,13.89,
 0022301211,Miles Bridges,Forward,1628970,Alex Caruso,Guard,1627936,1.6,7.5,0,0.0,0.0,7,4.38,0.93,1,0,0,0,0,1,0.0,0,0,200.66,225.0,195.58,186.0,5.08,39.0,26.05,7.5
 0022301211,Miles Bridges,Forward,1628970,Torrey Craig,Forward,1628470,3.62,19.1,7,1.93,0.37,14,3.87,0.73,0,2,1,0,3,5,0.6,0,0,200.66,225.0,195.58,221.0,5.08,4.0,21.26,3.82
@@ -321,3 +330,11 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300647,Miles Bridges,Forward,1628970,Lauri Markkanen,Forward-Center,1628374,1.73,10.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,225.0,213.36,240.0,-12.7,-15.0,32.65,
 0022300647,Miles Bridges,Forward,1628970,Kelly Olynyk,Forward-Center,203482,0.23,1.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,225.0,210.82,240.0,-10.16,-15.0,20.62,
 0022300647,Miles Bridges,Forward,1628970,Collin Sexton,Guard,1629012,1.32,7.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,225.0,190.5,190.0,10.16,35.0,24.23,
+0022300657,Miles Bridges,Forward,1628970,Precious Achiuwa,Forward,1630173,6.52,28.9,4,0.61,0.14,30,4.6,1.04,3,2,0,1,2,7,0.286,0,1,200.66,225.0,203.2,243.0,-2.54,-18.0,16.79,4.13
+0022300657,Miles Bridges,Forward,1628970,Jalen Brunson,Guard,1628973,0.55,3.9,0,0.0,0.0,2,3.64,0.51,0,0,0,0,0,0,0.0,0,0,200.66,225.0,187.96,190.0,12.7,35.0,35.73,
+0022300657,Miles Bridges,Forward,1628970,Donte DiVincenzo,Guard,1628978,1.32,6.8,6,4.55,0.88,8,6.06,1.18,0,0,0,0,3,4,0.75,0,0,200.66,225.0,193.04,203.0,7.62,22.0,22.3,1.7
+0022300657,Miles Bridges,Forward,1628970,Quentin Grimes,Guard,1629656,1.55,7.4,4,2.58,0.54,4,2.58,0.54,0,0,0,0,2,4,0.5,0,0,200.66,225.0,195.58,210.0,5.08,15.0,19.98,1.85
+0022300657,Miles Bridges,Forward,1628970,Josh Hart,Guard,1628404,2.77,14.5,2,0.72,0.14,12,4.33,0.83,0,1,0,0,1,2,0.5,0,0,200.66,225.0,193.04,215.0,7.62,10.0,28.18,7.25
+0022300657,Miles Bridges,Forward,1628970,Isaiah Hartenstein,Center-Forward,1628392,0.62,4.4,2,3.23,0.45,4,6.45,0.91,1,0,0,0,1,1,1.0,0,0,200.66,225.0,213.36,250.0,-12.7,-25.0,25.39,4.4
+0022300657,Miles Bridges,Forward,1628970,Miles McBride,Guard,1630540,0.28,1.6,2,7.14,1.25,5,17.86,3.12,0,0,0,0,1,1,1.0,0,0,200.66,225.0,185.42,195.0,15.24,30.0,9.82,1.6
+0022300657,Miles Bridges,Forward,1628970,Jericho Sims,Center,1630579,0.55,4.0,3,5.45,0.75,6,10.91,1.5,0,2,1,0,1,2,0.5,0,0,200.66,225.0,208.28,250.0,-7.62,-25.0,7.82,2.0

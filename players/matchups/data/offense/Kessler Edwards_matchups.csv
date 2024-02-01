@@ -1,4 +1,7 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300678,Kessler Edwards,Forward,1630556,Tyler Herro,Guard,1629639,0.33,1.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,203.0,195.58,195.0,5.08,8.0,34.04,
+0022300678,Kessler Edwards,Forward,1630556,Jaime Jaquez Jr,Guard,1631170,0.03,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,1,0.0,0,0,200.66,203.0,198.12,225.0,2.54,-22.0,30.02,0.1
+0022300678,Kessler Edwards,Forward,1630556,Josh Richardson,Guard,1626196,0.27,0.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,203.0,195.58,200.0,5.08,3.0,25.97,
 0022301228,Kessler Edwards,Forward,1630556,Keita Bates-Diop,Forward,1628966,0.3,0.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,203.0,203.2,229.0,-2.54,-26.0,16.0,
 0022301228,Kessler Edwards,Forward,1630556,Chimezie Metu,Forward-Center,1629002,0.2,1.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,203.0,208.28,225.0,-7.62,-22.0,12.54,
 0022300016,Kessler Edwards,Forward,1630556,Ousmane Dieng,Forward,1631172,0.45,1.8,0,0.0,0.0,2,4.44,1.11,0,0,0,0,0,0,0.0,0,0,200.66,203.0,205.74,185.0,-5.08,18.0,11.32,

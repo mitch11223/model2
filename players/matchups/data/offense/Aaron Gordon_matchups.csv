@@ -1,4 +1,15 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300682,Aaron Gordon,Forward,203932,Ousmane Dieng,Forward,1631172,0.03,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,235.0,205.74,185.0,-2.54,50.0,11.32,
+0022300682,Aaron Gordon,Forward,203932,Luguentz Dort,Guard,1629652,1.55,9.6,4,2.58,0.42,15,9.68,1.56,1,0,0,0,2,2,1.0,0,0,203.2,235.0,193.04,220.0,10.16,15.0,28.36,4.8
+0022300682,Aaron Gordon,Forward,203932,Josh Giddey,Guard,1630581,0.65,4.8,0,0.0,0.0,2,3.08,0.42,1,0,0,0,0,2,0.0,0,0,203.2,235.0,203.2,216.0,0.0,19.0,24.89,2.4
+0022300682,Aaron Gordon,Forward,203932,Shai Gilgeous-Alexander,Guard,1628983,2.17,8.5,0,0.0,0.0,2,0.92,0.24,1,0,0,2,0,2,0.0,0,1,203.2,235.0,198.12,195.0,5.08,40.0,34.22,4.25
+0022300682,Aaron Gordon,Forward,203932,Chet Holmgren,Center-Forward,1631096,3.32,17.1,2,0.6,0.12,15,4.52,0.88,2,0,0,0,1,5,0.2,0,0,203.2,235.0,215.9,208.0,-12.7,27.0,30.0,3.42
+0022300682,Aaron Gordon,Forward,203932,Vasilije Micic,Guard,203995,0.32,3.7,0,0.0,0.0,4,12.5,1.08,0,0,0,0,0,0,0.0,0,0,203.2,235.0,190.5,188.0,12.7,47.0,12.04,
+0022300682,Aaron Gordon,Forward,203932,Cason Wallace,Guard,1641717,0.25,1.4,0,0.0,0.0,5,20.0,3.57,0,0,0,0,0,0,0.0,0,0,203.2,235.0,190.5,195.0,12.7,40.0,21.15,
+0022300682,Aaron Gordon,Forward,203932,Lindy Waters III,Forward,1630322,0.08,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,235.0,198.12,210.0,5.08,25.0,7.41,
+0022300682,Aaron Gordon,Forward,203932,Aaron Wiggins,Guard,1630598,1.32,7.4,3,2.27,0.41,6,4.55,0.81,0,0,0,4,1,2,0.5,1,1,203.2,235.0,195.58,190.0,7.62,45.0,13.07,3.7
+0022300682,Aaron Gordon,Forward,203932,Jaylin Williams,Forward,1631119,5.55,22.0,4,0.72,0.18,26,4.68,1.18,1,2,0,0,2,4,0.5,0,0,203.2,235.0,205.74,240.0,-2.54,-5.0,11.87,5.5
+0022300682,Aaron Gordon,Forward,203932,Kenrich Williams,Guard-Forward,1629026,1.55,7.4,0,0.0,0.0,4,2.58,0.54,1,0,0,0,0,0,0.0,0,0,203.2,235.0,198.12,210.0,5.08,25.0,15.03,
 0022301215,Aaron Gordon,Forward,203932,Kobe Brown,Forward,1641738,0.28,1.9,0,0.0,0.0,2,7.14,1.05,0,0,0,0,0,0,0.0,0,0,203.2,235.0,200.66,250.0,2.54,-15.0,9.59,
 0022301215,Aaron Gordon,Forward,203932,Paul George,Forward,202331,0.98,4.9,0,0.0,0.0,10,10.2,2.04,0,0,0,0,0,0,0.0,0,0,203.2,235.0,203.2,220.0,0.0,15.0,34.21,
 0022301215,Aaron Gordon,Forward,203932,James Harden,Guard,201935,3.32,15.9,6,1.81,0.38,15,4.52,0.94,2,0,0,0,3,6,0.5,0,0,203.2,235.0,195.58,220.0,7.62,15.0,34.05,2.65
@@ -364,3 +375,10 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300644,Aaron Gordon,Forward,203932,Marcus Morris Sr,Forward,202694,2.47,11.5,5,2.02,0.43,16,6.48,1.39,1,2,1,0,2,3,0.667,0,0,203.2,235.0,203.2,218.0,0.0,17.0,16.82,3.83
 0022300644,Aaron Gordon,Forward,203932,Kelly Oubre Jr,Forward-Guard,1626162,1.48,9.4,2,1.35,0.21,9,6.08,0.96,0,0,0,0,1,1,1.0,0,0,203.2,235.0,200.66,203.0,2.54,32.0,27.5,9.4
 0022300644,Aaron Gordon,Forward,203932,Paul Reed,Forward,1630194,6.37,26.5,3,0.47,0.11,25,3.92,0.94,1,0,0,4,0,0,0.0,3,2,203.2,235.0,205.74,210.0,-2.54,25.0,16.05,
+0022300667,Aaron Gordon,Forward,203932,Giannis Antetokounmpo,Forward,203507,6.07,27.4,6,0.99,0.22,30,4.94,1.09,0,1,1,2,2,3,0.667,1,1,203.2,235.0,210.82,243.0,-7.62,-8.0,35.16,9.13
+0022300667,Aaron Gordon,Forward,203932,Malik Beasley,Guard,1627736,0.55,3.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,1,0.0,0,0,203.2,235.0,193.04,187.0,10.16,48.0,29.39,3.0
+0022300667,Aaron Gordon,Forward,203932,Jae Crowder,Forward,203109,0.03,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,235.0,198.12,235.0,5.08,0.0,23.13,
+0022300667,Aaron Gordon,Forward,203932,Damian Lillard,Guard,203081,0.6,3.0,2,3.33,0.67,8,13.33,2.67,0,0,0,2,0,0,0.0,2,1,203.2,235.0,187.96,195.0,15.24,40.0,35.21,
+0022300667,Aaron Gordon,Forward,203932,Brook Lopez,Center,201572,1.33,9.1,0,0.0,0.0,1,0.75,0.11,0,0,0,0,0,1,0.0,0,0,203.2,235.0,215.9,282.0,-12.7,-47.0,31.76,9.1
+0022300667,Aaron Gordon,Forward,203932,Khris Middleton,Forward,203114,0.68,4.4,0,0.0,0.0,5,7.35,1.14,0,0,0,0,0,1,0.0,0,0,203.2,235.0,200.66,222.0,2.54,13.0,26.13,4.4
+0022300667,Aaron Gordon,Forward,203932,Bobby Portis,Forward,1626171,2.03,10.5,0,0.0,0.0,10,4.93,0.95,0,1,0,0,0,1,0.0,0,0,203.2,235.0,208.28,250.0,-5.08,-15.0,23.37,10.5

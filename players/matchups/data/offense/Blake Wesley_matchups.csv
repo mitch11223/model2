@@ -1,4 +1,13 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300681,Blake Wesley,Guard,1631104,Cole Anthony,Guard,1630175,1.62,8.1,2,1.23,0.25,4,2.47,0.49,1,0,0,0,1,1,1.0,0,0,190.5,185.0,187.96,185.0,2.54,0.0,23.93,8.1
+0022300681,Blake Wesley,Guard,1631104,Paolo Banchero,Forward,1631094,0.12,1.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,190.5,185.0,208.28,250.0,-17.78,-65.0,34.76,
+0022300681,Blake Wesley,Guard,1631104,Anthony Black,Guard,1641710,0.28,1.9,2,7.14,1.05,4,14.29,2.11,0,0,0,0,1,1,1.0,0,0,190.5,185.0,200.66,200.0,-10.16,-15.0,19.21,1.9
+0022300681,Blake Wesley,Guard,1631104,Wendell Carter Jr,Center-Forward,1628976,0.1,0.7,0,0.0,0.0,2,20.0,2.86,0,0,0,0,0,0,0.0,0,0,190.5,185.0,208.28,270.0,-17.78,-85.0,25.15,
+0022300681,Blake Wesley,Guard,1631104,Markelle Fultz,Guard,1628365,1.72,7.2,0,0.0,0.0,7,4.07,0.97,0,1,0,0,0,1,0.0,0,0,190.5,185.0,193.04,209.0,-2.54,-24.0,24.36,7.2
+0022300681,Blake Wesley,Guard,1631104,Joe Ingles,Forward-Guard,204060,0.25,2.3,2,8.0,0.87,2,8.0,0.87,0,0,0,0,1,1,1.0,0,0,190.5,185.0,205.74,220.0,-15.24,-35.0,18.19,2.3
+0022300681,Blake Wesley,Guard,1631104,Jonathan Isaac,Forward,1628371,0.03,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,190.5,185.0,208.28,230.0,-17.78,-45.0,14.21,
+0022300681,Blake Wesley,Guard,1631104,Franz Wagner,Forward,1630532,0.13,1.6,0,0.0,0.0,4,30.77,2.5,0,0,0,0,0,1,0.0,0,0,190.5,185.0,208.28,220.0,-17.78,-35.0,33.03,1.6
+0022300681,Blake Wesley,Guard,1631104,Moritz Wagner,Forward-Center,1629021,0.1,0.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,190.5,185.0,210.82,245.0,-20.32,-60.0,18.93,
 0022300032,Blake Wesley,Guard,1631104,Chris Duarte,Guard,1630537,0.2,1.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,190.5,185.0,195.58,190.0,-5.08,-5.0,13.23,
 0022300032,Blake Wesley,Guard,1631104,Keon Ellis,Guard,1631165,0.25,2.1,0,0.0,0.0,1,4.0,0.48,0,0,0,0,0,0,0.0,0,0,190.5,185.0,190.5,175.0,0.0,10.0,12.14,
 0022300032,Blake Wesley,Guard,1631104,De'Aaron Fox,Guard,1628368,0.12,1.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,190.5,185.0,190.5,185.0,0.0,0.0,35.63,
@@ -203,3 +212,11 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300649,Blake Wesley,Guard,1631104,Shake Milton,Guard-Forward,1629003,0.52,2.8,0,0.0,0.0,4,7.69,1.43,0,0,0,0,0,0,0.0,0,0,190.5,185.0,195.58,205.0,-5.08,-20.0,13.36,
 0022300649,Blake Wesley,Guard,1631104,Naz Reid,Center-Forward,1629675,0.9,5.3,0,0.0,0.0,4,4.44,0.75,0,0,0,0,0,0,0.0,0,0,190.5,185.0,205.74,264.0,-15.24,-79.0,22.37,
 0022300649,Blake Wesley,Guard,1631104,Karl-Anthony Towns,Center-Forward,1626157,0.47,1.9,0,0.0,0.0,4,8.51,2.11,0,0,0,0,0,0,0.0,0,0,190.5,185.0,213.36,248.0,-22.86,-63.0,33.13,
+0022300665,Blake Wesley,Guard,1631104,Deni Avdija,Forward,1630166,0.27,2.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,1,0.0,0,0,190.5,185.0,205.74,210.0,-15.24,-25.0,27.47,2.1
+0022300665,Blake Wesley,Guard,1631104,Marvin Bagley III,Forward,1628963,0.5,2.1,3,6.0,1.43,5,10.0,2.38,0,1,1,0,1,2,0.5,0,0,190.5,185.0,208.28,235.0,-17.78,-50.0,19.72,1.05
+0022300665,Blake Wesley,Guard,1631104,Bilal Coulibaly,Guard,1641731,2.47,9.0,0,0.0,0.0,15,6.07,1.67,2,0,0,0,0,0,0.0,0,0,190.5,185.0,203.2,195.0,-12.7,-10.0,26.41,
+0022300665,Blake Wesley,Guard,1631104,Daniel Gafford,Forward-Center,1629655,0.05,0.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,190.5,185.0,208.28,234.0,-17.78,-49.0,26.2,
+0022300665,Blake Wesley,Guard,1631104,Tyus Jones,Guard,1626145,1.7,7.6,0,0.0,0.0,6,3.53,0.79,0,0,0,0,0,0,0.0,0,0,190.5,185.0,185.42,196.0,5.08,-11.0,28.56,
+0022300665,Blake Wesley,Guard,1631104,Corey Kispert,Forward,1630557,0.5,3.9,0,0.0,0.0,2,4.0,0.51,0,0,0,0,0,0,0.0,0,0,190.5,185.0,198.12,224.0,-7.62,-39.0,21.64,
+0022300665,Blake Wesley,Guard,1631104,Jordan Poole,Guard,1629673,0.3,1.1,2,6.67,1.82,2,6.67,1.82,0,0,0,2,0,0,0.0,2,0,190.5,185.0,193.04,194.0,-2.54,-9.0,29.11,
+0022300665,Blake Wesley,Guard,1631104,Delon Wright,Guard,1626153,0.15,0.4,0,0.0,0.0,2,13.33,5.0,0,0,0,0,0,0,0.0,0,0,190.5,185.0,195.58,185.0,-5.08,0.0,15.92,

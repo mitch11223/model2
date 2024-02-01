@@ -1,16 +1,16 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
-0022300519,Marcus Sasser,Guard,1631204,Mamadi Diakite,Forward,1629603,0.2,1.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,1,0.0,0,0,187.96,195.0,205.74,228.0,-17.78,-33.0,15.49,1.1
+0022300519,Marcus Sasser,Guard,1631204,Mamadi Diakite,Forward,1629603,0.2,1.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,1,0.0,0,0,187.96,195.0,205.74,228.0,-17.78,-33.0,15.36,1.1
 0022300519,James Wiseman,Center,1630164,Mamadi Diakite,Forward,1629603,0.32,1.6,0,0.0,0.0,3,9.38,1.88,0,0,0,0,0,0,0.0,0,0,210.82,240.0,205.74,228.0,5.08,12.0,14.59,
-0022300519,Ausar Thompson,Guard-Forward,1641709,Mamadi Diakite,Forward,1629603,0.02,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,205.0,205.74,228.0,-7.62,-23.0,23.63,
+0022300519,Ausar Thompson,Guard-Forward,1641709,Mamadi Diakite,Forward,1629603,0.02,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,205.0,205.74,228.0,-7.62,-23.0,23.51,
 0022300541,LaMelo Ball,Guard,1630163,Mamadi Diakite,Forward,1629603,0.05,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,180.0,205.74,228.0,-5.08,-48.0,32.36,
-0022300541,Ish Smith,Guard,202397,Mamadi Diakite,Forward,1629603,0.12,1.0,0,0.0,0.0,5,41.67,5.0,1,0,0,0,0,0,0.0,0,0,182.88,175.0,205.74,228.0,-22.86,-53.0,16.63,
+0022300541,Ish Smith,Guard,202397,Mamadi Diakite,Forward,1629603,0.12,1.0,0,0.0,0.0,5,41.67,5.0,1,0,0,0,0,0,0.0,0,0,182.88,175.0,205.74,228.0,-22.86,-53.0,16.62,
 0022300541,JT Thor,Forward,1630550,Mamadi Diakite,Forward,1629603,1.8,7.8,0,0.0,0.0,2,1.11,0.26,0,0,0,0,0,0,0.0,0,0,205.74,203.0,205.74,228.0,0.0,-25.0,14.05,
-0022300541,Nathan Mensah,Center,1641877,Mamadi Diakite,Forward,1629603,1.13,5.2,0,0.0,0.0,4,3.54,0.77,0,0,0,0,0,0,0.0,0,0,205.74,230.0,205.74,228.0,0.0,2.0,13.35,
-0022300541,Leaky Black,Forward,1641778,Mamadi Diakite,Forward,1629603,0.03,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,209.0,205.74,228.0,-7.62,-19.0,6.19,
-0022300541,Nick Smith Jr,Guard,1641733,Mamadi Diakite,Forward,1629603,0.38,2.5,2,5.26,0.8,7,18.42,2.8,2,1,0,0,1,2,0.5,0,0,187.96,185.0,205.74,228.0,-17.78,-43.0,15.13,1.25
-0022300541,Bryce McGowens,Guard,1631121,Mamadi Diakite,Forward,1629603,0.42,1.4,4,9.52,2.86,4,9.52,2.86,0,0,0,0,2,2,1.0,0,0,198.12,175.0,205.74,228.0,-7.62,-53.0,16.11,0.7
+0022300541,Nathan Mensah,Center,1641877,Mamadi Diakite,Forward,1629603,1.13,5.2,0,0.0,0.0,4,3.54,0.77,0,0,0,0,0,0,0.0,0,0,205.74,230.0,205.74,228.0,0.0,2.0,13.14,
+0022300541,Leaky Black,Forward,1641778,Mamadi Diakite,Forward,1629603,0.03,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,209.0,205.74,228.0,-7.62,-19.0,6.59,
+0022300541,Nick Smith Jr,Guard,1641733,Mamadi Diakite,Forward,1629603,0.38,2.5,2,5.26,0.8,7,18.42,2.8,2,1,0,0,1,2,0.5,0,0,187.96,185.0,205.74,228.0,-17.78,-43.0,15.03,1.25
+0022300541,Bryce McGowens,Guard,1631121,Mamadi Diakite,Forward,1629603,0.42,1.4,4,9.52,2.86,4,9.52,2.86,0,0,0,0,2,2,1.0,0,0,198.12,175.0,205.74,228.0,-7.62,-53.0,16.03,0.7
 0022300541,James Bouknight,Guard,1630547,Mamadi Diakite,Forward,1629603,0.13,0.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,193.04,190.0,205.74,228.0,-12.7,-38.0,6.08,
-0022300571,Neemias Queta,Center,1629674,Mamadi Diakite,Forward,1629603,0.58,2.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,213.36,248.0,205.74,228.0,7.62,20.0,12.16,
+0022300571,Neemias Queta,Center,1629674,Mamadi Diakite,Forward,1629603,0.58,2.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,213.36,248.0,205.74,228.0,7.62,20.0,12.25,
 0022300571,Lamar Stevens,Forward,1630205,Mamadi Diakite,Forward,1629603,0.87,4.0,0,0.0,0.0,3,3.45,0.75,0,0,0,0,0,0,0.0,0,0,200.66,230.0,205.74,228.0,-5.08,2.0,6.39,
 0022300571,Dalano Banton,Forward,1630625,Mamadi Diakite,Forward,1629603,0.33,1.9,1,3.03,0.53,1,3.03,0.53,0,0,0,2,0,1,0.0,1,1,203.2,204.0,205.74,228.0,-2.54,-24.0,7.41,1.9
 0022300571,Svi Mykhailiuk,Guard-Forward,1629004,Mamadi Diakite,Forward,1629603,0.05,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,205.0,205.74,228.0,-5.08,-23.0,7.62,

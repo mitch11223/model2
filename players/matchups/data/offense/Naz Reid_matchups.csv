@@ -1,4 +1,14 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300680,Naz Reid,Center-Forward,1629675,Seth Curry,Guard,203552,0.17,1.6,0,0.0,0.0,3,17.65,1.88,0,0,0,0,0,0,0.0,0,0,205.74,264.0,185.42,185.0,20.32,79.0,12.76,
+0022300680,Naz Reid,Center-Forward,1629675,Josh Green,Guard,1630182,1.17,5.0,6,5.13,1.2,12,10.26,2.4,0,2,2,0,2,2,1.0,0,0,205.74,264.0,195.58,200.0,10.16,64.0,26.61,2.5
+0022300680,Naz Reid,Center-Forward,1629675,Tim Hardaway Jr,Guard-Forward,203501,0.38,2.0,0,0.0,0.0,5,13.16,2.5,1,1,0,0,0,1,0.0,0,0,205.74,264.0,195.58,205.0,10.16,59.0,30.02,2.0
+0022300680,Naz Reid,Center-Forward,1629675,Jaden Hardy,Guard,1630702,0.67,2.8,0,0.0,0.0,4,5.97,1.43,0,1,0,0,0,1,0.0,0,0,205.74,264.0,190.5,198.0,15.24,66.0,15.51,2.8
+0022300680,Naz Reid,Center-Forward,1629675,Richaun Holmes,Forward,1626158,0.95,4.8,0,0.0,0.0,3,3.16,0.62,0,0,0,2,0,0,0.0,0,1,205.74,264.0,205.74,235.0,0.0,29.0,10.0,
+0022300680,Naz Reid,Center-Forward,1629675,Maxi Kleber,Forward,1628467,1.7,8.8,0,0.0,0.0,6,3.53,0.68,0,0,0,0,0,3,0.0,0,0,205.74,264.0,208.28,240.0,-2.54,24.0,18.36,2.93
+0022300680,Naz Reid,Center-Forward,1629675,AJ Lawson,Guard,1630639,0.32,2.2,3,9.38,1.36,3,9.38,1.36,0,1,1,0,1,2,0.5,0,0,205.74,264.0,198.12,179.0,7.62,85.0,9.57,1.1
+0022300680,Naz Reid,Center-Forward,1629675,Dwight Powell,Forward-Center,203939,0.58,3.0,2,3.45,0.67,5,8.62,1.67,0,0,0,0,1,1,1.0,0,0,205.74,264.0,208.28,240.0,-2.54,24.0,15.95,3.0
+0022300680,Naz Reid,Center-Forward,1629675,Olivier-Maxence Prosper,Forward,1641765,1.75,8.8,1,0.57,0.11,8,4.57,0.91,1,0,0,2,0,0,0.0,1,1,205.74,264.0,200.66,230.0,5.08,34.0,9.04,
+0022300680,Naz Reid,Center-Forward,1629675,Grant Williams,Forward,1629684,1.73,7.9,2,1.16,0.25,8,4.62,1.01,0,0,0,0,1,1,1.0,0,0,205.74,264.0,198.12,236.0,7.62,28.0,26.52,7.9
 0022301210,Naz Reid,Center-Forward,1629675,Malaki Branham,Forward,1631103,0.4,3.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,264.0,193.04,180.0,12.7,84.0,20.9,
 0022301210,Naz Reid,Center-Forward,1629675,Julian Champagnie,Forward,1630577,0.28,1.5,0,0.0,0.0,2,7.14,1.33,0,0,0,0,0,0,0.0,0,0,205.74,264.0,200.66,217.0,5.08,47.0,15.82,
 0022301210,Naz Reid,Center-Forward,1629675,Zach Collins,Forward-Center,1628380,1.12,6.4,0,0.0,0.0,3,2.68,0.47,0,1,0,0,0,2,0.0,0,0,205.74,264.0,210.82,250.0,-5.08,14.0,25.36,3.2
@@ -453,3 +463,14 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300649,Naz Reid,Center-Forward,1629675,Devin Vassell,Guard-Forward,1630170,0.58,2.8,0,0.0,0.0,2,3.45,0.71,0,0,0,0,0,0,0.0,0,0,205.74,264.0,195.58,200.0,10.16,64.0,31.2,
 0022300649,Naz Reid,Center-Forward,1629675,Victor Wembanyama,Forward-Center,1641705,0.03,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,264.0,223.52,210.0,-17.78,54.0,28.45,
 0022300649,Naz Reid,Center-Forward,1629675,Blake Wesley,Guard,1631104,0.52,2.6,0,0.0,0.0,8,15.38,3.08,0,0,0,0,0,2,0.0,0,0,205.74,264.0,190.5,185.0,15.24,79.0,11.72,1.3
+0022300664,Naz Reid,Center-Forward,1629675,Luguentz Dort,Guard,1629652,0.2,1.8,3,15.0,1.67,3,15.0,1.67,0,1,1,0,1,1,1.0,0,0,205.74,264.0,193.04,220.0,12.7,44.0,28.36,1.8
+0022300664,Naz Reid,Center-Forward,1629675,Josh Giddey,Guard,1630581,0.13,0.8,0,0.0,0.0,3,23.08,3.75,1,0,0,0,0,0,0.0,0,0,205.74,264.0,203.2,216.0,2.54,48.0,24.89,
+0022300664,Naz Reid,Center-Forward,1629675,Shai Gilgeous-Alexander,Guard,1628983,2.28,12.4,3,1.32,0.24,9,3.95,0.73,0,1,1,0,1,3,0.333,0,0,205.74,264.0,198.12,195.0,7.62,69.0,34.22,4.13
+0022300664,Naz Reid,Center-Forward,1629675,Chet Holmgren,Center-Forward,1631096,0.33,1.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,264.0,215.9,208.0,-10.16,56.0,30.0,
+0022300664,Naz Reid,Center-Forward,1629675,Isaiah Joe,Guard,1630198,0.32,1.6,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,264.0,190.5,165.0,15.24,99.0,18.85,
+0022300664,Naz Reid,Center-Forward,1629675,Vasilije Micic,Guard,203995,0.2,0.6,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,264.0,190.5,188.0,15.24,76.0,12.04,
+0022300664,Naz Reid,Center-Forward,1629675,Cason Wallace,Guard,1641717,0.42,1.9,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,264.0,190.5,195.0,15.24,69.0,21.15,
+0022300664,Naz Reid,Center-Forward,1629675,Aaron Wiggins,Guard,1630598,0.1,1.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,264.0,195.58,190.0,10.16,74.0,13.07,
+0022300664,Naz Reid,Center-Forward,1629675,Jalen Williams,Guard-Forward,1631114,0.13,0.6,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,264.0,195.58,211.0,10.16,53.0,31.95,
+0022300664,Naz Reid,Center-Forward,1629675,Jaylin Williams,Forward,1631119,1.8,7.3,3,1.67,0.41,9,5.0,1.23,1,2,1,0,1,3,0.333,0,0,205.74,264.0,205.74,240.0,0.0,24.0,11.87,2.43
+0022300664,Naz Reid,Center-Forward,1629675,Kenrich Williams,Guard-Forward,1629026,1.52,5.7,0,0.0,0.0,5,3.29,0.88,0,1,0,0,0,2,0.0,0,0,205.74,264.0,198.12,210.0,7.62,54.0,15.03,2.85

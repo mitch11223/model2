@@ -1,4 +1,9 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300676,Kobe Brown,Forward,1641738,Patrick Baldwin Jr,Forward,1631116,0.07,0.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,250.0,205.74,220.0,-5.08,30.0,6.87,
+0022300676,Kobe Brown,Forward,1641738,Jules Bernard,Guard,1631262,0.4,1.9,0,0.0,0.0,2,5.0,1.05,0,0,0,0,0,0,0.0,0,0,200.66,250.0,198.12,210.0,2.54,40.0,4.0,
+0022300676,Kobe Brown,Forward,1641738,Bilal Coulibaly,Guard,1641731,0.1,1.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,250.0,203.2,195.0,-2.54,55.0,26.41,
+0022300676,Kobe Brown,Forward,1641738,Johnny Davis,Guard,1631098,0.7,4.2,0,0.0,0.0,2,2.86,0.48,0,0,0,0,0,0,0.0,0,0,200.66,250.0,193.04,195.0,7.62,55.0,7.45,
+0022300676,Kobe Brown,Forward,1641738,Anthony Gill,Forward,1630264,1.38,4.7,0,0.0,0.0,2,1.45,0.43,0,0,0,0,0,1,0.0,0,0,200.66,250.0,203.2,230.0,-2.54,20.0,5.77,4.7
 0022301215,Kobe Brown,Forward,1641738,Christian Braun,Guard,1631128,0.88,7.3,0,0.0,0.0,11,12.5,1.51,0,1,0,0,0,1,0.0,0,0,200.66,250.0,198.12,220.0,2.54,30.0,19.0,7.3
 0022301215,Kobe Brown,Forward,1641738,Kentavious Caldwell-Pope,Guard,203484,0.15,2.0,0,0.0,0.0,2,13.33,1.0,0,0,0,0,0,0,0.0,0,0,200.66,250.0,195.58,204.0,5.08,46.0,32.27,
 0022301215,Kobe Brown,Forward,1641738,Reggie Jackson,Guard,202704,0.7,3.4,3,4.29,0.88,5,7.14,1.47,0,1,1,0,1,1,1.0,0,0,200.66,250.0,187.96,208.0,12.7,42.0,23.06,3.4
@@ -193,3 +198,6 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300646,Kobe Brown,Forward,1641738,Payton Pritchard,Guard,1630202,0.22,1.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,250.0,185.42,195.0,15.24,55.0,21.11,
 0022300646,Kobe Brown,Forward,1641738,Neemias Queta,Center,1629674,0.68,3.4,0,0.0,0.0,5,7.35,1.47,0,1,0,0,0,1,0.0,0,0,200.66,250.0,213.36,248.0,-12.7,2.0,12.28,3.4
 0022300646,Kobe Brown,Forward,1641738,Lamar Stevens,Forward,1630205,0.43,2.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,250.0,200.66,230.0,0.0,20.0,6.39,
+0022300658,Kobe Brown,Forward,1641738,Donovan Mitchell,Guard,1628378,0.03,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,250.0,190.5,215.0,10.16,35.0,35.62,
+0022300658,Kobe Brown,Forward,1641738,Georges Niang,Forward,1627777,0.3,0.9,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,250.0,200.66,230.0,0.0,20.0,22.28,
+0022300658,Kobe Brown,Forward,1641738,Max Strus,Guard-Forward,1629622,0.02,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,250.0,195.58,215.0,5.08,35.0,33.09,

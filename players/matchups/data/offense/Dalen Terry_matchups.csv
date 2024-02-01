@@ -1,4 +1,13 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300672,Dalen Terry,Forward,1631207,Scottie Barnes,Forward-Guard,1630567,0.12,1.5,0,0.0,0.0,5,41.67,3.33,0,0,0,0,0,0,0.0,0,0,200.66,195.0,200.66,237.0,0.0,-42.0,35.22,
+0022300672,Dalen Terry,Forward,1631207,Gradey Dick,Guard-Forward,1641711,1.18,8.3,4,3.39,0.48,10,8.47,1.2,0,1,0,0,2,4,0.5,0,0,200.66,195.0,198.12,200.0,2.54,-5.0,13.44,2.08
+0022300672,Dalen Terry,Forward,1631207,Jalen McDaniels,Forward,1629667,0.03,0.6,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,1,0.0,0,0,200.66,195.0,205.74,190.0,-5.08,5.0,8.82,0.6
+0022300672,Dalen Terry,Forward,1631207,Jordan Nwora,Forward,1629670,0.08,1.2,0,0.0,0.0,1,12.5,0.83,0,0,0,0,0,0,0.0,0,0,200.66,195.0,203.2,225.0,-2.54,-30.0,10.71,
+0022300672,Dalen Terry,Forward,1631207,Jontay Porter,Center-Forward,1629007,0.03,0.5,2,66.67,4.0,2,66.67,4.0,0,0,0,0,1,1,1.0,0,0,200.66,195.0,208.28,240.0,-7.62,-45.0,14.92,0.5
+0022300672,Dalen Terry,Forward,1631207,Dennis Schroder,Guard,203471,0.05,0.6,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,195.0,185.42,175.0,15.24,20.0,30.96,
+0022300672,Dalen Terry,Forward,1631207,Garrett Temple,Guard-Forward,202066,0.33,1.6,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,1,0.0,0,0,200.66,195.0,195.58,195.0,5.08,0.0,4.0,1.6
+0022300672,Dalen Terry,Forward,1631207,Gary Trent Jr,Guard,1629018,0.77,5.8,4,5.19,0.69,6,7.79,1.03,0,0,0,0,2,2,1.0,0,0,200.66,195.0,195.58,204.0,5.08,-9.0,25.95,2.9
+0022300672,Dalen Terry,Forward,1631207,Thaddeus Young,Forward,201152,0.03,0.6,0,0.0,0.0,2,66.67,3.33,0,0,0,0,0,0,0.0,0,0,200.66,195.0,203.2,225.0,-2.54,-30.0,13.61,
 0022301211,Dalen Terry,Forward,1631207,Miles Bridges,Forward,1628970,0.15,0.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,195.0,200.66,225.0,0.0,-30.0,37.09,
 0022301211,Dalen Terry,Forward,1631207,Bryce McGowens,Guard,1631121,1.05,5.1,0,0.0,0.0,8,7.62,1.57,0,0,0,0,0,0,0.0,0,0,200.66,195.0,198.12,175.0,2.54,20.0,16.51,
 0022301211,Dalen Terry,Forward,1631207,Terry Rozier,Guard,1626179,0.03,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,195.0,185.42,190.0,15.24,5.0,34.97,
@@ -231,3 +240,11 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300633,Dalen Terry,Forward,1631207,Rui Hachimura,Forward,1629060,0.18,1.2,0,0.0,0.0,2,11.11,1.67,0,0,0,0,0,0,0.0,0,0,200.66,195.0,203.2,230.0,-2.54,-35.0,22.82,
 0022300633,Dalen Terry,Forward,1631207,LeBron James,Forward,2544,0.03,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,195.0,205.74,250.0,-5.08,-55.0,34.67,
 0022300633,Dalen Terry,Forward,1631207,D'Angelo Russell,Guard,1626156,0.98,4.7,3,3.06,0.64,11,11.22,2.34,1,1,1,0,1,2,0.5,0,0,200.66,195.0,190.5,193.0,10.16,2.0,30.56,2.35
+0022300656,Dalen Terry,Forward,1631207,Deandre Ayton,Center,1629028,0.17,0.6,2,11.76,3.33,2,11.76,3.33,0,0,0,0,1,1,1.0,0,0,200.66,195.0,213.36,247.0,-12.7,-52.0,31.67,0.6
+0022300656,Dalen Terry,Forward,1631207,Malcolm Brogdon,Guard,1627763,0.6,3.9,0,0.0,0.0,4,6.67,1.03,0,0,0,0,0,0,0.0,0,0,200.66,195.0,193.04,229.0,7.62,-34.0,28.28,
+0022300656,Dalen Terry,Forward,1631207,Jerami Grant,Forward,203924,0.6,2.7,0,0.0,0.0,2,3.33,0.74,0,0,0,0,0,0,0.0,0,0,200.66,195.0,200.66,210.0,0.0,-15.0,33.56,
+0022300656,Dalen Terry,Forward,1631207,Scoot Henderson,Guard,1630703,0.45,1.8,0,0.0,0.0,2,4.44,1.11,1,0,0,0,0,0,0.0,0,0,200.66,195.0,190.5,202.0,10.16,-7.0,26.51,
+0022300656,Dalen Terry,Forward,1631207,Duop Reath,Center,1641871,0.1,0.7,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,195.0,205.74,245.0,-5.08,-50.0,17.91,
+0022300656,Dalen Terry,Forward,1631207,Anfernee Simons,Guard,1629014,0.27,0.9,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,195.0,190.5,193.0,10.16,2.0,33.62,
+0022300656,Dalen Terry,Forward,1631207,Matisse Thybulle,Guard-Forward,1629680,0.43,2.3,0,0.0,0.0,5,11.63,2.17,0,1,0,0,0,1,0.0,0,0,200.66,195.0,195.58,201.0,5.08,-6.0,22.86,2.3
+0022300656,Dalen Terry,Forward,1631207,Jabari Walker,Forward,1631133,0.38,2.5,1,2.63,0.4,3,7.89,1.2,0,0,0,2,0,0,0.0,1,1,200.66,195.0,200.66,227.0,0.0,-32.0,21.33,

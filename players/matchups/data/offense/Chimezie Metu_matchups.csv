@@ -1,4 +1,6 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300677,Chimezie Metu,Forward-Center,1629002,Dennis Smith Jr,Guard,1628372,0.08,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,225.0,190.5,205.0,17.78,20.0,19.8,
+0022300677,Chimezie Metu,Forward-Center,1629002,Lonnie Walker IV,Guard-Forward,1629022,0.6,1.8,0,0.0,0.0,2,3.33,1.11,0,0,0,0,0,0,0.0,0,0,208.28,225.0,193.04,204.0,15.24,21.0,18.19,
 0022301228,Chimezie Metu,Forward-Center,1629002,Harrison Barnes,Forward,203084,1.27,7.5,0,0.0,0.0,3,2.36,0.4,1,0,0,0,0,1,0.0,0,0,208.28,225.0,203.2,225.0,5.08,0.0,29.59,7.5
 0022301228,Chimezie Metu,Forward-Center,1629002,Keon Ellis,Guard,1631165,0.35,2.7,0,0.0,0.0,0,0.0,0.0,0,1,0,0,0,2,0.0,0,0,208.28,225.0,190.5,175.0,17.78,50.0,12.14,1.35
 0022301228,Chimezie Metu,Forward-Center,1629002,De'Aaron Fox,Guard,1628368,0.62,4.1,2,3.23,0.49,8,12.9,1.95,0,1,0,0,1,2,0.5,0,0,208.28,225.0,190.5,185.0,17.78,40.0,35.63,2.05
@@ -272,3 +274,15 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300636,Chimezie Metu,Forward-Center,1629002,Ben Sheppard,Guard,1641767,0.12,0.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,1,0.0,0,0,208.28,225.0,198.12,190.0,10.16,35.0,10.32,0.5
 0022300636,Chimezie Metu,Forward-Center,1629002,Jalen Smith,Forward-Center,1630188,0.92,3.7,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,1,0.0,0,0,208.28,225.0,205.74,215.0,2.54,10.0,18.0,3.7
 0022300636,Chimezie Metu,Forward-Center,1629002,Obi Toppin,Forward,1630167,0.03,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,225.0,205.74,220.0,2.54,5.0,23.17,
+0022300655,Chimezie Metu,Forward-Center,1629002,Paolo Banchero,Forward,1631094,0.03,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,225.0,208.28,250.0,0.0,-25.0,34.76,
+0022300655,Chimezie Metu,Forward-Center,1629002,Goga Bitadze,Center-Forward,1629048,0.1,0.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,225.0,208.28,250.0,0.0,-25.0,20.23,
+0022300655,Chimezie Metu,Forward-Center,1629002,Anthony Black,Guard,1641710,0.25,2.1,0,0.0,0.0,2,8.0,0.95,0,0,0,0,0,0,0.0,0,0,208.28,225.0,200.66,200.0,7.62,25.0,19.21,
+0022300655,Chimezie Metu,Forward-Center,1629002,Wendell Carter Jr,Center-Forward,1628976,0.12,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,225.0,208.28,270.0,0.0,-45.0,25.15,
+0022300655,Chimezie Metu,Forward-Center,1629002,Markelle Fultz,Guard,1628365,0.17,0.5,0,0.0,0.0,2,11.76,4.0,0,0,0,0,0,0,0.0,0,0,208.28,225.0,193.04,209.0,15.24,16.0,24.36,
+0022300655,Chimezie Metu,Forward-Center,1629002,Caleb Houstan,Guard,1631216,0.05,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,225.0,203.2,205.0,5.08,20.0,15.64,
+0022300655,Chimezie Metu,Forward-Center,1629002,Jonathan Isaac,Forward,1628371,0.38,2.0,0,0.0,0.0,2,5.26,1.0,0,0,0,0,0,0,0.0,0,0,208.28,225.0,208.28,230.0,0.0,-5.0,14.21,
+0022300655,Chimezie Metu,Forward-Center,1629002,Chuma Okeke,Forward,1629643,0.02,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,225.0,200.66,229.0,7.62,-4.0,12.79,
+0022300655,Chimezie Metu,Forward-Center,1629002,Trevelin Queen,Guard,1630243,0.18,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,225.0,195.58,190.0,12.7,35.0,12.92,
+0022300655,Chimezie Metu,Forward-Center,1629002,Jalen Suggs,Guard,1630591,0.35,1.7,0,0.0,0.0,4,11.43,2.35,0,0,0,0,0,0,0.0,0,0,208.28,225.0,195.58,205.0,12.7,20.0,26.33,
+0022300655,Chimezie Metu,Forward-Center,1629002,Franz Wagner,Forward,1630532,0.25,1.6,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,225.0,208.28,220.0,0.0,5.0,33.03,
+0022300655,Chimezie Metu,Forward-Center,1629002,Moritz Wagner,Forward-Center,1629021,1.05,4.9,0,0.0,0.0,2,1.9,0.41,0,0,0,0,0,0,0.0,0,0,208.28,225.0,210.82,245.0,-2.54,-20.0,18.93,

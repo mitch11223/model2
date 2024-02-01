@@ -1,4 +1,14 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300678,Bam Adebayo,Center-Forward,1628389,Harrison Barnes,Forward,203084,0.67,3.9,0,0.0,0.0,4,5.97,1.03,0,0,0,0,0,1,0.0,0,0,205.74,255.0,203.2,225.0,2.54,30.0,29.59,3.9
+0022300678,Bam Adebayo,Center-Forward,1628389,Kessler Edwards,Forward,1630556,0.03,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,255.0,200.66,203.0,5.08,52.0,4.77,
+0022300678,Bam Adebayo,Center-Forward,1628389,De'Aaron Fox,Guard,1628368,0.78,3.7,0,0.0,0.0,2,2.56,0.54,0,0,0,0,0,0,0.0,0,0,205.74,255.0,190.5,185.0,15.24,70.0,35.63,
+0022300678,Bam Adebayo,Center-Forward,1628389,Kevin Huerter,Guard-Forward,1628989,0.67,3.2,0,0.0,0.0,9,13.43,2.81,0,0,0,0,0,0,0.0,0,0,205.74,255.0,200.66,198.0,5.08,57.0,24.31,
+0022300678,Bam Adebayo,Center-Forward,1628389,Trey Lyles,Forward,1626168,0.4,2.4,0,0.0,0.0,5,12.5,2.08,0,0,0,0,0,0,0.0,0,0,205.74,255.0,205.74,234.0,0.0,21.0,20.0,
+0022300678,Bam Adebayo,Center-Forward,1628389,JaVale McGee,Center-Forward,201580,1.42,8.0,2,1.41,0.25,13,9.15,1.62,1,0,0,0,1,3,0.333,0,0,205.74,255.0,213.36,270.0,-7.62,-15.0,8.24,2.67
+0022300678,Bam Adebayo,Center-Forward,1628389,Davion Mitchell,Guard,1630558,0.13,0.7,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,255.0,182.88,202.0,22.86,53.0,12.44,
+0022300678,Bam Adebayo,Center-Forward,1628389,Malik Monk,Guard,1628370,0.18,1.6,2,11.11,1.25,2,11.11,1.25,0,0,0,0,1,1,1.0,0,0,205.74,255.0,190.5,200.0,15.24,55.0,25.81,1.6
+0022300678,Bam Adebayo,Center-Forward,1628389,Keegan Murray,Forward,1631099,1.52,6.2,4,2.63,0.65,19,12.5,3.06,1,0,0,0,2,2,1.0,0,0,205.74,255.0,203.2,225.0,2.54,30.0,33.08,3.1
+0022300678,Bam Adebayo,Center-Forward,1628389,Domantas Sabonis,Forward-Center,1627734,8.35,37.6,12,1.44,0.32,39,4.67,1.04,3,0,0,0,6,10,0.6,0,0,205.74,255.0,208.28,240.0,-2.54,15.0,35.32,3.76
 0022300003,Bam Adebayo,Center-Forward,1628389,Deni Avdija,Forward,1630166,1.03,5.0,2,1.94,0.4,6,5.83,1.2,0,0,0,0,1,1,1.0,0,0,205.74,255.0,205.74,210.0,0.0,45.0,27.47,5.0
 0022300003,Bam Adebayo,Center-Forward,1628389,Bilal Coulibaly,Guard,1641731,0.2,1.0,0,0.0,0.0,2,10.0,2.0,0,0,0,0,0,0,0.0,0,0,205.74,255.0,203.2,195.0,2.54,60.0,26.41,
 0022300003,Bam Adebayo,Center-Forward,1628389,Johnny Davis,Guard,1631098,0.07,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,255.0,193.04,195.0,12.7,60.0,7.45,
@@ -346,3 +356,12 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300643,Bam Adebayo,Center-Forward,1628389,Isaiah Hartenstein,Center-Forward,1628392,2.98,12.0,4,1.34,0.33,17,5.7,1.42,0,0,0,0,2,2,1.0,0,0,205.74,255.0,213.36,250.0,-7.62,5.0,25.39,6.0
 0022300643,Bam Adebayo,Center-Forward,1628389,Miles McBride,Guard,1630540,0.05,0.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,255.0,185.42,195.0,20.32,60.0,9.82,
 0022300643,Bam Adebayo,Center-Forward,1628389,Julius Randle,Forward-Center,203944,0.92,4.0,0,0.0,0.0,6,6.52,1.5,0,0,0,0,0,0,0.0,0,0,205.74,255.0,203.2,250.0,2.54,5.0,35.39,
+0022300661,Bam Adebayo,Center-Forward,1628389,Grayson Allen,Guard,1628960,0.15,0.7,0,0.0,0.0,3,20.0,4.29,0,0,0,0,0,0,0.0,0,0,205.74,255.0,193.04,198.0,12.7,57.0,33.51,
+0022300661,Bam Adebayo,Center-Forward,1628389,Keita Bates-Diop,Forward,1628966,0.03,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,255.0,203.2,229.0,2.54,26.0,16.0,
+0022300661,Bam Adebayo,Center-Forward,1628389,Bradley Beal,Guard,203078,0.78,5.9,0,0.0,0.0,10,12.82,1.69,0,0,0,0,0,0,0.0,0,0,205.74,255.0,193.04,207.0,12.7,48.0,32.73,
+0022300661,Bam Adebayo,Center-Forward,1628389,Devin Booker,Guard,1626164,0.67,3.3,2,2.99,0.61,5,7.46,1.52,0,0,0,0,1,1,1.0,0,0,205.74,255.0,198.12,206.0,7.62,49.0,36.11,3.3
+0022300661,Bam Adebayo,Center-Forward,1628389,Kevin Durant,Forward,201142,1.17,7.5,0,0.0,0.0,7,5.98,0.93,0,0,0,0,0,0,0.0,0,0,205.74,255.0,210.82,240.0,-5.08,15.0,37.15,
+0022300661,Bam Adebayo,Center-Forward,1628389,Drew Eubanks,Forward-Center,1629234,2.12,11.6,0,0.0,0.0,9,4.25,0.78,0,0,0,0,0,2,0.0,0,0,205.74,255.0,208.28,245.0,-2.54,10.0,15.92,5.8
+0022300661,Bam Adebayo,Center-Forward,1628389,Eric Gordon,Guard,201569,0.43,2.6,0,0.0,0.0,2,4.65,0.77,0,0,0,0,0,0,0.0,0,0,205.74,255.0,190.5,215.0,15.24,40.0,30.21,
+0022300661,Bam Adebayo,Center-Forward,1628389,Jusuf Nurkic,Center,203994,6.9,37.1,6,0.87,0.16,45,6.52,1.21,4,0,0,2,2,5,0.4,2,1,205.74,255.0,213.36,290.0,-7.62,-35.0,27.4,7.42
+0022300661,Bam Adebayo,Center-Forward,1628389,Josh Okogie,Guard,1629006,0.72,4.1,0,0.0,0.0,5,6.94,1.22,2,0,0,0,0,1,0.0,0,0,205.74,255.0,193.04,213.0,12.7,42.0,18.12,4.1

@@ -1,4 +1,13 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300673,Andrew Wiggins,Forward,203952,Patrick Beverley,Guard,201976,0.9,7.8,2,2.22,0.26,12,13.33,1.54,1,0,0,2,0,1,0.0,2,1,200.66,197.0,187.96,180.0,12.7,17.0,19.05,7.8
+0022300673,Andrew Wiggins,Forward,203952,Ricky Council IV,Guard,1641741,0.08,0.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,197.0,198.12,207.0,2.54,-10.0,4.2,
+0022300673,Andrew Wiggins,Forward,203952,Joel Embiid,Center-Forward,203954,0.73,6.7,2,2.74,0.3,5,6.85,0.75,0,0,0,0,1,1,1.0,0,0,200.66,197.0,213.36,280.0,-12.7,-83.0,34.15,6.7
+0022300673,Andrew Wiggins,Forward,203952,Tobias Harris,Forward,202699,0.55,2.3,0,0.0,0.0,5,9.09,2.17,1,0,0,0,0,0,0.0,0,0,200.66,197.0,203.2,226.0,-2.54,-29.0,34.15,
+0022300673,Andrew Wiggins,Forward,203952,Danuel House Jr,Forward-Guard,1627863,0.75,5.4,2,2.67,0.37,8,10.67,1.48,0,0,0,0,1,1,1.0,0,0,200.66,197.0,198.12,220.0,2.54,-23.0,14.17,5.4
+0022300673,Andrew Wiggins,Forward,203952,Furkan Korkmaz,Guard-Forward,1627788,0.82,3.1,0,0.0,0.0,7,8.54,2.26,1,0,0,0,0,0,0.0,0,0,200.66,197.0,200.66,202.0,0.0,-5.0,7.1,
+0022300673,Andrew Wiggins,Forward,203952,KJ Martin,Forward,1630231,1.03,6.2,2,1.94,0.32,6,5.83,0.97,1,0,0,0,1,1,1.0,0,0,200.66,197.0,198.12,215.0,2.54,-18.0,8.2,6.2
+0022300673,Andrew Wiggins,Forward,203952,Kelly Oubre Jr,Forward-Guard,1626162,6.57,34.9,8,1.22,0.23,45,6.85,1.29,1,1,0,0,4,5,0.8,0,0,200.66,197.0,200.66,203.0,0.0,-6.0,27.5,6.98
+0022300673,Andrew Wiggins,Forward,203952,Jaden Springer,Guard,1630531,1.93,8.0,2,1.04,0.25,5,2.59,0.62,0,0,0,0,1,1,1.0,0,0,200.66,197.0,193.04,202.0,7.62,-5.0,10.0,8.0
 0022301214,Andrew Wiggins,Forward,203952,Malcolm Brogdon,Guard,1627763,2.08,9.1,0,0.0,0.0,4,1.92,0.44,0,0,0,0,0,0,0.0,0,0,200.66,197.0,193.04,229.0,7.62,-32.0,28.28,
 0022301214,Andrew Wiggins,Forward,203952,Toumani Camara,Forward,1641739,1.4,6.2,2,1.43,0.32,11,7.86,1.77,0,0,0,0,1,4,0.25,0,0,200.66,197.0,200.66,226.0,0.0,-29.0,23.87,1.55
 0022301214,Andrew Wiggins,Forward,203952,Scoot Henderson,Guard,1630703,0.93,4.6,0,0.0,0.0,4,4.3,0.87,0,0,0,0,0,0,0.0,0,0,200.66,197.0,190.5,202.0,10.16,-5.0,26.51,

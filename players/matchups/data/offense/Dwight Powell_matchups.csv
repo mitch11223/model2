@@ -1,4 +1,13 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300680,Dwight Powell,Forward-Center,203939,Nickeil Alexander-Walker,Guard,1629638,0.28,1.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,240.0,195.58,205.0,12.7,35.0,22.8,
+0022300680,Dwight Powell,Forward-Center,203939,Kyle Anderson,Forward-Guard,203937,0.42,1.5,0,0.0,0.0,2,4.76,1.33,0,0,0,0,0,0,0.0,0,0,208.28,240.0,205.74,230.0,2.54,10.0,22.37,
+0022300680,Dwight Powell,Forward-Center,203939,Mike Conley,Guard,201144,0.1,0.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,240.0,182.88,175.0,25.4,65.0,29.19,
+0022300680,Dwight Powell,Forward-Center,203939,Anthony Edwards,Guard,1630162,0.27,0.8,0,0.0,0.0,0,0.0,0.0,0,0,0,2,0,0,0.0,0,1,208.28,240.0,193.04,225.0,15.24,15.0,34.93,
+0022300680,Dwight Powell,Forward-Center,203939,Rudy Gobert,Center,203497,1.68,7.3,1,0.6,0.14,6,3.57,0.82,2,0,0,2,0,0,0.0,1,1,208.28,240.0,215.9,258.0,-7.62,-18.0,33.09,
+0022300680,Dwight Powell,Forward-Center,203939,Jaden McDaniels,Forward,1630183,0.18,1.5,0,0.0,0.0,2,11.11,1.33,0,0,0,0,0,0,0.0,0,0,208.28,240.0,205.74,185.0,2.54,55.0,28.81,
+0022300680,Dwight Powell,Forward-Center,203939,Jordan McLaughlin,Guard,1629162,0.2,0.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,240.0,182.88,185.0,25.4,55.0,8.84,
+0022300680,Dwight Powell,Forward-Center,203939,Naz Reid,Center-Forward,1629675,0.42,1.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,240.0,205.74,264.0,2.54,-24.0,22.37,
+0022300680,Dwight Powell,Forward-Center,203939,Karl-Anthony Towns,Center-Forward,1626157,3.27,15.0,0,0.0,0.0,14,4.28,0.93,1,0,0,0,0,0,0.0,0,0,208.28,240.0,213.36,248.0,-5.08,-8.0,33.13,
 0022301213,Dwight Powell,Forward-Center,203939,Ochai Agbaji,Guard,1630534,0.07,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,240.0,195.58,215.0,12.7,25.0,19.96,
 0022301213,Dwight Powell,Forward-Center,203939,John Collins,Forward-Center,1628381,0.27,2.2,0,0.0,0.0,3,11.11,1.36,0,0,0,0,0,0,0.0,0,0,208.28,240.0,205.74,226.0,2.54,14.0,27.67,
 0022301213,Dwight Powell,Forward-Center,203939,Kris Dunn,Guard,1627739,0.15,0.7,2,13.33,2.86,2,13.33,2.86,0,0,0,0,1,1,1.0,0,0,208.28,240.0,190.5,205.0,17.78,35.0,17.59,0.7
@@ -351,3 +360,4 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300577,Dwight Powell,Forward-Center,203939,D'Angelo Russell,Guard,1626156,0.05,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,240.0,190.5,193.0,17.78,47.0,30.56,
 0022300577,Dwight Powell,Forward-Center,203939,Jarred Vanderbilt,Forward,1629020,0.03,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,240.0,203.2,214.0,5.08,26.0,20.54,
 0022300577,Dwight Powell,Forward-Center,203939,Christian Wood,Forward,1626174,0.65,3.7,0,0.0,0.0,5,7.69,1.35,0,0,0,0,0,0,0.0,0,0,208.28,240.0,203.2,214.0,5.08,26.0,18.24,
+0022300666,Dwight Powell,Forward-Center,203939,Moritz Wagner,Forward-Center,1629021,0.38,1.8,0,0.0,0.0,3,7.89,1.67,0,0,0,0,0,0,0.0,0,0,208.28,240.0,210.82,245.0,-2.54,-5.0,18.93,

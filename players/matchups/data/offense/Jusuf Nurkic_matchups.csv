@@ -1,4 +1,14 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300677,Jusuf Nurkic,Center,203994,Mikal Bridges,Guard-Forward,1628969,1.15,5.5,4,3.48,0.73,6,5.22,1.09,2,0,0,0,2,5,0.4,0,0,213.36,290.0,198.12,209.0,15.24,81.0,35.04,1.1
+0022300677,Jusuf Nurkic,Center,203994,Nic Claxton,Center,1629651,5.03,23.8,1,0.2,0.04,22,4.37,0.92,2,0,0,2,0,2,0.0,1,1,213.36,290.0,210.82,215.0,2.54,75.0,29.89,11.9
+0022300677,Jusuf Nurkic,Center,203994,Spencer Dinwiddie,Guard,203915,0.15,0.9,0,0.0,0.0,2,13.33,2.22,0,0,0,0,0,0,0.0,0,0,213.36,290.0,195.58,215.0,17.78,75.0,30.65,
+0022300677,Jusuf Nurkic,Center,203994,Dorian Finney-Smith,Forward,1627827,0.45,2.0,6,13.33,3.0,6,13.33,3.0,0,0,0,0,3,3,1.0,0,0,213.36,290.0,200.66,220.0,12.7,70.0,28.79,0.67
+0022300677,Jusuf Nurkic,Center,203994,Cameron Johnson,Forward,1629661,1.95,10.1,8,4.1,0.79,29,14.87,2.87,2,0,0,1,4,5,0.8,0,1,213.36,290.0,203.2,210.0,10.16,80.0,28.31,2.02
+0022300677,Jusuf Nurkic,Center,203994,Royce O'Neale,Forward,1626220,2.0,11.5,3,1.5,0.26,14,7.0,1.22,0,0,0,4,0,0,0.0,3,2,213.36,290.0,198.12,226.0,15.24,64.0,24.48,
+0022300677,Jusuf Nurkic,Center,203994,Dennis Smith Jr,Guard,1628372,0.28,1.0,2,7.14,2.0,2,7.14,2.0,0,0,0,0,1,1,1.0,0,0,213.36,290.0,190.5,205.0,22.86,85.0,19.8,1.0
+0022300677,Jusuf Nurkic,Center,203994,Cam Thomas,Guard,1630560,1.48,8.2,4,2.7,0.49,20,13.51,2.44,0,0,0,0,2,5,0.4,0,0,213.36,290.0,190.5,210.0,22.86,80.0,28.75,1.64
+0022300677,Jusuf Nurkic,Center,203994,Lonnie Walker IV,Guard-Forward,1629022,0.17,0.6,0,0.0,0.0,3,17.65,5.0,0,0,0,0,0,0,0.0,0,0,213.36,290.0,193.04,204.0,20.32,86.0,18.19,
+0022300677,Jusuf Nurkic,Center,203994,Trendon Watford,Forward,1630570,0.27,1.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,213.36,290.0,203.2,237.0,10.16,53.0,12.19,
 0022301203,Jusuf Nurkic,Center,203994,Anthony Davis,Forward-Center,203076,6.18,32.8,0,0.0,0.0,30,4.85,0.91,2,0,0,0,0,2,0.0,0,0,213.36,290.0,208.28,253.0,5.08,37.0,36.07,16.4
 0022301203,Jusuf Nurkic,Center,203994,Rui Hachimura,Forward,1629060,0.73,3.4,0,0.0,0.0,2,2.74,0.59,0,0,0,0,0,0,0.0,0,0,213.36,290.0,203.2,230.0,10.16,60.0,22.82,
 0022301203,Jusuf Nurkic,Center,203994,Jaxson Hayes,Center-Forward,1629637,0.75,3.3,0,0.0,0.0,3,4.0,0.91,0,0,0,0,0,0,0.0,0,0,213.36,290.0,213.36,220.0,0.0,70.0,9.5,
@@ -391,3 +401,11 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300636,Jusuf Nurkic,Center,203994,Jalen Smith,Forward-Center,1630188,0.47,2.4,0,0.0,0.0,2,4.26,0.83,0,0,0,0,0,0,0.0,0,0,213.36,290.0,205.74,215.0,7.62,75.0,18.0,
 0022300636,Jusuf Nurkic,Center,203994,Obi Toppin,Forward,1630167,0.22,1.4,2,9.09,1.43,4,18.18,2.86,0,0,0,0,1,1,1.0,0,0,213.36,290.0,205.74,220.0,7.62,70.0,23.17,1.4
 0022300636,Jusuf Nurkic,Center,203994,Myles Turner,Center-Forward,1626167,5.42,31.8,0,0.0,0.0,39,7.2,1.23,4,0,0,0,0,2,0.0,0,0,213.36,290.0,210.82,250.0,2.54,40.0,27.49,15.9
+0022300661,Jusuf Nurkic,Center,203994,Bam Adebayo,Center-Forward,1628389,9.0,39.5,2,0.22,0.05,35,3.89,0.89,1,1,0,0,1,3,0.333,0,0,213.36,290.0,205.74,255.0,7.62,35.0,34.89,13.17
+0022300661,Jusuf Nurkic,Center,203994,Jimmy Butler,Forward,202710,1.13,5.1,2,1.77,0.39,8,7.08,1.57,0,0,0,0,1,1,1.0,0,0,213.36,290.0,200.66,230.0,12.7,60.0,33.61,5.1
+0022300661,Jusuf Nurkic,Center,203994,Tyler Herro,Guard,1629639,0.78,4.5,0,0.0,0.0,3,3.85,0.67,0,0,0,0,0,0,0.0,0,0,213.36,290.0,195.58,195.0,17.78,95.0,34.04,
+0022300661,Jusuf Nurkic,Center,203994,Haywood Highsmith,Forward,1629312,0.18,1.1,0,0.0,0.0,0,0.0,0.0,0,0,0,1,0,0,0.0,0,1,213.36,290.0,195.58,220.0,17.78,70.0,21.53,
+0022300661,Jusuf Nurkic,Center,203994,Jaime Jaquez Jr,Guard,1631170,0.47,2.4,2,4.26,0.83,5,10.64,2.08,0,0,0,0,1,1,1.0,0,0,213.36,290.0,198.12,225.0,15.24,65.0,30.02,2.4
+0022300661,Jusuf Nurkic,Center,203994,Caleb Martin,Forward,1628997,0.77,3.0,2,2.6,0.67,2,2.6,0.67,0,0,0,0,1,1,1.0,0,0,213.36,290.0,195.58,205.0,17.78,85.0,26.31,3.0
+0022300661,Jusuf Nurkic,Center,203994,Josh Richardson,Guard,1626196,0.52,1.7,0,0.0,0.0,4,7.69,2.35,0,0,0,0,0,0,0.0,0,0,213.36,290.0,195.58,200.0,17.78,90.0,25.97,
+0022300661,Jusuf Nurkic,Center,203994,Terry Rozier,Guard,1626179,0.28,1.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,213.36,290.0,185.42,190.0,27.94,100.0,34.97,

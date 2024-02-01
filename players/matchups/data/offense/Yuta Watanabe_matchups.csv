@@ -1,4 +1,7 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300677,Yuta Watanabe,Guard-Forward,1629139,Harry Giles III,Forward-Center,1628385,0.03,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,215.0,208.28,240.0,-2.54,-25.0,5.15,
+0022300677,Yuta Watanabe,Guard-Forward,1629139,Royce O'Neale,Forward,1626220,0.62,1.8,0,0.0,0.0,2,3.23,1.11,0,0,0,0,0,0,0.0,0,0,205.74,215.0,198.12,226.0,7.62,-11.0,24.48,
+0022300677,Yuta Watanabe,Guard-Forward,1629139,Trendon Watford,Forward,1630570,0.02,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,215.0,203.2,237.0,2.54,-22.0,12.19,
 0022301228,Yuta Watanabe,Guard-Forward,1629139,Harrison Barnes,Forward,203084,0.55,4.3,0,0.0,0.0,4,7.27,0.93,0,0,0,0,0,0,0.0,0,0,205.74,215.0,203.2,225.0,2.54,-10.0,29.59,
 0022301228,Yuta Watanabe,Guard-Forward,1629139,Keon Ellis,Guard,1631165,0.03,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,215.0,190.5,175.0,15.24,40.0,12.14,
 0022301228,Yuta Watanabe,Guard-Forward,1629139,De'Aaron Fox,Guard,1628368,0.38,2.5,6,15.79,2.4,8,21.05,3.2,0,2,2,0,2,2,1.0,0,0,205.74,215.0,190.5,185.0,15.24,30.0,35.63,1.25

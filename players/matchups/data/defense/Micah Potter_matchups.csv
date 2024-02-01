@@ -1,11 +1,11 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
-0022300323,Scoot Henderson,Guard,1630703,Micah Potter,Center,1630695,0.02,0.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,190.5,202.0,205.74,248.0,-15.24,-46.0,26.39,
-0022300323,Duop Reath,Center,1641871,Micah Potter,Center,1630695,0.08,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,245.0,205.74,248.0,0.0,-3.0,17.74,
-0022300323,Skylar Mays,Guard,1630219,Micah Potter,Center,1630695,0.13,0.5,0,0.0,0.0,3,23.08,6.0,0,0,0,0,0,0,0.0,0,0,190.5,205.0,205.74,248.0,-15.24,-43.0,16.0,
+0022300323,Scoot Henderson,Guard,1630703,Micah Potter,Center,1630695,0.02,0.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,190.5,202.0,205.74,248.0,-15.24,-46.0,26.28,
+0022300323,Duop Reath,Center,1641871,Micah Potter,Center,1630695,0.08,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,245.0,205.74,248.0,0.0,-3.0,17.61,
+0022300323,Skylar Mays,Guard,1630219,Micah Potter,Center,1630695,0.13,0.5,0,0.0,0.0,3,23.08,6.0,0,0,0,0,0,0,0.0,0,0,190.5,205.0,205.74,248.0,-15.24,-43.0,15.48,
 0022300323,Kris Murray,Forward,1631200,Micah Potter,Center,1630695,0.58,3.9,0,0.0,0.0,8,13.79,2.05,0,0,0,0,0,0,0.0,0,0,203.2,210.0,205.74,248.0,-2.54,-38.0,12.32,
-0022300342,Domantas Sabonis,Forward-Center,1627734,Micah Potter,Center,1630695,0.05,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,240.0,205.74,248.0,2.54,-8.0,35.38,
-0022300342,Malik Monk,Guard,1628370,Micah Potter,Center,1630695,0.48,1.6,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,190.5,200.0,205.74,248.0,-15.24,-48.0,25.68,
+0022300342,Domantas Sabonis,Forward-Center,1627734,Micah Potter,Center,1630695,0.05,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,240.0,205.74,248.0,2.54,-8.0,35.43,
+0022300342,Malik Monk,Guard,1628370,Micah Potter,Center,1630695,0.48,1.6,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,190.5,200.0,205.74,248.0,-15.24,-48.0,25.42,
 0022300342,Sasha Vezenkov,Forward,1628426,Micah Potter,Center,1630695,0.92,3.9,0,0.0,0.0,2,2.17,0.51,1,0,0,0,0,1,0.0,0,0,203.2,225.0,205.74,248.0,-2.54,-23.0,12.61,3.9
-0022300342,Davion Mitchell,Guard,1630558,Micah Potter,Center,1630695,0.2,0.9,0,0.0,0.0,3,15.0,3.33,0,0,0,0,0,0,0.0,0,0,182.88,202.0,205.74,248.0,-22.86,-46.0,12.54,
+0022300342,Davion Mitchell,Guard,1630558,Micah Potter,Center,1630695,0.2,0.9,0,0.0,0.0,3,15.0,3.33,0,0,0,0,0,0,0.0,0,0,182.88,202.0,205.74,248.0,-22.86,-46.0,12.53,
 0022300342,Chris Duarte,Guard,1630537,Micah Potter,Center,1630695,0.1,0.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,1,0.0,0,0,195.58,190.0,205.74,248.0,-10.16,-58.0,13.23,0.8
-0022300342,Kessler Edwards,Forward,1630556,Micah Potter,Center,1630695,0.05,0.7,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,203.0,205.74,248.0,-5.08,-45.0,4.77,
+0022300342,Kessler Edwards,Forward,1630556,Micah Potter,Center,1630695,0.05,0.7,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,203.0,205.74,248.0,-5.08,-45.0,4.65,

@@ -1,4 +1,14 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300680,Mike Conley,Guard,201144,Seth Curry,Guard,203552,2.0,10.0,0,0.0,0.0,8,4.0,0.8,0,0,0,0,0,1,0.0,0,0,182.88,175.0,185.42,185.0,-2.54,-10.0,12.76,10.0
+0022300680,Mike Conley,Guard,201144,Josh Green,Guard,1630182,2.0,8.0,5,2.5,0.62,13,6.5,1.62,1,1,1,0,2,2,1.0,0,0,182.88,175.0,195.58,200.0,-12.7,-25.0,26.61,4.0
+0022300680,Mike Conley,Guard,201144,Tim Hardaway Jr,Guard-Forward,203501,1.08,5.8,0,0.0,0.0,10,9.26,1.72,0,0,0,0,0,0,0.0,0,0,182.88,175.0,195.58,205.0,-12.7,-30.0,30.02,
+0022300680,Mike Conley,Guard,201144,Jaden Hardy,Guard,1630702,2.47,11.0,0,0.0,0.0,9,3.64,0.82,1,1,0,0,0,1,0.0,0,0,182.88,175.0,190.5,198.0,-7.62,-23.0,15.51,11.0
+0022300680,Mike Conley,Guard,201144,Richaun Holmes,Forward,1626158,0.3,1.4,0,0.0,0.0,3,10.0,2.14,0,0,0,0,0,0,0.0,0,0,182.88,175.0,205.74,235.0,-22.86,-60.0,10.0,
+0022300680,Mike Conley,Guard,201144,Maxi Kleber,Forward,1628467,0.17,0.9,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,182.88,175.0,208.28,240.0,-25.4,-65.0,18.36,
+0022300680,Mike Conley,Guard,201144,Dwight Powell,Forward-Center,203939,0.02,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,182.88,175.0,208.28,240.0,-25.4,-65.0,15.95,
+0022300680,Mike Conley,Guard,201144,Olivier-Maxence Prosper,Forward,1641765,0.3,1.2,0,0.0,0.0,4,13.33,3.33,0,0,0,0,0,0,0.0,0,0,182.88,175.0,200.66,230.0,-17.78,-55.0,9.04,
+0022300680,Mike Conley,Guard,201144,Brandon Williams,Guard,1630314,0.28,1.5,3,10.71,2.0,3,10.71,2.0,0,1,1,0,1,1,1.0,0,0,182.88,175.0,185.42,190.0,-2.54,-15.0,6.0,1.5
+0022300680,Mike Conley,Guard,201144,Grant Williams,Forward,1629684,1.03,5.4,2,1.94,0.37,9,8.74,1.67,1,0,0,0,1,1,1.0,0,0,182.88,175.0,198.12,236.0,-15.24,-61.0,26.52,5.4
 0022301210,Mike Conley,Guard,201144,Malaki Branham,Forward,1631103,0.37,1.5,0,0.0,0.0,6,16.22,4.0,0,0,0,0,0,0,0.0,0,0,182.88,175.0,193.04,180.0,-10.16,-5.0,20.9,
 0022301210,Mike Conley,Guard,201144,Zach Collins,Forward-Center,1628380,0.63,4.5,0,0.0,0.0,4,6.35,0.89,1,1,0,0,0,1,0.0,0,0,182.88,175.0,210.82,250.0,-27.94,-75.0,25.36,4.5
 0022301210,Mike Conley,Guard,201144,Keldon Johnson,Forward-Guard,1629640,1.48,7.6,3,2.03,0.39,3,2.03,0.39,0,2,1,0,1,2,0.5,0,0,182.88,175.0,195.58,220.0,-12.7,-45.0,30.64,3.8

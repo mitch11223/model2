@@ -1,9 +1,9 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
 0022300574,Nikola Jovic,Forward,1631107,Javon Freeman-Liberty,Guard,1631241,0.05,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,205.0,190.5,190.0,17.78,15.0,16.74,
-0022300574,Haywood Highsmith,Forward,1629312,Javon Freeman-Liberty,Guard,1631241,0.1,1.2,0,0.0,0.0,2,20.0,1.67,0,0,0,0,0,0,0.0,0,0,195.58,220.0,190.5,190.0,5.08,30.0,21.33,
-0022300574,Josh Richardson,Guard,1626196,Javon Freeman-Liberty,Guard,1631241,0.2,1.6,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,200.0,190.5,190.0,5.08,10.0,25.92,
+0022300574,Haywood Highsmith,Forward,1629312,Javon Freeman-Liberty,Guard,1631241,0.1,1.2,0,0.0,0.0,2,20.0,1.67,0,0,0,0,0,0,0.0,0,0,195.58,220.0,190.5,190.0,5.08,30.0,21.18,
+0022300574,Josh Richardson,Guard,1626196,Javon Freeman-Liberty,Guard,1631241,0.2,1.6,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,200.0,190.5,190.0,5.08,10.0,25.95,
 0022300574,Cole Swider,Forward,1631306,Javon Freeman-Liberty,Guard,1631241,0.23,2.0,0,0.0,0.0,3,13.04,1.5,0,0,0,0,0,0,0.0,0,0,203.2,220.0,190.5,190.0,12.7,30.0,4.89,
-0022300637,Mason Plumlee,Forward-Center,203486,Javon Freeman-Liberty,Guard,1631241,0.68,2.5,2,2.94,0.8,2,2.94,0.8,0,0,0,0,1,2,0.5,0,0,208.28,254.0,190.5,190.0,17.78,64.0,17.4,1.25
-0022300637,Daniel Theis,Forward-Center,1628464,Javon Freeman-Liberty,Guard,1631241,0.03,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,245.0,190.5,190.0,12.7,55.0,17.17,
-0022300637,Brandon Boston Jr,Guard,1630527,Javon Freeman-Liberty,Guard,1631241,0.03,0.1,2,66.67,20.0,2,66.67,20.0,0,0,0,0,1,1,1.0,0,0,198.12,188.0,190.5,190.0,7.62,-2.0,6.45,0.1
-0022300637,Bones Hyland,Guard,1630538,Javon Freeman-Liberty,Guard,1631241,0.08,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,187.96,169.0,190.5,190.0,-2.54,-21.0,13.67,
+0022300637,Mason Plumlee,Forward-Center,203486,Javon Freeman-Liberty,Guard,1631241,0.68,2.5,2,2.94,0.8,2,2.94,0.8,0,0,0,0,1,2,0.5,0,0,208.28,254.0,190.5,190.0,17.78,64.0,17.5,1.25
+0022300637,Daniel Theis,Forward-Center,1628464,Javon Freeman-Liberty,Guard,1631241,0.03,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,245.0,190.5,190.0,12.7,55.0,17.25,
+0022300637,Brandon Boston Jr,Guard,1630527,Javon Freeman-Liberty,Guard,1631241,0.03,0.1,2,66.67,20.0,2,66.67,20.0,0,0,0,0,1,1,1.0,0,0,198.12,188.0,190.5,190.0,7.62,-2.0,8.17,0.1
+0022300637,Bones Hyland,Guard,1630538,Javon Freeman-Liberty,Guard,1631241,0.08,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,187.96,169.0,190.5,190.0,-2.54,-21.0,13.21,

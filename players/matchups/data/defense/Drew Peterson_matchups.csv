@@ -1,6 +1,6 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
-0022300389,Terance Mann,Guard-Forward,1629611,Drew Peterson,Forward,1641809,0.12,1.0,0,0.0,0.0,2,16.67,2.0,0,0,0,0,0,0,0.0,0,0,195.58,215.0,205.74,205.0,-10.16,10.0,25.03,
-0022300389,Kobe Brown,Forward,1641738,Drew Peterson,Forward,1641809,0.17,0.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,250.0,205.74,205.0,-5.08,45.0,9.29,
-0022300389,Daniel Theis,Forward-Center,1628464,Drew Peterson,Forward,1641809,0.03,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,245.0,205.74,205.0,-2.54,40.0,17.17,
-0022300389,Brandon Boston Jr,Guard,1630527,Drew Peterson,Forward,1641809,0.67,3.4,2,2.99,0.59,2,2.99,0.59,0,1,0,2,0,1,0.0,2,1,198.12,188.0,205.74,205.0,-7.62,-17.0,6.45,3.4
-0022300389,Bones Hyland,Guard,1630538,Drew Peterson,Forward,1641809,0.15,0.6,0,0.0,0.0,2,13.33,3.33,0,1,0,0,0,1,0.0,0,0,187.96,169.0,205.74,205.0,-17.78,-36.0,13.67,0.6
+0022300389,Terance Mann,Guard-Forward,1629611,Drew Peterson,Forward,1641809,0.12,1.0,0,0.0,0.0,2,16.67,2.0,0,0,0,0,0,0,0.0,0,0,195.58,215.0,205.74,205.0,-10.16,10.0,25.18,
+0022300389,Kobe Brown,Forward,1641738,Drew Peterson,Forward,1641809,0.17,0.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,250.0,205.74,205.0,-5.08,45.0,9.21,
+0022300389,Daniel Theis,Forward-Center,1628464,Drew Peterson,Forward,1641809,0.03,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,245.0,205.74,205.0,-2.54,40.0,17.25,
+0022300389,Brandon Boston Jr,Guard,1630527,Drew Peterson,Forward,1641809,0.67,3.4,2,2.99,0.59,2,2.99,0.59,0,1,0,2,0,1,0.0,2,1,198.12,188.0,205.74,205.0,-7.62,-17.0,8.17,3.4
+0022300389,Bones Hyland,Guard,1630538,Drew Peterson,Forward,1641809,0.15,0.6,0,0.0,0.0,2,13.33,3.33,0,1,0,0,0,1,0.0,0,0,187.96,169.0,205.74,205.0,-17.78,-36.0,13.21,0.6

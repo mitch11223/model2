@@ -1,8 +1,8 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
-0022300027,Ish Smith,Guard,202397,Marques Bolden,Center,1629716,0.03,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,182.88,175.0,208.28,249.0,-25.4,-74.0,16.63,
-0022300027,Bryce McGowens,Guard,1631121,Marques Bolden,Center,1629716,0.17,0.8,2,11.76,2.5,2,11.76,2.5,0,0,0,2,0,0,0.0,2,1,198.12,175.0,208.28,249.0,-10.16,-74.0,16.11,
-0022300027,Nick Smith Jr,Guard,1641733,Marques Bolden,Center,1629716,0.03,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,1,0.0,0,0,187.96,185.0,208.28,249.0,-20.32,-64.0,15.13,0.1
+0022300027,Ish Smith,Guard,202397,Marques Bolden,Center,1629716,0.03,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,182.88,175.0,208.28,249.0,-25.4,-74.0,16.62,
+0022300027,Bryce McGowens,Guard,1631121,Marques Bolden,Center,1629716,0.17,0.8,2,11.76,2.5,2,11.76,2.5,0,0,0,2,0,0,0.0,2,1,198.12,175.0,208.28,249.0,-10.16,-74.0,16.03,
+0022300027,Nick Smith Jr,Guard,1641733,Marques Bolden,Center,1629716,0.03,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,1,0.0,0,0,187.96,185.0,208.28,249.0,-20.32,-64.0,15.03,0.1
 0022300027,JT Thor,Forward,1630550,Marques Bolden,Center,1629716,0.97,4.6,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,203.0,208.28,249.0,-2.54,-46.0,14.05,
 0022300027,Theo Maledon,Guard,1630177,Marques Bolden,Center,1629716,0.08,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,193.04,175.0,208.28,249.0,-15.24,-74.0,15.46,
-0022300346,Alperen Sengun,Center,1630578,Marques Bolden,Center,1629716,0.12,0.6,0,0.0,0.0,0,0.0,0.0,1,0,0,0,0,0,0.0,0,0,210.82,243.0,208.28,249.0,2.54,-6.0,32.7,
+0022300346,Alperen Sengun,Center,1630578,Marques Bolden,Center,1629716,0.12,0.6,0,0.0,0.0,0,0.0,0.0,1,0,0,0,0,0,0.0,0,0,210.82,243.0,208.28,249.0,2.54,-6.0,32.72,
 0022300346,Tari Eason,Forward,1631106,Marques Bolden,Center,1629716,0.07,0.4,0,0.0,0.0,3,42.86,7.5,0,0,0,0,0,0,0.0,0,0,203.2,215.0,208.28,249.0,-5.08,-34.0,21.82,

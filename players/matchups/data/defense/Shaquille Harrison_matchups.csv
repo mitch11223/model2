@@ -1,14 +1,14 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
-0022300044,Jusuf Nurkic,Center,203994,Shaquille Harrison,Guard,1627885,0.07,0.2,0,0.0,0.0,3,42.86,15.0,0,0,0,0,0,0,0.0,0,0,213.36,290.0,193.04,195.0,20.32,95.0,27.39,
+0022300044,Jusuf Nurkic,Center,203994,Shaquille Harrison,Guard,1627885,0.07,0.2,0,0.0,0.0,3,42.86,15.0,0,0,0,0,0,0,0.0,0,0,213.36,290.0,193.04,195.0,20.32,95.0,27.44,
 0022300044,Grayson Allen,Guard,1628960,Shaquille Harrison,Guard,1627885,0.22,0.7,0,0.0,0.0,3,13.64,4.29,0,0,0,0,0,0,0.0,0,0,193.04,198.0,193.04,195.0,0.0,3.0,33.02,
-0022300044,Devin Booker,Guard,1626164,Shaquille Harrison,Guard,1627885,0.47,2.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,206.0,193.04,195.0,5.08,11.0,36.24,
-0022300044,Josh Okogie,Guard,1629006,Shaquille Harrison,Guard,1627885,0.03,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,193.04,213.0,193.04,195.0,0.0,18.0,18.12,
-0022300249,Shake Milton,Guard-Forward,1629003,Shaquille Harrison,Guard,1627885,0.18,1.6,0,0.0,0.0,3,16.67,1.88,1,0,0,0,0,0,0.0,0,0,195.58,205.0,193.04,195.0,2.54,10.0,13.36,
-0022300249,Troy Brown Jr,Guard-Forward,1628972,Shaquille Harrison,Guard,1627885,0.07,0.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,215.0,193.04,195.0,7.62,20.0,11.4,
+0022300044,Devin Booker,Guard,1626164,Shaquille Harrison,Guard,1627885,0.47,2.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,206.0,193.04,195.0,5.08,11.0,36.23,
+0022300044,Josh Okogie,Guard,1629006,Shaquille Harrison,Guard,1627885,0.03,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,193.04,213.0,193.04,195.0,0.0,18.0,18.31,
+0022300249,Shake Milton,Guard-Forward,1629003,Shaquille Harrison,Guard,1627885,0.18,1.6,0,0.0,0.0,3,16.67,1.88,1,0,0,0,0,0,0.0,0,0,195.58,205.0,193.04,195.0,2.54,10.0,13.16,
+0022300249,Troy Brown Jr,Guard-Forward,1628972,Shaquille Harrison,Guard,1627885,0.07,0.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,215.0,193.04,195.0,7.62,20.0,11.25,
 0022300249,Josh Minott,Forward,1631169,Shaquille Harrison,Guard,1627885,0.2,1.0,2,10.0,2.0,2,10.0,2.0,0,0,0,0,1,1,1.0,0,0,203.2,205.0,193.04,195.0,10.16,10.0,3.2,1.0
 0022300249,Leonard Miller,Forward,1631159,Shaquille Harrison,Guard,1627885,0.07,0.3,2,28.57,6.67,2,28.57,6.67,0,0,0,0,1,1,1.0,0,0,208.28,210.0,193.04,195.0,15.24,15.0,3.8,0.3
 0022300249,Daishen Nix,Guard,1630227,Shaquille Harrison,Guard,1627885,0.52,1.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,1,0.0,0,0,190.5,226.0,193.04,195.0,-2.54,31.0,3.5,1.8
-0022300277,Richaun Holmes,Forward,1626158,Shaquille Harrison,Guard,1627885,0.08,0.6,0,0.0,0.0,2,25.0,3.33,0,0,0,0,0,0,0.0,0,0,205.74,235.0,193.04,195.0,12.7,40.0,9.67,
-0022300277,Olivier-Maxence Prosper,Forward,1641765,Shaquille Harrison,Guard,1627885,0.23,1.3,0,0.0,0.0,2,8.7,1.54,0,0,0,0,0,0,0.0,0,0,200.66,230.0,193.04,195.0,7.62,35.0,9.04,
-0022300277,AJ Lawson,Guard,1630639,Shaquille Harrison,Guard,1627885,0.13,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,179.0,193.04,195.0,5.08,-16.0,9.57,
+0022300277,Richaun Holmes,Forward,1626158,Shaquille Harrison,Guard,1627885,0.08,0.6,0,0.0,0.0,2,25.0,3.33,0,0,0,0,0,0,0.0,0,0,205.74,235.0,193.04,195.0,12.7,40.0,10.59,
+0022300277,Olivier-Maxence Prosper,Forward,1641765,Shaquille Harrison,Guard,1627885,0.23,1.3,0,0.0,0.0,2,8.7,1.54,0,0,0,0,0,0,0.0,0,0,200.66,230.0,193.04,195.0,7.62,35.0,9.48,
+0022300277,AJ Lawson,Guard,1630639,Shaquille Harrison,Guard,1627885,0.13,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,179.0,193.04,195.0,5.08,-16.0,9.82,
 0022300277,Dexter Dennis,Guard,1641926,Shaquille Harrison,Guard,1627885,0.12,1.1,0,0.0,0.0,0,0.0,0.0,0,1,0,0,0,1,0.0,0,0,195.58,210.0,193.04,195.0,2.54,15.0,7.5,1.1

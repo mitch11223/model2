@@ -1,4 +1,15 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300679,Brandon Ingram,Forward,1627742,Dillon Brooks,Guard-Forward,1628415,6.5,29.5,6,0.92,0.2,21,3.23,0.71,0,0,0,0,3,4,0.75,0,0,203.2,190.0,198.12,225.0,5.08,-35.0,31.53,7.38
+0022300679,Brandon Ingram,Forward,1627742,Jalen Green,Guard,1630224,2.07,8.4,5,2.42,0.6,14,6.76,1.67,1,0,0,1,2,5,0.4,1,1,203.2,190.0,193.04,186.0,10.16,4.0,30.4,1.68
+0022300679,Brandon Ingram,Forward,1627742,Jeff Green,Forward,201145,0.65,2.7,4,6.15,1.48,7,10.77,2.59,0,2,0,2,1,3,0.333,2,1,203.2,190.0,203.2,235.0,0.0,-45.0,16.88,0.9
+0022300679,Brandon Ingram,Forward,1627742,Nate Hinton,Guard-Forward,1630207,0.05,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,190.0,195.58,210.0,7.62,-20.0,5.67,
+0022300679,Brandon Ingram,Forward,1627742,Aaron Holiday,Guard,1628988,0.55,3.1,0,0.0,0.0,6,10.91,1.94,0,0,0,0,0,0,0.0,0,0,203.2,190.0,182.88,185.0,20.32,5.0,17.16,
+0022300679,Brandon Ingram,Forward,1627742,Alperen Sengun,Center,1630578,1.22,7.0,10,8.2,1.43,18,14.75,2.57,0,0,0,0,5,9,0.556,0,0,203.2,190.0,210.82,243.0,-7.62,-53.0,32.56,0.78
+0022300679,Brandon Ingram,Forward,1627742,Jabari Smith Jr,Forward,1631095,2.23,9.8,4,1.79,0.41,10,4.48,1.02,0,0,0,2,1,2,0.5,2,1,203.2,190.0,210.82,220.0,-7.62,-30.0,31.65,4.9
+0022300679,Brandon Ingram,Forward,1627742,Jae'Sean Tate,Forward,1630256,0.5,3.2,0,0.0,0.0,3,6.0,0.94,0,0,0,0,0,0,0.0,0,0,203.2,190.0,193.04,230.0,10.16,-40.0,18.4,
+0022300679,Brandon Ingram,Forward,1627742,Amen Thompson,Guard-Forward,1641708,1.13,5.5,2,1.77,0.36,2,1.77,0.36,0,0,0,0,1,1,1.0,0,0,203.2,190.0,200.66,200.0,2.54,-10.0,16.46,5.5
+0022300679,Brandon Ingram,Forward,1627742,Fred VanVleet,Guard,1627832,0.93,3.8,0,0.0,0.0,9,9.68,2.37,2,0,0,0,0,0,0.0,0,0,203.2,190.0,182.88,197.0,20.32,-7.0,37.16,
+0022300679,Brandon Ingram,Forward,1627742,Cam Whitmore,Forward,1641715,0.13,0.4,0,0.0,0.0,3,23.08,7.5,0,0,0,0,0,0,0.0,0,0,203.2,190.0,200.66,230.0,2.54,-40.0,16.32,
 0022301204,Brandon Ingram,Forward,1627742,Harrison Barnes,Forward,203084,2.07,9.2,0,0.0,0.0,9,4.35,0.98,0,0,0,0,0,2,0.0,0,0,203.2,190.0,203.2,225.0,0.0,-35.0,29.59,4.6
 0022301204,Brandon Ingram,Forward,1627742,Keon Ellis,Guard,1631165,0.17,1.0,0,0.0,0.0,0,0.0,0.0,1,0,0,0,0,0,0.0,0,0,203.2,190.0,190.5,175.0,12.7,15.0,12.14,
 0022301204,Brandon Ingram,Forward,1627742,De'Aaron Fox,Guard,1628368,1.88,8.8,5,2.66,0.57,12,6.38,1.36,2,1,1,2,1,1,1.0,2,1,203.2,190.0,190.5,185.0,12.7,5.0,35.63,8.8
@@ -401,3 +412,12 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300648,Brandon Ingram,Forward,1627742,Brook Lopez,Center,201572,0.87,5.3,5,5.75,0.94,7,8.05,1.32,0,1,1,0,2,8,0.25,0,0,203.2,190.0,215.9,282.0,-12.7,-92.0,31.76,0.66
 0022300648,Brandon Ingram,Forward,1627742,Cameron Payne,Guard,1626166,0.07,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,190.0,190.5,183.0,12.7,7.0,15.19,
 0022300648,Brandon Ingram,Forward,1627742,Bobby Portis,Forward,1626171,0.4,3.0,1,2.5,0.33,3,7.5,1.0,1,0,0,2,0,2,0.0,1,1,203.2,190.0,208.28,250.0,-5.08,-60.0,23.37,1.5
+0022300659,Brandon Ingram,Forward,1627742,Oshae Brissett,Forward-Guard,1629052,0.67,2.5,4,5.97,1.6,4,5.97,1.6,0,0,0,3,1,2,0.5,2,2,203.2,190.0,200.66,210.0,2.54,-20.0,11.82,1.25
+0022300659,Brandon Ingram,Forward,1627742,Jaylen Brown,Guard-Forward,1627759,3.65,17.9,7,1.92,0.39,23,6.3,1.28,2,2,1,0,3,4,0.75,0,0,203.2,190.0,198.12,223.0,5.08,-33.0,33.16,4.47
+0022300659,Brandon Ingram,Forward,1627742,Sam Hauser,Forward,1630573,0.88,4.8,2,2.27,0.42,8,9.09,1.67,2,0,0,0,1,3,0.333,0,0,203.2,190.0,200.66,217.0,2.54,-27.0,21.56,1.6
+0022300659,Brandon Ingram,Forward,1627742,Jrue Holiday,Guard,201950,1.92,8.8,0,0.0,0.0,6,3.12,0.68,0,1,0,0,0,1,0.0,0,0,203.2,190.0,193.04,205.0,10.16,-15.0,33.57,8.8
+0022300659,Brandon Ingram,Forward,1627742,Al Horford,Center-Forward,201143,2.13,11.5,7,3.29,0.61,16,7.51,1.39,3,4,1,0,3,8,0.375,0,0,203.2,190.0,205.74,240.0,-2.54,-50.0,26.84,1.44
+0022300659,Brandon Ingram,Forward,1627742,Payton Pritchard,Guard,1630202,0.57,2.7,2,3.51,0.74,3,5.26,1.11,0,0,0,0,1,1,1.0,0,0,203.2,190.0,185.42,195.0,17.78,-5.0,21.11,2.7
+0022300659,Brandon Ingram,Forward,1627742,Neemias Queta,Center,1629674,0.13,0.5,2,15.38,4.0,3,23.08,6.0,0,0,0,0,1,1,1.0,0,0,203.2,190.0,213.36,248.0,-10.16,-58.0,12.28,0.5
+0022300659,Brandon Ingram,Forward,1627742,Jayson Tatum,Forward-Guard,1628369,2.8,13.9,7,2.5,0.5,16,5.71,1.15,0,2,1,0,3,6,0.5,0,0,203.2,190.0,203.2,210.0,0.0,-20.0,35.77,2.32
+0022300659,Brandon Ingram,Forward,1627742,Derrick White,Guard,1628401,2.63,13.1,8,3.04,0.61,23,8.75,1.76,1,0,0,0,4,5,0.8,0,0,203.2,190.0,193.04,190.0,10.16,0.0,31.95,2.62

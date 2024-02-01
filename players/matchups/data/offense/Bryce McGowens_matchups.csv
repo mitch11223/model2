@@ -1,4 +1,10 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300674,Bryce McGowens,Guard,1631121,Alex Caruso,Guard,1627936,0.45,3.0,0,0.0,0.0,2,4.44,0.67,0,0,0,0,0,0,0.0,0,0,198.12,175.0,195.58,186.0,2.54,-11.0,26.05,
+0022300674,Bryce McGowens,Guard,1631121,DeMar DeRozan,Guard-Forward,201942,3.52,14.4,1,0.28,0.07,10,2.84,0.69,0,0,0,2,0,0,0.0,1,1,198.12,175.0,198.12,220.0,0.0,-45.0,37.31,
+0022300674,Bryce McGowens,Guard,1631121,Ayo Dosunmu,Guard,1630245,0.38,1.6,0,0.0,0.0,2,5.26,1.25,1,2,0,0,0,2,0.0,0,0,198.12,175.0,195.58,200.0,2.54,-25.0,23.67,0.8
+0022300674,Bryce McGowens,Guard,1631121,Julian Phillips,Forward,1641763,0.22,0.9,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,175.0,203.2,198.0,-5.08,-23.0,5.3,
+0022300674,Bryce McGowens,Guard,1631121,Nikola Vucevic,Center,202696,0.08,0.4,0,0.0,0.0,2,25.0,5.0,0,0,0,0,0,1,0.0,0,0,198.12,175.0,208.28,260.0,-10.16,-85.0,33.88,0.4
+0022300674,Bryce McGowens,Guard,1631121,Coby White,Guard,1629632,0.18,1.5,2,11.11,1.33,5,27.78,3.33,1,0,0,0,1,1,1.0,0,0,198.12,175.0,195.58,195.0,2.54,-20.0,35.89,1.5
 0022301211,Bryce McGowens,Guard,1631121,Jevon Carter,Guard,1628975,0.13,1.2,0,0.0,0.0,2,15.38,1.67,0,0,0,0,0,0,0.0,0,0,198.12,175.0,185.42,200.0,12.7,-25.0,13.89,
 0022301211,Bryce McGowens,Guard,1631121,Alex Caruso,Guard,1627936,0.2,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,175.0,195.58,186.0,2.54,-11.0,26.05,
 0022301211,Bryce McGowens,Guard,1631121,Torrey Craig,Forward,1628470,0.07,0.6,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,175.0,195.58,221.0,2.54,-46.0,21.26,
@@ -300,3 +306,7 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300635,Bryce McGowens,Guard,1631121,Boban Marjanovic,Center,1626246,0.2,1.6,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,175.0,223.52,290.0,-25.4,-115.0,5.5,
 0022300635,Bryce McGowens,Guard,1631121,Jermaine Samuels Jr,Forward,1631257,0.28,1.0,2,7.14,2.0,2,7.14,2.0,0,1,0,0,1,2,0.5,0,0,198.12,175.0,198.12,230.0,0.0,-55.0,6.14,0.5
 0022300635,Bryce McGowens,Guard,1631121,Amen Thompson,Guard-Forward,1641708,0.15,1.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,175.0,200.66,200.0,-2.54,-25.0,16.46,
+0022300657,Bryce McGowens,Guard,1631121,Precious Achiuwa,Forward,1630173,0.03,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,175.0,203.2,243.0,-5.08,-68.0,16.79,
+0022300657,Bryce McGowens,Guard,1631121,Malachi Flynn,Guard,1630201,0.8,3.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,175.0,185.42,185.0,12.7,-10.0,12.8,
+0022300657,Bryce McGowens,Guard,1631121,Quentin Grimes,Guard,1629656,0.27,0.9,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,175.0,195.58,210.0,2.54,-35.0,19.98,
+0022300657,Bryce McGowens,Guard,1631121,Miles McBride,Guard,1630540,0.27,0.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,1,0.0,0,0,198.12,175.0,185.42,195.0,12.7,-20.0,9.82,0.8

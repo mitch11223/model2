@@ -1,4 +1,13 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300680,Grant Williams,Forward,1629684,Nickeil Alexander-Walker,Guard,1629638,0.17,0.7,2,11.76,2.86,2,11.76,2.86,0,0,0,0,1,1,1.0,0,0,198.12,236.0,195.58,205.0,2.54,31.0,22.8,0.7
+0022300680,Grant Williams,Forward,1629684,Kyle Anderson,Forward-Guard,203937,1.02,4.7,0,0.0,0.0,2,1.96,0.43,0,0,0,0,0,1,0.0,0,0,198.12,236.0,205.74,230.0,-7.62,6.0,22.37,4.7
+0022300680,Grant Williams,Forward,1629684,Mike Conley,Guard,201144,0.68,3.3,0,0.0,0.0,3,4.41,0.91,0,0,0,0,0,0,0.0,0,0,198.12,236.0,182.88,175.0,15.24,61.0,29.19,
+0022300680,Grant Williams,Forward,1629684,Anthony Edwards,Guard,1630162,0.28,1.6,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,236.0,193.04,225.0,5.08,11.0,34.93,
+0022300680,Grant Williams,Forward,1629684,Rudy Gobert,Center,203497,0.33,2.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,236.0,215.9,258.0,-17.78,-22.0,33.09,
+0022300680,Grant Williams,Forward,1629684,Jaden McDaniels,Forward,1630183,0.78,4.4,0,0.0,0.0,4,5.13,0.91,0,0,0,0,0,1,0.0,0,0,198.12,236.0,205.74,185.0,-7.62,51.0,28.81,4.4
+0022300680,Grant Williams,Forward,1629684,Jordan McLaughlin,Guard,1629162,0.18,0.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,236.0,182.88,185.0,15.24,51.0,8.84,
+0022300680,Grant Williams,Forward,1629684,Naz Reid,Center-Forward,1629675,2.45,9.9,0,0.0,0.0,8,3.27,0.81,0,0,0,0,0,1,0.0,0,0,198.12,236.0,205.74,264.0,-7.62,-28.0,22.37,9.9
+0022300680,Grant Williams,Forward,1629684,Karl-Anthony Towns,Center-Forward,1626157,3.78,18.9,0,0.0,0.0,19,5.03,1.01,1,2,0,0,0,3,0.0,0,0,198.12,236.0,213.36,248.0,-15.24,-12.0,33.13,6.3
 0022300006,Grant Williams,Forward,1629684,Christian Braun,Guard,1631128,0.13,1.4,0,0.0,0.0,2,15.38,1.43,0,0,0,0,0,0,0.0,0,0,198.12,236.0,198.12,220.0,0.0,16.0,19.0,
 0022300006,Grant Williams,Forward,1629684,Kentavious Caldwell-Pope,Guard,203484,1.55,7.6,6,3.87,0.79,15,9.68,1.97,1,2,2,0,2,2,1.0,0,0,198.12,236.0,195.58,204.0,2.54,32.0,32.27,3.8
 0022300006,Grant Williams,Forward,1629684,Aaron Gordon,Forward,203932,4.15,22.6,5,1.2,0.22,21,5.06,0.93,0,2,1,2,1,2,0.5,2,1,198.12,236.0,203.2,235.0,-5.08,1.0,32.02,11.3
@@ -380,3 +389,13 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300651,Grant Williams,Forward,1629684,Malik Monk,Guard,1628370,0.37,2.1,0,0.0,0.0,2,5.41,0.95,0,0,0,0,0,0,0.0,0,0,198.12,236.0,190.5,200.0,7.62,36.0,25.81,
 0022300651,Grant Williams,Forward,1629684,Keegan Murray,Forward,1631099,1.77,8.5,4,2.26,0.47,12,6.78,1.41,0,0,0,2,1,1,1.0,2,0,198.12,236.0,203.2,225.0,-5.08,11.0,33.08,8.5
 0022300651,Grant Williams,Forward,1629684,Domantas Sabonis,Forward-Center,1627734,1.55,10.0,12,7.74,1.2,25,16.13,2.5,2,4,4,0,4,6,0.667,0,0,198.12,236.0,208.28,240.0,-10.16,-4.0,35.32,1.67
+0022300666,Grant Williams,Forward,1629684,Cole Anthony,Guard,1630175,0.17,1.6,0,0.0,0.0,2,11.76,1.25,0,0,0,0,0,0,0.0,0,0,198.12,236.0,187.96,185.0,10.16,51.0,23.93,
+0022300666,Grant Williams,Forward,1629684,Paolo Banchero,Forward,1631094,3.17,16.9,0,0.0,0.0,18,5.68,1.07,0,0,0,0,0,0,0.0,0,0,198.12,236.0,208.28,250.0,-10.16,-14.0,34.76,
+0022300666,Grant Williams,Forward,1629684,Anthony Black,Guard,1641710,0.37,4.3,0,0.0,0.0,4,10.81,0.93,0,0,0,0,0,0,0.0,0,0,198.12,236.0,200.66,200.0,-2.54,36.0,19.21,
+0022300666,Grant Williams,Forward,1629684,Wendell Carter Jr,Center-Forward,1628976,1.42,8.2,0,0.0,0.0,9,6.34,1.1,1,0,0,0,0,0,0.0,0,0,198.12,236.0,208.28,270.0,-10.16,-34.0,25.15,
+0022300666,Grant Williams,Forward,1629684,Joe Ingles,Forward-Guard,204060,1.08,5.7,0,0.0,0.0,8,7.41,1.4,0,0,0,0,0,0,0.0,0,0,198.12,236.0,205.74,220.0,-7.62,16.0,18.19,
+0022300666,Grant Williams,Forward,1629684,Jonathan Isaac,Forward,1628371,0.27,1.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,236.0,208.28,230.0,-10.16,6.0,14.21,
+0022300666,Grant Williams,Forward,1629684,Chuma Okeke,Forward,1629643,0.08,1.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,236.0,200.66,229.0,-2.54,7.0,12.79,
+0022300666,Grant Williams,Forward,1629684,Jalen Suggs,Guard,1630591,0.13,0.8,0,0.0,0.0,0,0.0,0.0,0,1,0,0,0,1,0.0,0,0,198.12,236.0,195.58,205.0,2.54,31.0,26.33,0.8
+0022300666,Grant Williams,Forward,1629684,Franz Wagner,Forward,1630532,3.02,11.1,0,0.0,0.0,11,3.64,0.99,0,0,0,0,0,0,0.0,0,0,198.12,236.0,208.28,220.0,-10.16,16.0,33.03,
+0022300666,Grant Williams,Forward,1629684,Moritz Wagner,Forward-Center,1629021,0.6,2.7,0,0.0,0.0,4,6.67,1.48,0,0,0,0,0,0,0.0,0,0,198.12,236.0,210.82,245.0,-12.7,-9.0,18.93,

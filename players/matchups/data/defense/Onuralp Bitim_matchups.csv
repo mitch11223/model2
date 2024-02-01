@@ -1,8 +1,8 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
-0022300139,Michael Porter Jr,Forward,1629008,Onuralp Bitim,Forward,1641931,0.03,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,218.0,198.12,215.0,10.16,3.0,31.4,
-0022300139,Aaron Gordon,Forward,203932,Onuralp Bitim,Forward,1641931,0.13,0.3,0,0.0,0.0,3,23.08,10.0,0,0,0,0,0,0,0.0,0,0,203.2,235.0,198.12,215.0,5.08,20.0,31.86,
-0022300139,Kentavious Caldwell-Pope,Guard,203484,Onuralp Bitim,Forward,1641931,0.27,0.6,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,204.0,198.12,215.0,-2.54,-11.0,32.3,
-0022300139,Peyton Watson,Guard,1631212,Onuralp Bitim,Forward,1641931,0.23,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,200.0,198.12,215.0,2.54,-15.0,17.76,
+0022300139,Michael Porter Jr,Forward,1629008,Onuralp Bitim,Forward,1641931,0.03,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,208.28,218.0,198.12,215.0,10.16,3.0,31.55,
+0022300139,Aaron Gordon,Forward,203932,Onuralp Bitim,Forward,1641931,0.13,0.3,0,0.0,0.0,3,23.08,10.0,0,0,0,0,0,0,0.0,0,0,203.2,235.0,198.12,215.0,5.08,20.0,32.02,
+0022300139,Kentavious Caldwell-Pope,Guard,203484,Onuralp Bitim,Forward,1641931,0.27,0.6,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,204.0,198.12,215.0,-2.54,-11.0,32.38,
+0022300139,Peyton Watson,Guard,1631212,Onuralp Bitim,Forward,1641931,0.23,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,200.0,198.12,215.0,2.54,-15.0,17.83,
 0022300139,Julian Strawther,Guard,1631124,Onuralp Bitim,Forward,1641931,0.6,2.7,0,0.0,0.0,4,6.67,1.48,0,0,0,0,0,0,0.0,0,0,198.12,205.0,198.12,215.0,0.0,-10.0,13.91,
-0022300139,Zeke Nnaji,Forward-Center,1630192,Onuralp Bitim,Forward,1641931,0.03,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,240.0,198.12,215.0,7.62,25.0,9.39,
+0022300139,Zeke Nnaji,Forward-Center,1630192,Onuralp Bitim,Forward,1641931,0.03,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,240.0,198.12,215.0,7.62,25.0,9.38,
 0022300139,Hunter Tyson,Forward,1641816,Onuralp Bitim,Forward,1641931,0.38,1.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,203.2,215.0,198.12,215.0,5.08,0.0,2.78,

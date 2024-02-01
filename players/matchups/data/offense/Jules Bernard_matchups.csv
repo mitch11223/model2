@@ -1,4 +1,9 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300676,Jules Bernard,Guard,1631262,Brandon Boston Jr,Guard,1630527,0.2,0.8,0,0.0,0.0,3,15.0,3.75,1,0,0,0,0,0,0.0,0,0,198.12,210.0,198.12,188.0,0.0,22.0,7.0,
+0022300676,Jules Bernard,Guard,1631262,Kobe Brown,Forward,1641738,0.4,1.8,0,0.0,0.0,6,15.0,3.33,0,0,0,0,0,0,0.0,0,0,198.12,210.0,200.66,250.0,-2.54,-40.0,9.59,
+0022300676,Jules Bernard,Guard,1631262,Bones Hyland,Guard,1630538,1.18,5.4,2,1.69,0.37,5,4.24,0.93,0,0,0,0,1,1,1.0,0,0,198.12,210.0,187.96,169.0,10.16,41.0,13.67,5.4
+0022300676,Jules Bernard,Guard,1631262,Terance Mann,Guard-Forward,1629611,0.17,1.1,0,0.0,0.0,2,11.76,1.82,0,0,0,0,0,0,0.0,0,0,198.12,210.0,195.58,215.0,2.54,-5.0,25.18,
+0022300676,Jules Bernard,Guard,1631262,Daniel Theis,Forward-Center,1628464,0.23,3.0,2,8.7,0.67,2,8.7,0.67,0,0,0,0,1,1,1.0,0,0,198.12,210.0,203.2,245.0,-5.08,-35.0,17.18,3.0
 0022301219,Jules Bernard,Guard,1631262,Dorian Finney-Smith,Forward,1627827,0.12,1.0,0,0.0,0.0,0,0.0,0.0,0,1,0,0,0,1,0.0,0,0,198.12,210.0,200.66,220.0,-2.54,-10.0,28.79,1.0
 0022301219,Jules Bernard,Guard,1631262,Royce O'Neale,Forward,1626220,0.25,2.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,210.0,198.12,226.0,0.0,-16.0,24.48,
 0022301219,Jules Bernard,Guard,1631262,Day'Ron Sharpe,Center,1630549,0.07,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,210.0,205.74,265.0,-7.62,-55.0,16.03,

@@ -1,4 +1,14 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300675,Cade Cunningham,Guard,1630595,Jarrett Allen,Center,1628386,2.23,10.6,6,2.69,0.57,22,9.87,2.08,4,1,0,0,3,8,0.375,0,0,198.12,220.0,205.74,243.0,-7.62,-23.0,30.37,1.32
+0022300675,Cade Cunningham,Guard,1630595,Darius Garland,Guard,1629636,0.42,2.4,0,0.0,0.0,3,7.14,1.25,1,1,0,0,0,1,0.0,0,0,198.12,220.0,185.42,192.0,12.7,28.0,34.0,2.4
+0022300675,Cade Cunningham,Guard,1630595,Caris LeVert,Guard,1627747,0.95,4.7,2,2.11,0.43,3,3.16,0.64,1,0,0,0,1,1,1.0,0,0,198.12,220.0,198.12,205.0,0.0,15.0,28.64,4.7
+0022300675,Cade Cunningham,Guard,1630595,Sam Merrill,Guard,1630241,0.28,1.6,2,7.14,1.25,2,7.14,1.25,0,0,0,0,1,1,1.0,0,0,198.12,220.0,193.04,205.0,5.08,15.0,16.68,1.6
+0022300675,Cade Cunningham,Guard,1630595,Donovan Mitchell,Guard,1628378,0.17,0.8,0,0.0,0.0,1,5.88,1.25,0,0,0,0,0,0,0.0,0,0,198.12,220.0,190.5,215.0,7.62,5.0,35.62,
+0022300675,Cade Cunningham,Guard,1630595,Evan Mobley,Center,1630596,1.92,10.0,0,0.0,0.0,6,3.12,0.6,1,0,0,0,0,0,0.0,0,0,198.12,220.0,210.82,215.0,-12.7,5.0,33.52,
+0022300675,Cade Cunningham,Guard,1630595,Georges Niang,Forward,1627777,0.05,0.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,220.0,200.66,230.0,-2.54,-10.0,22.28,
+0022300675,Cade Cunningham,Guard,1630595,Isaac Okoro,Forward-Guard,1630171,3.68,18.5,5,1.36,0.27,25,6.79,1.35,1,1,1,0,2,4,0.5,0,0,198.12,220.0,195.58,225.0,2.54,-5.0,26.32,4.62
+0022300675,Cade Cunningham,Guard,1630595,Max Strus,Guard-Forward,1629622,0.37,1.6,3,8.11,1.88,3,8.11,1.88,0,1,1,0,1,1,1.0,0,0,198.12,220.0,195.58,215.0,2.54,5.0,33.09,1.6
+0022300675,Cade Cunningham,Guard,1630595,Dean Wade,Forward-Center,1629731,1.57,8.3,1,0.64,0.12,11,7.01,1.33,2,0,0,2,0,2,0.0,1,1,198.12,220.0,205.74,228.0,-7.62,-8.0,22.17,4.15
 0022301206,Cade Cunningham,Guard,1630595,Santi Aldama,Forward-Center,1630583,0.75,5.5,3,4.0,0.55,11,14.67,2.0,2,1,1,0,1,1,1.0,0,0,198.12,220.0,213.36,215.0,-15.24,5.0,23.54,5.5
 0022301206,Cade Cunningham,Guard,1630595,Desmond Bane,Guard,1630217,0.58,3.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,220.0,195.58,215.0,2.54,5.0,34.54,
 0022301206,Cade Cunningham,Guard,1630595,Bismack Biyombo,Center,202687,0.8,5.7,10,12.5,1.75,14,17.5,2.46,1,0,0,0,5,6,0.833,0,0,198.12,220.0,203.2,255.0,-5.08,-35.0,23.9,0.95

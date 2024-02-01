@@ -1,4 +1,10 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300681,Doug McDermott,Forward,203926,Cole Anthony,Guard,1630175,0.38,2.2,0,0.0,0.0,0,0.0,0.0,0,1,0,0,0,1,0.0,0,0,198.12,225.0,187.96,185.0,10.16,40.0,23.93,2.2
+0022300681,Doug McDermott,Forward,203926,Anthony Black,Guard,1641710,0.22,3.1,0,0.0,0.0,2,9.09,0.65,0,1,0,0,0,1,0.0,0,0,198.12,225.0,200.66,200.0,-2.54,25.0,19.21,3.1
+0022300681,Doug McDermott,Forward,203926,Joe Ingles,Forward-Guard,204060,1.23,6.3,2,1.63,0.32,7,5.69,1.11,0,0,0,0,1,1,1.0,0,0,198.12,225.0,205.74,220.0,-7.62,5.0,18.19,6.3
+0022300681,Doug McDermott,Forward,203926,Jonathan Isaac,Forward,1628371,0.25,1.5,0,0.0,0.0,0,0.0,0.0,0,1,0,0,0,2,0.0,0,0,198.12,225.0,208.28,230.0,-10.16,-5.0,14.21,0.75
+0022300681,Doug McDermott,Forward,203926,Franz Wagner,Forward,1630532,2.22,8.3,0,0.0,0.0,8,3.6,0.96,0,0,0,0,0,1,0.0,0,0,198.12,225.0,208.28,220.0,-10.16,5.0,33.03,8.3
+0022300681,Doug McDermott,Forward,203926,Moritz Wagner,Forward-Center,1629021,0.35,2.6,0,0.0,0.0,4,11.43,1.54,0,0,0,0,0,0,0.0,0,0,198.12,225.0,210.82,245.0,-12.7,-20.0,18.93,
 0022301210,Doug McDermott,Forward,203926,Kyle Anderson,Forward-Guard,203937,3.13,13.0,2,0.64,0.15,17,5.43,1.31,1,2,0,2,0,2,0.0,2,1,198.12,225.0,205.74,230.0,-7.62,-5.0,22.37,6.5
 0022301210,Doug McDermott,Forward,203926,Troy Brown Jr,Guard-Forward,1628972,1.53,8.5,3,1.96,0.35,8,5.23,0.94,0,2,1,0,1,2,0.5,0,0,198.12,225.0,200.66,215.0,-2.54,10.0,11.56,4.25
 0022301210,Doug McDermott,Forward,203926,Mike Conley,Guard,201144,1.47,7.0,3,2.04,0.43,8,5.44,1.14,0,2,1,0,1,2,0.5,0,0,198.12,225.0,182.88,175.0,15.24,50.0,29.19,3.5
@@ -358,3 +364,11 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300649,Doug McDermott,Forward,203926,Shake Milton,Guard-Forward,1629003,3.03,13.3,0,0.0,0.0,13,4.29,0.98,0,0,0,0,0,0,0.0,0,0,198.12,225.0,195.58,205.0,2.54,20.0,13.36,
 0022300649,Doug McDermott,Forward,203926,Naz Reid,Center-Forward,1629675,0.17,0.9,0,0.0,0.0,2,11.76,2.22,0,1,0,0,0,1,0.0,0,0,198.12,225.0,205.74,264.0,-7.62,-39.0,22.37,0.9
 0022300649,Doug McDermott,Forward,203926,Karl-Anthony Towns,Center-Forward,1626157,0.2,1.3,3,15.0,2.31,3,15.0,2.31,0,1,1,0,1,1,1.0,0,0,198.12,225.0,213.36,248.0,-15.24,-23.0,33.13,1.3
+0022300665,Doug McDermott,Forward,203926,Deni Avdija,Forward,1630166,0.05,0.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,225.0,205.74,210.0,-7.62,15.0,27.47,
+0022300665,Doug McDermott,Forward,203926,Marvin Bagley III,Forward,1628963,0.05,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,225.0,208.28,235.0,-10.16,-10.0,19.72,
+0022300665,Doug McDermott,Forward,203926,Bilal Coulibaly,Guard,1641731,0.63,2.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,225.0,203.2,195.0,-5.08,30.0,26.41,
+0022300665,Doug McDermott,Forward,203926,Corey Kispert,Forward,1630557,1.55,5.8,3,1.94,0.52,5,3.23,0.86,0,1,1,0,1,1,1.0,0,0,198.12,225.0,198.12,224.0,0.0,1.0,21.64,5.8
+0022300665,Doug McDermott,Forward,203926,Kyle Kuzma,Forward,1628398,0.1,0.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,225.0,205.74,221.0,-7.62,4.0,31.38,
+0022300665,Doug McDermott,Forward,203926,Jordan Poole,Guard,1629673,0.8,3.3,0,0.0,0.0,2,2.5,0.61,0,0,0,0,0,0,0.0,0,0,198.12,225.0,193.04,194.0,5.08,31.0,29.11,
+0022300665,Doug McDermott,Forward,203926,Landry Shamet,Guard,1629013,1.43,6.0,3,2.1,0.5,9,6.29,1.5,1,3,1,0,1,3,0.333,0,0,198.12,225.0,193.04,190.0,5.08,35.0,15.17,2.0
+0022300665,Doug McDermott,Forward,203926,Delon Wright,Guard,1626153,0.2,2.0,0,0.0,0.0,2,10.0,1.0,0,0,0,0,0,0,0.0,0,0,198.12,225.0,195.58,185.0,2.54,40.0,15.92,

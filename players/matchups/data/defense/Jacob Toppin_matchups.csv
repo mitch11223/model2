@@ -1,10 +1,10 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
 0022301201,AJ Green,Guard,1631260,Jacob Toppin,Forward,1631210,0.05,1.0,0,0.0,0.0,2,40.0,2.0,0,0,0,0,0,0,0.0,0,0,193.04,190.0,203.2,200.0,-10.16,-10.0,7.5,
-0022301201,Cameron Payne,Guard,1626166,Jacob Toppin,Forward,1631210,0.23,0.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,190.5,183.0,203.2,200.0,-12.7,-17.0,15.14,
+0022301201,Cameron Payne,Guard,1626166,Jacob Toppin,Forward,1631210,0.23,0.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,190.5,183.0,203.2,200.0,-12.7,-17.0,14.98,
 0022301201,Chris Livingston,Forward,1641753,Jacob Toppin,Forward,1631210,0.13,0.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,220.0,203.2,200.0,-5.08,20.0,4.62,
 0022301201,Thanasis Antetokounmpo,Forward,203648,Jacob Toppin,Forward,1631210,0.85,3.7,0,0.0,0.0,5,5.88,1.35,0,0,0,0,0,0,0.0,0,0,200.66,219.0,203.2,200.0,-2.54,19.0,4.05,
-0022300388,Cameron Payne,Guard,1626166,Jacob Toppin,Forward,1631210,0.02,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,190.5,183.0,203.2,200.0,-12.7,-17.0,15.14,
+0022300388,Cameron Payne,Guard,1626166,Jacob Toppin,Forward,1631210,0.02,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,190.5,183.0,203.2,200.0,-12.7,-17.0,14.98,
 0022300441,Isaiah Jackson,Forward,1630543,Jacob Toppin,Forward,1631210,0.03,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,205.0,203.2,200.0,2.54,5.0,13.36,
 0022300441,TJ McConnell,Guard,204456,Jacob Toppin,Forward,1631210,0.05,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,185.42,190.0,203.2,200.0,-17.78,-10.0,17.05,
-0022300441,Obi Toppin,Forward,1630167,Jacob Toppin,Forward,1631210,0.22,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,220.0,203.2,200.0,2.54,20.0,23.17,
+0022300441,Obi Toppin,Forward,1630167,Jacob Toppin,Forward,1631210,0.22,1.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,205.74,220.0,203.2,200.0,2.54,20.0,23.15,
 0022300441,Jarace Walker,Forward,1641716,Jacob Toppin,Forward,1631210,0.28,0.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,200.66,235.0,203.2,200.0,-2.54,35.0,10.93,

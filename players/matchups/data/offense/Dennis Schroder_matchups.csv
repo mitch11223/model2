@@ -1,4 +1,13 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300672,Dennis Schroder,Guard,203471,Jevon Carter,Guard,1628975,2.32,10.6,2,0.86,0.19,12,5.17,1.13,1,0,0,2,0,1,0.0,2,1,185.42,175.0,185.42,200.0,0.0,-25.0,13.89,10.6
+0022300672,Dennis Schroder,Guard,203471,Alex Caruso,Guard,1627936,1.38,7.2,4,2.9,0.56,11,7.97,1.53,2,1,0,0,2,3,0.667,0,0,185.42,175.0,195.58,186.0,-10.16,-11.0,26.05,2.4
+0022300672,Dennis Schroder,Guard,203471,DeMar DeRozan,Guard-Forward,201942,1.05,6.6,6,5.71,0.91,9,8.57,1.36,0,0,0,2,2,2,1.0,2,1,185.42,175.0,198.12,220.0,-12.7,-45.0,37.31,3.3
+0022300672,Dennis Schroder,Guard,203471,Ayo Dosunmu,Guard,1630245,6.57,28.0,2,0.3,0.07,35,5.33,1.25,2,0,0,0,1,2,0.5,0,0,185.42,175.0,195.58,200.0,-10.16,-25.0,23.67,14.0
+0022300672,Dennis Schroder,Guard,203471,Andre Drummond,Center,203083,0.1,0.4,2,20.0,5.0,2,20.0,5.0,0,0,0,0,1,1,1.0,0,0,185.42,175.0,210.82,279.0,-25.4,-104.0,15.87,0.4
+0022300672,Dennis Schroder,Guard,203471,Julian Phillips,Forward,1641763,0.15,2.2,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,185.42,175.0,203.2,198.0,-17.78,-23.0,5.3,
+0022300672,Dennis Schroder,Guard,203471,Dalen Terry,Forward,1631207,0.33,2.0,0,0.0,0.0,2,6.06,1.0,0,0,0,0,0,0,0.0,0,0,185.42,175.0,200.66,195.0,-15.24,-20.0,9.71,
+0022300672,Dennis Schroder,Guard,203471,Nikola Vucevic,Center,202696,0.83,3.5,0,0.0,0.0,11,13.25,3.14,1,0,0,0,0,2,0.0,0,0,185.42,175.0,208.28,260.0,-22.86,-85.0,33.88,1.75
+0022300672,Dennis Schroder,Guard,203471,Coby White,Guard,1629632,1.78,10.4,3,1.69,0.29,12,6.74,1.15,2,0,0,1,1,2,0.5,1,1,185.42,175.0,195.58,195.0,-10.16,-20.0,35.89,5.2
 0022301207,Dennis Schroder,Guard,203471,Jimmy Butler,Forward,202710,1.17,6.3,0,0.0,0.0,16,13.68,2.54,3,0,0,0,0,1,0.0,0,0,185.42,175.0,200.66,230.0,-15.24,-55.0,33.61,6.3
 0022301207,Dennis Schroder,Guard,203471,Jaime Jaquez Jr,Guard,1631170,1.45,8.3,0,0.0,0.0,15,10.34,1.81,1,0,0,0,0,0,0.0,0,0,185.42,175.0,198.12,225.0,-12.7,-50.0,30.02,
 0022301207,Dennis Schroder,Guard,203471,Kevin Love,Forward-Center,201567,0.32,1.6,2,6.25,1.25,4,12.5,2.5,2,0,0,0,1,1,1.0,0,0,185.42,175.0,203.2,251.0,-17.78,-76.0,18.26,1.6
@@ -416,3 +425,11 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300637,Dennis Schroder,Guard,203471,Norman Powell,Guard,1626181,0.75,4.9,0,0.0,0.0,5,6.67,1.02,0,1,0,0,0,1,0.0,0,0,185.42,175.0,193.04,215.0,-7.62,-40.0,25.32,4.9
 0022300637,Dennis Schroder,Guard,203471,Daniel Theis,Forward-Center,1628464,1.15,6.2,0,0.0,0.0,7,6.09,1.13,0,0,0,0,0,2,0.0,0,0,185.42,175.0,203.2,245.0,-17.78,-70.0,17.18,3.1
 0022300637,Dennis Schroder,Guard,203471,Russell Westbrook,Guard,201566,2.42,14.1,3,1.24,0.21,8,3.31,0.57,1,3,1,0,1,3,0.333,0,0,185.42,175.0,193.04,200.0,-7.62,-25.0,22.98,4.7
+0022300653,Dennis Schroder,Guard,203471,Saddiq Bey,Guard-Forward,1630180,1.17,5.6,1,0.85,0.18,5,4.27,0.89,0,0,0,2,0,0,0.0,1,1,185.42,175.0,200.66,215.0,-15.24,-40.0,32.57,
+0022300653,Dennis Schroder,Guard,203471,Bogdan Bogdanovic,Guard,203992,0.8,4.6,2,2.5,0.43,6,7.5,1.3,0,1,0,0,1,3,0.333,0,0,185.42,175.0,195.58,225.0,-10.16,-50.0,28.55,1.53
+0022300653,Dennis Schroder,Guard,203471,Clint Capela,Center,203991,0.65,3.1,0,0.0,0.0,8,12.31,2.58,0,0,0,0,0,1,0.0,0,0,185.42,175.0,208.28,256.0,-22.86,-81.0,25.86,3.1
+0022300653,Dennis Schroder,Guard,203471,Jalen Johnson,Forward,1630552,0.87,4.6,0,0.0,0.0,3,3.45,0.65,0,0,0,0,0,0,0.0,0,0,185.42,175.0,203.2,219.0,-17.78,-44.0,32.94,
+0022300653,Dennis Schroder,Guard,203471,Garrison Mathews,Guard,1629726,0.03,0.6,0,0.0,0.0,3,100.0,5.0,0,0,0,0,0,0,0.0,0,0,185.42,175.0,198.12,215.0,-12.7,-40.0,12.81,
+0022300653,Dennis Schroder,Guard,203471,Patty Mills,Guard,201988,1.63,7.7,0,0.0,0.0,12,7.36,1.56,0,0,0,0,0,1,0.0,0,0,185.42,175.0,187.96,180.0,-2.54,-5.0,11.6,7.7
+0022300653,Dennis Schroder,Guard,203471,Onyeka Okongwu,Forward-Center,1630168,0.52,3.2,2,3.85,0.62,7,13.46,2.19,1,0,0,0,1,1,1.0,0,0,185.42,175.0,208.28,240.0,-22.86,-65.0,24.64,3.2
+0022300653,Dennis Schroder,Guard,203471,Trae Young,Guard,1629027,5.73,27.7,9,1.57,0.32,35,6.11,1.26,3,2,1,2,3,5,0.6,2,1,185.42,175.0,185.42,164.0,0.0,11.0,36.29,5.54

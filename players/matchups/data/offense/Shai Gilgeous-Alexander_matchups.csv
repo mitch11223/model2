@@ -1,4 +1,13 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300682,Shai Gilgeous-Alexander,Guard,1628983,Christian Braun,Guard,1631128,1.5,8.8,5,3.33,0.57,11,7.33,1.25,2,1,1,0,2,5,0.4,0,0,198.12,195.0,198.12,220.0,0.0,-25.0,19.0,1.76
+0022300682,Shai Gilgeous-Alexander,Guard,1628983,Kentavious Caldwell-Pope,Guard,203484,5.68,27.2,13,2.29,0.48,25,4.4,0.92,2,1,1,6,3,4,0.75,6,1,198.12,195.0,195.58,204.0,2.54,-9.0,32.27,6.8
+0022300682,Shai Gilgeous-Alexander,Guard,1628983,Aaron Gordon,Forward,203932,1.8,10.5,5,2.78,0.48,7,3.89,0.67,1,1,0,2,2,8,0.25,1,1,198.12,195.0,203.2,235.0,-5.08,-40.0,32.02,1.31
+0022300682,Shai Gilgeous-Alexander,Guard,1628983,Justin Holiday,Forward-Guard,203200,0.27,1.4,2,7.41,1.43,5,18.52,3.57,0,0,0,0,1,1,1.0,0,0,198.12,195.0,198.12,180.0,0.0,15.0,12.96,1.4
+0022300682,Shai Gilgeous-Alexander,Guard,1628983,Reggie Jackson,Guard,202704,1.3,6.1,2,1.54,0.33,4,3.08,0.66,1,1,0,0,1,3,0.333,0,0,198.12,195.0,187.96,208.0,10.16,-13.0,23.06,2.03
+0022300682,Shai Gilgeous-Alexander,Guard,1628983,Jamal Murray,Guard,1627750,1.57,7.5,5,3.18,0.67,11,7.01,1.47,0,1,1,0,2,4,0.5,0,0,198.12,195.0,193.04,215.0,5.08,-20.0,31.45,1.88
+0022300682,Shai Gilgeous-Alexander,Guard,1628983,Zeke Nnaji,Forward-Center,1630192,0.15,0.7,0,0.0,0.0,3,20.0,4.29,1,0,0,0,0,0,0.0,0,0,198.12,195.0,205.74,240.0,-7.62,-45.0,9.39,
+0022300682,Shai Gilgeous-Alexander,Guard,1628983,Michael Porter Jr,Forward,1629008,1.05,7.6,4,3.81,0.53,12,11.43,1.58,0,0,0,2,1,3,0.333,2,0,198.12,195.0,208.28,218.0,-10.16,-23.0,31.28,2.53
+0022300682,Shai Gilgeous-Alexander,Guard,1628983,Peyton Watson,Guard,1631212,0.88,5.2,2,2.27,0.38,2,2.27,0.38,0,0,0,2,0,1,0.0,2,1,198.12,195.0,200.66,200.0,-2.54,-5.0,17.64,5.2
 0022301212,Shai Gilgeous-Alexander,Guard,1628983,Dillon Brooks,Guard-Forward,1628415,7.72,42.4,5,0.65,0.12,40,5.18,0.94,4,0,0,1,2,3,0.667,1,1,198.12,195.0,198.12,225.0,0.0,-30.0,31.53,14.13
 0022301212,Shai Gilgeous-Alexander,Guard,1628983,Reggie Bullock Jr,Guard-Forward,203493,0.05,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,195.0,198.12,205.0,0.0,-10.0,9.22,
 0022301212,Shai Gilgeous-Alexander,Guard,1628983,Tari Eason,Forward,1631106,0.75,4.4,1,1.33,0.23,3,4.0,0.68,0,0,0,2,0,1,0.0,1,1,198.12,195.0,203.2,215.0,-5.08,-20.0,21.82,4.4
@@ -413,3 +422,23 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300640,Shai Gilgeous-Alexander,Guard,1628983,Trey Murphy III,Forward,1630530,1.5,6.4,4,2.67,0.62,10,6.67,1.56,1,2,0,2,1,3,0.333,2,1,198.12,195.0,203.2,206.0,-5.08,-11.0,25.67,2.13
 0022300640,Shai Gilgeous-Alexander,Guard,1628983,Larry Nance Jr,Forward-Center,1626204,0.85,4.5,4,4.71,0.89,4,4.71,0.89,0,1,0,2,1,2,0.5,2,1,198.12,195.0,203.2,245.0,-5.08,-50.0,17.72,2.25
 0022300640,Shai Gilgeous-Alexander,Guard,1628983,Jonas Valanciunas,Center,202685,0.38,3.2,5,13.16,1.56,7,18.42,2.19,1,1,1,0,2,2,1.0,0,0,198.12,195.0,210.82,265.0,-12.7,-70.0,26.3,1.6
+0022300654,Shai Gilgeous-Alexander,Guard,1628983,Bojan Bogdanovic,Forward,202711,0.77,3.1,0,0.0,0.0,4,5.19,1.29,0,0,0,0,0,0,0.0,0,0,198.12,195.0,200.66,226.0,-2.54,-31.0,33.28,
+0022300654,Shai Gilgeous-Alexander,Guard,1628983,Alec Burks,Guard,202692,0.37,1.8,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,195.0,195.58,214.0,2.54,-19.0,20.59,
+0022300654,Shai Gilgeous-Alexander,Guard,1628983,Jalen Duren,Center,1631105,1.07,5.8,7,6.54,1.21,9,8.41,1.55,1,1,1,0,3,7,0.429,0,0,198.12,195.0,208.28,250.0,-10.16,-55.0,29.9,0.83
+0022300654,Shai Gilgeous-Alexander,Guard,1628983,Killian Hayes,Guard,1630165,0.55,3.6,2,3.64,0.56,7,12.73,1.94,0,0,0,0,1,1,1.0,0,0,198.12,195.0,195.58,195.0,2.54,0.0,23.9,3.6
+0022300654,Shai Gilgeous-Alexander,Guard,1628983,Jaden Ivey,Guard,1631093,5.0,29.7,10,2.0,0.34,33,6.6,1.11,2,0,0,0,5,9,0.556,0,0,198.12,195.0,193.04,195.0,5.08,0.0,26.69,3.3
+0022300654,Shai Gilgeous-Alexander,Guard,1628983,Kevin Knox II,Forward,1628995,0.27,2.2,2,7.41,0.91,4,14.81,1.82,1,0,0,2,0,0,0.0,2,1,198.12,195.0,200.66,215.0,-2.54,-20.0,18.21,
+0022300654,Shai Gilgeous-Alexander,Guard,1628983,Monte Morris,,1628420,0.43,2.1,2,4.65,0.95,2,4.65,0.95,0,0,0,0,1,1,1.0,0,0,198.12,195.0,,,,,,2.1
+0022300654,Shai Gilgeous-Alexander,Guard,1628983,Mike Muscala,Forward-Center,203488,0.38,1.8,2,5.26,1.11,2,5.26,1.11,0,0,0,0,1,2,0.5,0,0,198.12,195.0,208.28,240.0,-10.16,-45.0,13.9,0.9
+0022300654,Shai Gilgeous-Alexander,Guard,1628983,Marcus Sasser,Guard,1631204,0.15,1.1,3,20.0,2.73,3,20.0,2.73,0,0,0,2,1,1,1.0,1,1,198.12,195.0,187.96,195.0,10.16,0.0,15.49,1.1
+0022300654,Shai Gilgeous-Alexander,Guard,1628983,Isaiah Stewart,Forward-Center,1630191,0.48,3.3,5,10.42,1.52,7,14.58,2.12,0,0,0,1,2,4,0.5,1,1,198.12,195.0,203.2,250.0,-5.08,-55.0,30.6,0.82
+0022300654,Shai Gilgeous-Alexander,Guard,1628983,Ausar Thompson,Guard-Forward,1641709,1.73,8.7,2,1.16,0.23,4,2.31,0.46,1,0,0,0,1,1,1.0,0,0,198.12,195.0,198.12,205.0,0.0,-10.0,23.63,8.7
+0022300664,Shai Gilgeous-Alexander,Guard,1628983,Nickeil Alexander-Walker,Guard,1629638,4.42,22.5,5,1.13,0.22,19,4.3,0.84,2,0,0,2,2,3,0.667,1,1,198.12,195.0,195.58,205.0,2.54,-10.0,22.8,7.5
+0022300664,Shai Gilgeous-Alexander,Guard,1628983,Kyle Anderson,Forward-Guard,203937,2.18,13.0,9,4.13,0.69,14,6.42,1.08,0,1,1,2,3,5,0.6,2,1,198.12,195.0,205.74,230.0,-7.62,-35.0,22.37,2.6
+0022300664,Shai Gilgeous-Alexander,Guard,1628983,Troy Brown Jr,Guard-Forward,1628972,0.03,0.1,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,198.12,195.0,200.66,215.0,-2.54,-20.0,11.56,
+0022300664,Shai Gilgeous-Alexander,Guard,1628983,Anthony Edwards,Guard,1630162,4.07,17.6,8,1.97,0.45,23,5.65,1.31,0,0,0,6,1,2,0.5,6,1,198.12,195.0,193.04,225.0,5.08,-30.0,34.93,8.8
+0022300664,Shai Gilgeous-Alexander,Guard,1628983,Rudy Gobert,Center,203497,0.8,4.1,4,5.0,0.98,6,7.5,1.46,2,0,0,0,2,4,0.5,0,0,198.12,195.0,215.9,258.0,-17.78,-63.0,33.09,1.02
+0022300664,Shai Gilgeous-Alexander,Guard,1628983,Jaden McDaniels,Forward,1630183,3.1,13.1,8,2.58,0.61,19,6.13,1.45,3,0,0,4,2,3,0.667,4,2,198.12,195.0,205.74,185.0,-7.62,10.0,28.81,4.37
+0022300664,Shai Gilgeous-Alexander,Guard,1628983,Jordan McLaughlin,Guard,1629162,0.3,1.6,5,16.67,3.12,8,26.67,5.0,0,1,1,2,1,1,1.0,2,1,198.12,195.0,182.88,185.0,15.24,10.0,8.84,1.6
+0022300664,Shai Gilgeous-Alexander,Guard,1628983,Naz Reid,Center-Forward,1629675,0.28,1.6,4,14.29,2.5,6,21.43,3.75,0,0,0,0,2,2,1.0,0,0,198.12,195.0,205.74,264.0,-7.62,-69.0,22.37,0.8
+0022300664,Shai Gilgeous-Alexander,Guard,1628983,Karl-Anthony Towns,Center-Forward,1626157,0.72,4.7,3,4.17,0.64,8,11.11,1.7,0,2,1,0,1,3,0.333,0,0,198.12,195.0,213.36,248.0,-15.24,-53.0,33.13,1.57

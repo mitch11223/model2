@@ -1,4 +1,13 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300678,Davion Mitchell,Guard,1630558,Bam Adebayo,Center-Forward,1628389,0.13,0.7,0,0.0,0.0,0,0.0,0.0,1,0,0,0,0,0,0.0,0,0,182.88,202.0,205.74,255.0,-22.86,-53.0,34.89,
+0022300678,Davion Mitchell,Guard,1630558,Jimmy Butler,Forward,202710,0.4,2.6,0,0.0,0.0,5,12.5,1.92,0,0,0,0,0,0,0.0,0,0,182.88,202.0,200.66,230.0,-17.78,-28.0,33.61,
+0022300678,Davion Mitchell,Guard,1630558,Tyler Herro,Guard,1629639,0.17,0.6,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,182.88,202.0,195.58,195.0,-12.7,7.0,34.04,
+0022300678,Davion Mitchell,Guard,1630558,Haywood Highsmith,Forward,1629312,0.25,0.9,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,182.88,202.0,195.58,220.0,-12.7,-18.0,21.53,
+0022300678,Davion Mitchell,Guard,1630558,Jaime Jaquez Jr,Guard,1631170,0.65,3.8,3,4.62,0.79,5,7.69,1.32,0,0,0,1,1,1,1.0,1,1,182.88,202.0,198.12,225.0,-15.24,-23.0,30.02,3.8
+0022300678,Davion Mitchell,Guard,1630558,Kevin Love,Forward-Center,201567,0.2,0.7,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,182.88,202.0,203.2,251.0,-20.32,-49.0,18.26,
+0022300678,Davion Mitchell,Guard,1630558,Caleb Martin,Forward,1628997,0.47,2.6,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,1,0.0,0,0,182.88,202.0,195.58,205.0,-12.7,-3.0,26.31,2.6
+0022300678,Davion Mitchell,Guard,1630558,Josh Richardson,Guard,1626196,0.98,6.3,0,0.0,0.0,2,2.04,0.32,0,0,0,0,0,0,0.0,0,0,182.88,202.0,195.58,200.0,-12.7,2.0,25.97,
+0022300678,Davion Mitchell,Guard,1630558,Terry Rozier,Guard,1626179,0.95,5.9,0,0.0,0.0,8,8.42,1.36,0,0,0,0,0,0,0.0,0,0,182.88,202.0,185.42,190.0,-2.54,12.0,34.97,
 0022301228,Davion Mitchell,Guard,1630558,Bol Bol,Center-Forward,1629626,0.25,0.6,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,182.88,202.0,220.98,220.0,-38.1,-18.0,7.17,
 0022301228,Davion Mitchell,Guard,1630558,Saben Lee,Guard,1630240,0.3,1.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,182.88,202.0,187.96,183.0,-5.08,19.0,6.82,
 0022300016,Davion Mitchell,Guard,1630558,Ousmane Dieng,Forward,1631172,0.35,2.2,0,0.0,0.0,0,0.0,0.0,0,1,0,0,0,1,0.0,0,0,182.88,202.0,205.74,185.0,-22.86,17.0,11.32,2.2
@@ -271,3 +280,11 @@ Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponent
 0022300651,Davion Mitchell,Guard,1630558,Richaun Holmes,Forward,1626158,0.12,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,182.88,202.0,205.74,235.0,-22.86,-33.0,10.0,
 0022300651,Davion Mitchell,Guard,1630558,Maxi Kleber,Forward,1628467,0.17,1.8,0,0.0,0.0,4,23.53,2.22,1,0,0,0,0,0,0.0,0,0,182.88,202.0,208.28,240.0,-25.4,-38.0,18.36,
 0022300651,Davion Mitchell,Guard,1630558,Grant Williams,Forward,1629684,0.55,2.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,182.88,202.0,198.12,236.0,-15.24,-34.0,26.52,
+0022300663,Davion Mitchell,Guard,1630558,Santi Aldama,Forward-Center,1630583,0.67,4.2,0,0.0,0.0,0,0.0,0.0,0,1,0,0,0,1,0.0,0,0,182.88,202.0,213.36,215.0,-30.48,-13.0,23.54,4.2
+0022300663,Davion Mitchell,Guard,1630558,Jacob Gilyard,Guard,1631367,2.9,15.0,0,0.0,0.0,15,5.17,1.0,0,1,0,0,0,1,0.0,0,0,182.88,202.0,172.72,160.0,10.16,42.0,16.03,15.0
+0022300663,Davion Mitchell,Guard,1630558,Matt Hurt,,1630562,0.52,2.4,3,5.77,1.25,3,5.77,1.25,0,1,1,0,1,1,1.0,0,0,182.88,202.0,,,,,,2.4
+0022300663,Davion Mitchell,Guard,1630558,Jaren Jackson Jr,Forward-Center,1628991,0.03,0.5,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,182.88,202.0,208.28,242.0,-25.4,-40.0,31.75,
+0022300663,Davion Mitchell,Guard,1630558,GG Jackson,Forward,1641713,0.13,0.4,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,182.88,202.0,205.74,210.0,-22.86,-8.0,14.36,
+0022300663,Davion Mitchell,Guard,1630558,Scotty Pippen Jr,,1630590,1.18,4.8,0,0.0,0.0,2,1.69,0.42,0,0,0,0,0,0,0.0,0,0,182.88,202.0,,,,,,
+0022300663,Davion Mitchell,Guard,1630558,David Roddy,Forward,1631223,0.32,2.3,0,0.0,0.0,2,6.25,0.87,0,0,0,0,0,0,0.0,0,0,182.88,202.0,193.04,255.0,-10.16,-53.0,22.74,
+0022300663,Davion Mitchell,Guard,1630558,Xavier Tillman,Forward,1630214,0.15,0.9,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,182.88,202.0,200.66,245.0,-17.78,-43.0,20.18,

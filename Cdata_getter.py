@@ -41,10 +41,13 @@ class DataGetter:
             self.players = self.read_players()
             self.rosters = self.read_rosters()
             self.teams = self.read_teams()
-            self.game_ids = self.get_gameids()
+            self.game_ids = self.read_gameids()
             self.todays_games = self.get_todays_games()
             self.season = '2023-24'
             self.appened_averages_todict()
+            #self.saveMatchups(mode='offense')
+            #self.saveMatchups(mode='defense')
+
             
             if execution == 'skip_run':
                 pass
@@ -56,7 +59,9 @@ class DataGetter:
                 #GAMELOGS
                 self.get_data(player_info_meta = False) #fetches original gamelogs and saves to dir || set player_info_meta to be True for each season
                                   #creates and updates the player_info dict
-                               
+                self.game_ids = self.get_gameids()
+
+                
                 #AVERAGES
                 self.home_averages_output_folder = 'players/averages/home/'
                 self.away_averages_output_folder = 'players/averages/away/'
@@ -100,8 +105,7 @@ class DataGetter:
                 self.add_team_boxscoregamelog()
                 
                 #matchups
-                #self.saveMatchups(mode='offense')
-                #self.saveMatchups(mode='defense')
+
 
                 
     '''
@@ -118,7 +122,21 @@ class DataGetter:
         with open(json_path) as json_file:
             return json.load(json_file)
 
+    def read_gameids(self):
+        game_ids = []
+        file_path = 'games/metadata/game_ids.txt'
+        try:
+            with open(file_path, 'r') as file:
+                for line in file:
+                    game_id = line.strip()
+                    game_ids.append(game_id)
+        except FileNotFoundError:
+            print(f"Error: File '{file_path}' not found.")
+        except Exception as e:
+            print(f"An error occurred: {e}")
 
+        return game_ids
+        
     def get_gameids(self):
         game_ids = []
         for filename in os.listdir('players/gamelogs/'):
@@ -138,8 +156,10 @@ class DataGetter:
         
         #game_ids contains every unique Game_ID
         game_ids = list(set(game_ids))
-
-
+        with open('games/metadata/game_ids.txt','w') as f:
+            for item in game_ids:
+                f.write(f'{item}\n')
+                
         return game_ids
     
     
@@ -808,6 +828,8 @@ class DataGetter:
                 except ReadTimeout:
                     print(f"Timeout for game ID {game_id}, attempt {attempt + 1}/{retry_count}. Retrying after {retry_delay} seconds...")
                     time.sleep(retry_delay)
+                except IndexError as e:
+                    print(f'error {e}')
 
             if not success:
                 print(f"Failed to retrieve data for game ID {game_id} after {retry_count} attempts.")

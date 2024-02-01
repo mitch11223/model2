@@ -1,4 +1,5 @@
 Game_Id,Player Name,Player Position,playerId,Opponent,Opponent Position,opponentId,Matchup Minutes,partialPossessions,Player Points,ppm,ppp,Team Points,team_ppm,team_ppp,Matchup Assists,matchupThreePointersAttempted,matchupThreePointersMade,matchupFreeThrowsAttempted,matchupFieldGoalsMade,matchupFieldGoalsAttempted,matchupFieldGoalsPercentage,matchupFreeThrowsMade,shootingFouls,Player Height,Player Weight,Opponent Height,Opponent Weight,heightDiff,weightDiff,Avg Min,POSS_FGA
+0022300679,Nate Hinton,Guard-Forward,1630207,Trey Murphy III,Forward,1630530,0.08,0.8,0,0.0,0.0,2,25.0,2.5,0,0,0,0,0,0,0.0,0,0,195.58,210.0,203.2,206.0,-7.62,4.0,25.67,
 0022300137,Nate Hinton,Guard-Forward,1630207,Kessler Edwards,Forward,1630556,0.03,0.3,0,0.0,0.0,2,66.67,6.67,0,0,0,0,0,0,0.0,0,0,195.58,210.0,200.66,203.0,-5.08,7.0,4.77,
 0022300137,Nate Hinton,Guard-Forward,1630207,Keon Ellis,Guard,1631165,0.38,2.0,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,210.0,190.5,175.0,5.08,35.0,12.14,
 0022300137,Nate Hinton,Guard-Forward,1630207,Jordan Ford,Guard,1630259,0.07,0.3,0,0.0,0.0,0,0.0,0.0,0,0,0,0,0,0,0.0,0,0,195.58,210.0,185.42,175.0,10.16,35.0,3.33,
